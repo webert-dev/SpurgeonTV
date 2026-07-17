@@ -476,5 +476,1040 @@
       "SMI"
     ],
     "letter": "t"
+  },
+  "cup": {
+    "name": "Taza",
+    "slug": "cup",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una copa de vino (Gén. 40:11, 21), cuyas formas se encuentran en monumentos asirios y egipcios. Todos los vasos para beber de Salomón eran de oro (1 Reyes 10:21). Las copas mencionadas en el Nuevo Testamento fueron hechas según modelos romanos y griegos, y algunas veces eran de oro (Apocalipsis 17:4). El arte de adivinar por medio de una copa se practicaba en Egipto (Gén. 44:2-17), y en Oriente en general. La “copa de la salvación” (Sal. 116:13) es la copa de acción de gracias por la gran salvación. La “copa de consolación” (Jer. 16:7) se refiere a la costumbre de los amigos de enviar viandas y vino para consolar a los familiares en duelo (Prov. 31:6). En 1 Cor. 10:16, la “copa de bendición” se contrasta con la “copa de demonios” (1 Cor. 10:21). La copa sacramental es la “copa de bendición”, debido a la bendición pronunciada sobre ella (Mateo 26:27; Lucas 22:17). La “porción de la copa” (Sal. 11:6; 16:5) denota la condición de vida de uno, próspera o adversa. Una “copa” también es un tipo de atracción sensual (Jer. 51:7; Prov. 23:31; Apoc. 17:4). También leemos acerca de la “copa del asombro”, la “copa del temblor” y la “copa de la ira de Dios” (Sal. 75:8; Isa. 51:17; Jer. 25:15; Lam. 4:21; Eze. 23:32; Apoc. 16:19; comp. Mateo 26:39, 42; Juan 18:11). La copa es también el símbolo de la muerte (Mat. 16:28; Marcos 9:1; Heb. 2:9)."
+      },
+      {
+        "source": "SMI",
+        "text": "Las copas de los judíos, ya fueran de metal o de loza, posiblemente fueron tomadas prestadas, en cuanto a forma y diseño, de Egipto y de los fenicios, quienes eran célebres en esa rama de la artesanía. Las tazas egipcias tenían varias formas, con asas o sin ellas. En tiempos de Salomón todos sus vasos para beber eran de oro, ninguno de plata. (1 Reyes 10:21) Babilonia se compara con una copa de oro. (Jeremías 51:7) La gran fuente, o “mar”, estaba hecha con un borde como el borde de una copa (cos), con flores de lirios” (1 Reyes 7:26), una forma a la que se asemejan las copas persepolitanas. Sin duda, las copas del Nuevo Testamento a menudo se formaban según modelos griegos y romanos. A veces eran de oro. (Apocalipsis 17:4)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 40:11",
+        "original": "Gen. 40:11"
+      },
+      {
+        "reference": "Genesis 40:21",
+        "original": "Gen. 40:21"
+      },
+      {
+        "reference": "1 Kings 10",
+        "original": "1 Kings 10"
+      },
+      {
+        "reference": "Revelation 17:4",
+        "original": "Rev. 17:4"
+      },
+      {
+        "reference": "Genesis 44:2-17",
+        "original": "Gen. 44:2-17"
+      },
+      {
+        "reference": "Psalms 116:13",
+        "original": "Ps. 116:13"
+      },
+      {
+        "reference": "Jeremiah 16:7",
+        "original": "Jer. 16:7"
+      },
+      {
+        "reference": "Proverbs 31:6",
+        "original": "Prov. 31:6"
+      },
+      {
+        "reference": "1 Corinthians 10:16",
+        "original": "1 Cor. 10:16"
+      },
+      {
+        "reference": "1 Corinthians 10:21",
+        "original": "1 Cor. 10:21"
+      },
+      {
+        "reference": "Matthew 26:27",
+        "original": "Matt. 26:27"
+      },
+      {
+        "reference": "Luke 22:17",
+        "original": "Luke 22:17"
+      },
+      {
+        "reference": "Psalms 11:6",
+        "original": "Ps. 11:6"
+      },
+      {
+        "reference": "Psalms 16:5",
+        "original": "Ps 16:5"
+      },
+      {
+        "reference": "Jeremiah 51:7",
+        "original": "Jer. 51:7"
+      },
+      {
+        "reference": "Proverbs 23:31",
+        "original": "Prov. 23:31"
+      },
+      {
+        "reference": "Psalms 75:8",
+        "original": "Ps. 75:8"
+      },
+      {
+        "reference": "Isaiah 51:17",
+        "original": "Isa. 51:17"
+      },
+      {
+        "reference": "Jeremiah 25:15",
+        "original": "Jer. 25:15"
+      },
+      {
+        "reference": "Lamentations 4:21",
+        "original": "Lam. 4:21"
+      },
+      {
+        "reference": "Ezekiel 23:32",
+        "original": "Ezek. 23:32"
+      },
+      {
+        "reference": "Revelation 16:19",
+        "original": "Rev. 16:19"
+      },
+      {
+        "reference": "Matthew 26:39",
+        "original": "Matt. 26:39"
+      },
+      {
+        "reference": "Matthew 26:42",
+        "original": "Matt. 26:42"
+      },
+      {
+        "reference": "John 18:11",
+        "original": "John 18:11"
+      },
+      {
+        "reference": "Matthew 16:28",
+        "original": "Matt. 16:28"
+      },
+      {
+        "reference": "Mark 9:1",
+        "original": "Mark 9:1"
+      },
+      {
+        "reference": "Hebrews 2:9",
+        "original": "Heb. 2:9"
+      },
+      {
+        "reference": "1 Kings 10:21",
+        "original": "1 Kings 10:21"
+      },
+      {
+        "reference": "1 Kings 7:26",
+        "original": "1 Kings 7:26"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "daysman": {
+    "name": "Trabajador",
+    "slug": "daysman",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un árbitro o árbitro o juez (Job 9:33). Esta palabra se deriva del latín diem dicere, es decir, fijar un día para oír una causa. Tal persona está facultada por consentimiento mutuo para decidir la causa y “imponer la mano”, es decir, imponer su autoridad a ambos y hacer cumplir su sentencia."
+      },
+      {
+        "source": "SMI",
+        "text": "un antiguo término inglés que significa árbitro o árbitro. (Job 9:33)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 9:33",
+        "original": "Job 9:33"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "deal-tenth": {
+    "name": "Trato, Décimo",
+    "slug": "deal-tenth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ver ÓMER."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "dye": {
+    "name": "Teñir",
+    "slug": "dye",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El arte de teñir es de gran antigüedad, aunque no se hace mención especial de él en el Antiguo Testamento. Los hebreos probablemente lo aprendieron de los egipcios (ver Éxodo 26:1; 28:5-8), quienes lo llevaron a gran perfección. En los tiempos del Nuevo Testamento, Tiatira era famosa por sus tintoreros (Hechos 16:14). (Ver COLOR.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 26:1",
+        "original": "Ex. 26:1"
+      },
+      {
+        "reference": "Exodus 28:5-8",
+        "original": "Ex 28:5-8"
+      },
+      {
+        "reference": "Acts 16:14",
+        "original": "Acts 16:14"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "earth": {
+    "name": "Tierra",
+    "slug": "earth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) En el sentido de suelo o terreno, la traducción de la palabra adamah’. En Gén. 9:20 “labrador” es literalmente “hombre de la tierra”. Los altares debían construirse de tierra (Éxodo 20:24). Naamán pidió la carga de tierra para dos mulas (2 Reyes 5:17), bajo la noción supersticiosa de que Jehová, como los dioses de los paganos, sólo podía ser adorado aceptablemente en su propio suelo. (2). Como se traduce ’erets, significa el mundo entero (Génesis 1:2); la tierra en contraposición al mar (1:10). Erets también denota un país (21:32); un terreno (23:15); el terreno sobre el que está el hombre (33:3); los habitantes de la tierra (6:1; 11:1); todo el mundo excepto Israel (2 Crónicas 13:9). En el Nuevo Testamento “la tierra” denota la tierra de Judea (Mateo 23:35); también las cosas carnales en contraste con las celestiales (Juan 3:31; Col. 3:1, 2)."
+      },
+      {
+        "source": "SMI",
+        "text": "El término se utiliza en dos sentidos muy diferentes: (1) para el material del que está compuesta la superficie terrestre; (2) como el nombre del planeta en el que habita el hombre. El idioma hebreo discrimina entre estos dos mediante el uso de términos separados, adamah para el primero, erets para el segundo."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 9:20",
+        "original": "Gen. 9:20"
+      },
+      {
+        "reference": "Exodus 20:24",
+        "original": "Ex. 20:24"
+      },
+      {
+        "reference": "2 Kings 5:17",
+        "original": "2 Kings 5:17"
+      },
+      {
+        "reference": "Genesis 1:2",
+        "original": "Gen. 1:2"
+      },
+      {
+        "reference": "2 Chronicles 13:9",
+        "original": "2 Chr. 13:9"
+      },
+      {
+        "reference": "Matthew 23:35",
+        "original": "Matt. 23:35"
+      },
+      {
+        "reference": "John 3:31",
+        "original": "John 3:31"
+      },
+      {
+        "reference": "Colossians 3:1",
+        "original": "Col. 3:1"
+      },
+      {
+        "reference": "Colossians 3:2",
+        "original": "Col 3:2"
+      },
+      {
+        "reference": "Genesis 2:7",
+        "original": "Genesis 2:7"
+      },
+      {
+        "reference": "Genesis 1:1",
+        "original": "Genesis 1:1"
+      },
+      {
+        "reference": "Genesis 1:10",
+        "original": "Genesis 1:10"
+      },
+      {
+        "reference": "Genesis 21:32",
+        "original": "Genesis 21:32"
+      },
+      {
+        "reference": "Genesis 23:15",
+        "original": "Genesis 23:15"
+      },
+      {
+        "reference": "Genesis 33:3",
+        "original": "Genesis 33:3"
+      },
+      {
+        "reference": "Isaiah 40:22",
+        "original": "Isaiah 40:22"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "earthquake": {
+    "name": "Terremoto",
+    "slug": "earthquake",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Mencionado entre los fenómenos extraordinarios de Palestina (Sal. 18:7; comp. Hab. 3:6; Nah. 1:5; Isa. 5:25). El primer terremoto en Palestina del que tenemos registro ocurrió durante el reinado de Acab (1 Reyes 19:11, 12). Otro tuvo lugar en los días de Uzías, rey de Judá (Zac. 14:5). El terremoto más memorable que tuvo lugar en los tiempos del Nuevo Testamento ocurrió durante la crucifixión de nuestro Señor (Mateo 27:54). Un terremoto en Filipos sacudió la prisión en la que estaban encarcelados Pablo y Silas (Hechos 16:26). Se usa en sentido figurado como señal de la presencia del Señor (Jue. 5:4; 2 Sam. 22:8; Sal. 77:18; 97:4; 104:32)."
+      },
+      {
+        "source": "SMI",
+        "text": "Los terremotos, más o menos violentos, son frecuentes en Palestina. Lo más notable ocurrió durante el reinado de Uzías. (Zacarías 14:5) De (Zacarías 14:4) se nos lleva a inferir que en este momento tuvo lugar una gran convulsión en el Monte de los Olivos, dividiendo la montaña para dejar un valle entre sus cumbres. Se produjo un terremoto en el momento de la crucifixión de nuestro Salvador. (Mateo 27:51-54.) No es raro que los terremotos vayan acompañados de fisuras en la superficie terrestre; Se registran ejemplos de esto en relación con la destrucción de Coré y su compañía (Números 16:32) y en el momento de la muerte de nuestro Señor (Mateo 27:51). El primero puede tener un paralelo con un suceso similar en Oppido en Calabria en 1783 d.C., donde la tierra se abrió en una extensión de quinientos y una profundidad de más de doscientos pies."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 18:7",
+        "original": "Ps. 18:7"
+      },
+      {
+        "reference": "Habakkuk 3:6",
+        "original": "Hab. 3:6"
+      },
+      {
+        "reference": "Nahum 1:5",
+        "original": "Nah. 1:5"
+      },
+      {
+        "reference": "Isaiah 5:25",
+        "original": "Isa. 5:25"
+      },
+      {
+        "reference": "1 Kings 19:11",
+        "original": "1 Kings 19:11"
+      },
+      {
+        "reference": "1 Kings 19:12",
+        "original": "1 Kings 19:12"
+      },
+      {
+        "reference": "Zechariah 14:5",
+        "original": "Zech. 14:5"
+      },
+      {
+        "reference": "Matthew 27:54",
+        "original": "Matt. 27:54"
+      },
+      {
+        "reference": "Acts 16:26",
+        "original": "Act 16:26"
+      },
+      {
+        "reference": "Judges 5:4",
+        "original": "Judg. 5:4"
+      },
+      {
+        "reference": "2 Samuel 22:8",
+        "original": "2 Sam. 22:8"
+      },
+      {
+        "reference": "Psalms 77:18",
+        "original": "Ps. 77:18"
+      },
+      {
+        "reference": "Psalms 97:4",
+        "original": "Ps 97:4"
+      },
+      {
+        "reference": "Psalms 104:32",
+        "original": "Ps 104:32"
+      },
+      {
+        "reference": "Zechariah 14:4",
+        "original": "Zechariah 14:4"
+      },
+      {
+        "reference": "Matthew 27:51-54",
+        "original": "Matthew 27:51-54"
+      },
+      {
+        "reference": "Numbers 16:32",
+        "original": "Numbers 16:32"
+      },
+      {
+        "reference": "Matthew 27:51",
+        "original": "Matthew 27:51"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "fear-of-the-lord-the": {
+    "name": "Temor del Señor el",
+    "slug": "fear-of-the-lord-the",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Se usa en el Antiguo Testamento como designación de la verdadera piedad (Prov. 1:7; Job 28:28; Sal. 19:9). Es un miedo unido al amor y a la esperanza y, por tanto, no es un temor servil, sino más bien una reverencia filial. (Comp. Deut. 32:6; Os. 11:1; Isa. 1:2; 63:16; 64:8.) A Dios se le llama “el temor de Isaac” (Gén. 31:42, 53), es decir, el Dios a quien Isaac temía. El temor santo también se prescribe en el Nuevo Testamento como prevención del descuido en la religión y como incentivo a la penitencia (Mat. 10:28; 2 Cor. 5:11; 7:1; Fil. 2:12; Ef. 5:21; Heb. 12:28, 29)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Proverbs 1:7",
+        "original": "Prov. 1:7"
+      },
+      {
+        "reference": "Job 28:28",
+        "original": "Job 28:28"
+      },
+      {
+        "reference": "Psalms 19:9",
+        "original": "Ps. 19:9"
+      },
+      {
+        "reference": "Deuteronomy 32:6",
+        "original": "Deut. 32:6"
+      },
+      {
+        "reference": "Hosea 11:1",
+        "original": "Hos. 11:1"
+      },
+      {
+        "reference": "Isaiah 1:2",
+        "original": "Isa. 1:2"
+      },
+      {
+        "reference": "Isaiah 63:16",
+        "original": "Isa 63:16"
+      },
+      {
+        "reference": "Isaiah 64:8",
+        "original": "Isa 64:8"
+      },
+      {
+        "reference": "Genesis 31:42",
+        "original": "Gen. 31:42"
+      },
+      {
+        "reference": "Genesis 31:53",
+        "original": "Gen. 31:53"
+      },
+      {
+        "reference": "Matthew 10:28",
+        "original": "Matt. 10:28"
+      },
+      {
+        "reference": "2 Corinthians 5:11",
+        "original": "2 Cor. 5:11"
+      },
+      {
+        "reference": "2 Corinthians 7:1",
+        "original": "2 Cor. 7:1"
+      },
+      {
+        "reference": "Philippians 2:12",
+        "original": "Phil. 2:12"
+      },
+      {
+        "reference": "Ephesians 5:21",
+        "original": "Eph. 5:21"
+      },
+      {
+        "reference": "Hebrews 12:28",
+        "original": "Heb. 12:28"
+      },
+      {
+        "reference": "Hebrews 12:29",
+        "original": "Heb. 12:29"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "firebrand": {
+    "name": "tizón",
+    "slug": "firebrand",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Isa. 7:4, Amós 4:11, Zac. 3:2, denota el extremo quemado de un palo (heb. 'ud); en Jue. 15:4, una lámpara o antorcha, una llama (heb. lappid); en Prov. 26:18 (comp. Ef. 6:16), dardos o flechas ardientes (heb. zikkim)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 7:4",
+        "original": "Isa. 7:4"
+      },
+      {
+        "reference": "Amos 4:11",
+        "original": "Amos 4:11"
+      },
+      {
+        "reference": "Zechariah 3:2",
+        "original": "Zech. 3:2"
+      },
+      {
+        "reference": "Judges 15:4",
+        "original": "Judg. 15:4"
+      },
+      {
+        "reference": "Proverbs 26:18",
+        "original": "Prov. 26:18"
+      },
+      {
+        "reference": "Ephesians 6:16",
+        "original": "Eph. 6:16"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "gob": {
+    "name": "Trozo",
+    "slug": "gob",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un hoyo, un lugar mencionado en 2 Sam. 21:18, 19; llamado también Gezer, en 1 Crón. 20:4."
+      },
+      {
+        "source": "SMI",
+        "text": "(cisterna), lugar mencionado sólo en (2 Samuel 21:18,19) como escenario de dos encuentros entre los guerreros de David y los filisteos. En el relato paralelo de (1 Crónicas 20:4), el nombre se da como Gezer."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 21:18",
+        "original": "2 Sam. 21:18"
+      },
+      {
+        "reference": "2 Samuel 21:19",
+        "original": "2 Sam. 21:19"
+      },
+      {
+        "reference": "1 Chronicles 20:4",
+        "original": "1 Chr. 20:4"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "grave": {
+    "name": "Tumba",
+    "slug": "grave",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Entre los antiguos hebreos las tumbas estaban fuera de las ciudades, en campo abierto (Lucas 7:12; Juan 11:30). Los reyes (1 Reyes 2:10) y los profetas (1 Sam. 25:1) generalmente eran enterrados dentro de las ciudades. Las tumbas eran generalmente grutas o cuevas, naturales o excavadas en las rocas (Isaías 22:16; Mateo 27:60). Había cementerios familiares (Gén. 47:29; 50:5; 2 Sam. 19:37). Se asignaron lugares de entierro públicos a los pobres (Jer. 26:23; 2 Reyes 23:6). Las tumbas generalmente se cerraban con piedras, que eran blanqueadas, para advertir a los extraños contra el contacto con ellas (Mat. 23:27), lo que causaba contaminación ceremonial (Núm. 19:16). No había tumbas en Jerusalén excepto las de los reyes y, según la tradición, la de la profetisa Hulda."
+      },
+      {
+        "source": "SMI",
+        "text": "[Entierro, Sepulcros]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 7:12",
+        "original": "Luke 7:12"
+      },
+      {
+        "reference": "John 11:30",
+        "original": "John 11:30"
+      },
+      {
+        "reference": "1 Kings 2:10",
+        "original": "1 Kings 2:10"
+      },
+      {
+        "reference": "1 Samuel 25:1",
+        "original": "1 Sam. 25:1"
+      },
+      {
+        "reference": "Isaiah 22:16",
+        "original": "Isa. 22:16"
+      },
+      {
+        "reference": "Matthew 27:60",
+        "original": "Matt. 27:60"
+      },
+      {
+        "reference": "Genesis 47:29",
+        "original": "Gen. 47:29"
+      },
+      {
+        "reference": "Genesis 50:5",
+        "original": "Gen 50:5"
+      },
+      {
+        "reference": "2 Samuel 19:37",
+        "original": "2 Sam. 19:37"
+      },
+      {
+        "reference": "Jeremiah 26:23",
+        "original": "Jer. 26:23"
+      },
+      {
+        "reference": "2 Kings 23:6",
+        "original": "2 Kings 23:6"
+      },
+      {
+        "reference": "Matthew 23:27",
+        "original": "Matt. 23:27"
+      },
+      {
+        "reference": "Numbers 19:16",
+        "original": "Num. 19:16"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "graving": {
+    "name": "tumbado",
+    "slug": "graving",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Heb. hatsabh. Job 19:24, traducido “grabado”, pero generalmente significa piedra o madera labrada, en cantera o bosque. (2.) Heb. harush. Jer. 17:1, traducido “grabado”, e indica generalmente trabajo artístico en metal, madera y piedra, realizado con instrumentos finos. (3.) Heb. haqaq. Ezeq. 4:1, grabado de un plano o mapa, traducido como “pourtray”; Job 19:23, \"escrito\". (4.) Heb. pasal señala más bien el arte del escultor o del tallador (Isaías 30:22; 40:19; 41:7; 44:12-15). (5.) Pathah se refiere al trabajo de calcografía, el corte y grabado de piedras preciosas (Éxodo 28:9-11, 21; Zac. 3:9; Cant. 1:10, 11). (6.) Aquí. En ej. 32:4 se traduce como “herramienta para grabar”; y en Isa. 8:1: “una pluma”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 19:24",
+        "original": "Job 19:24"
+      },
+      {
+        "reference": "Jeremiah 17:1",
+        "original": "Jer. 17:1"
+      },
+      {
+        "reference": "Ezekiel 4:1",
+        "original": "Ezek. 4:1"
+      },
+      {
+        "reference": "Job 19:23",
+        "original": "Job 19:23"
+      },
+      {
+        "reference": "Isaiah 30:22",
+        "original": "Isa. 30:22"
+      },
+      {
+        "reference": "Isaiah 40:19",
+        "original": "Isa 40:19"
+      },
+      {
+        "reference": "Isaiah 41:7",
+        "original": "Isa 41:7"
+      },
+      {
+        "reference": "Isaiah 44:12-15",
+        "original": "Isa 44:12-15"
+      },
+      {
+        "reference": "Exodus 28:9-11",
+        "original": "Ex. 28:9-11"
+      },
+      {
+        "reference": "Exodus 28:21",
+        "original": "Ex 28:21"
+      },
+      {
+        "reference": "Zechariah 3:9",
+        "original": "Zech. 3:9"
+      },
+      {
+        "reference": "Song of Solomon 1:10",
+        "original": "Cant. 1:10"
+      },
+      {
+        "reference": "Song of Solomon 1:11",
+        "original": "Cant. 1:11"
+      },
+      {
+        "reference": "Exodus 32:4",
+        "original": "Ex. 32:4"
+      },
+      {
+        "reference": "Isaiah 8:1",
+        "original": "Isa. 8:1"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "head-dress": {
+    "name": "Tocado",
+    "slug": "head-dress",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "No es de uso común entre los hebreos. Se menciona por primera vez en Éx. 28:40 (A.V., “gorros”; R.V., “llantas para la cabeza”). Se usaba especialmente con fines de adorno (Job 29:14; Isa. 3:23; 62:3). La palabra hebrea utilizada aquí, tsaniph, significa propiamente turbante, pliegues de lino enrollados alrededor de la cabeza. La palabra hebrea par, usada en Isa. 61:3, allí traducido “belleza” (A.V.) y “guirnalda” (R.V.), es un tocado o turbante usado por mujeres (Isa. 3:20, “gorras”), sacerdotes (Éxodo 39:28), novio (Isa. 61:10, “adorno”; R.V., “guirnalda”). Ezeq. 16:10 y Jonás 2:5 deben entenderse como el turbante que se envuelve alrededor de la cabeza. El hebreo shebisim (Isaías 3:18), en la versión autorizada, se traduce “cauls” y marg. “redes” denota probablemente una especie de tocado de red. El “cuerno” (heb. keren) mencionado en 1 Sam. 2:1 es el tocado llamado por los drusos del Monte Líbano tantura."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 28:40",
+        "original": "Ex. 28:40"
+      },
+      {
+        "reference": "Job 29:14",
+        "original": "Job 29:14"
+      },
+      {
+        "reference": "Isaiah 3:23",
+        "original": "Isa. 3:23"
+      },
+      {
+        "reference": "Isaiah 62:3",
+        "original": "Isa 62:3"
+      },
+      {
+        "reference": "Isaiah 61:3",
+        "original": "Isa. 61:3"
+      },
+      {
+        "reference": "Isaiah 3",
+        "original": "Isa. 3"
+      },
+      {
+        "reference": "Exodus 39:28",
+        "original": "Ex. 39:28"
+      },
+      {
+        "reference": "Isaiah 61:10",
+        "original": "Isa. 61:10"
+      },
+      {
+        "reference": "Ezekiel 16:10",
+        "original": "Ezek. 16:10"
+      },
+      {
+        "reference": "Jonah 2:5",
+        "original": "Jonah 2:5"
+      },
+      {
+        "reference": "Isaiah 3:18",
+        "original": "Isa. 3:18"
+      },
+      {
+        "reference": "1 Samuel 2:1",
+        "original": "1 Sam. 2:1"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "headdress": {
+    "name": "Tocado",
+    "slug": "headdress",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Los hebreos no parecen haber considerado que cubrirse la cabeza fuera una prenda de vestir esencial. Los sombreros eran desconocidos. La primera noticia que tenemos de algo así está relacionada con las vestimentas sacerdotales. (Éxodo 28:40) Se observa que el tsaniph (algo así como un turbante) lo usan los nobles (Job 29:14), las damas (Isaías 3:23) y los reyes (Isaías 62:3), mientras que el par era una prenda de vestir de fiesta, (Isaías 61:3) Versión autorizada \"belleza\"; (Ezequiel 24:17,23) y se usaba en bodas. (Isaías 61:10) El tocado ordinario de los beduinos consiste en el keffieh, un pañuelo cuadrado, generalmente de algodón rojo y amarillo o de algodón y seda, doblado de modo que tres de las esquinas cuelguen sobre la espalda y los hombros, dejando el rostro expuesto, y atado alrededor de la cabeza con una cuerda. No es improbable que los hebreos utilizaran una cubierta similar en determinadas ocasiones. El tocado asirio se describe en (Ezequiel 23:15) bajo los términos \"exceso en vestimenta teñida\". La palabra traducida “sombreros” en (Daniel 3:21) se aplica correctamente a un manto."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 28:40",
+        "original": "Exodus 28:40"
+      },
+      {
+        "reference": "Job 29:14",
+        "original": "Job 29:14"
+      },
+      {
+        "reference": "Isaiah 3:23",
+        "original": "Isaiah 3:23"
+      },
+      {
+        "reference": "Isaiah 62:3",
+        "original": "Isaiah 62:3"
+      },
+      {
+        "reference": "Isaiah 61:3",
+        "original": "Isaiah 61:3"
+      },
+      {
+        "reference": "Ezekiel 24:17",
+        "original": "Ezekiel 24:17"
+      },
+      {
+        "reference": "Ezekiel 24:23",
+        "original": "Ezekiel 24:23"
+      },
+      {
+        "reference": "Isaiah 61:10",
+        "original": "Isaiah 61:10"
+      },
+      {
+        "reference": "Ezekiel 23:15",
+        "original": "Ezekiel 23:15"
+      },
+      {
+        "reference": "Daniel 3:21",
+        "original": "Daniel 3:21"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "hough": {
+    "name": "Toma",
+    "slug": "hough",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Desjarretar, es decir, cortar el “tendón de Aquiles” de las patas traseras de los caballos capturados (Jos. 11:6; 2 Sam. 8:4; 1 Cr. 18:4), para volverlos inútiles."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 11:6",
+        "original": "Josh. 11:6"
+      },
+      {
+        "reference": "2 Samuel 8:4",
+        "original": "2 Sam. 8:4"
+      },
+      {
+        "reference": "1 Chronicles 18:4",
+        "original": "1 Chr. 18:4"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "ink-inkhorn": {
+    "name": "Tinta, tintero",
+    "slug": "ink-inkhorn",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Escribiendo]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "job": {
+    "name": "Trabajo",
+    "slug": "job",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Perseguido, un patriarca árabe que residía en la tierra de Uz (q.v.). Mientras vivía en medio de gran prosperidad, de repente se vio abrumado por una serie de dolorosas pruebas que cayeron sobre él. En medio de todos sus sufrimientos mantuvo su integridad. Una vez más Dios lo visitó con ricas muestras de su bondad y una prosperidad aún mayor que la que había disfrutado antes. Sobrevivió al período de prueba durante ciento cuarenta años y murió en una buena vejez, un ejemplo para las generaciones venideras de integridad (Ezequiel 14:14, 20) y de paciencia sumisa bajo las más dolorosas calamidades (Santiago 5:11). Su historia, hasta donde se sabe, está registrada en su libro."
+      },
+      {
+        "source": "SMI",
+        "text": "el patriarca, de quien toma el nombre uno de los libros del Antiguo Testamento. Su residencia en la tierra de Uz lo marca como perteneciente a una rama de la raza aramea, que se había asentado en la parte baja de Mesopatamia (probablemente al sur o sureste de Palestina, en la Arabia idumea), adyacente a los sabeos y caldeos. Las opiniones de Job y sus amigos son, por lo tanto, particularmente interesantes porque exhiben un aspecto de la religión patriarcal fuera de la familia de Abraham, y aún no influenciado por la legislación de Moisés. La forma de culto pertenece esencialmente al tipo patriarcal primitivo; con poco ritual ceremonial, sin un sacerdocio separado, es completamente doméstico en forma y espíritu. Job es representado como un caudillo de inmensa riqueza y alto rango, irreprochable en todas las relaciones de la vida. Lo que sabemos de su historia está dado en el libro que lleva su nombre. (perseguido), el tercer hijo de Isacar, (Génesis 46:13) llamado en otra genealogía Jasub. (1 Crónicas 7:1)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezekiel 14:14",
+        "original": "Ezek. 14:14"
+      },
+      {
+        "reference": "Ezekiel 14:20",
+        "original": "Ezek. 14:20"
+      },
+      {
+        "reference": "James 5:11",
+        "original": "James 5:11"
+      },
+      {
+        "reference": "Genesis 46:13",
+        "original": "Genesis 46:13"
+      },
+      {
+        "reference": "1 Chronicles 7:1",
+        "original": "1 Chronicles 7:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "job-book-of": {
+    "name": "Trabajo, Libro de",
+    "slug": "job-book-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Existe una gran diversidad de opiniones en cuanto a la autoría de este libro. A partir de evidencia interna, como la similitud de sentimiento y lenguaje con los de los Salmos y Proverbios (ver Sal. 88 y 89), la prevalencia de la idea de “sabiduría” y el estilo y carácter de la composición, algunos suponen que fue escrito en la época de David y Salomón. Otros argumentan que fue escrito por el mismo Job, o por Eliú, o Isaías, o quizás más probablemente por Moisés, quien era “docto en toda la sabiduría de los egipcios, y poderoso en palabras y obras” (Hechos 7:22). Tuvo oportunidades en Madián para obtener conocimiento de los hechos relacionados. Pero la autoría es del todo incierta. En cuanto al carácter del libro, es un poema histórico, uno de los más grandes y sublimes de toda la literatura. Job era una persona histórica, y las localidades y los nombres eran reales y no ficticios. Es \"una de las porciones más grandiosas de las Escrituras inspiradas, un almacén celestial de consuelo e instrucción, la Biblia patriarcal y un precioso monumento de la teología primitiva. Es para el Antiguo Testamento lo que la Epístola a los Romanos es para el Nuevo\". Es una narrativa didáctica en forma dramática. Este libro aparentemente era muy conocido en los días de Ezequiel, a.C. 600 (Ezequiel 14:14). Formó parte de las Sagradas Escrituras utilizadas por nuestro Señor y sus apóstoles, y se la conoce como parte de la Palabra inspirada (Heb. 12:5; 1 Cor. 3:19). El tema del libro es la prueba de Job, su ocasión, naturaleza, resistencia y resultado. Muestra la armonía de las verdades de la revelación y los tratos de la Providencia, que se consideran a la vez inescrutables, justos y misericordiosos. Muestra la bienaventuranza de los verdaderamente piadosos, incluso en medio de dolorosas aflicciones, y así ministra consuelo y esperanza a los creyentes probados de todas las épocas. Es un libro de diversa instrucción, y útil para enseñar, para redargüir, para corregir y para instruir en justicia (2 Tim. 3:16). Consiste en (1.) Una introducción histórica en prosa (cap. 1, 2). (2.) La controversia y su solución, en poesía (cap. 3-42:6). El lamento abatido de Job (cap. 3) es la ocasión de la controversia que se desarrolla en tres cursos de diálogos entre Job y sus tres amigos. El primer curso da el comienzo de la controversia (cap. 4-14); el segundo el crecimiento de la polémica (15-21); y el tercero el colmo de la polémica (22-27). A esto le sigue la solución de la controversia en los discursos de Eliú y el discurso de Jehová, seguido de la humilde confesión de Job (42:1-6) de su propia falta e insensatez. (3.) La tercera división es la conclusión histórica, en prosa (42:7-15). Sir J. W. Dawson en \"The Expositor\" dice: \"Ahora parecería que el lenguaje y la teología del libro de Job se pueden explicar mejor suponiendo que es una porción de la literatura minea [de Arabia del Sur] obtenida por Moisés en Madián que de cualquier otra manera. Esta opinión también concuerda mejor que cualquier otra con sus referencias a objetos naturales, el arte de la minería y otros asuntos\"."
+      },
+      {
+        "source": "SMI",
+        "text": "Este libro ha dado lugar a mucha discusión y crítica, algunos creen que el libro es estrictamente histórico; otros una ficción religiosa; otros una composición basada en hechos. Algunos atribuyeron la autoría de la obra a Moisés, pero es muy incierta. Lutero fue el primero en sugerir la teoría que, de una forma u otra, ahora es más generalmente aceptada. Él dice: \"Considero el libro de Job como una historia verdadera, pero no creo que todo haya sucedido tal como está escrito, sino que un hombre ingenioso, piadoso y erudito lo trajo a su forma actual\". La fecha del libro es dudosa y ha habido muchas teorías sobre el tema. Puede considerarse como un punto establecido que el libro fue escrito mucho antes del exilio, probablemente entre el nacimiento de Abraham y el éxodo de los israelitas de Egipto—a.C. 2000-1800. Si fue escrito por Moisés, probablemente fue escrito durante su estancia en Madián. \"El libro de Job no sólo es uno de los más notables de la Biblia, sino de la literatura. Como se dijo de la espada de Goliat: 'No hay ninguna igual'; ninguna en la literatura antigua ni en la moderna\".—Kitto. “Un libro que algún día, tal vez, se verá por sí solo muy por encima de toda la poesía del mundo.”—J.A. Froude. \"El libro de Job es un drama, y sin embargo subjetivamente cierto. Las dos ideas son perfectamente consistentes. Puede tener la forma dramática, el interés dramático, la emoción dramática, y aún así ser sustancialmente una narración veraz. El autor puede haberlo recibido de una de tres maneras: el escritor puede haber sido un testigo ocular; o haberlo recibido de un testimonio casi contemporáneo; o puede haber llegado a él a través de una tradición de cuya veracidad sustancial no tiene duda. Hay abundante evidencia interna de que las escenas y eventos registrados fueron escenas y eventos reales para el El escritor presenta las discusiones tal como las había escuchado o como se habían repetido una y otra vez en muchos consensos antiguos. Los mismos modos de transmisión muestran la profunda impresión que había causado en todo Oriente, como un evento verdadero y maravilloso.”—Tayler Lewis. el diseño del libro. Stanley dice que “Todo el libro es una discusión sobre ese gran problema de la vida humana: ¿cuál es la intención de la Divina Providencia al permitir que los buenos sufran?” \"El objetivo directo es mostrar que, aunque la bondad tiene una tendencia natural a asegurar una medida plena de felicidad temporal, sin embargo, en esencia es independiente de tal resultado. Se declara que el egoísmo en alguna forma es la base sobre la cual descansa toda bondad aparente. Esa cuestión se examina en el caso de Job\". Estructura del libro.-El libro consta de cinco partes:—I. Caps. 1-3. Los hechos históricos. II. Caps. 4-31. Las discusiones entre Job y sus tres amigos. III. Caps. 32-37. La discusión de Job con Eliú. IV. Caps. 38-41. La teofanía: Dios hablando desde la tormenta. V. CH. 42. La terminación exitosa del juicio. Está todo en poesía excepto la introducción y el cierre. El argumento.—"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 88",
+        "original": "Ps. 88"
+      },
+      {
+        "reference": "Acts 7:22",
+        "original": "Acts 7:22"
+      },
+      {
+        "reference": "Ezekiel 14:14",
+        "original": "Ezek. 14:14"
+      },
+      {
+        "reference": "Hebrews 12:5",
+        "original": "Heb. 12:5"
+      },
+      {
+        "reference": "1 Corinthians 3:19",
+        "original": "1 Cor. 3:19"
+      },
+      {
+        "reference": "2 Timothy 3:16",
+        "original": "2 Tim. 3:16"
+      },
+      {
+        "reference": "Job 38:41",
+        "original": "Job 38:41"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "kartan": {
+    "name": "tarjeta",
+    "slug": "kartan",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ciudad doble, un pueblo de Nafali, asignado a los levitas gersonitas, y una de las ciudades de refugio (Josué 21:32). Probablemente estaba cerca de la costa noroeste del Mar de Tiberíades, idéntica a la aldea en ruinas de el-Katanah."
+      },
+      {
+        "source": "SMI",
+        "text": "(ciudad doble), ciudad de Neftalí, asignada a los levitas gersonitas. (Josué 21:32) en la lista paralela de (1 Crónicas 6:1) aparece el nombre, ver (1 Crónicas 6:76) en la forma más ampliada de KIRJATHAIM."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 21:32",
+        "original": "Josh. 21:32"
+      },
+      {
+        "reference": "1 Chronicles 6:1",
+        "original": "1 Chronicles 6:1"
+      },
+      {
+        "reference": "1 Chronicles 6:76",
+        "original": "1 Chronicles 6:76"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "t"
+  },
+  "lieutenant": {
+    "name": "Teniente",
+    "slug": "lieutenant",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(sólo en A.V. Ester 3:12; 8:9; 9:3; Esdras 8:36), un gobernador o virrey de una provincia persa que tenía poder tanto militar como civil. Traducido correctamente en la versión revisada \"sátrapa\"."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Esther 3:12",
+        "original": "Esther 3:12"
+      },
+      {
+        "reference": "Esther 8:9",
+        "original": "Esther 8:9"
+      },
+      {
+        "reference": "Esther 9:3",
+        "original": "Esther 9:3"
+      },
+      {
+        "reference": "Ezra 8:36",
+        "original": "Ezra 8:36"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "t"
+  },
+  "lieutenants": {
+    "name": "tenientes",
+    "slug": "lieutenants",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "El hebreo ajash darpan era el título oficial de los sátrapas o virreyes que gobernaban las provincias del imperio persa; se traduce “príncipe” en (Daniel 3:2; 6:1)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Daniel 3:2",
+        "original": "Daniel 3:2"
+      },
+      {
+        "reference": "Daniel 6:1",
+        "original": "Daniel 6:1"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "t"
   }
 }

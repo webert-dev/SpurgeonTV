@@ -7,7 +7,7 @@ import string
 import requests
 import copy
 
-DEEPSEEK_API_KEY = "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"
+DEEPSEEK_API_KEY = "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"
 
 sys_inst_pt = "Você é um tradutor teológico profissional. Seu trabalho é receber uma lista de verbetes de dicionário em JSON e retornar a MESMA lista em JSON, traduzindo apenas os campos 'name' e o campo 'text' (dentro de 'definitions') para o português do Brasil. Deixe o campo 'slug', 'scripture_refs', 'source' e 'sources' perfeitamente intactos. Retorne APENAS um array JSON válido."
 sys_inst_es = "Eres un traductor teológico profesional. Tu trabajo es recibir una lista de entradas de diccionario en JSON y devolver la MISMA lista en JSON, traduciendo solo los campos 'name' y el campo 'text' (dentro de 'definitions') al español. Deja los campos 'slug', 'scripture_refs', 'source' y 'sources' perfectamente intactos. Devuelve SOLO un array JSON válido sin bloques markdown."
@@ -30,7 +30,7 @@ def translate_batch(batch, lang="pt"):
     
     text = json.dumps(batch, ensure_ascii=False)
     
-    models = ["meta-llama/llama-3.3-70b-instruct:free", "google/gemma-4-31b-it:free", "qwen/qwen3-next-80b-a3b-instruct:free"]
+    models = ["openai/gpt-4o-mini", "openai/gpt-4o"]
     
     headers = {
         "Authorization": f"Bearer {DEEPSEEK_API_KEY}",
@@ -51,7 +51,7 @@ def translate_batch(batch, lang="pt"):
         retries = 3
         for attempt in range(retries):
             try:
-                time.sleep(2) # Rate limit protection for OpenRouter free models
+                time.sleep(0.5) # Slight rate limit protection
                 response = requests.post("https://openrouter.ai/api/v1/chat/completions", headers=headers, json=data, timeout=60)
                 
                 if response.status_code != 200:

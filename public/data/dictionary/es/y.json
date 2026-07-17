@@ -18,5 +18,25 @@
       "EAS"
     ],
     "letter": "y"
+  },
+  "me-jarkon": {
+    "name": "yo-jarkon",
+    "slug": "me-jarkon",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Aguas amarillentas, o aguas claras, un río de la tribu de Dan (Josué 19:46). Se ha identificado con el río 'Aujeh, que nace en Antipatris."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 19:46",
+        "original": "Josh. 19:46"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "y"
   }
 }

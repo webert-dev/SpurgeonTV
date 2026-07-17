@@ -432,5 +432,66 @@
       "SMI"
     ],
     "letter": "u"
+  },
+  "grape": {
+    "name": "Uva",
+    "slug": "grape",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El fruto de la vid, que se cultivaba extensamente en Palestina. Se habla de las uvas como “tiernas” (Cant. 2:13, 15), “inmaduras” (Job 15:33), “agrias” (Isa. 18:5), “salvajes” (Isa. 5:2, 4). (Ver Apocalipsis 14:18; Miqueas 7:1; Jer. 6:9; Ezequiel 18:2, para el uso figurado de la palabra.) (Ver VINE.)"
+      },
+      {
+        "source": "SMI",
+        "text": "[Enredadera]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Song of Solomon 2:13",
+        "original": "Cant. 2:13"
+      },
+      {
+        "reference": "Song of Solomon 2:15",
+        "original": "Cant. 2:15"
+      },
+      {
+        "reference": "Job 15:33",
+        "original": "Job 15:33"
+      },
+      {
+        "reference": "Isaiah 18:5",
+        "original": "Isa. 18:5"
+      },
+      {
+        "reference": "Isaiah 5:2",
+        "original": "Isa. 5:2"
+      },
+      {
+        "reference": "Isaiah 5:4",
+        "original": "Isa. 5:4"
+      },
+      {
+        "reference": "Revelation 14:18",
+        "original": "Rev. 14:18"
+      },
+      {
+        "reference": "Micah 7:1",
+        "original": "Micah 7:1"
+      },
+      {
+        "reference": "Jeremiah 6:9",
+        "original": "Jer. 6:9"
+      },
+      {
+        "reference": "Ezekiel 18:2",
+        "original": "Ezek. 18:2"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
   }
 }

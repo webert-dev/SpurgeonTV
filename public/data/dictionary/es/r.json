@@ -198,5 +198,1797 @@
       "EAS"
     ],
     "letter": "r"
+  },
+  "clothing": {
+    "name": "Ropa",
+    "slug": "clothing",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Vestido]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "collection": {
+    "name": "Recopilación",
+    "slug": "collection",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Los cristianos en Palestina, por diversas causas, padecían pobreza. Pablo despertó el interés por ellos entre las iglesias gentiles e hizo colectas pecuniarias en su nombre (Hch. 24:17; Rom. 15:25, 26; 1 Cor. 16:1-3; 2 Cor. 8:9; Gá. 2:10)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 24:17",
+        "original": "Acts 24:17"
+      },
+      {
+        "reference": "Romans 15:25",
+        "original": "Rom. 15:25"
+      },
+      {
+        "reference": "Romans 15:26",
+        "original": "Rom. 15:26"
+      },
+      {
+        "reference": "1 Corinthians 16:1-3",
+        "original": "1 Cor. 16:1-3"
+      },
+      {
+        "reference": "2 Corinthians 8:9",
+        "original": "2 Cor. 8:9"
+      },
+      {
+        "reference": "Galatians 2:10",
+        "original": "Gal. 2:10"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "r"
+  },
+  "dew": {
+    "name": "Rocío",
+    "slug": "dew",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "\"No hay rocío propiamente dicho en Palestina, porque no hay humedad en el aire caliente del verano que se enfríe en gotas de rocío por el frío de la noche. Desde mayo hasta octubre se desconoce la lluvia, el sol brilla con un brillo sin nubes día tras día. El calor se vuelve intenso, el suelo se endurece y la vegetación perecería si no fuera por los vientos húmedos del oeste que vienen cada noche desde el mar. Los cielos brillantes hacen que el calor del día se irradie muy rápidamente en el espacio, de modo que las noches son tan frías como el día. es lo contrario, una peculiaridad del clima que sufrió el pobre Jacob hace miles de años (Gén. 31:40) A esta frialdad del aire nocturno se debe el riego indispensable de toda la vida vegetal. Los vientos, cargados de humedad, son despojados de ella al pasar sobre la tierra, y el aire frío la condensa en gotas de agua, que caen en una graciosa lluvia de niebla sobre cada brizna sedienta. Por la mañana, la niebla así creada descansa como un mar sobre las llanuras. Sin embargo, al amanecer, la escena cambia rápidamente por la luz encendida, la niebla se transforma en vastas nubes blancas como la nieve, que pronto se dividen en masas separadas y se elevan por las laderas de las montañas, para desaparecer en el azul de arriba, disipadas por el calor creciente. (La Tierra Santa de Geikie, etc., i., p. 72). El rocío es una fuente de gran fertilidad (Gén. 27:28; Deut. 33:13; Zac. 8:12), y su retirada se considera una maldición de Dios (2 Sam. 1:21; 1 Reyes 17:1). Es el símbolo de una multitud (2 Sam. 17:12; Sal. 110:3); y por su influencia refrescante es un emblema de amor fraternal y armonía (Sal. 133:3), y de ricas bendiciones espirituales (Oseas 14:5)."
+      },
+      {
+        "source": "SMI",
+        "text": "Esto en el verano es tan abundante en Palestina que suple hasta cierto punto la ausencia de lluvias y adquiere importancia para el agricultor. Por lo tanto, en la bendición divina se combina con la lluvia, o se menciona como una fuente principal de fertilidad (Génesis 27:28; 33:13; Zacarías 8:12) y su retirada se atribuye a una maldición. (2 Samuel 1:21; 1 Reyes 17:1; Hageo 1:10) Se convierte en un objeto principal en las imágenes proféticas debido a su humedad penetrante sin el esfuerzo aparente de la lluvia (32:2; Job 29:19; Salmo 133:3; Oseas 14:5), mientras que su rápida evanescencia tipifica la bondad transitoria del hipócrita. (Oseas 6:4; 13:3)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 31:40",
+        "original": "Gen. 31:40"
+      },
+      {
+        "reference": "Genesis 27:28",
+        "original": "Gen. 27:28"
+      },
+      {
+        "reference": "Deuteronomy 33:13",
+        "original": "Deut. 33:13"
+      },
+      {
+        "reference": "Zechariah 8:12",
+        "original": "Zech. 8:12"
+      },
+      {
+        "reference": "2 Samuel 1:21",
+        "original": "2 Sam. 1:21"
+      },
+      {
+        "reference": "1 Kings 17:1",
+        "original": "1 Kings 17:1"
+      },
+      {
+        "reference": "2 Samuel 17:12",
+        "original": "2 Sam. 17:12"
+      },
+      {
+        "reference": "Psalms 110:3",
+        "original": "Ps. 110:3"
+      },
+      {
+        "reference": "Psalms 133:3",
+        "original": "Ps. 133:3"
+      },
+      {
+        "reference": "Hosea 14:5",
+        "original": "Hos. 14:5"
+      },
+      {
+        "reference": "Genesis 33:13",
+        "original": "Genesis 33:13"
+      },
+      {
+        "reference": "Haggai 1:10",
+        "original": "Haggai 1:10"
+      },
+      {
+        "reference": "Job 29:19",
+        "original": "Job 29:19"
+      },
+      {
+        "reference": "Hosea 6:4",
+        "original": "Hosea 6:4"
+      },
+      {
+        "reference": "Hosea 13:3",
+        "original": "Hosea 13:3"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "distaff": {
+    "name": "Rueca",
+    "slug": "distaff",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. pelek, “círculo”), el instrumento utilizado para torcer hilos mediante un remolino (Proverbios 31:19)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Proverbs 31:19",
+        "original": "Prov. 31:19"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "r"
+  },
+  "face": {
+    "name": "Rostro",
+    "slug": "face",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Significa simplemente presencia, como cuando se registra que Adán y Eva se escondieron del “rostro [R.V., ‘presencia’] del Señor Dios” (Gén. 3:8; comp. Ex. 33:14, 15, donde la misma palabra hebrea se traduce “presencia”). La “luz del rostro de Dios” es su favor (Sal. 44:3; Dan. 9:17). “Rostro” significa también ira, justicia, severidad (Gén. 16:6, 8; Éxodo 2:15; Sal. 68:1; Apocalipsis 6:16). “Provocar a Dios en su cara” (Isaías 65:3) es pecar abiertamente contra él. Los judíos oraron con sus rostros hacia el templo y Jerusalén (1 Reyes 8:38, 44, 48; Dan. 6:10). “Ver el rostro de Dios” es tener acceso a él y disfrutar de su favor (Sal. 17:15; 27:8). Este es el privilegio de los santos ángeles (Mateo 18:10; Lucas 1:19). El “rostro de Jesucristo” (2 Cor. 4:6) es el oficio y la persona de Cristo, el revelador de la gloria de Dios (Juan 1:14, 18)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 3:8",
+        "original": "Gen. 3:8"
+      },
+      {
+        "reference": "Exodus 33:14",
+        "original": "Ex. 33:14"
+      },
+      {
+        "reference": "Exodus 33:15",
+        "original": "Ex. 33:15"
+      },
+      {
+        "reference": "Psalms 44:3",
+        "original": "Ps. 44:3"
+      },
+      {
+        "reference": "Daniel 9:17",
+        "original": "Dan. 9:17"
+      },
+      {
+        "reference": "Genesis 16:6",
+        "original": "Gen. 16:6"
+      },
+      {
+        "reference": "Genesis 16:8",
+        "original": "Gen. 16:8"
+      },
+      {
+        "reference": "Exodus 2:15",
+        "original": "Ex. 2:15"
+      },
+      {
+        "reference": "Psalms 68:1",
+        "original": "Ps. 68:1"
+      },
+      {
+        "reference": "Revelation 6:16",
+        "original": "Rev. 6:16"
+      },
+      {
+        "reference": "Isaiah 65:3",
+        "original": "Isa. 65:3"
+      },
+      {
+        "reference": "1 Kings 8:38",
+        "original": "1 Kings 8:38"
+      },
+      {
+        "reference": "1 Kings 8:44",
+        "original": "1 Kings 8:44"
+      },
+      {
+        "reference": "1 Kings 8:48",
+        "original": "1 Kings 8:48"
+      },
+      {
+        "reference": "Daniel 6:10",
+        "original": "Dan. 6:10"
+      },
+      {
+        "reference": "Psalms 17:15",
+        "original": "Ps. 17:15"
+      },
+      {
+        "reference": "Psalms 27:8",
+        "original": "Ps 27:8"
+      },
+      {
+        "reference": "Matthew 18:10",
+        "original": "Matt. 18:10"
+      },
+      {
+        "reference": "Luke 1:19",
+        "original": "Luke 1:19"
+      },
+      {
+        "reference": "2 Corinthians 4:6",
+        "original": "2 Cor. 4:6"
+      },
+      {
+        "reference": "John 1:14",
+        "original": "John 1:14"
+      },
+      {
+        "reference": "John 1:18",
+        "original": "John 1:18"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "r"
+  },
+  "fast": {
+    "name": "Rápido",
+    "slug": "fast",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El único ayuno requerido por la ley de Moisés fue el del gran Día de la Expiación (q.v.), Lev. 23:26-32. Se llama “el ayuno” (Hechos 27:9). La única otra mención de un ayuno periódico en el Antiguo Testamento se encuentra en Zac. 7:1-7; 8:19, de donde parece que durante su cautiverio los judíos observaron cuatro ayunos anuales. (1.) El ayuno del cuarto mes, celebrado el decimoséptimo día de Tammuz, aniversario de la captura de Jerusalén por los caldeos; para conmemorar también el incidente registrado Ex. 32:19. (Comp. Jer. 52:6, 7.) (2.) El ayuno del quinto mes, celebrado el nueve de Ab (comp. Núm. 14:27), para conmemorar el incendio de la ciudad y el templo (Jer. 52:12, 13). (3.) El ayuno del séptimo mes, celebrado el tercero de Tisri (comp. 2 Reyes 25), el aniversario del asesinato de Gedalías (Jer. 41:1, 2). (4.) El ayuno del décimo mes (comp. Jer. 52:4; Eze. 33:21; 2 Reyes 25:1), para conmemorar el comienzo del asedio de la ciudad santa por parte de Nabucodonosor. Además de estos, estaba el ayuno designado por Ester (4:16). A veces se celebraban ayunos públicos nacionales a causa del pecado o para suplicar el favor divino. (1.) 1 Sam. 7:6; (2.) 2 Cr. 20:3; (3.) Jer. 36:6-10; (4.) Neh. 9:1. También hubo ayunos locales. (1.) Juez. 20:26; (2.) 2 Sam. 1:12; (3.) 1 Sam. 31:13; (4.) 1 Reyes 21:9-12; (5.) Esdras 8:21-23: (6.) Jonás 3:5-9. Hay muchos casos de ayuno privado ocasional (1 Sam. 1:7: 20:34; 2 Sam. 3:35; 12:16; 1 Reyes 21:27; Esdras 10:6; Neh. 1:4; Dan. 10:2, 3). Moisés ayunó cuarenta días (Éxodo 24:18; 34:28), y lo mismo hizo Elías (1 Reyes 19:8). Nuestro Señor ayunó cuarenta días en el desierto (Mateo 4:2). Con el paso del tiempo, se abusó lamentablemente de la práctica del ayuno (Isaías 58:4; Jer. 14:12; Zacarías 7:5). Nuestro Señor reprendió a los fariseos por sus pretensiones hipócritas al ayunar (Mateo 6:16). Él mismo no nombró ningún ayuno. Los primeros cristianos, sin embargo, observaban los ayunos ordinarios según la ley de sus padres (Hechos 13:3; 14:23; 2 Cor. 6:5)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 23:26-32",
+        "original": "Lev. 23:26-32"
+      },
+      {
+        "reference": "Acts 27:9",
+        "original": "Acts 27:9"
+      },
+      {
+        "reference": "Zechariah 7:1-7",
+        "original": "Zech. 7:1-7"
+      },
+      {
+        "reference": "Zechariah 8:19",
+        "original": "Zech 8:19"
+      },
+      {
+        "reference": "Exodus 32:19",
+        "original": "Ex. 32:19"
+      },
+      {
+        "reference": "Jeremiah 52:6",
+        "original": "Jer. 52:6"
+      },
+      {
+        "reference": "Jeremiah 52:7",
+        "original": "Jer. 52:7"
+      },
+      {
+        "reference": "Numbers 14:27",
+        "original": "Num. 14:27"
+      },
+      {
+        "reference": "Jeremiah 52:12",
+        "original": "Jer. 52:12"
+      },
+      {
+        "reference": "Jeremiah 52:13",
+        "original": "Jer. 52:13"
+      },
+      {
+        "reference": "2 Kings 25",
+        "original": "2 Kings 25"
+      },
+      {
+        "reference": "Jeremiah 41:1",
+        "original": "Jer. 41:1"
+      },
+      {
+        "reference": "Jeremiah 41:2",
+        "original": "Jer 41:2"
+      },
+      {
+        "reference": "Jeremiah 52:4",
+        "original": "Jer. 52:4"
+      },
+      {
+        "reference": "Ezekiel 33:21",
+        "original": "Ezek. 33:21"
+      },
+      {
+        "reference": "2 Kings 25:1",
+        "original": "2 Kings 25:1"
+      },
+      {
+        "reference": "1 Samuel 7:6",
+        "original": "1 Sam. 7:6"
+      },
+      {
+        "reference": "1 Samuel 2",
+        "original": "1 Sam. 2"
+      },
+      {
+        "reference": "2 Chronicles 20:3",
+        "original": "2 Chr. 20:3"
+      },
+      {
+        "reference": "2 Chronicles 3",
+        "original": "2 Chr. 3"
+      },
+      {
+        "reference": "Jeremiah 36:6-10",
+        "original": "Jer. 36:6-10"
+      },
+      {
+        "reference": "Jeremiah 4",
+        "original": "Jer 4"
+      },
+      {
+        "reference": "Nehemiah 9:1",
+        "original": "Neh. 9:1"
+      },
+      {
+        "reference": "Judges 20:26",
+        "original": "Judg. 20:26"
+      },
+      {
+        "reference": "Judges 2",
+        "original": "Judg 2"
+      },
+      {
+        "reference": "2 Samuel 1:12",
+        "original": "2 Sam. 1:12"
+      },
+      {
+        "reference": "2 Samuel 3",
+        "original": "2 Sam. 3"
+      },
+      {
+        "reference": "1 Samuel 31:13",
+        "original": "1 Sam. 31:13"
+      },
+      {
+        "reference": "1 Samuel 4",
+        "original": "1 Sam. 4"
+      },
+      {
+        "reference": "1 Kings 21:9-12",
+        "original": "1 Kings 21:9-12"
+      },
+      {
+        "reference": "1 Kings 5",
+        "original": "1 Kings 5"
+      },
+      {
+        "reference": "Ezra 8:21-23",
+        "original": "Ezra 8:21-23"
+      },
+      {
+        "reference": "Jonah 3:5-9",
+        "original": "Jonah 3:5-9"
+      },
+      {
+        "reference": "1 Samuel 1:7",
+        "original": "1 Sam. 1:7"
+      },
+      {
+        "reference": "2 Samuel 3:35",
+        "original": "2 Sam. 3:35"
+      },
+      {
+        "reference": "2 Samuel 12:16",
+        "original": "2 Sam. 12:16"
+      },
+      {
+        "reference": "1 Kings 21:27",
+        "original": "1 Kings 21:27"
+      },
+      {
+        "reference": "Ezra 10:6",
+        "original": "Ezra 10:6"
+      },
+      {
+        "reference": "Nehemiah 1:4",
+        "original": "Neh. 1:4"
+      },
+      {
+        "reference": "Daniel 10:2",
+        "original": "Dan. 10:2"
+      },
+      {
+        "reference": "Daniel 10:3",
+        "original": "Dan. 10:3"
+      },
+      {
+        "reference": "Exodus 24:18",
+        "original": "Ex. 24:18"
+      },
+      {
+        "reference": "Exodus 34:28",
+        "original": "Ex 34:28"
+      },
+      {
+        "reference": "1 Kings 19:8",
+        "original": "1 Kings 19:8"
+      },
+      {
+        "reference": "Matthew 4:2",
+        "original": "Matt. 4:2"
+      },
+      {
+        "reference": "Isaiah 58:4",
+        "original": "Isa. 58:4"
+      },
+      {
+        "reference": "Jeremiah 14:12",
+        "original": "Jer. 14:12"
+      },
+      {
+        "reference": "Zechariah 7:5",
+        "original": "Zech. 7:5"
+      },
+      {
+        "reference": "Matthew 6:16",
+        "original": "Matt. 6:16"
+      },
+      {
+        "reference": "Acts 13:3",
+        "original": "Acts 13:3"
+      },
+      {
+        "reference": "Acts 14:23",
+        "original": "Acts 14:23"
+      },
+      {
+        "reference": "2 Corinthians 6:5",
+        "original": "2 Cor. 6:5"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "r"
+  },
+  "frog": {
+    "name": "Rana",
+    "slug": "frog",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. tsefarde’a, que significa “saltador de los pantanos”). Este reptil se menciona en el Antiguo Testamento sólo en relación con una de las plagas que cayeron sobre la tierra de Egipto (Éxodo 8:2-14; Salmo 78:45; 105:30). En el Nuevo Testamento esta palabra aparece sólo en Apocalipsis 16:13, donde se la conoce como símbolo de inmundicia. La única especie de rana que existe en Palestina es la rana verde (Rana esculenta), la conocida rana comestible del continente."
+      },
+      {
+        "source": "SMI",
+        "text": "un conocido animal anfibio del género Rana. La mención de este reptil en el Antiguo Testamento se limita al pasaje de (Éxodo 8:2-7), etc., en el que se describe la plaga de ranas, y a (Salmo 78:45; 105:30). En el Nuevo Testamento la palabra aparece sólo una vez, en (Apocalipsis 16:13). No hay duda sobre el animal al que se refiere. La única especie conocida de rana que se encuentra actualmente en Egipto es la Rana esculenta, la rana comestible del continente."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 8:2-14",
+        "original": "Ex. 8:2-14"
+      },
+      {
+        "reference": "Psalms 78:45",
+        "original": "Ps. 78:45"
+      },
+      {
+        "reference": "Psalms 105:30",
+        "original": "Ps 105:30"
+      },
+      {
+        "reference": "Revelation 16:13",
+        "original": "Rev. 16:13"
+      },
+      {
+        "reference": "Exodus 8:2-7",
+        "original": "Exodus 8:2-7"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "gift": {
+    "name": "Regalo",
+    "slug": "gift",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Una gratificación (Prov. 19:6) para asegurar el favor (18:16; 21:14), una ofrenda de agradecimiento (Núm. 18:11) o una dote (Gén. 34:12). (2.) Una oblación o regalo propiciatorio (2Sa 8:2, 6; 1Cr 18:2, 6; 2Cr 26:8; Sal. 45:12; 72:10). (3.) Un soborno a un juez para obtener un veredicto favorable (Éxodo 23:8; Deuteronomio 16:19). (4.) Simplemente una cosa dada (Mateo 7:11; Lucas 11:13; Efesios 4:8); sacrificial (Mateo 5:23, 24; 8:4); eleemosynary (Lucas 21:1); una propina (Juan 4:10; Hechos 8:20). En Hechos 2:38 la palabra genérica dorea se traduce como “don”. Difiere del carisma (1 Cor. 12:4) en que denota no poderes milagrosos sino la obra de un nuevo espíritu en los hombres, y ese espíritu proviene de Dios. La entrega de regalos entró en gran medida en los asuntos de la vida común en Oriente. La naturaleza de los regalos era tan variada como lo eran las ocasiones: comida (1 Sam. 9:7; 16:20), ovejas y ganado (Gén. 32:13-15), oro (2 Sam. 18:11), joyas (Gén. 24:53), muebles y vasos para comer y beber (2 Sam. 17:28); manjares, como especias, miel, etc. (1 Reyes 10:25; 2 Reyes 5:22). El modo de presentación era con el mayor desfile posible: los regalos eran transportados por las manos de los sirvientes (Jueces 3:18), o mejor aún, a lomos de bestias de carga (2 Reyes 8:9). El rechazo de un regalo se consideraba una gran indignidad; y esto constituyó el insulto agravado observado en Matt. 22:11, habiendo sido ofrecido y rechazado el manto nupcial."
+      },
+      {
+        "source": "SMI",
+        "text": "Dar y recibir regalos ha sido en todas las épocas no sólo un procedimiento más frecuente sino también más formal y significativo en Oriente que entre nosotros. No podemos aducir una prueba más notable del importante papel que desempeña en la vida social de Oriente que el hecho de que la lengua hebrea posee no menos de quince expresiones diferentes para una misma idea. El modo de presentación fue con el mayor desfile posible. El rechazo de un regalo nos parecía una gran indignidad. No menos insultante era no traer un regalo cuando la posición de las partes lo exigía. (1 Samuel 10:27)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Proverbs 19:6",
+        "original": "Prov. 19:6"
+      },
+      {
+        "reference": "Numbers 18:11",
+        "original": "Num. 18:11"
+      },
+      {
+        "reference": "Genesis 34:12",
+        "original": "Gen. 34:12"
+      },
+      {
+        "reference": "2 Samuel 8:2",
+        "original": "2Sa 8:2"
+      },
+      {
+        "reference": "2 Samuel 8:6",
+        "original": "2Sa 8:6"
+      },
+      {
+        "reference": "1 Chronicles 18:2",
+        "original": "1Ch 18:2"
+      },
+      {
+        "reference": "1 Chronicles 18:6",
+        "original": "1Ch 18:6"
+      },
+      {
+        "reference": "2 Chronicles 26:8",
+        "original": "2Ch 26:8"
+      },
+      {
+        "reference": "Psalms 45:12",
+        "original": "Ps. 45:12"
+      },
+      {
+        "reference": "Psalms 72:10",
+        "original": "Ps 72:10"
+      },
+      {
+        "reference": "Exodus 23:8",
+        "original": "Ex. 23:8"
+      },
+      {
+        "reference": "Deuteronomy 16:19",
+        "original": "Deut. 16:19"
+      },
+      {
+        "reference": "Matthew 7:11",
+        "original": "Matt. 7:11"
+      },
+      {
+        "reference": "Luke 11:13",
+        "original": "Luke 11:13"
+      },
+      {
+        "reference": "Ephesians 4:8",
+        "original": "Eph. 4:8"
+      },
+      {
+        "reference": "Matthew 5:23",
+        "original": "Matt. 5:23"
+      },
+      {
+        "reference": "Matthew 5:24",
+        "original": "Matt. 5:24"
+      },
+      {
+        "reference": "Luke 21:1",
+        "original": "Luke 21:1"
+      },
+      {
+        "reference": "John 4:10",
+        "original": "John 4:10"
+      },
+      {
+        "reference": "Acts 8:20",
+        "original": "Acts 8:20"
+      },
+      {
+        "reference": "Acts 2:38",
+        "original": "Acts 2:38"
+      },
+      {
+        "reference": "1 Corinthians 12:4",
+        "original": "1 Cor. 12:4"
+      },
+      {
+        "reference": "1 Samuel 9:7",
+        "original": "1 Sam. 9:7"
+      },
+      {
+        "reference": "1 Samuel 16:20",
+        "original": "1 Sam. 16:20"
+      },
+      {
+        "reference": "Genesis 32:13-15",
+        "original": "Gen. 32:13-15"
+      },
+      {
+        "reference": "2 Samuel 18:11",
+        "original": "2 Sam. 18:11"
+      },
+      {
+        "reference": "Genesis 24:53",
+        "original": "Gen. 24:53"
+      },
+      {
+        "reference": "2 Samuel 17:28",
+        "original": "2 Sam. 17:28"
+      },
+      {
+        "reference": "1 Kings 10:25",
+        "original": "1 Kings 10:25"
+      },
+      {
+        "reference": "2 Kings 5",
+        "original": "2 Kings 5"
+      },
+      {
+        "reference": "Judges 3:18",
+        "original": "Judg. 3:18"
+      },
+      {
+        "reference": "2 Kings 8:9",
+        "original": "2 Kings 8:9"
+      },
+      {
+        "reference": "Matthew 22:11",
+        "original": "Matt. 22:11"
+      },
+      {
+        "reference": "1 Samuel 10:27",
+        "original": "1 Samuel 10:27"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "gnash": {
+    "name": "Rechinar",
+    "slug": "gnash",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "heb. harak, que significa “rechinar los dientes” (Job 16:9; Sal. 112:10; Lam. 2:16), denota ira o tristeza. (Véase también Hechos 7:54; Marcos 9:18.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 16:9",
+        "original": "Job 16:9"
+      },
+      {
+        "reference": "Psalms 112:10",
+        "original": "Ps. 112:10"
+      },
+      {
+        "reference": "Lamentations 2:16",
+        "original": "Lam. 2:16"
+      },
+      {
+        "reference": "Acts 7:54",
+        "original": "Acts 7:54"
+      },
+      {
+        "reference": "Mark 9:18",
+        "original": "Mark 9:18"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "r"
+  },
+  "grate": {
+    "name": "Rallar",
+    "slug": "grate",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una red de bronce para el fondo del gran altar del sacrificio (Éxodo 27:4; 35:16; 38:4, 5, 30)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 27:4",
+        "original": "Ex. 27:4"
+      },
+      {
+        "reference": "Exodus 35:16",
+        "original": "Ex 35:16"
+      },
+      {
+        "reference": "Exodus 38:4",
+        "original": "Ex 38:4"
+      },
+      {
+        "reference": "Exodus 38:5",
+        "original": "Ex 38:5"
+      },
+      {
+        "reference": "Exodus 38:30",
+        "original": "Ex 38:30"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "r"
+  },
+  "greaves": {
+    "name": "Rodilleras",
+    "slug": "greaves",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Sólo en 1 Sam. 17:6, una pieza de armadura defensiva (q.v.) que se extiende desde el pie hasta la rodilla; del francés greve, \"la espinilla\". Eran los cothurni romanos."
+      },
+      {
+        "source": "SMI",
+        "text": "una pieza de armadura defensiva que llegaba desde el pie hasta la rodilla y protegía así la espinilla del usuario. Estaba hecho de cuero o latón."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 17:6",
+        "original": "1 Sam. 17:6"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "harlot": {
+    "name": "Ramera",
+    "slug": "harlot",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Heb. zonah (Génesis 34:31; 38:15). En los versículos 21, 22 se usa la palabra hebrea en kedeshah, es decir, una mujer consagrada o dedicada a la prostitución en relación con el culto abominable de Asera o Astarté, la Venus siria. Esta palabra también se usa en Deut. 23:17; Hos. 4:14. Así, Tamar se sentó junto al camino como una kedeshá consagrada. Se ha intentado demostrar que Rahab, generalmente llamada “ramera” (Josué 2:1; 6:17; Heb. 11:31; Santiago 2:25), era sólo una posadera. Sin embargo, esta interpretación no puede mantenerse. A la madre de Jefté se la llama “mujer extraña” (Jueces 11:2). Sin embargo, esto simplemente denota que ella era de origen extranjero. En tiempos de Salomón, las rameras aparecían abiertamente en las calles, y él advierte solemnemente contra la asociación con ellas (Prov. 7:12; 9:14. Véase también Jer. 3:2; Eze. 16:24, 25, 31). La versión revisada, siguiendo la LXX., tiene \"y las rameras se lavaron\", etc., en lugar de la traducción de la versión autorizada, \"ahora se lavaron\", de 1 Reyes 22:38. Cometer fornicación se usa metafóricamente para practicar la idolatría (Jer. 3:1; Eze. 16:15; Os. en todo momento); por eso se habla de Jerusalén como de ramera (Isaías 1:21). (2.) Heb. nokriyah, la “mujer extraña” (1 Reyes 11:1; Prov. 5:20; 7:5; 23:27). Los así designados eran cananeos y otros gentiles (Josué 23:13). A la misma clase pertenecía la “mujer insensata”, es decir, la pecadora. En el Nuevo Testamento, el griego pornai, plural, “rameras”, aparece en Mat. 21:31, 32, donde se les clasifica con los publicanos; Lucas 15:30; 1 Cor. 6:15, 16; heb. 11:31; Santiago 2:25. Se usa simbólicamente en Apocalipsis 17:1, 5, 15, 16; 19:2."
+      },
+      {
+        "source": "SMI",
+        "text": "Que esta clase de personas existió en los primeros estados de la sociedad queda claro en (Génesis 38:15) Rahab, (Josué 2:1) lo dice el caldo. Paráfrasis. haber sido posadero; pero si existieran tales personas, considerando lo que sabemos de la moral cananea (Levítico 18:27), podemos concluir que, si fueran mujeres, habrían sido de esta clase. Las \"rameras\" se clasifican con los \"publicanos\", como aquellos que estaban bajo la prohibición de la sociedad, en el Nuevo Testamento. (Mateo 21:32)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 34:31",
+        "original": "Gen. 34:31"
+      },
+      {
+        "reference": "Genesis 38:15",
+        "original": "Gen 38:15"
+      },
+      {
+        "reference": "Deuteronomy 23:17",
+        "original": "Deut. 23:17"
+      },
+      {
+        "reference": "Hosea 4:14",
+        "original": "Hos. 4:14"
+      },
+      {
+        "reference": "Joshua 2:1",
+        "original": "Josh. 2:1"
+      },
+      {
+        "reference": "Joshua 6:17",
+        "original": "Josh 6:17"
+      },
+      {
+        "reference": "Hebrews 11:31",
+        "original": "Heb. 11:31"
+      },
+      {
+        "reference": "James 2:25",
+        "original": "James 2:25"
+      },
+      {
+        "reference": "Judges 11:2",
+        "original": "Judg. 11:2"
+      },
+      {
+        "reference": "Proverbs 7:12",
+        "original": "Prov. 7:12"
+      },
+      {
+        "reference": "Proverbs 9:14",
+        "original": "Prov 9:14"
+      },
+      {
+        "reference": "Jeremiah 3:2",
+        "original": "Jer. 3:2"
+      },
+      {
+        "reference": "Ezekiel 16:24",
+        "original": "Ezek. 16:24"
+      },
+      {
+        "reference": "Ezekiel 16:25",
+        "original": "Ezek. 16:25"
+      },
+      {
+        "reference": "Ezekiel 16:31",
+        "original": "Ezek. 16:31"
+      },
+      {
+        "reference": "1 Kings 22:38",
+        "original": "1 Kings 22:38"
+      },
+      {
+        "reference": "Jeremiah 3:1",
+        "original": "Jer. 3:1"
+      },
+      {
+        "reference": "Ezekiel 16:15",
+        "original": "Ezek. 16:15"
+      },
+      {
+        "reference": "Isaiah 1:21",
+        "original": "Isa. 1:21"
+      },
+      {
+        "reference": "1 Kings 11:1",
+        "original": "1 Kings 11:1"
+      },
+      {
+        "reference": "Proverbs 5:20",
+        "original": "Prov. 5:20"
+      },
+      {
+        "reference": "Proverbs 7:5",
+        "original": "Prov 7:5"
+      },
+      {
+        "reference": "Proverbs 23:27",
+        "original": "Prov 23:27"
+      },
+      {
+        "reference": "Joshua 23:13",
+        "original": "Josh. 23:13"
+      },
+      {
+        "reference": "Matthew 21:31",
+        "original": "Matt. 21:31"
+      },
+      {
+        "reference": "Matthew 21:32",
+        "original": "Matt. 21:32"
+      },
+      {
+        "reference": "Luke 15:30",
+        "original": "Luke 15:30"
+      },
+      {
+        "reference": "1 Corinthians 6:15",
+        "original": "1 Cor. 6:15"
+      },
+      {
+        "reference": "1 Corinthians 6:16",
+        "original": "1 Cor. 6:16"
+      },
+      {
+        "reference": "Revelation 17:1",
+        "original": "Rev. 17:1"
+      },
+      {
+        "reference": "Revelation 17:5",
+        "original": "Rev. 17:5"
+      },
+      {
+        "reference": "Revelation 17:15",
+        "original": "Rev. 17:15"
+      },
+      {
+        "reference": "Revelation 17:16",
+        "original": "Rev. 17:16"
+      },
+      {
+        "reference": "Leviticus 18:27",
+        "original": "Leviticus 18:27"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "haven": {
+    "name": "Refugio",
+    "slug": "haven",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un puerto (Sal. 107:30; Hechos 27:12). El más famoso en la costa de Palestina fue el de Tiro (Ezequiel 27:3). El de Creta, llamado \"Bell Havens\", se menciona en Hechos 27:8."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 107:30",
+        "original": "Ps. 107:30"
+      },
+      {
+        "reference": "Acts 27",
+        "original": "Acts 27"
+      },
+      {
+        "reference": "Ezekiel 27:3",
+        "original": "Ezek. 27:3"
+      },
+      {
+        "reference": "Acts 27:8",
+        "original": "Acts 27:8"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "r"
+  },
+  "herd": {
+    "name": "Rebaño",
+    "slug": "herd",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Génesis 13:5; Deut. 7:14. (Ver GANADO.)"
+      },
+      {
+        "source": "SMI",
+        "text": "(una colección de ganado), pastores. El rebaño fue muy apreciado tanto en el período patriarcal como en el mosaico. El buey era el ganado más preciado después del caballo y la mula. El rebaño produjo el sacrificio más estimado (Números 7:3; Salmo 69:31; Isaías 66:3), también carne y leche, principalmente convertidas probablemente en mantequilla y queso. (32:14; 2 Samuel 17:29) La utilidad agrícola y general del buey para arar, trillar y como bestia de carga (1 Crónicas 12:40; Isaías 46:1) hizo que su matanza pareciera un desperdicio. Los pastores, etc., en Egipto formaban una casta baja, quizás la más baja; pero de la abundancia de ganado en Egipto y del cuidado que allí se les brindaba, no hay duda. (Génesis 47:6,17; Éxodo 9:4,20) Entonces se envió la plaga de granizo para herir especialmente al ganado, (Salmo 78:48), cuyos primogénitos también fueron heridos. (Éxodo 12:29) Los israelitas que partieron estipularon (Éxodo 10:26) y se llevaron “mucho ganado” con ellos. cap. (Éxodo 12:38) El ganado formó así una de las tradiciones de la nación israelita en su período más grande, y llegó a ser casi parte de esa grandeza. La ocupación de pastor era honorable en los primeros tiempos. (Génesis 47:6; 1 Samuel 11:5; 1 Crónicas 27:29; 28:1) Saúl mismo lo reanudó en el intervalo de sus preocupaciones como rey, y también Doeg ciertamente tenía mucha confianza (1 Samuel 21:7) Faraón nombró a algunos de los hermanos de José “gobernantes sobre su ganado”. Los jefes de rebaño de David estaban entre sus principales funcionarios de estado. El profeta Amós al principio siguió esta ocupación."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 13:5",
+        "original": "Gen. 13:5"
+      },
+      {
+        "reference": "Deuteronomy 7:14",
+        "original": "Deut. 7:14"
+      },
+      {
+        "reference": "Numbers 7:3",
+        "original": "Numbers 7:3"
+      },
+      {
+        "reference": "Psalms 69:31",
+        "original": "Psalms 69:31"
+      },
+      {
+        "reference": "Isaiah 66:3",
+        "original": "Isaiah 66:3"
+      },
+      {
+        "reference": "2 Samuel 17:29",
+        "original": "2 Samuel 17:29"
+      },
+      {
+        "reference": "1 Chronicles 12:40",
+        "original": "1 Chronicles 12:40"
+      },
+      {
+        "reference": "Isaiah 46:1",
+        "original": "Isaiah 46:1"
+      },
+      {
+        "reference": "Genesis 47:6",
+        "original": "Genesis 47:6"
+      },
+      {
+        "reference": "Genesis 47:17",
+        "original": "Genesis 47:17"
+      },
+      {
+        "reference": "Exodus 9:4",
+        "original": "Exodus 9:4"
+      },
+      {
+        "reference": "Exodus 9:20",
+        "original": "Exodus 9:20"
+      },
+      {
+        "reference": "Psalms 78:48",
+        "original": "Psalms 78:48"
+      },
+      {
+        "reference": "Exodus 12:29",
+        "original": "Exodus 12:29"
+      },
+      {
+        "reference": "Exodus 10:26",
+        "original": "Exodus 10:26"
+      },
+      {
+        "reference": "Exodus 12:38",
+        "original": "Exodus 12:38"
+      },
+      {
+        "reference": "1 Samuel 11:5",
+        "original": "1 Samuel 11:5"
+      },
+      {
+        "reference": "1 Chronicles 27:29",
+        "original": "1 Chronicles 27:29"
+      },
+      {
+        "reference": "1 Chronicles 28:1",
+        "original": "1 Chronicles 28:1"
+      },
+      {
+        "reference": "1 Samuel 21:7",
+        "original": "1 Samuel 21:7"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "hostage": {
+    "name": "Rehén",
+    "slug": "hostage",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Persona entregada en manos de otra como garantía del cumplimiento de alguna promesa, etc. (2 Reyes 14:14; 2 Crónicas 25:24)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 14:14",
+        "original": "2 Kings 14:14"
+      },
+      {
+        "reference": "2 Chronicles 25:24",
+        "original": "2 Chr. 25:24"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "r"
+  },
+  "irrigation": {
+    "name": "Riego",
+    "slug": "irrigation",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Como los arroyos eran pocos en Palestina, el agua generalmente se almacenaba en invierno en embalses y se distribuía a través de los jardines en numerosos arroyos, que podían girarse o desviarse fácilmente con el pie (Deuteronomio 11:10). Para fines de riego, el agua se extraía de arroyos o estanques mediante ruedas hidráulicas o mediante un shaduf, que se utiliza comúnmente en las orillas del Nilo hasta el día de hoy."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 11:10",
+        "original": "Deut. 11:10"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "r"
+  },
+  "king": {
+    "name": "Rey",
+    "slug": "king",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "En las Escrituras se usa muy generalmente para denotar a alguien investido de autoridad, ya sea extensa o limitada. Había treinta y un reyes en Canaán (Josué 12:9, 24), a quienes Josué sometió. Adonibezek sometió a setenta reyes (Jueces 1:7). En el Nuevo Testamento se habla del emperador romano como rey (1 Ped. 2:13, 17); y Herodes Antipas, que era sólo un tetrarca, también es llamado rey (Mat. 14:9; Marcos 6:22). Este título se aplica a Dios (1 Tim. 1:17) y a Cristo, el Hijo de Dios (1 Tim. 6:15, 16; Mateo 27:11). Al pueblo de Dios también se le llama “reyes” (Dan. 7:22, 27; Mateo 19:28; Apocalipsis 1:6, etc.). A la muerte se le llama el “rey de los terrores” (Job 18:14). Jehová era el único Rey de la nación judía (1 Sam. 8:7; Isa. 33:22). Pero llegó un momento en la historia de ese pueblo en el que se exigió un rey para ser como las demás naciones (1 Sam. 8:5). El profeta Samuel les protestó, pero el pueblo gritó: “No, sino que tendremos un rey sobre nosotros”. La mala conducta de los hijos de Samuel fue la causa inmediata de esta demanda. Los reyes hebreos no gobernaron por derecho propio, ni en nombre del pueblo que los había elegido, sino en parte como siervos y en parte como representantes de Jehová, el verdadero Rey de Israel (1 Sam. 10:1). Los límites del poder del rey estaban prescritos (1 Sam. 10:25). Los oficiales de su corte eran: (1) el registrador o recordador (2 Sam. 8:16; 1 Reyes 4:3); (2) el escriba (2 Sam. 8:17; 20:25); (3) el oficial de la casa, el mayordomo principal (Isaías 22:15); (4) el “amigo del rey”, un compañero confidencial (1 Reyes 4:5); (5) el encargado del guardarropa (2 Reyes 22:14); (6) capitán de la guardia (2 Sam. 20:23); (7) funcionarios encargados de los tesoros del rey, etc. (1 Crónicas 27:25-31); (8) comandante en jefe del ejército (1 Crónicas 27:34); (9) el consejero real (1 Crónicas 27:32; 2 Sam. 16:20-23). (Para consultar el catálogo de reyes de Israel y Judá, consulte la tabla cronológica en el Apéndice)."
+      },
+      {
+        "source": "SMI",
+        "text": "“un gobernante principal, alguien investido de autoridad suprema sobre una nación, tribu o país.”—Webster. En la Biblia la palabra no implica necesariamente gran poder o gran extensión de país. Se llaman reyes a muchas personas a quienes más bien deberíamos llamar jefes o líderes. La palabra se aplica en la Biblia a Dios como soberano y gobernante del universo, y a Cristo el Hijo de Dios como cabeza y gobernador de la Iglesia. Los hebreos fueron gobernados por un rey durante un período de unos 500 años antes de la destrucción de Jerusalén, a.C. 586. La ocasión inmediata de la sustitución de la de los jueces por una forma real de gobierno parece haber sido el asedio de Jabesh-galaad por Nahas, rey de los amonitas. (1 Samuel 11:1; 12:12.) Los israelitas parecen haberse impuesto la convicción de que no podrían resistir a su formidable vecino a menos que se pusieran bajo el dominio de un rey, como las naciones vecinas. La idea original de un rey hebreo era doble: primero, que debería liderar al pueblo a la batalla en tiempo de guerra; y, un segundo, que les ejecutara juicio y justicia en guerra y en paz. (1 Samuel 8:20) En ambos aspectos se logró el fin deseado. Además de ser comandante en jefe del ejército, juez supremo y dueño absoluto, por así decirlo, de las vidas de sus súbditos, el rey ejercía el poder de imponerles impuestos y exigirles servicios y trabajos personales. Además de estos poderes terrenales, el rey de Israel tenía un derecho más terrible de respeto y obediencia. Era el vicerregente de Jehová (1 Samuel 10:1; 16:13) y como si fuera su hijo, aunque justo y santo. (2 Samuel 7:14; Salmos 2:6,7; 89:26,27) había sido apartado como gobernante consagrado. Sobre sus muertos se había derramado el aceite de la santa unción, que hasta entonces había estado reservado exclusivamente para los sacerdotes de Jehová. De hecho, se había convertido enfáticamente en “el ungido del Señor”. Tenía una corte de magnificencia oriental. El rey estaba vestido con ropas reales, (1 Reyes 22:10; 2 Crónicas 18:9) sus insignias eran, una corona o diadema de oro puro, o quizás radiante con gemas preciosas, (2 Samuel 1:10; 12:30; 2 Reyes 11:12; Salmos 21:3) y un cetro real. Los que se acercaban a él le reverenciaban, inclinándose y tocando el suelo con la frente (1 Samuel 24:8; 2 Samuel 19:24) y esto lo hacía incluso la esposa de un rey, la madre de Salomón. (1 Reyes 1:16) Sus oficiales y súbditos se llamaban a sí mismos sus sirvientes o esclavos. Tenía un gran harén custodiado por eunucos. La ley de sucesión al trono es algo oscura, pero parece más probable que el rey, durante su vida, nombrara a su sucesor. Al mismo tiempo, si no interviniera ninguna parcialidad hacia una esposa o un hijo favorito, siempre habría una tendencia natural de afecto a favor del hijo mayor."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 12:9",
+        "original": "Josh. 12:9"
+      },
+      {
+        "reference": "Joshua 12:24",
+        "original": "Josh. 12:24"
+      },
+      {
+        "reference": "Judges 1:7",
+        "original": "Judg. 1:7"
+      },
+      {
+        "reference": "1 Peter 2:13",
+        "original": "1 Pet. 2:13"
+      },
+      {
+        "reference": "1 Peter 2:17",
+        "original": "1 Pet. 2:17"
+      },
+      {
+        "reference": "Matthew 14:9",
+        "original": "Matt. 14:9"
+      },
+      {
+        "reference": "Mark 6:22",
+        "original": "Mark 6:22"
+      },
+      {
+        "reference": "1 Timothy 1:17",
+        "original": "1 Tim. 1:17"
+      },
+      {
+        "reference": "1 Timothy 6:15",
+        "original": "1 Tim. 6:15"
+      },
+      {
+        "reference": "1 Timothy 6:16",
+        "original": "1 Tim. 6:16"
+      },
+      {
+        "reference": "Matthew 27:11",
+        "original": "Matt. 27:11"
+      },
+      {
+        "reference": "Daniel 7:22",
+        "original": "Dan. 7:22"
+      },
+      {
+        "reference": "Daniel 7:27",
+        "original": "Dan. 7:27"
+      },
+      {
+        "reference": "Matthew 19:28",
+        "original": "Matt. 19:28"
+      },
+      {
+        "reference": "Revelation 1:6",
+        "original": "Rev. 1:6"
+      },
+      {
+        "reference": "Job 18:14",
+        "original": "Job 18:14"
+      },
+      {
+        "reference": "1 Samuel 8:7",
+        "original": "1 Sam. 8:7"
+      },
+      {
+        "reference": "Isaiah 33:22",
+        "original": "Isa. 33:22"
+      },
+      {
+        "reference": "1 Samuel 8:5",
+        "original": "1 Sam. 8:5"
+      },
+      {
+        "reference": "1 Samuel 10:1",
+        "original": "1 Sam. 10:1"
+      },
+      {
+        "reference": "1 Samuel 10:25",
+        "original": "1 Sam. 10:25"
+      },
+      {
+        "reference": "2 Samuel 8:16",
+        "original": "2 Sam. 8:16"
+      },
+      {
+        "reference": "1 Kings 4:3",
+        "original": "1 Kings 4:3"
+      },
+      {
+        "reference": "2 Samuel 8:17",
+        "original": "2 Sam. 8:17"
+      },
+      {
+        "reference": "2 Samuel 20:25",
+        "original": "2 Sam. 20:25"
+      },
+      {
+        "reference": "Isaiah 22:15",
+        "original": "Isa. 22:15"
+      },
+      {
+        "reference": "1 Kings 4:5",
+        "original": "1 Kings 4:5"
+      },
+      {
+        "reference": "2 Kings 22:14",
+        "original": "2 Kings 22:14"
+      },
+      {
+        "reference": "2 Samuel 20:23",
+        "original": "2 Sam. 20:23"
+      },
+      {
+        "reference": "1 Chronicles 27:25-31",
+        "original": "1 Chr. 27:25-31"
+      },
+      {
+        "reference": "1 Chronicles 27:34",
+        "original": "1 Chr. 27:34"
+      },
+      {
+        "reference": "1 Chronicles 27:32",
+        "original": "1 Chr. 27:32"
+      },
+      {
+        "reference": "2 Samuel 16:20-23",
+        "original": "2 Sam. 16:20-23"
+      },
+      {
+        "reference": "1 Samuel 11:1",
+        "original": "1 Samuel 11:1"
+      },
+      {
+        "reference": "1 Samuel 12:12",
+        "original": "1 Samuel 12:12"
+      },
+      {
+        "reference": "1 Samuel 8:20",
+        "original": "1 Samuel 8:20"
+      },
+      {
+        "reference": "1 Samuel 16:13",
+        "original": "1 Samuel 16:13"
+      },
+      {
+        "reference": "2 Samuel 7:14",
+        "original": "2 Samuel 7:14"
+      },
+      {
+        "reference": "Psalms 2:6",
+        "original": "Psalms 2:6"
+      },
+      {
+        "reference": "Psalms 2:7",
+        "original": "Psalms 2:7"
+      },
+      {
+        "reference": "Psalms 89:26",
+        "original": "Psalms 89:26"
+      },
+      {
+        "reference": "Psalms 89:27",
+        "original": "Psalms 89:27"
+      },
+      {
+        "reference": "1 Kings 22:10",
+        "original": "1 Kings 22:10"
+      },
+      {
+        "reference": "2 Chronicles 18:9",
+        "original": "2 Chronicles 18:9"
+      },
+      {
+        "reference": "2 Samuel 1:10",
+        "original": "2 Samuel 1:10"
+      },
+      {
+        "reference": "2 Samuel 12:30",
+        "original": "2 Samuel 12:30"
+      },
+      {
+        "reference": "2 Kings 11:12",
+        "original": "2 Kings 11:12"
+      },
+      {
+        "reference": "Psalms 21:3",
+        "original": "Psalms 21:3"
+      },
+      {
+        "reference": "1 Samuel 24:8",
+        "original": "1 Samuel 24:8"
+      },
+      {
+        "reference": "2 Samuel 19:24",
+        "original": "2 Samuel 19:24"
+      },
+      {
+        "reference": "1 Kings 1:16",
+        "original": "1 Kings 1:16"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "kingdom-of-god": {
+    "name": "Reino de Dios",
+    "slug": "kingdom-of-god",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Mat. 6:33; Marcos 1:14, 15; Lucas 4:43) = “reino de Cristo” (Mat. 13:41; 20:21) = “reino de Cristo y de Dios” (Efe. 5:5) = “reino de David” (Marcos 11:10) = “el reino” (Mat. 8:12; 13:19) = “reino de cielo” (Mateo 3:2; 4:17; 13:41), todos denotan lo mismo bajo diferentes aspectos, a saber: (1) la autoridad mediadora de Cristo, o su gobierno en la tierra; (2) las bendiciones y ventajas de todo tipo que se derivan de esta regla; (3) los súbditos de este reino tomados colectivamente, o la Iglesia."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 6:33",
+        "original": "Matt. 6:33"
+      },
+      {
+        "reference": "Mark 1:14",
+        "original": "Mark 1:14"
+      },
+      {
+        "reference": "Mark 1:15",
+        "original": "Mark 1:15"
+      },
+      {
+        "reference": "Luke 4:43",
+        "original": "Luke 4:43"
+      },
+      {
+        "reference": "Matthew 13:41",
+        "original": "Matt. 13:41"
+      },
+      {
+        "reference": "Matthew 20:21",
+        "original": "Matt 20:21"
+      },
+      {
+        "reference": "Ephesians 5:5",
+        "original": "Eph. 5:5"
+      },
+      {
+        "reference": "Mark 11:10",
+        "original": "Mark 11:10"
+      },
+      {
+        "reference": "Matthew 8:12",
+        "original": "Matt. 8:12"
+      },
+      {
+        "reference": "Matthew 13:19",
+        "original": "Matt 13:19"
+      },
+      {
+        "reference": "Matthew 3:2",
+        "original": "Matt. 3:2"
+      },
+      {
+        "reference": "Matthew 4:17",
+        "original": "Matt 4:17"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "r"
+  },
+  "kings": {
+    "name": "Reyes",
+    "slug": "kings",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "de Judá e Israel. Para ver la lista, consulte la tabla al final de este volumen."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "kings-first-and-second-books-of": {
+    "name": "Reyes, libros primero y segundo de",
+    "slug": "kings-first-and-second-books-of",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Originalmente sólo un libro en el canon hebreo, de la LXX. y la Vulgata los libros tercero y cuarto de Reyes (siendo los libros de Samuel el primero y el segundo). Debe recordarse que la división entre los libros de Reyes y Samuel es igualmente artificial, y que, de hecho, los libros históricos que comienzan con Jueces y terminan con 2 Reyes presentan la apariencia de una sola obra, que ofrece una historia continua de Israel desde la época de Josué hasta la muerte de Joaquín. Los libros de Reyes contienen la historia desde la muerte de David y el ascenso de Salomón hasta la destrucción del reino de Judá y la desolación de Jerusalén, con una noticia complementaria de un acontecimiento que ocurrió después de un intervalo de veintiséis años (a saber, la liberación de Joaquín de su prisión en Babilonia) y una extensión aún mayor de la muerte de Joaquín, cuyo tiempo se desconoce, pero que probablemente no fue mucho después de su liberación. Por lo tanto, la historia comprende todo el tiempo de la monarquía israelita, excluyendo los reinados de Saúl y David. En lo que respecta a los asuntos de las naciones extranjeras y la relación de Israel con ellas, las notas históricas de estos libros, aunque escasas en épocas anteriores, son muy valiosas y están sorprendentemente de acuerdo con las últimas incorporaciones a nuestro conocimiento de la historia profana contemporánea. Una ayuda muy importante para una comprensión correcta de la historia de estos libros y para completar su esquema se puede encontrar en los profetas, y especialmente en Isaías y Jeremías. Momento en que se escribieron — Sin duda fueron escritos durante el período del cautiverio, probablemente después del año veintiséis. Autoría.—En cuanto a la autoría de los libros, se presentan pocas dificultades. La tradición judía que los atribuye a Jeremías se ve confirmada por la evidencia interna más fuerte, además de la del idioma. Fuentes de información.—Había una serie regular de anales estatales tanto para el reino de Judá como para el de Israel, que abarcaba todo el tiempo comprendido en los libros de los Reyes, o al menos hasta el final del reinado de Joacim. (2 Reyes 24:5) Estos anales se citan constantemente por su nombre como “el libro de los hechos de Salomón” (1 Reyes 11:41) y después de Salomón “el libro de las Crónicas de los reyes de Judá” o “Israel”, p. (1 Reyes 14:29; 15:7; 16:5,14,20; 2 Reyes 10:34; 24:5), etc.; y es manifiesto que el autor de Reyes los tuvo ante sí a ambos mientras redactaba su historia, en la que se armonizan los reinados de los dos reinos y se apela constantemente a estos anales. Pero además de estos anales nacionales, también existían, en el momento en que se compilaron los libros de los Reyes, obras separadas de los diversos profetas que habían vivido en Judá e Israel. Autoridad.—Como su autoridad canónica nunca ha sido cuestionada, es innecesario presentar los testimonios de su autenticidad que se pueden encontrar en Josefo, Eusebio, Jerónimo, Agustín, etc. Se cuentan entre los profetas, en la triple división de las Sagradas Escrituras; una posición de acuerdo con la suposición de que fueron compilados por Jeremías y contienen las narrativas de los diferentes profetas sucesivamente. Son citados frecuentemente por nuestro Señor y por los apóstoles."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 24:5",
+        "original": "2 Kings 24:5"
+      },
+      {
+        "reference": "1 Kings 11:41",
+        "original": "1 Kings 11:41"
+      },
+      {
+        "reference": "1 Kings 14:29",
+        "original": "1 Kings 14:29"
+      },
+      {
+        "reference": "1 Kings 15:7",
+        "original": "1 Kings 15:7"
+      },
+      {
+        "reference": "1 Kings 16:5",
+        "original": "1 Kings 16:5"
+      },
+      {
+        "reference": "1 Kings 16:14",
+        "original": "1 Kings 16:14"
+      },
+      {
+        "reference": "1 Kings 16:20",
+        "original": "1 Kings 16:20"
+      },
+      {
+        "reference": "2 Kings 10:34",
+        "original": "2 Kings 10:34"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "kings-the-books-of": {
+    "name": "Reyes, Los libros de",
+    "slug": "kings-the-books-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Los dos libros de Reyes formaban originalmente un solo libro en las Escrituras Hebreas. La actual división en dos libros fue hecha por primera vez por la LXX, que ahora, con la Vulgata, los enumera como el tercer y cuarto libro de Reyes, siendo los dos libros de Samuel el primero y el segundo libro de Reyes. Contienen los anales de la comunidad judía desde el ascenso de Salomón hasta la subyugación del reino por Nabucodonosor y los babilonios (aparentemente un período de unos cuatrocientos cincuenta y tres años). Los libros de Crónicas (q.v.) son más completos en su contenido que los de Reyes. Estos últimos se sincronizan con 1 Cr. 28-2 Cr. 36:21. Mientras que en Crónicas se le da mayor prominencia al oficio sacerdotal o levítico, en Reyes se le da mayor prominencia al real. La autoría de estos libros es incierta. Hay algunas porciones de ellos y de Jeremías que son casi idénticas, por ejemplo, 2 Reyes 24:18-25 y Jer. 52; 39:1-10; 40:7-41:10. También hay muchas coincidencias no deseadas entre Jeremías y Reyes (2 Reyes 21-23 y Jer. 7:15; 15:4; 19:3, etc.), y eventos registrados en Reyes de los cuales Jeremías tenía conocimiento personal. Estos hechos respaldan hasta cierto punto la tradición de que Jeremías fue el autor de los libros de Reyes. Pero la suposición más probable es que Esdras, después del cautiverio, los recopiló a partir de documentos escritos quizás por David, Salomón, Natán, Gad e Iddo, y que los ordenó en el orden en que existen ahora. En la triple división de las Escrituras por parte de los judíos, estos libros se clasifican entre los \"Profetas\". Nuestro Señor y sus apóstoles los citan o aluden con frecuencia (Mateo 6:29; 12:42; Lucas 4:25, 26; 10:4; comp. 2 Reyes 4:29; Marcos 1:6; comp. 2 Reyes 1:8; Mateo 3:4, etc.). Las fuentes de la narración se refieren a (1) “el libro de los hechos de Salomón” (1 Reyes 11:41); (2) el “libro de las crónicas de los reyes de Judá” (14:29; 15:7, 23, etc.); (3) el “libro de las crónicas de los reyes de Israel” (14:19; 15:31; 16:14, 20, 27, etc.). La fecha de su composición fue algún tiempo entre a.C. 561, la fecha del último capítulo (2 Reyes 25), cuando Joaquín fue liberado del cautiverio por Evil-merodac, y B.C. 538, fecha del decreto de liberación de Ciro."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 28",
+        "original": "1 Chr. 28"
+      },
+      {
+        "reference": "2 Chronicles 36:21",
+        "original": "2 Chr. 36:21"
+      },
+      {
+        "reference": "2 Kings 24:18-25",
+        "original": "2 Kings 24:18-25"
+      },
+      {
+        "reference": "Jeremiah 52",
+        "original": "Jer. 52"
+      },
+      {
+        "reference": "Jeremiah 39:1-10",
+        "original": "Jer 39:1-10"
+      },
+      {
+        "reference": "Jeremiah 40:7-41:10",
+        "original": "Jer 40:7-41:10"
+      },
+      {
+        "reference": "2 Kings 21",
+        "original": "2 Kings 21"
+      },
+      {
+        "reference": "Jeremiah 7:15",
+        "original": "Jer. 7:15"
+      },
+      {
+        "reference": "Jeremiah 15:4",
+        "original": "Jer 15:4"
+      },
+      {
+        "reference": "Jeremiah 19:3",
+        "original": "Jer 19:3"
+      },
+      {
+        "reference": "Matthew 6:29",
+        "original": "Matt. 6:29"
+      },
+      {
+        "reference": "Matthew 12:42",
+        "original": "Matt 12:42"
+      },
+      {
+        "reference": "Luke 4:25",
+        "original": "Luke 4:25"
+      },
+      {
+        "reference": "Luke 4:26",
+        "original": "Luke 4:26"
+      },
+      {
+        "reference": "2 Kings 4:29",
+        "original": "2 Kings 4:29"
+      },
+      {
+        "reference": "Mark 1:6",
+        "original": "Mark 1:6"
+      },
+      {
+        "reference": "2 Kings 1:8",
+        "original": "2 Kings 1:8"
+      },
+      {
+        "reference": "Matthew 3:4",
+        "original": "Matt. 3:4"
+      },
+      {
+        "reference": "1 Kings 11:41",
+        "original": "1 Kings 11:41"
+      },
+      {
+        "reference": "2 Kings 25",
+        "original": "2 Kings 25"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "r"
+  },
+  "log": {
+    "name": "Registro",
+    "slug": "log",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La medida más pequeña para líquidos utilizada por los hebreos (Lev. 14:10, 12, 15, 21, 24), llamada en la Vulgata sextarius. Es la unidad hebrea de medida de capacidad y es igual al contenido de seis huevos de gallina comunes, es decir, la duodécima parte de un él, o casi una pinta."
+      },
+      {
+        "source": "SMI",
+        "text": "[Pesos Y Medidas Y Medidas]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 14:10",
+        "original": "Lev. 14:10"
+      },
+      {
+        "reference": "Leviticus 14:12",
+        "original": "Lev 14:12"
+      },
+      {
+        "reference": "Leviticus 14:15",
+        "original": "Lev 14:15"
+      },
+      {
+        "reference": "Leviticus 14:21",
+        "original": "Lev 14:21"
+      },
+      {
+        "reference": "Leviticus 14:24",
+        "original": "Lev 14:24"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "metals": {
+    "name": "Rieles",
+    "slug": "metals",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Los hebreos, al igual que otras naciones antiguas, conocían casi todos los metales conocidos por la metalurgia moderna, ya fuera como productos de su propio suelo o como resultado de las relaciones con extranjeros. Una de las primeras definiciones geográficas es la que describe el país de Havilah como la tierra que abundaba en oro y cuyo oro era bueno. (Génesis 2:11-12) “Abram era muy rico en ganado, en plata y en oro” (Génesis 13:2), siendo la plata, como se mostrará más adelante, el medio de comercio, mientras que el oro existía en forma de adornos, durante las edades patriarcales. Se menciona por primera vez el estaño (Números 31:22) y el plomo se utiliza para realzar las imágenes del cántico triunfal de Moisés. (Éxodo 15:10.) No se sabe si los antiguos hebreos conocían el acero, propiamente dicho; las palabras así traducidas en la versión autorizada (2 Samuel 22:35; Job 20:24; Salmo 18:34; Jeremias 15:12) en todos los demás pasajes se traducen como latón, y sería más correctamente cobre. Se cree que el “hierro del norte” de (Jeremías 15:12) corresponde más bien a lo que llamamos acero [Acero]. Se supone que los hebreos usaban la mezcla de cobre y estaño conocida como bronce. Los hebreos obtenían su principal abastecimiento del sur de Arabia y del comercio del Golfo Pérsico. (Josué 7:21.) La gran abundancia de oro en los primeros tiempos queda demostrada por el hecho de que formaba parte de todos los artículos de adorno y de casi todos los de uso doméstico. Entre el botín de los madianitas tomado por los israelitas en su victoria incruenta cuando Balaam fue asesinado se encontraban aretes y joyas por la cantidad de 16.750 siclos de oro (Números 31:48-54), equivalentes en valor a más de 000. Solamente el ejército de Gedeón tomó mil setecientos siclos de oro (con un valor de más de 1.000) en joyas para la nariz (la versión autorizada “aretes”) de los madianitas masacrados. (Jueces 8:26.) Pero la cantidad de tesoro que David acumuló a partir del botín obtenido en la guerra es tan enorme que nos sentimos tentados a concluir que las cifras son exageradas. Aunque el oro era común, la plata parece haber sido el medio habitual de comercio. La primera transacción comercial de la que poseemos detalles fue la compra del campo de Efrón por parte de Abraham por 400 siclos de plata. (Génesis 23:16.) La acumulación de riqueza durante el reinado de Salomón fue tan grande que la plata era poco estimada. (1 Reyes 10:21,27) El latón, o más propiamente el cobre, era un producto nativo de Palestina. (8:9; Job 28:2) Era abundante en los días de Salomón, y la cantidad empleada en el templo no se podía estimar, era tan grande. (1 Reyes 7:47) No se encuentra ninguna alusión al zinc; pero el estaño era bien conocido. Las armas (2 Samuel 21:16; Job 20:24; Salmo 18:34) y las armaduras (1 Samuel 17:5,6,38) estaban hechas de cobre, que podía ser trabajado de tal manera que admitiera un borde afilado y duro. El hierro, al igual que el cobre, se encontró en las colinas de Palestina. Los habitantes de Kefr Hunch, en la zona buscada del valle de Zaharani, todavía explotan las minas de hierro."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 2:11-12",
+        "original": "Genesis 2:11-12"
+      },
+      {
+        "reference": "Genesis 13:2",
+        "original": "Genesis 13:2"
+      },
+      {
+        "reference": "Numbers 31:22",
+        "original": "Numbers 31:22"
+      },
+      {
+        "reference": "Exodus 15:10",
+        "original": "Exodus 15:10"
+      },
+      {
+        "reference": "2 Samuel 22:35",
+        "original": "2 Samuel 22:35"
+      },
+      {
+        "reference": "Job 20:24",
+        "original": "Job 20:24"
+      },
+      {
+        "reference": "Psalms 18:34",
+        "original": "Psalms 18:34"
+      },
+      {
+        "reference": "Jeremiah 15:12",
+        "original": "Jeremiah 15:12"
+      },
+      {
+        "reference": "Joshua 7:21",
+        "original": "Joshua 7:21"
+      },
+      {
+        "reference": "Numbers 31:48-54",
+        "original": "Numbers 31:48-54"
+      },
+      {
+        "reference": "Judges 8:26",
+        "original": "Judges 8:26"
+      },
+      {
+        "reference": "Genesis 23:16",
+        "original": "Genesis 23:16"
+      },
+      {
+        "reference": "1 Kings 10:21",
+        "original": "1 Kings 10:21"
+      },
+      {
+        "reference": "1 Kings 10:27",
+        "original": "1 Kings 10:27"
+      },
+      {
+        "reference": "Job 28:2",
+        "original": "Job 28:2"
+      },
+      {
+        "reference": "1 Kings 7:47",
+        "original": "1 Kings 7:47"
+      },
+      {
+        "reference": "2 Samuel 21:16",
+        "original": "2 Samuel 21:16"
+      },
+      {
+        "reference": "1 Samuel 17:5",
+        "original": "1 Samuel 17:5"
+      },
+      {
+        "reference": "1 Samuel 17:6",
+        "original": "1 Samuel 17:6"
+      },
+      {
+        "reference": "1 Samuel 17:38",
+        "original": "1 Samuel 17:38"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "mincing": {
+    "name": "Remilgado",
+    "slug": "mincing",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. taphoph, Isa. 3:16), dando pasos afectados, cortos y rápidos. Lutero traduce la palabra como “meneo” o “meneo”, representando así “el andar afectado de las mujeres coquetas”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 3:16",
+        "original": "Isa. 3:16"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "r"
+  },
+  "mouse": {
+    "name": "Ratón",
+    "slug": "mouse",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "heb. 'akhbar, \"rápido excavador\"), propiamente el lirón, el ratón de campo (1 Sam. 6:4). En Lev. 11:29, Isaías. 66:17 esta palabra se usa genéricamente e incluye el jerbo (Mus jaculus), la rata y el hámster (Cricetus), que, aunque declarados animales inmundos, fueron comidos por los árabes y todavía son comidos por los beduinos. Se dice que no menos de veintitrés especies de este grupo (‘akhbar=árabe ferah) de animales habitan Palestina. Dios “destruyó” al pueblo de Asdod con la terrible visita de los ratones de campo, que son como langostas en sus efectos destructivos (1 Sam. 6:4, 11, 18). Heródoto, el historiador griego, explica la destrucción del ejército de Senaquerib (2 Reyes 19:35) diciendo que durante la noche miles de ratones invadieron el campamento y mordieron las cuerdas de los arcos, las aljabas y los escudos, dejando así a los asirios indefensos. (Ver SENACHERIB.)"
+      },
+      {
+        "source": "SMI",
+        "text": "(el comedor de maíz). El nombre de este animal aparece en (Levítico 11:29; 1 Samuel 6:4,5; Isaías 66:17). La palabra hebrea es con toda probabilidad genérica y no pretende denotar ninguna especie particular de ratón. La palabra original denota un devastador de campos y, por lo tanto, puede comprender cualquier roedor destructivo. Tristram encontró veintitrés especies de ratones en Palestina. Es probable que en (1 Samuel 6:5) la expresión “los ratones que estropean la tierra” incluya y se refiera más particularmente a los ratones de campo de cola corta (Arvicola agrestis, Flem.), que causan gran destrucción a las tierras de maíz de Siria."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 6:4",
+        "original": "1 Sam. 6:4"
+      },
+      {
+        "reference": "Leviticus 11:29",
+        "original": "Lev. 11:29"
+      },
+      {
+        "reference": "Isaiah 66:17",
+        "original": "Isa. 66:17"
+      },
+      {
+        "reference": "1 Samuel 6:11",
+        "original": "1 Sam. 6:11"
+      },
+      {
+        "reference": "1 Samuel 6:18",
+        "original": "1 Sam. 6:18"
+      },
+      {
+        "reference": "2 Kings 19:35",
+        "original": "2 Kings 19:35"
+      },
+      {
+        "reference": "1 Samuel 6:5",
+        "original": "1 Samuel 6:5"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
+  },
+  "nagge": {
+    "name": "regañar",
+    "slug": "nagge",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Iluminador, uno de los antepasados ​​de Cristo en la línea materna (Lucas 3:25)."
+      },
+      {
+        "source": "SMI",
+        "text": "uno de los antepasados ​​de Cristo. (Lucas 3:25) Ver [Naggai]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 3:25",
+        "original": "Luke 3:25"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "r"
   }
 }

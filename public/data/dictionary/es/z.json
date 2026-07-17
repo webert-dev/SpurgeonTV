@@ -160,5 +160,70 @@
       "SMI"
     ],
     "letter": "z"
+  },
+  "fox": {
+    "name": "Zorro",
+    "slug": "fox",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(heb. shu’al, nombre derivado de su excavación o excavación bajo tierra), el Vulpes thaleb, o zorro sirio, la única especie de este animal autóctono de Palestina. Excava, es silencioso y solitario en sus hábitos, es destructor de las viñas, siendo saqueador de las uvas maduras (Cant. 2:15). El Vulpes Niloticus, o zorro perro egipcio, y el Vulpes vulgaris, o zorro común, también se encuentran en Palestina. En Ezek se alude a la proverbial astucia del zorro. 13:4, y en Lucas 13:32, donde nuestro Señor llama a Herodes \"ese zorro\". En Jue. 15:4, 5, la referencia es con toda probabilidad al chacal. La palabra hebrea shu’al_ a través del persa _schagal se convierte en nuestro chacal (Canis aureus), de modo que la palabra puede tener ese significado aquí. Las razones para preferir la traducción “chacal” son (1) que es más fácil atraparlo que el zorro; (2) que el zorro es tímido y desconfiado, y huye de la humanidad, mientras que el chacal no; y (3) que los zorros son difíciles, y los chacales comparativamente fáciles, de tratar en la forma aquí descrita. Los chacales cazan en grandes cantidades y todavía son muy numerosos en el sur de Palestina."
+      },
+      {
+        "source": "SMI",
+        "text": "(Heb. shu'al). Probablemente el chacal sea el animal al que se alude en casi todos los pasajes del Antiguo Testamento donde aparece el término hebreo. Aunque tanto los zorros como los chacales abundan en Palestina, los shu'alim (zorros) de (Jueces 15:4) son evidentemente chacales y no zorros, porque el primer animal es gregario, mientras que el segundo es solitario en sus hábitos; y Sansón no habría podido, por esa razón, haber cazado fácilmente trescientos zorros, pero sí le fue fácil cazar ese número de chacales, que están escondidos por centenares en cuevas y ruinas de Siria. Sin embargo, no es probable que Sansón enviara a los trescientos a la vez. Con respecto a los chacales y zorros de Palestina, no hay duda de que el chacal común del país es el Canis aureus, que se puede escuchar todas las noches en los pueblos. Es como un perro de tamaño mediano, con cabeza de lobo y de color amarillo brillante. Estas bestias devoran los cuerpos de los muertos e incluso los desentierran de sus tumbas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Song of Solomon 2:15",
+        "original": "Cant. 2:15"
+      },
+      {
+        "reference": "Ezekiel 13:4",
+        "original": "Ezek. 13:4"
+      },
+      {
+        "reference": "Luke 13:32",
+        "original": "Luke 13:32"
+      },
+      {
+        "reference": "Judges 15:4",
+        "original": "Judg. 15:4"
+      },
+      {
+        "reference": "Judges 15:5",
+        "original": "Judg. 15:5"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "z"
+  },
+  "left-handed": {
+    "name": "Zurdo",
+    "slug": "left-handed",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Jue. 3:15; 20:16), alguien incapaz de usar la mano derecha con habilidad, y que por lo tanto usa la izquierda; y también aquel que utiliza tanto la izquierda como la derecha, ambidextro. Esta condición de las manos se debe a causas físicas. Esta cualidad aparentemente era común en la tribu de Benjamín."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 3:15",
+        "original": "Judg. 3:15"
+      },
+      {
+        "reference": "Judges 20:16",
+        "original": "Judg 20:16"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "z"
   }
 }

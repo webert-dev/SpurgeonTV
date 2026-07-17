@@ -575,5 +575,1148 @@
       "SMI"
     ],
     "letter": "s"
+  },
+  "chief-priest": {
+    "name": "Sumo sacerdote",
+    "slug": "chief-priest",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ver SACERDOTE."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
+  },
+  "couch": {
+    "name": "Sofá",
+    "slug": "couch",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Gén. 49:4; 1 Cr. 5:1; Job 7:13; Sal. 6:6, etc.), un asiento para reposo o descanso. (Ver CAMA.)"
+      },
+      {
+        "source": "SMI",
+        "text": "[Cama]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 49:4",
+        "original": "Gen. 49:4"
+      },
+      {
+        "reference": "1 Chronicles 5:1",
+        "original": "1 Chr. 5:1"
+      },
+      {
+        "reference": "Job 7:13",
+        "original": "Job 7:13"
+      },
+      {
+        "reference": "Psalms 6:6",
+        "original": "Ps. 6:6"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "s"
+  },
+  "daily-sacrifice": {
+    "name": "Sacrificio diario",
+    "slug": "daily-sacrifice",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Dan. 8:12; 11:31; 12:11), un holocausto de dos corderos de un año, que eran sacrificados diariamente en nombre de todo el pueblo israelita sobre el gran altar, el primero al amanecer del día y el segundo al anochecer (Dan. 9:21), o más correctamente, \"entre las dos tardes\". (Ver SACRIFICIO.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Daniel 8:12",
+        "original": "Dan. 8:12"
+      },
+      {
+        "reference": "Daniel 11:31",
+        "original": "Dan 11:31"
+      },
+      {
+        "reference": "Daniel 12:11",
+        "original": "Dan 12:11"
+      },
+      {
+        "reference": "Daniel 9:21",
+        "original": "Dan. 9:21"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
+  },
+  "dream": {
+    "name": "Sueño",
+    "slug": "dream",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Dios se ha servido frecuentemente de los sueños para comunicar su voluntad a los hombres. Los ejemplos más notables de esto se registran en la historia de Jacob (Gén. 28:12; 31:10), Labán (31:24), José (37:9-11), Gedeón (Jue. 7) y Salomón (1 Reyes 3:5). También se registran otros sueños importantes, como los de Abimelec (Gén. 20:3-7), el mayordomo y panadero de Faraón (40:5), el Faraón (41:1-8), los madianitas (Jue. 7:13), Nabucodonosor (Dan. 2:1; 4:10, 18), los magos del oriente (Mat. 2:12), y el de Pilato. esposa (27:19). A José “el Señor se le apareció en sueños” y le dio instrucciones acerca del niño Jesús (Mat. 1:20; 2:12, 13, 19). En una visión nocturna, un “hombre de Macedonia” se presentó ante Pablo y le dijo: “Ven a Macedonia y ayúdanos” (Hechos 16:9; ver también 18:9; 27:23)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 28:12",
+        "original": "Gen. 28:12"
+      },
+      {
+        "reference": "Genesis 31:10",
+        "original": "Gen 31:10"
+      },
+      {
+        "reference": "Judges 7",
+        "original": "Judg. 7"
+      },
+      {
+        "reference": "1 Kings 3:5",
+        "original": "1 Kings 3:5"
+      },
+      {
+        "reference": "Genesis 20:3-7",
+        "original": "Gen. 20:3-7"
+      },
+      {
+        "reference": "Judges 7:13",
+        "original": "Judg. 7:13"
+      },
+      {
+        "reference": "Daniel 2:1",
+        "original": "Dan. 2:1"
+      },
+      {
+        "reference": "Daniel 4:10",
+        "original": "Dan 4:10"
+      },
+      {
+        "reference": "Daniel 4:18",
+        "original": "Dan 4:18"
+      },
+      {
+        "reference": "Matthew 2:12",
+        "original": "Matt. 2:12"
+      },
+      {
+        "reference": "Matthew 1:20",
+        "original": "Matt. 1:20"
+      },
+      {
+        "reference": "Matthew 2:13",
+        "original": "Matt 2:13"
+      },
+      {
+        "reference": "Matthew 2:19",
+        "original": "Matt 2:19"
+      },
+      {
+        "reference": "Acts 16:9",
+        "original": "Acts 16:9"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
+  },
+  "dreams": {
+    "name": "Sueños",
+    "slug": "dreams",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "La Escritura declara que la influencia del Espíritu de Dios sobre el alma se extiende tanto a sus pensamientos durante el sueño como a los de la vigilia. Pero, de acuerdo con el principio enunciado por San Pablo en (1 Corintios 14,15), los sueños, en los que el entendimiento está dormido, se colocan por debajo de las visiones de profecía, en las que el entendimiento desempeña su papel. Bajo la dispensación cristiana, si bien leemos con frecuencia sobre trances y visiones, nunca se hace referencia a los sueños como vehículos de la revelación divina. En exacta conformidad con este principio están los registros reales de los sueños enviados por Dios. La mayor parte de tales sueños fueron concedidos, como predicción o como advertencia, a aquellos que eran ajenos al pacto judío. Y cuando los sueños se registran como medio de la revelación de Dios a sus siervos elegidos, casi siempre se hacen referencia a los períodos de su conocimiento más temprano e imperfecto de él. Entre los judíos, \"si alguna persona tenía un sueño que era particularmente sorprendente y significativo, se le permitía ir al sumo sacerdote de una manera peculiar, y ver si tenía alguna importancia especial. Pero la observancia de los sueños ordinarios y la consulta de aquellos que pretenden tener habilidad en su interpretación están repetidamente prohibidas. (13:1-5; 18:9-14)—Schaff."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Corinthians 14:15",
+        "original": "1 Corinthians 14:15"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "s"
+  },
+  "drought": {
+    "name": "Sequía",
+    "slug": "drought",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Desde mediados de mayo hasta aproximadamente mediados de agosto la tierra de Palestina está seca. Entonces es la “sequía del verano” (Gén. 31:40; Sal. 32:4), y la tierra sufre (Deut. 28:23: Sal. 102:4), siendo la vegetación preservada sólo por el rocío (Hag. 1:11). (Ver ROCÍO)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 31:40",
+        "original": "Gen. 31:40"
+      },
+      {
+        "reference": "Psalms 32:4",
+        "original": "Ps. 32:4"
+      },
+      {
+        "reference": "Deuteronomy 28:23",
+        "original": "Deut. 28:23"
+      },
+      {
+        "reference": "Psalms 102:4",
+        "original": "Ps. 102:4"
+      },
+      {
+        "reference": "Haggai 1:11",
+        "original": "Hag. 1:11"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
+  },
+  "earnest": {
+    "name": "Serio",
+    "slug": "earnest",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El Espíritu es la arras de la herencia destinada al creyente (2 Cor. 1:22; 5:5; Ef. 1:14). La palabra así traducida es la misma que se traduce “promesa” en Génesis 38:17-20; \"De hecho, la palabra hebrea simplemente pasó a los idiomas griego y latino, probablemente a través de tratos comerciales con los fenicios, los grandes comerciantes de la antigüedad. Originalmente no significaba más que una prenda; pero en el uso común llegó a denotar ese tipo particular de prenda que es una parte del precio total de un artículo pagado por adelantado; y como se une a la figura de un sello cuando se aplica al Espíritu, parece ser utilizada por Pablo en este sentido específico\". La presencia llena de gracia del Espíritu y su obra en los creyentes es para ellos un anticipo de la bienaventuranza del cielo. Dios se complace en dar no sólo promesas sino también anticipos de futuras bienaventuranzas."
+      },
+      {
+        "source": "SMI",
+        "text": "(2 Corintios 1:22; 5:5; Efesios 1:14) La palabra hebrea se usaba generalmente para prenda (Génesis 38:17) y en sus formas afines para garantía (Proverbios 17:18) y rehén. (2 Reyes 14:14.) Sin embargo, la derivada griega adquirió un sentido más técnico al significar el depósito pagado por el comprador al celebrar un acuerdo para la compra de cualquier cosa. En el Nuevo Testamento la palabra se usa para significar la prenda o arras de las bendiciones superiores de la vida futura."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Corinthians 1:22",
+        "original": "2 Cor. 1:22"
+      },
+      {
+        "reference": "2 Corinthians 5:5",
+        "original": "2 Cor. 5:5"
+      },
+      {
+        "reference": "Ephesians 1:14",
+        "original": "Eph. 1:14"
+      },
+      {
+        "reference": "Genesis 38:17-20",
+        "original": "Gen. 38:17-20"
+      },
+      {
+        "reference": "Genesis 38:17",
+        "original": "Genesis 38:17"
+      },
+      {
+        "reference": "Proverbs 17:18",
+        "original": "Proverbs 17:18"
+      },
+      {
+        "reference": "2 Kings 14:14",
+        "original": "2 Kings 14:14"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "s"
+  },
+  "frying-pan": {
+    "name": "sartén",
+    "slug": "frying-pan",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. marhesheth, “caldera”), una olla para hervir carne (Levítico 2:7; 7:9)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 2:7",
+        "original": "Lev. 2:7"
+      },
+      {
+        "reference": "Leviticus 7:9",
+        "original": "Lev 7:9"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
+  },
+  "furrow": {
+    "name": "Surco",
+    "slug": "furrow",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una abertura en la tierra hecha por el arado (Sal. 65:10; Os. 10:4, 10)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 65:10",
+        "original": "Ps. 65:10"
+      },
+      {
+        "reference": "Hosea 10:4",
+        "original": "Hos. 10:4"
+      },
+      {
+        "reference": "Hosea 10:10",
+        "original": "Hos 10:10"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
+  },
+  "grasshopper": {
+    "name": "Saltamontes",
+    "slug": "grasshopper",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Pertenece a la clase de insectos neurópteros llamados Gryllidae. Este insecto no es desconocido en Palestina. En Jue. 6:5; 7:12; Trabajo 39:30; Jer. 46:23, donde la versión autorizada dice \"saltamontes\", la versión revisada traduce más correctamente la palabra hebrea ('arbeh) por \"langosta\". Este es el caso también en Amós 7:1; No. 3:17, donde se usa la palabra hebrea gob; y en Lev. 11:22; Núm. 13:33; Ecl. 12:5; Isa. 40:22, donde se usa hagab. En todos estos casos, la traducción adecuada probablemente sea “langosta” (q.v.)."
+      },
+      {
+        "source": "SMI",
+        "text": "[Langosta]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 6:5",
+        "original": "Judg. 6:5"
+      },
+      {
+        "reference": "Judges 7:12",
+        "original": "Judg 7:12"
+      },
+      {
+        "reference": "Job 39:30",
+        "original": "Job 39:30"
+      },
+      {
+        "reference": "Jeremiah 46:23",
+        "original": "Jer. 46:23"
+      },
+      {
+        "reference": "Amos 7:1",
+        "original": "Amos 7:1"
+      },
+      {
+        "reference": "Nahum 3:17",
+        "original": "Nah. 3:17"
+      },
+      {
+        "reference": "Leviticus 11:22",
+        "original": "Lev. 11:22"
+      },
+      {
+        "reference": "Numbers 13:33",
+        "original": "Num. 13:33"
+      },
+      {
+        "reference": "Ecclesiastes 12:5",
+        "original": "Eccl. 12:5"
+      },
+      {
+        "reference": "Isaiah 40:22",
+        "original": "Isa. 40:22"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "s"
+  },
+  "hall": {
+    "name": "Sala",
+    "slug": "hall",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Gr. aule, Lucas 22:55; R.V., “atrio”), el patio abierto o cuadrilátero perteneciente a la casa del sumo sacerdote. En Mate. 26:69 y Marcos 14:66 esta palabra se traduce incorrectamente como “palacio” en la versión autorizada, pero correctamente como “corte” en la versión revisada. En Juan 10:1, 16 significa “redil de ovejas”. En Mate. 27:27 y Marcos 15:16 (A.V., “salón común”; R.V., “palacio”) se refiere al proetorio o residencia del gobernador romano en Jerusalén. El \"pórtico\" en Matt. 26:71 es el vestíbulo o pasillo que conduce al atrio central, que está abierto al cielo."
+      },
+      {
+        "source": "SMI",
+        "text": "usado del atrio de la casa del sumo sacerdote. (Lucas 22:55) En (Mateo 27:27) y Marcos 15:16 “sala” es sinónimo de “pretorio”, que en (Juan 18:28) es en la versión autorizada “sala del juicio”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 22:55",
+        "original": "Luke 22:55"
+      },
+      {
+        "reference": "Matthew 26:69",
+        "original": "Matt. 26:69"
+      },
+      {
+        "reference": "Mark 14:66",
+        "original": "Mark 14:66"
+      },
+      {
+        "reference": "John 10:1",
+        "original": "John 10:1"
+      },
+      {
+        "reference": "John 10:16",
+        "original": "John 10:16"
+      },
+      {
+        "reference": "Matthew 27:27",
+        "original": "Matt. 27:27"
+      },
+      {
+        "reference": "Mark 15:16",
+        "original": "Mark 15:16"
+      },
+      {
+        "reference": "Matthew 26:71",
+        "original": "Matt. 26:71"
+      },
+      {
+        "reference": "John 18:28",
+        "original": "John 18:28"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "s"
+  },
+  "hallow": {
+    "name": "Santificar",
+    "slug": "hallow",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Hacer sagrado, consagrar (Éxodo 28:38; 29:1). Esta palabra proviene del sajón y propiamente significa \"hacer santo\". El nombre de Dios es “santificado”, es decir, es reverenciado como santo (Mateo 6:9)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 28:38",
+        "original": "Ex. 28:38"
+      },
+      {
+        "reference": "Exodus 29:1",
+        "original": "Ex 29:1"
+      },
+      {
+        "reference": "Matthew 6:9",
+        "original": "Matt. 6:9"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
+  },
+  "handmaid": {
+    "name": "sirvienta",
+    "slug": "handmaid",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Siervo (Gén. 16:1; Rut 3:9; Lucas 1:48). Es probable que Agar fuera la asistente personal de Sara mientras ella estaba en la casa de Faraón, y estuviera entre las sirvientas que Abram había traído de Egipto."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 16:1",
+        "original": "Gen. 16:1"
+      },
+      {
+        "reference": "Ruth 3:9",
+        "original": "Ruth 3:9"
+      },
+      {
+        "reference": "Luke 1:48",
+        "original": "Luke 1:48"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
+  },
+  "hat": {
+    "name": "Sombrero",
+    "slug": "hat",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Caldo. karb’ela, (Dan. 3:21), propiamente manto o palio. La versión revisada lo traduce como \"túnica\"."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Daniel 3:21",
+        "original": "Dan. 3:21"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
+  },
+  "high-priest": {
+    "name": "Sumo sacerdote",
+    "slug": "high-priest",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Aarón fue el primero en ser apartado solemnemente para este oficio (Éxodo 29:7; 30:23; Levítico 8:12). Llevaba una vestimenta peculiar, que a su muerte pasó a su sucesor en el cargo (Éxodo 29:29, 30). Además de las prendas que usaba en común con todos los sacerdotes, había cuatro que eran peculiares de él como sumo sacerdote: (1.) La “túnica” del efod, toda azul, de “trabajo tejido”, que se usaba inmediatamente debajo del efod. Estaba sin costura ni mangas. El dobladillo o falda estaba adornado con granadas y campanillas doradas, setenta y dos de cada uno en orden alternativo. El sonido de las campanas insinuó al pueblo en el atrio exterior el momento en que el sumo sacerdote entraba en el lugar santo para quemar incienso delante del Señor (Éxodo 28). (2.) El “efod” constaba de dos partes, una de las cuales cubría la espalda y la otra el pecho, que estaban unidas por el “curioso cinto”. Estaba hecho de lino fino torcido y adornado con oro y púrpura. Cada una de las hombreras estaba adornada con una piedra preciosa, en la que estaban grabados los nombres de las doce tribus. Esta era la vestimenta distintiva del sumo sacerdote (1 Sam. 2:28; 14:3; 21:9; 23:6, 9; 30:7). (3.) La “coraza del juicio” (Éxodo 28:6-12, 25-28; 39:2-7) de la “obra astuta”. Era un trozo de tela doblado, de un palmo cuadrado. Llevaba doce piedras preciosas, colocadas en cuatro filas de tres en fila, que constituían el Urim y Tumim (q.v.). Estas piedras tenían grabados los nombres de las doce tribus. Cuando el sumo sacerdote, vestido con el efod y el pectoral, preguntó al Señor, el Urim y Tumim dieron respuestas de alguna manera misteriosa (1 Sam. 14:3, 18, 19; 23:2, 4, 9, 11, 12; 28:6; 2 Sam. 5:23). (4.) La “mitra”, o turbante superior, una banda retorcida de ocho varas de lino fino enrollada en un gorro, con una placa de oro al frente, grabada con “Santidad al Señor”, sujeta con una cinta azul. Sólo al sumo sacerdote se le permitía entrar al lugar santísimo, lo cual hacía sólo una vez al año, en el gran Día de la Expiación, porque “aún no estaba manifestado el camino al Lugar Santísimo” (Heb. 9; 10). Vestido con sus suntuosas vestiduras sacerdotales, entró al templo delante de todo el pueblo, y luego, dejándolas a un lado y vistiendo en secreto sólo sus vestiduras de lino, entró solo en el lugar santísimo e hizo expiación, rociando la sangre de la ofrenda por el pecado sobre el propiciatorio y ofreciendo incienso. Luego, retomando sus espléndidas vestiduras, reapareció ante el pueblo (Levítico 16). Así, el uso de estas túnicas llegó a identificarse con el Día de la Expiación. El oficio, la vestimenta y el ministerio del sumo sacerdote eran típicos del sacerdocio de nuestro Señor (Heb. 4:14; 7:25; 9:12, etc.). Se supone que hubo en total ochenta y tres sumos sacerdotes, comenzando con Aarón (1657 a.C.) y terminando con Fannias (70 d.C.). En su primera institución, el cargo de sumo sacerdote se desempeñaba de por vida (pero comp. 1 Reyes 2:27) y era hereditario en la familia de Aarón (Números 3:10). El cargo continuó en la línea de Eleazar, el hijo mayor de Aarón, durante doscientos noventa y seis años, cuando pasó a Elí, el primero de la línea de Itamar, que era el cuarto hijo de Aarón. En esta línea continuó hasta Abiatar, a quien Salomón depuso y nombró a Sadoc, de la familia de Eleazar, en su lugar (1 Reyes 2:35), en el que permaneció hasta el momento del cautiverio. Después del regreso, Josué, hijo de Josedec, de la familia de Eleazar, fue designado para este cargo. Después de él, la sucesión cambió de vez en cuando bajo influencias sacerdotales o políticas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 29:7",
+        "original": "Ex. 29:7"
+      },
+      {
+        "reference": "Exodus 30:23",
+        "original": "Ex 30:23"
+      },
+      {
+        "reference": "Leviticus 8:12",
+        "original": "Lev. 8:12"
+      },
+      {
+        "reference": "Exodus 29:29",
+        "original": "Ex. 29:29"
+      },
+      {
+        "reference": "Exodus 29:30",
+        "original": "Ex. 29:30"
+      },
+      {
+        "reference": "Exodus 28",
+        "original": "Ex. 28"
+      },
+      {
+        "reference": "1 Samuel 2:28",
+        "original": "1 Sam. 2:28"
+      },
+      {
+        "reference": "1 Samuel 14:3",
+        "original": "1 Sam. 14:3"
+      },
+      {
+        "reference": "1 Samuel 21:9",
+        "original": "1 Sam. 21:9"
+      },
+      {
+        "reference": "1 Samuel 23:6",
+        "original": "1 Sam. 23:6"
+      },
+      {
+        "reference": "1 Samuel 23:9",
+        "original": "1 Sam. 23:9"
+      },
+      {
+        "reference": "1 Samuel 30:7",
+        "original": "1 Sam. 30:7"
+      },
+      {
+        "reference": "Exodus 28:6-12",
+        "original": "Ex. 28:6-12"
+      },
+      {
+        "reference": "Exodus 28:25-28",
+        "original": "Ex 28:25-28"
+      },
+      {
+        "reference": "Exodus 39:2-7",
+        "original": "Ex 39:2-7"
+      },
+      {
+        "reference": "1 Samuel 14:18",
+        "original": "1 Sam. 14:18"
+      },
+      {
+        "reference": "1 Samuel 14:19",
+        "original": "1 Sam. 14:19"
+      },
+      {
+        "reference": "2 Samuel 5:23",
+        "original": "2 Sam. 5:23"
+      },
+      {
+        "reference": "Hebrews 9",
+        "original": "Heb. 9"
+      },
+      {
+        "reference": "Hebrews 10",
+        "original": "Heb 10"
+      },
+      {
+        "reference": "Leviticus 16",
+        "original": "Lev. 16"
+      },
+      {
+        "reference": "Hebrews 4:14",
+        "original": "Heb. 4:14"
+      },
+      {
+        "reference": "Hebrews 7:25",
+        "original": "Heb 7:25"
+      },
+      {
+        "reference": "Hebrews 9:12",
+        "original": "Heb 9:12"
+      },
+      {
+        "reference": "1 Kings 2:27",
+        "original": "1 Kings 2:27"
+      },
+      {
+        "reference": "Numbers 3:10",
+        "original": "Num. 3:10"
+      },
+      {
+        "reference": "1 Kings 2:35",
+        "original": "1 Kings 2:35"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
+  },
+  "hills": {
+    "name": "Sierras",
+    "slug": "hills",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Del hebreo Gabaa, que significa colina redonda y curva. Pero nuestros traductores también han empleado la misma palabra inglesa para el término muy diferente har, que tiene un sentido mucho más amplio que gibeah, que significa un distrito completo. Por ejemplo, en (Éxodo 24:4) la “colina” es la misma que se encuentra en otras partes del mismo capítulo, versus (Éxodo 24:12,13,18), etc., y el libro traduce de manera consistente y precisa “monte” y “montaña”. La “tierra de las colinas”, en (1:7; Josué 9:1; 10:40; 11:16) es el distrito elevado de Judá, Benjamín y Efraín, que se llama correctamente “la montaña” en las primeras descripciones de Palestina (Números 13:29) y en muchos pasajes posteriores."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 24:4",
+        "original": "Exodus 24:4"
+      },
+      {
+        "reference": "Exodus 24:12",
+        "original": "Exodus 24:12"
+      },
+      {
+        "reference": "Exodus 24:13",
+        "original": "Exodus 24:13"
+      },
+      {
+        "reference": "Exodus 24:18",
+        "original": "Exodus 24:18"
+      },
+      {
+        "reference": "Joshua 9:1",
+        "original": "Joshua 9:1"
+      },
+      {
+        "reference": "Joshua 10:40",
+        "original": "Joshua 10:40"
+      },
+      {
+        "reference": "Joshua 11:16",
+        "original": "Joshua 11:16"
+      },
+      {
+        "reference": "Numbers 13:29",
+        "original": "Numbers 13:29"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "s"
+  },
+  "hiss": {
+    "name": "Silbido",
+    "slug": "hiss",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Para expresar desprecio (Job 27:23). Así se habla de la destrucción del templo (1 Reyes 9:8). Zacarías (10:8) habla de que el Señor reunió a la casa de Judá, por así decirlo, con un silbido: “Silbaré por ellos”. Esta expresión puede “derivarse del ruido que se hace para atraer a las abejas en la colmena, o del sonido que se hace naturalmente para atraer la atención de una persona”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 27:23",
+        "original": "Job 27:23"
+      },
+      {
+        "reference": "1 Kings 9:8",
+        "original": "1 Kings 9:8"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
+  },
+  "hold": {
+    "name": "Sostener",
+    "slug": "hold",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una fortaleza, nombre dado a los escondites de David (1 Sam. 22:4, 5; 24:22)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 22:4",
+        "original": "1 Sam. 22:4"
+      },
+      {
+        "reference": "1 Samuel 22:5",
+        "original": "1 Sam. 22:5"
+      },
+      {
+        "reference": "1 Samuel 24:22",
+        "original": "1 Sam. 24:22"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
+  },
+  "holiness": {
+    "name": "Santidad",
+    "slug": "holiness",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "En el sentido más elevado pertenece a Dios (Isaías 6:3; Apocalipsis 15:4), y a los cristianos como consagrados al servicio de Dios, y en la medida en que están conformados en todas las cosas a la voluntad de Dios (Romanos 6:19, 22; Efesios 1:4; Tito 1:8; 1 Pedro 1:15). La santidad personal es una obra de desarrollo gradual. Se lleva a cabo bajo muchos obstáculos, de ahí las frecuentes advertencias sobre la vigilancia, la oración y la perseverancia (1 Cor. 1:30; 2 Cor. 7:1; Ef. 4:23, 24). (Ver SANTIFICACIÓN.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 6:3",
+        "original": "Isa. 6:3"
+      },
+      {
+        "reference": "Revelation 15:4",
+        "original": "Rev. 15:4"
+      },
+      {
+        "reference": "Romans 6:19",
+        "original": "Rom. 6:19"
+      },
+      {
+        "reference": "Romans 6:22",
+        "original": "Rom 6:22"
+      },
+      {
+        "reference": "Ephesians 1:4",
+        "original": "Eph. 1:4"
+      },
+      {
+        "reference": "Titus 1:8",
+        "original": "Titus 1:8"
+      },
+      {
+        "reference": "1 Peter 1:15",
+        "original": "1 Pet. 1:15"
+      },
+      {
+        "reference": "1 Corinthians 1:30",
+        "original": "1 Cor. 1:30"
+      },
+      {
+        "reference": "2 Corinthians 7:1",
+        "original": "2 Cor. 7:1"
+      },
+      {
+        "reference": "Ephesians 4:23",
+        "original": "Eph. 4:23"
+      },
+      {
+        "reference": "Ephesians 4:24",
+        "original": "Eph 4:24"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
+  },
+  "horse-leech": {
+    "name": "sanguijuela de caballo",
+    "slug": "horse-leech",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ocurre sólo en la Prov. 30:15 (heb. 'alukah); el nombre genérico de cualquier anélido chupador de sangre. Hay diversas especies en los pantanos y estanques de Palestina. El Hoemopis, al que nos referimos aquí, destaca por la dureza de su mordida y, por tanto, no se utiliza con fines médicos. En Oriente se habla de ellos con sentimientos de aversión y horror, debido a su propensión a morder la lengua y las fosas nasales de los caballos cuando vienen a beber de los estanques. La sanguijuela medicinal (Hirudo medicinalis), además de otras especies de sanguijuelas, es común en las aguas de Siria."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Proverbs 30:15",
+        "original": "Prov. 30:15"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
+  },
+  "horseleech": {
+    "name": "sanguijuela",
+    "slug": "horseleech",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "heb. ’alukah, ocurre solo una vez, a saber. (Proverbios 30:16.) No hay duda de que ’alukah denota alguna especie de sanguijuela, o más bien es el término genérico para cualquier anélido chupa sangre."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Proverbs 30:16",
+        "original": "Proverbs 30:16"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "s"
+  },
+  "james-epistle-of": {
+    "name": "Santiago, Epístola de",
+    "slug": "james-epistle-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) El autor de fue Santiago el Menor, hermano del Señor, uno de los doce apóstoles. Era uno de los tres pilares de la Iglesia (Gálatas 2:9). (2.) Estaba dirigido a los judíos de la dispersión, \"las doce tribus esparcidas en el extranjero\". (3.) El lugar y la hora en que se escribió la epístola fueron Jerusalén, donde residía Santiago, y, según la evidencia interna, el período entre los dos encarcelamientos de Pablo en Roma, probablemente alrededor del año 62 d.C. (4.) El objetivo del escritor era hacer cumplir los deberes prácticos de la vida cristiana. “Los vicios judíos contra los cuales les advierte son: el formalismo, que hacía que el servicio de Dios consistiera en lavamientos y ceremonias exteriores, mientras que les recuerda (1:27) que consiste más bien en el amor activo y la pureza; el fanatismo, que, bajo el manto del celo religioso, destrozaba a Jerusalén (1:20); el fatalismo, que arrojaba sus pecados sobre Dios (1:13); la mezquindad, que se agazapaba ante los ricos (2:2); falsedad, que había convertido las palabras y los juramentos en juguetes (3:2-12); partidismo (3:14); hablar mal (4:11); (5:10); y la base de su paciencia es que se acerca la venida del Señor, que corregirá todo lo malo (5:8)”. La “justificación por las obras”, por la que Santiago defiende, es la justificación ante el hombre, la justificación de nuestra profesión de fe por una vida coherente. Pablo defiende la doctrina de la \"justificación por la fe\"; pero eso es justificación ante Dios, ser considerado y aceptado como justo en virtud de la justicia de Cristo, que se recibe por la fe."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Galatians 2:9",
+        "original": "Gal. 2:9"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
+  },
+  "james-the-general-epistle-of": {
+    "name": "Santiago, La Epístola General De",
+    "slug": "james-the-general-epistle-of",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "El autor de esta epístola fue con toda probabilidad Santiago, hijo de Alfeo, y hermano de nuestro Señor. Fue escrita desde Jerusalén, de donde Santiago no parece haber salido nunca. Probablemente fue escrito alrededor del año 62 d.C., durante el intervalo entre los dos encarcelamientos de Pablo. Su objetivo principal no es enseñar doctrina, sino mejorar la moralidad. Santiago es el maestro moral del Nuevo Testamento. Escribió para los cristianos judíos, ya sea en Jerusalén o en el extranjero, para advertirles contra los pecados a los que, como judíos, estaban más expuestos, y para consolarlos y exhortarlos bajo los sufrimientos a los que, como cristianos, estaban más expuestos."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "s"
+  },
+  "judgment-hall": {
+    "name": "sala del juicio",
+    "slug": "judgment-hall",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Gramo. pradera (Juan 18:28, 33; 19:9; Mateo 27:27), “salón común”. En todos estos pasajes la versión revisada traduce \"palacio\". En Marcos 15:16 la palabra se traduce “Praetorium” (q.v.), que es una palabra latina que significa literalmente la residencia del pretor, y luego la residencia del gobernador en general, aunque no un pretor. A lo largo de los Evangelios, la palabra \"praitorion\" tiene este significado (comp. Hechos 23:35). La residencia oficial de Pilato cuando estuvo en Jerusalén probablemente era parte de la fortaleza de Antonia. El juicio de nuestro Señor se llevaba a cabo en una habitación u oficina del palacio. “Todo el grupo” del que habla Marcos estaba reunido en el patio del palacio."
+      },
+      {
+        "source": "SMI",
+        "text": "La palabra pretorio se traduce así cinco veces en la Versión Autorizada del Nuevo Testamento, y en esos cinco pasajes denota dos lugares diferentes."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "John 18:28",
+        "original": "John 18:28"
+      },
+      {
+        "reference": "John 18:33",
+        "original": "John 18:33"
+      },
+      {
+        "reference": "Matthew 27:27",
+        "original": "Matt. 27:27"
+      },
+      {
+        "reference": "Mark 15:16",
+        "original": "Mark 15:16"
+      },
+      {
+        "reference": "Acts 23:35",
+        "original": "Acts 23:35"
+      },
+      {
+        "reference": "John 19:9",
+        "original": "John 19:9"
+      },
+      {
+        "reference": "Philemon 1:1",
+        "original": "Philemon 1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "s"
+  },
+  "judgment-the-final": {
+    "name": "Sentencia, La final",
+    "slug": "judgment-the-final",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La sentencia que se dictará sobre nuestras acciones en el último día (Mat. 25; Rom. 14:10, 11; 2 Cor. 5:10; 2 Tes. 1:7-10). El juez es Jesucristo, como mediador. Todo juicio le está encomendado (Hechos 17:31; Juan 5:22, 27; Apocalipsis 1:7). “A él, como mediador, le corresponde completar y manifestar públicamente la salvación de su pueblo y el derrocamiento de sus enemigos, junto con la gloriosa justicia de su obra en ambos aspectos”. Las personas que serán juzgadas son, (1) toda la raza de Adán sin una sola excepción (Mat. 25:31-46; 1 Cor. 15:51, 52; Apoc. 20:11-15); y (2) los ángeles caídos (2 Ped. 2:4; Judas 1:6). La regla del juicio es la norma de la ley de Dios revelada a los hombres, a los paganos por la ley escrita en sus corazones (Lucas 12:47, 48; Romanos 2:12-16); el judío que “pecó en la ley, por la ley será juzgado” (Rom. 2:12); el cristiano disfruta de la luz de la revelación, por la voluntad de Dios que se le ha dado a conocer (Mateo 11:20-24; Juan 3:19). Entonces los secretos de todos los corazones saldrán a la luz (1 Cor. 4:5; Lucas 8:17; 12:2, 3) para vindicar la justicia de la sentencia pronunciada. El tiempo del juicio será después de la resurrección (Heb. 9:27; Hechos 17:31). Como las Escrituras representan el juicio final “como cierto [Ecl. 11:9], universal [2 Cor. 5:10], justo [Rom. 2:5], decisivo [1 Cor. 15:52] y eterno en sus consecuencias [Heb. 6:2], preocupémonos por el bienestar de nuestros intereses inmortales, huyamos al refugio puesto delante de nosotros, mejoremos nuestro precioso tiempo, dependamos de los méritos del Redentor y adhiramos al dicta la palabra divina, para que seamos hallados por él en paz”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 25",
+        "original": "Matt. 25"
+      },
+      {
+        "reference": "Romans 14:10",
+        "original": "Rom. 14:10"
+      },
+      {
+        "reference": "Romans 14:11",
+        "original": "Rom. 14:11"
+      },
+      {
+        "reference": "2 Corinthians 5:10",
+        "original": "2 Cor. 5:10"
+      },
+      {
+        "reference": "2 Thessalonians 1:7-10",
+        "original": "2 Thess. 1:7-10"
+      },
+      {
+        "reference": "Acts 17:31",
+        "original": "Acts 17:31"
+      },
+      {
+        "reference": "John 5:22",
+        "original": "John 5:22"
+      },
+      {
+        "reference": "John 5:27",
+        "original": "John 5:27"
+      },
+      {
+        "reference": "Revelation 1:7",
+        "original": "Rev. 1:7"
+      },
+      {
+        "reference": "Matthew 25:31-46",
+        "original": "Matt. 25:31-46"
+      },
+      {
+        "reference": "1 Corinthians 15:51",
+        "original": "1 Cor. 15:51"
+      },
+      {
+        "reference": "1 Corinthians 15:52",
+        "original": "1 Cor. 15:52"
+      },
+      {
+        "reference": "Revelation 20:11-15",
+        "original": "Rev. 20:11-15"
+      },
+      {
+        "reference": "Jude 1:1",
+        "original": "Jude 1"
+      },
+      {
+        "reference": "Luke 12:47",
+        "original": "Luke 12:47"
+      },
+      {
+        "reference": "Luke 12:48",
+        "original": "Luke 12:48"
+      },
+      {
+        "reference": "Romans 2:12-16",
+        "original": "Rom. 2:12-16"
+      },
+      {
+        "reference": "Romans 2:12",
+        "original": "Rom. 2:12"
+      },
+      {
+        "reference": "Matthew 11:20-24",
+        "original": "Matt. 11:20-24"
+      },
+      {
+        "reference": "John 3:19",
+        "original": "John 3:19"
+      },
+      {
+        "reference": "1 Corinthians 4:5",
+        "original": "1 Cor. 4:5"
+      },
+      {
+        "reference": "Luke 8:17",
+        "original": "Luke 8:17"
+      },
+      {
+        "reference": "Luke 12:2",
+        "original": "Luke 12:2"
+      },
+      {
+        "reference": "Luke 12:3",
+        "original": "Luke 12:3"
+      },
+      {
+        "reference": "Hebrews 9:27",
+        "original": "Heb. 9:27"
+      },
+      {
+        "reference": "Ecclesiastes 11:9",
+        "original": "Eccl. 11:9"
+      },
+      {
+        "reference": "Romans 2:5",
+        "original": "Rom. 2:5"
+      },
+      {
+        "reference": "Hebrews 6:2",
+        "original": "Heb. 6:2"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
+  },
+  "leech": {
+    "name": "Sanguijuela",
+    "slug": "leech",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[CABALLO-SANGUIJUIJA]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "s"
+  },
+  "mowing": {
+    "name": "Siega",
+    "slug": "mowing",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. gez), traducido en Ps. 72:6 “hierba cortada”. La expresión “siegas del rey” (Amós 7:1) se refiere a algún derecho real de pasto temprano, la primera cosecha de pasto para la caballería (comp. 1 Reyes 18:5)."
+      },
+      {
+        "source": "SMI",
+        "text": "Como el gran calor del clima en Palestina y otros países en situación similar pronto seca la hierba misma, la producción de heno en el sentido que damos al término no se utiliza. Las “siegas del rey” (Amós 7:1) tal vez puedan referirse a algún derecho real de pasto temprano para uso de la caballería."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 72:6",
+        "original": "Ps. 72:6"
+      },
+      {
+        "reference": "Amos 7:1",
+        "original": "Amos 7:1"
+      },
+      {
+        "reference": "1 Kings 18:5",
+        "original": "1 Kings 18:5"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "s"
+  },
+  "mufflers": {
+    "name": "Silenciadores",
+    "slug": "mufflers",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Isaías 3:19), velos, ligeros y trémulos. Margen, \"adornos de lentejuelas\"."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 3:19",
+        "original": "Isa. 3:19"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
+  },
+  "napkin": {
+    "name": "Servilleta",
+    "slug": "napkin",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Gr. soudarion, Juan 11:44; 20:7; lat. sudarium, “pañuelo para el sudor”), un paño para secar el sudor de la cara. Pero la palabra se usa para referirse a una envoltura para doblar dinero (Lucas 19:20), y como prenda de vestir, un “pañuelo” que se lleva en la cabeza (Hechos 19:12)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "John 11:44",
+        "original": "John 11:44"
+      },
+      {
+        "reference": "John 20:7",
+        "original": "John 20:7"
+      },
+      {
+        "reference": "Luke 19:20",
+        "original": "Luke 19:20"
+      },
+      {
+        "reference": "Acts 19:12",
+        "original": "Acts 19:12"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "s"
   }
 }

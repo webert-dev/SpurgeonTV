@@ -459,5 +459,1171 @@
       "SMI"
     ],
     "letter": "o"
+  },
+  "darkness": {
+    "name": "Oscuridad",
+    "slug": "darkness",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La plaga (la novena) de tinieblas en Egipto (Éxodo 10:21) se describe como oscuridad “que se puede sentir”. Cubría \"toda la tierra de Egipto\", de modo que \"no se veían unos a otros\". No se extendió hasta la tierra de Gosén (ver. 23). Cuando Jesús colgó de la cruz (Mateo 27:45; Lucas 23:44), desde “la hora sexta hubo tinieblas sobre toda la tierra hasta la hora novena”. En el monte Sinaí, Moisés (Éxodo 20:21) “se acercó a la espesa oscuridad donde estaba Dios”. Esta era la “espesa nube sobre el monte” en la que estaba Jehová cuando habló allí con Moisés. El Señor habitaba en la nube sobre el propiciatorio (1 Reyes 8:12), la nube de gloria. Cuando el salmista (Sal. 97:2) describe la naturaleza inescrutable de la obra de Dios entre los hijos de los hombres, dice: “Nubes y tinieblas lo rodean”. Dios habita en una espesa oscuridad. La oscuridad (Isaías 13:9, 10; Mateo 24:29) también es un símbolo de los juicios que acompañarán a la venida del Señor. Es un símbolo de miseria y adversidad (Job 18:6; Sal. 107:10; Isa. 8:22; Eze. 30:18). El “día de oscuridad” de Joel 2:2, causado por nubes de langostas, es un símbolo de la oscuridad que domina todos los procedimientos divinos. Las “obras de las tinieblas” son acciones impuras (Efesios 5:11). La “oscuridad exterior” se refiere a la oscuridad de las calles de Oriente, que nunca son iluminadas por ninguna lámpara pública o privada después del anochecer, en contraste con el resplandor de la luz alegre en la casa. También es un símbolo de ignorancia (Isaías 9:2; 60:2; Mateo 6:23) y de muerte (Job 10:21; 17:13)."
+      },
+      {
+        "source": "SMI",
+        "text": "Se dice que abarca la presencia real de Dios, como aquello de lo que él habla, la envoltura, por así decirlo, de la gloria divina. (Éxodo 20:21; 1 Reyes 8:12) La plaga de oscuridad en Egipto fue milagrosa. La oscuridad “sobre toda la tierra” (Mateo 27:45) que presenció la crucifixión se ha atribuido a un eclipse, pero fue indudablemente milagrosa, ya que ningún eclipse de sol pudo haber tenido lugar en ese momento, ya que la luna estaba llena en el momento de la pascua. La oscuridad también se usa, como en la expresión \"tierra de tinieblas\", para el estado de los muertos (Job 10:21,22) y frecuentemente, en sentido figurado, para la ignorancia y la incredulidad, como la privación de la luz espiritual. (Juan 1:5; 3:19)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 10:21",
+        "original": "Ex. 10:21"
+      },
+      {
+        "reference": "Matthew 27:45",
+        "original": "Matt. 27:45"
+      },
+      {
+        "reference": "Luke 23:44",
+        "original": "Luke 23:44"
+      },
+      {
+        "reference": "Exodus 20:21",
+        "original": "Ex. 20:21"
+      },
+      {
+        "reference": "1 Kings 8:12",
+        "original": "1 Kings 8:12"
+      },
+      {
+        "reference": "Psalms 97:2",
+        "original": "Ps. 97:2"
+      },
+      {
+        "reference": "Isaiah 13:9",
+        "original": "Isa. 13:9"
+      },
+      {
+        "reference": "Isaiah 13:10",
+        "original": "Isa. 13:10"
+      },
+      {
+        "reference": "Matthew 24:29",
+        "original": "Matt. 24:29"
+      },
+      {
+        "reference": "Job 18:6",
+        "original": "Job 18:6"
+      },
+      {
+        "reference": "Psalms 107:10",
+        "original": "Ps. 107:10"
+      },
+      {
+        "reference": "Isaiah 8:22",
+        "original": "Isa. 8:22"
+      },
+      {
+        "reference": "Ezekiel 30:18",
+        "original": "Ezek. 30:18"
+      },
+      {
+        "reference": "Joel 2:2",
+        "original": "Joel 2:2"
+      },
+      {
+        "reference": "Ephesians 5:11",
+        "original": "Eph. 5:11"
+      },
+      {
+        "reference": "Isaiah 9:2",
+        "original": "Isa. 9:2"
+      },
+      {
+        "reference": "Isaiah 60:2",
+        "original": "Isa 60:2"
+      },
+      {
+        "reference": "Matthew 6:23",
+        "original": "Matt. 6:23"
+      },
+      {
+        "reference": "Job 10:21",
+        "original": "Job 10:21"
+      },
+      {
+        "reference": "Job 17:13",
+        "original": "Job 17:13"
+      },
+      {
+        "reference": "Job 10:22",
+        "original": "Job 10:22"
+      },
+      {
+        "reference": "John 1:5",
+        "original": "John 1:5"
+      },
+      {
+        "reference": "John 3:19",
+        "original": "John 3:19"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "drink-offering": {
+    "name": "Ofrenda de bebida",
+    "slug": "drink-offering",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Consistía en vino (Números 15:5; Oseas 9:4) derramado alrededor del altar (Éxodo 30:9). Junto con ofrendas de carne (Núm. 6:15, 17; 2 Reyes 16:13; Joel 1:9, 13; 2:14), presentadas diariamente (Éxodo 29:40), en sábado (Núm. 28:9) y en días festivos (28:14). Se necesitaba un cuarto de hin de vino por cada cordero, un tercio por un carnero y la mitad por un becerro (Núm. 15:5; 28:7, 14). “Beber ofrendas de sangre” (Sal. 16:4) se usa en alusión a la práctica pagana de mezclar la sangre de los animales sacrificados con vino o agua, y derramar la mezcla en la adoración de los dioses, y la idea transmitida es que el salmista no participaría de las abominaciones de los paganos."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 15:5",
+        "original": "Num. 15:5"
+      },
+      {
+        "reference": "Hosea 9:4",
+        "original": "Hos. 9:4"
+      },
+      {
+        "reference": "Exodus 30:9",
+        "original": "Ex. 30:9"
+      },
+      {
+        "reference": "Numbers 6:15",
+        "original": "Num. 6:15"
+      },
+      {
+        "reference": "Numbers 6:17",
+        "original": "Num. 6:17"
+      },
+      {
+        "reference": "2 Kings 16:13",
+        "original": "2 Kings 16:13"
+      },
+      {
+        "reference": "Joel 1:9",
+        "original": "Joel 1:9"
+      },
+      {
+        "reference": "Joel 1:13",
+        "original": "Joel 1:13"
+      },
+      {
+        "reference": "Exodus 29:40",
+        "original": "Ex. 29:40"
+      },
+      {
+        "reference": "Numbers 28:9",
+        "original": "Num. 28:9"
+      },
+      {
+        "reference": "Numbers 28:7",
+        "original": "Num 28:7"
+      },
+      {
+        "reference": "Numbers 28:14",
+        "original": "Num 28:14"
+      },
+      {
+        "reference": "Psalms 16:4",
+        "original": "Ps. 16:4"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "ear": {
+    "name": "Oreja",
+    "slug": "ear",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Usado frecuentemente en sentido figurado (Sal. 34:15). “Descubrir el oído” es mostrar respeto a una persona (1 Sam. 20:2 marg.). Tener “el oído pesado”, o tener “oídos incircuncisos” (Isaías 6:10), es ser desatento y desobediente. Tener la oreja “perforada” con un punzón era señal de servidumbre perpetua (Éxodo 21:6)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 34:15",
+        "original": "Ps. 34:15"
+      },
+      {
+        "reference": "1 Samuel 20:2",
+        "original": "1 Sam. 20:2"
+      },
+      {
+        "reference": "Isaiah 6:10",
+        "original": "Isa. 6:10"
+      },
+      {
+        "reference": "Exodus 21:6",
+        "original": "Ex. 21:6"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "earing": {
+    "name": "oreja",
+    "slug": "earing",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Palabra del inglés antiguo (del latín aro, aro), que significa \"arar\". Se usa en la Versión Autorizada en Génesis 45:6; Ex. 34:21; 1 Sam. 8:12; Deut. 21:4; Isa. 30:24; pero la versión revisada ha traducido el original en estos lugares mediante la palabra ordinaria arar o labrar."
+      },
+      {
+        "source": "SMI",
+        "text": "(Génesis 45:6; Éxodo 34:21) Derivado del latín arare, arar; por eso significa arar."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 45:6",
+        "original": "Gen. 45:6"
+      },
+      {
+        "reference": "Exodus 34:21",
+        "original": "Ex. 34:21"
+      },
+      {
+        "reference": "1 Samuel 8:12",
+        "original": "1 Sam. 8:12"
+      },
+      {
+        "reference": "Deuteronomy 21:4",
+        "original": "Deut. 21:4"
+      },
+      {
+        "reference": "Isaiah 30:24",
+        "original": "Isa. 30:24"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "east-children-of-the": {
+    "name": "Oriente, Hijos del",
+    "slug": "east-children-of-the",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Los árabes en su conjunto, conocidos como nabateos o kedarenos, eran tribus nómadas (Jueces 6:3, 33; 7:12; 8:10)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 6:3",
+        "original": "Judg. 6:3"
+      },
+      {
+        "reference": "Judges 6:33",
+        "original": "Judg. 6:33"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "effectual-prayer": {
+    "name": "Oración eficaz",
+    "slug": "effectual-prayer",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ocurre en la versión autorizada, Santiago 5:16. La versión revisada dice apropiadamente: “La súplica del justo puede mucho en su efecto”, es decir, “mueve la mano de Aquel que mueve el mundo”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "James 5:16",
+        "original": "James 5:16"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "elm": {
+    "name": "Olmo",
+    "slug": "elm",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Hos. 4:13; traducido como \"terebinto\" en la versión revisada. Es la Pistacia terebinthus de Linn., un árbol común en Palestina, de larga vida y, por lo tanto, a menudo empleado para marcar puntos de referencia y designar lugares (Gén. 35:4; Jue. 6:11, 19. Se traduce “roble” tanto en A.V. como en R.V.). (Ver ÁRBOL DE TEIL.)"
+      },
+      {
+        "source": "SMI",
+        "text": "(Oseas 4:13) [Ver Roble]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Hosea 4:13",
+        "original": "Hos. 4:13"
+      },
+      {
+        "reference": "Genesis 35:4",
+        "original": "Gen. 35:4"
+      },
+      {
+        "reference": "Judges 6:11",
+        "original": "Judg. 6:11"
+      },
+      {
+        "reference": "Judges 6:19",
+        "original": "Judg. 6:19"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "eye": {
+    "name": "Ojo",
+    "slug": "eye",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. 'ain, que significa \"fluir\"), aplicado (1) a una fuente, con frecuencia; (2) colorear (Núm. 11:7; R.V., “apariencia”, margen “ojo”); (3) el rostro (Éxodo 10:5, 15; Núm. 22:5, 11), en Núm. 14:14, “cara a cara” (R.V. marg., “ojo a ojo”). “Entre los ojos”, es decir, la frente (Éxodo 13:9, 16). La expresión (Prov. 23:31), “cuando da su color en la copa”, es literalmente, “cuando da [o muestra] su ojo”. Se habla así de las cuentas o burbujas de vino. “Poner los ojos” en alguien es verlo con favor (Gén. 44:21; Job 24:23; Jer. 39:12). Esta palabra se usa figurativamente en las expresiones “mal de ojo” (Mat. 20:15), “ojo generoso” (Prov. 22:9), “ojos altivos” (6:17 marg.), “ojos desenfrenados” (Isa. 3:16), “ojos llenos de adulterio” (2 Ped. 2:14), “la concupiscencia de los ojos” (1 Juan 2:16). Se advierte a los cristianos contra el “servicio visual” (Efesios 6:6; Col. 3:22). A veces se castigaba a los hombres sacándoles los ojos (1 Sam. 11:2; Sansón, Jueces 16:21; Sedequías, 2 Reyes 25:7). Se alude a la costumbre de pintar los ojos en 2 Reyes 9:30, R.V.; Jer. 4:30; Ezeq. 23:40, una costumbre que todavía prevalece ampliamente entre las mujeres orientales."
+      },
+      {
+        "source": "SMI",
+        "text": "(La práctica de pintar los párpados para hacer que los ojos luzcan grandes, lustrosos y lánguidos es a menudo aludida en el Antiguo Testamento, y todavía prevalece ampliamente entre las mujeres de Oriente, y especialmente entre los mahometanos. Se dice que Jezabel, en (2 Reyes 9:30) se preparó para su encuentro con Jehú pintándose la cara o, como se lee en el margen, “poniéndole los ojos en pintura”. Ver también (Ezequiel 23:40) A Se moja una pequeña sonda de madera, marfil o plata con agua de rosas y se sumerge en un polvo negro impalpable, y luego se pasa entre los párpados del ojo casi cerrados, y deja un borde negro estrecho, que aunque es un gran adorno.—ED.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 11:7",
+        "original": "Num. 11:7"
+      },
+      {
+        "reference": "Exodus 10:5",
+        "original": "Ex. 10:5"
+      },
+      {
+        "reference": "Exodus 10:15",
+        "original": "Ex. 10:15"
+      },
+      {
+        "reference": "Numbers 22:5",
+        "original": "Num. 22:5"
+      },
+      {
+        "reference": "Numbers 22:11",
+        "original": "Num. 22:11"
+      },
+      {
+        "reference": "Numbers 14:14",
+        "original": "Num. 14:14"
+      },
+      {
+        "reference": "Exodus 13:9",
+        "original": "Ex. 13:9"
+      },
+      {
+        "reference": "Exodus 13:16",
+        "original": "Ex. 13:16"
+      },
+      {
+        "reference": "Proverbs 23:31",
+        "original": "Prov. 23:31"
+      },
+      {
+        "reference": "Genesis 44:21",
+        "original": "Gen. 44:21"
+      },
+      {
+        "reference": "Job 24:23",
+        "original": "Job 24:23"
+      },
+      {
+        "reference": "Jeremiah 39:12",
+        "original": "Jer. 39:12"
+      },
+      {
+        "reference": "Matthew 20:15",
+        "original": "Matt. 20:15"
+      },
+      {
+        "reference": "Proverbs 22:9",
+        "original": "Prov. 22:9"
+      },
+      {
+        "reference": "Isaiah 3:16",
+        "original": "Isa. 3:16"
+      },
+      {
+        "reference": "1 John 2:16",
+        "original": "1 John 2:16"
+      },
+      {
+        "reference": "Ephesians 6:6",
+        "original": "Eph. 6:6"
+      },
+      {
+        "reference": "Colossians 3:22",
+        "original": "Col. 3:22"
+      },
+      {
+        "reference": "1 Samuel 11:2",
+        "original": "1 Sam. 11:2"
+      },
+      {
+        "reference": "Judges 16:21",
+        "original": "Judg. 16:21"
+      },
+      {
+        "reference": "2 Kings 25:7",
+        "original": "2 Kings 25:7"
+      },
+      {
+        "reference": "2 Kings 9:30",
+        "original": "2 Kings 9:30"
+      },
+      {
+        "reference": "Jeremiah 4:30",
+        "original": "Jer. 4:30"
+      },
+      {
+        "reference": "Ezekiel 23:40",
+        "original": "Ezek. 23:40"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "fining-pot": {
+    "name": "Olla de clarificación",
+    "slug": "fining-pot",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un crisol, un crisol (Prov. 17:3; 27:21)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Proverbs 17:3",
+        "original": "Prov. 17:3"
+      },
+      {
+        "reference": "Proverbs 27:21",
+        "original": "Prov 27:21"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "free-will-offering": {
+    "name": "Ofrenda voluntaria",
+    "slug": "free-will-offering",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un regalo espontáneo (Éxodo 35:29), un sacrificio voluntario (Levítico 22:23; Esdras 3:5), a diferencia de uno como consecuencia de un voto o en expiación de alguna ofensa."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 35:29",
+        "original": "Ex. 35:29"
+      },
+      {
+        "reference": "Leviticus 22:23",
+        "original": "Lev. 22:23"
+      },
+      {
+        "reference": "Ezra 3:5",
+        "original": "Ezra 3:5"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "gold": {
+    "name": "Oro",
+    "slug": "gold",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Heb. zahab, llamado así por su color amarillo (Éxodo 25:11; 1 Crónicas 28:18; 2 Crónicas 3:5). (2.) Heb. segor, por su compacidad, o como encerrado o atesorado; por lo tanto, oro precioso o “fino” (1 Reyes 6:20; 7:49). (3.) Heb. paz, oro nativo u puro (Job 28:17; Sal. 19:10; 21:3, etc.). (4.) Heb. betzer, “mineral de oro o plata” extraído de la mina (Job 36:19, donde significa simplemente riquezas). (5.) Heb. kethem, es decir, algo oculto o separado (Job 28:16, 19; Sal. 45:9; Prov. 25:12). Traducido “cuña de oro” en Isa. 13:12. (6.) Heb. haruts, es decir, excavado; poético por el oro (Proverbios 8:10; 16:16; Zacarías 9:3). El oro era conocido desde los primeros tiempos (Génesis 2:11). Se usaba principalmente para adornos (Génesis 24:22). Era muy abundante (1 Crónicas 22:14; Nah. 2:9; Dan. 3:1). Muchas toneladas se utilizaron en relación con el templo (2 Crónicas 1:15). Se encontró en Arabia, Saba y Ofir (1 Reyes 9:28; 10:1; Job 28:16), pero no en Palestina. En Dan. 2:38, se habla del Imperio Babilónico como una “cabeza de oro” debido a sus grandes riquezas; e Isaías (14:4) llamó a Babilonia la “ciudad de oro” (R.V. marg., “exacta”, adoptando la lectura marhebah, en lugar de la palabra habitual madhebah)."
+      },
+      {
+        "source": "SMI",
+        "text": "El oro era conocido desde los tiempos más remotos. (Génesis 2:11) Al principio se usaba principalmente para adornos, etc. (Génesis 24:22) Los antiguos no conocieron el dinero acuñado hasta un período comparativamente tardío; y en las tumbas egipcias se representa el oro pesado en anillos con fines comerciales. comp. (Génesis 43:21) El oro era sumamente abundante en la antigüedad, (1 Crónicas 22:14; 2 Crónicas 1:15; 9:9; Daniel 3:1; Nahúm 2:9) pero esto no depreció su valor, debido a las enormes cantidades consumidas por los ricos en muebles, etc. (1 Reyes 6:22) 10 passim ; (Ester 1:6; Cantares de los Cantares 3:9,10; Jeremías 10:9.) Los principales países productores de oro mencionados son Arabia, Seba y Ofir. (1 Reyes 9:28; 10:1; Job 28:16)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 25:11",
+        "original": "Ex. 25:11"
+      },
+      {
+        "reference": "1 Chronicles 28:18",
+        "original": "1 Chr. 28:18"
+      },
+      {
+        "reference": "2 Chronicles 3:5",
+        "original": "2 Chr. 3:5"
+      },
+      {
+        "reference": "1 Kings 6:20",
+        "original": "1 Kings 6:20"
+      },
+      {
+        "reference": "1 Kings 7:49",
+        "original": "1 Kings 7:49"
+      },
+      {
+        "reference": "Job 28:17",
+        "original": "Job 28:17"
+      },
+      {
+        "reference": "Psalms 19:10",
+        "original": "Ps. 19:10"
+      },
+      {
+        "reference": "Psalms 21:3",
+        "original": "Ps 21:3"
+      },
+      {
+        "reference": "Job 36:19",
+        "original": "Job 36:19"
+      },
+      {
+        "reference": "Job 28:16",
+        "original": "Job 28:16"
+      },
+      {
+        "reference": "Job 28:19",
+        "original": "Job 28:19"
+      },
+      {
+        "reference": "Psalms 45:9",
+        "original": "Ps. 45:9"
+      },
+      {
+        "reference": "Proverbs 25:12",
+        "original": "Prov. 25:12"
+      },
+      {
+        "reference": "Isaiah 13:12",
+        "original": "Isa. 13:12"
+      },
+      {
+        "reference": "Proverbs 8:10",
+        "original": "Prov. 8:10"
+      },
+      {
+        "reference": "Proverbs 16:16",
+        "original": "Prov 16:16"
+      },
+      {
+        "reference": "Zechariah 9:3",
+        "original": "Zech. 9:3"
+      },
+      {
+        "reference": "Genesis 2:11",
+        "original": "Gen. 2:11"
+      },
+      {
+        "reference": "Genesis 24:22",
+        "original": "Gen. 24:22"
+      },
+      {
+        "reference": "1 Chronicles 22:14",
+        "original": "1 Chr. 22:14"
+      },
+      {
+        "reference": "Nahum 2:9",
+        "original": "Nah. 2:9"
+      },
+      {
+        "reference": "Daniel 3:1",
+        "original": "Dan. 3:1"
+      },
+      {
+        "reference": "2 Chronicles 1:15",
+        "original": "2 Chr. 1:15"
+      },
+      {
+        "reference": "1 Kings 9:28",
+        "original": "1 Kings 9:28"
+      },
+      {
+        "reference": "1 Kings 10:1",
+        "original": "1 Kings 10:1"
+      },
+      {
+        "reference": "Daniel 2:38",
+        "original": "Dan. 2:38"
+      },
+      {
+        "reference": "Genesis 43:21",
+        "original": "Genesis 43:21"
+      },
+      {
+        "reference": "2 Chronicles 9:9",
+        "original": "2 Chronicles 9:9"
+      },
+      {
+        "reference": "1 Kings 6:22",
+        "original": "1 Kings 6:22"
+      },
+      {
+        "reference": "Esther 1:6",
+        "original": "Esther 1:6"
+      },
+      {
+        "reference": "Jeremiah 10:9",
+        "original": "Jeremiah 10:9"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "goldsmith": {
+    "name": "Orfebre",
+    "slug": "goldsmith",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Nehemías 3:8, 32; Isaías 40:19; 41:7; 46:6). La palabra así traducida significa propiamente fundador o mejor."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Nehemiah 3:8",
+        "original": "Neh. 3:8"
+      },
+      {
+        "reference": "Nehemiah 3:32",
+        "original": "Neh. 3:32"
+      },
+      {
+        "reference": "Isaiah 40:19",
+        "original": "Isa. 40:19"
+      },
+      {
+        "reference": "Isaiah 41:7",
+        "original": "Isa 41:7"
+      },
+      {
+        "reference": "Isaiah 46:6",
+        "original": "Isa 46:6"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "hatred": {
+    "name": "Odio",
+    "slug": "hatred",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Entre las obras de la carne (Gálatas 5:20). Totalmente diferente es el significado de la palabra en Deut. 21:15; Mate. 6:24; Lucas 14:26; Memoria de sólo lectura. 9:13, donde denota sólo un grado menor de amor."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Galatians 5:20",
+        "original": "Gal. 5:20"
+      },
+      {
+        "reference": "Deuteronomy 21:15",
+        "original": "Deut. 21:15"
+      },
+      {
+        "reference": "Matthew 6:24",
+        "original": "Matt. 6:24"
+      },
+      {
+        "reference": "Luke 14:26",
+        "original": "Luke 14:26"
+      },
+      {
+        "reference": "Romans 9:13",
+        "original": "Rom. 9:13"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "heave-offering": {
+    "name": "Ofrenda elevada",
+    "slug": "heave-offering",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "heb. terumah, (Éxodo 29:27) significa simplemente una ofrenda, un presente, incluyendo todas las ofrendas hechas por los israelitas como presente. Esta palabra hebrea se emplea con frecuencia. Algunos rabinos atribuyen a la palabra el significado de elevación, y la refieren a la ofrenda elevada, que consistía en presentar la ofrenda mediante un movimiento hacia arriba y hacia abajo, a diferencia de la ofrenda mecida, que consistía en un movimiento repetido en dirección horizontal, una “ofrenda mecida al Señor como gobernante de la tierra, una ofrenda elevada al Señor como gobernante del cielo”. El hombro derecho, que caía sobre los sacerdotes al presentar ofrendas de agradecimiento, se llamaba hombro elevado (Levítico 7:34; Números 6:20). Las primicias ofrecidas en el tiempo de la cosecha (Números 15:20, 21) eran ofrendas elevadas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 29:27",
+        "original": "Ex. 29:27"
+      },
+      {
+        "reference": "Leviticus 7:34",
+        "original": "Lev. 7:34"
+      },
+      {
+        "reference": "Numbers 6:20",
+        "original": "Num. 6:20"
+      },
+      {
+        "reference": "Numbers 15:20",
+        "original": "Num. 15:20"
+      },
+      {
+        "reference": "Numbers 15:21",
+        "original": "Num. 15:21"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "hophni": {
+    "name": "Ofni",
+    "slug": "hophni",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Pugilista o cliente, uno de los dos hijos de Elí, el sumo sacerdote (1 Sam. 1:3; 2:34), quien, por ser “muy anciano”, les renunció a los deberes activos de su cargo. Por su conducta escandalosa trajeron una maldición sobre la casa de su padre (2:22, 12-27, 27-36; 3:11-14). Por su maldad fueron llamados “hijos de Belial”, es decir, hombres inútiles (2:12). Ambos perecieron en la desastrosa batalla contra los filisteos en Afec (4:11). (Ver FINES.)"
+      },
+      {
+        "source": "SMI",
+        "text": "(pugilista) y Finees (boca de bronce), los dos hijos de Elí, quienes cumplieron con sus deberes sacerdotales hereditarios en Silo. Su brutal rapacidad y lujuria (1 Samuel 2:12-17,22) llenaron al pueblo de disgusto e indignación, y provocaron la maldición que fue denunciada contra la casa de su padre, primero por un profeta desconocido (1 Samuel 2:27-36) y luego por Samuel. cap. (1 Samuel 3:11-14) Ambos fueron exterminados en un día en la flor de su edad, y el arca que habían acompañado a la batalla contra los filisteos se perdió en la misma ocasión. (1 Samuel 4:10,11) (1130 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 1:3",
+        "original": "1 Sam. 1:3"
+      },
+      {
+        "reference": "1 Samuel 2:34",
+        "original": "1 Sam. 2:34"
+      },
+      {
+        "reference": "1 Samuel 2:12-17",
+        "original": "1 Samuel 2:12-17"
+      },
+      {
+        "reference": "1 Samuel 2:22",
+        "original": "1 Samuel 2:22"
+      },
+      {
+        "reference": "1 Samuel 2:27-36",
+        "original": "1 Samuel 2:27-36"
+      },
+      {
+        "reference": "1 Samuel 3:11-14",
+        "original": "1 Samuel 3:11-14"
+      },
+      {
+        "reference": "1 Samuel 4:10",
+        "original": "1 Samuel 4:10"
+      },
+      {
+        "reference": "1 Samuel 4:11",
+        "original": "1 Samuel 4:11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "hosea": {
+    "name": "Oseas",
+    "slug": "hosea",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Salvation, hijo de Beeri y autor del libro de profecías que lleva su nombre. Pertenecía al reino de Israel. “Su origen israelita está atestiguado por la dicción peculiar, tosca y aramista, que señala la parte norte de Palestina; por el conocimiento íntimo que demuestra con las localidades de Efraín (5:1; 6:8, 9; 12:12; 14:6, etc.); por pasajes como 1:2, donde el reino es llamado ‘la tierra’, y 7:5, donde el rey israelita es designado como ‘nuestro’ rey”. El período de su ministerio (que se extendió a unos sesenta años) se indica en el encabezamiento (Oseas 1:1, 2). Es el único profeta de Israel que ha dejado alguna profecía escrita."
+      },
+      {
+        "source": "SMI",
+        "text": "(salvación), hijo de Beeri, y primero de los profetas menores. Probablemente la vida, o más bien la carrera profética, de Oseas se extendió desde a.C. 784 al 723, un período de cincuenta y nueve años. Las profecías de Oseas fueron pronunciadas en el reino de Israel. Jeroboam II estaba en el trono e Israel estaba en la cima de su esplendor terrenal. No se sabe nada de la vida del profeta excepto lo que se puede obtener de su libro."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Hosea 1:1",
+        "original": "Hos. 1:1"
+      },
+      {
+        "reference": "Hosea 1:2",
+        "original": "Hos 1:2"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "hosea-prophecies-of": {
+    "name": "Oseas, Profecías de",
+    "slug": "hosea-prophecies-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Este libro ocupa el primer lugar entre los \"Profetas Menores\". “La causa probable de la ubicación de Oseas puede ser el carácter completamente nacional de sus oráculos, su extensión, su tono serio y sus vívidas representaciones”. Este fue el más largo de los libros proféticos escritos antes del cautiverio. Oseas profetizó en un período oscuro y melancólico de la historia de Israel, el período de decadencia y caída de Israel. Sus pecados les habían acarreado grandes desastres nacionales. “Sus homicidios y fornicación, su perjurio y robo, su idolatría e impiedad, son censurados y satirizados con fiel severidad”. Fue contemporáneo de Isaías. El libro se puede dividir en dos partes, la primera contiene los capítulos 1-3 y representa simbólicamente la idolatría de Israel bajo imágenes tomadas de la relación matrimonial. Las figuras del matrimonio y el adulterio son comunes en los escritos del Antiguo Testamento para representar las relaciones espirituales entre Jehová y el pueblo de Israel. Aquí vemos la apostasía de Israel y su castigo, con su futuro arrepentimiento, perdón y restauración. La segunda parte, que contiene 4-14, es un resumen de los discursos de Oseas, llenos de denuncias, amenazas, exhortaciones, promesas y revelaciones de misericordia. Se encuentran citas de Oseas en Matt. 2:15; 9:15; 12:7; Memoria de sólo lectura. 9:25, 26. Hay, además, varias alusiones a él en otros lugares (Lucas 23:30; Apocalipsis 6:16, comp. Oseas 10:8; Rom. 9:25, 26; 1 Pedro 2:10, comp. Oseas 1:10, etc.). En cuanto al estilo de este escritor, se ha dicho que “cada verso forma un todo en sí mismo, como un pesado peaje en un toque fúnebre”. “Las inversiones (7:8; 9:11, 13; 12:8), anacolutha (9:6; 12:8, etc.), elipses (9:4; 13:9, etc.), paranomasias y juegos de palabras, son muy característicos de Oseas (8:7; 9:15; 10:5; 11:5; 12:11)”."
+      },
+      {
+        "source": "SMI",
+        "text": "Este libro consta de catorce capítulos. Es fácil reconocer dos grandes divisiones en el libro: (1) cap. 1 a 3; (2) cap. 4 para terminar. La subdivisión de estas diversas partes es un trabajo de mayor dificultad."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 2:15",
+        "original": "Matt. 2:15"
+      },
+      {
+        "reference": "Matthew 9:15",
+        "original": "Matt 9:15"
+      },
+      {
+        "reference": "Matthew 12:7",
+        "original": "Matt 12:7"
+      },
+      {
+        "reference": "Romans 9:25",
+        "original": "Rom. 9:25"
+      },
+      {
+        "reference": "Romans 9:26",
+        "original": "Rom. 9:26"
+      },
+      {
+        "reference": "Luke 23:30",
+        "original": "Luke 23:30"
+      },
+      {
+        "reference": "Revelation 6:16",
+        "original": "Rev. 6:16"
+      },
+      {
+        "reference": "Hosea 10:8",
+        "original": "Hos. 10:8"
+      },
+      {
+        "reference": "1 Peter 2:10",
+        "original": "1 Pet. 2:10"
+      },
+      {
+        "reference": "Hosea 1:10",
+        "original": "Hos. 1:10"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "hoshea": {
+    "name": "Oseas",
+    "slug": "hoshea",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Salvación. (1.) El nombre original del hijo de Nun, luego llamado Josué (Números 13:8, 16; Deuteronomio 32:44). (2.) 1 Cr. 27:20. Gobernante de Efraín en tiempos de David. (3.) El último rey de Israel. Conspiró contra su predecesor, Pekah, y lo mató (Isa. 7:16), pero no ascendió al trono hasta después de un interregno de guerra de ocho años (2 Reyes 17:1, 2). Poco después se sometió a Salmanasar, el rey asirio, quien invadió la tierra por segunda vez para castigar a Oseas, por haber retenido el tributo que había prometido pagar. Una segunda revuelta hizo regresar al rey asirio Sargón, quien sitió Samaria y se llevó a las diez tribus más allá del Éufrates, a.C. 720 (2 Reyes 17:5, 6; 18:9-12). No se sabe más de Oseas. Desapareció como “espuma sobre el agua” (Oseas 10:7; 13:11)."
+      },
+      {
+        "source": "SMI",
+        "text": "(salvación)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 13:8",
+        "original": "Num. 13:8"
+      },
+      {
+        "reference": "Numbers 13:16",
+        "original": "Num. 13:16"
+      },
+      {
+        "reference": "Deuteronomy 32:44",
+        "original": "Deut. 32:44"
+      },
+      {
+        "reference": "1 Chronicles 27:20",
+        "original": "1 Chr. 27:20"
+      },
+      {
+        "reference": "Isaiah 7:16",
+        "original": "Isa. 7:16"
+      },
+      {
+        "reference": "2 Kings 17:1",
+        "original": "2 Kings 17:1"
+      },
+      {
+        "reference": "2 Kings 17:2",
+        "original": "2 Kings 17:2"
+      },
+      {
+        "reference": "2 Kings 17:5",
+        "original": "2 Kings 17:5"
+      },
+      {
+        "reference": "2 Kings 17:6",
+        "original": "2 Kings 17:6"
+      },
+      {
+        "reference": "Hosea 10:7",
+        "original": "Hos. 10:7"
+      },
+      {
+        "reference": "Hosea 13:11",
+        "original": "Hos 13:11"
+      },
+      {
+        "reference": "Hosea 8:14",
+        "original": "Hosea 8:14"
+      },
+      {
+        "reference": "2 Kings 17:3",
+        "original": "2 Kings 17:3"
+      },
+      {
+        "reference": "Micah 5:1",
+        "original": "Micah 5:1"
+      },
+      {
+        "reference": "Nehemiah 10:23",
+        "original": "Nehemiah 10:23"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "jealousy-offering": {
+    "name": "Ofrenda de celos",
+    "slug": "jealousy-offering",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El nombre de la ofrenda que el marido debía traer cuando acusaba a su esposa de adulterio (Números 5:11-15)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 5:11-15",
+        "original": "Num. 5:11-15"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "kingly-office-of-christ": {
+    "name": "Oficio real de Cristo",
+    "slug": "kingly-office-of-christ",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una de las tres relaciones especiales que Cristo tiene con su pueblo. El oficio de Cristo como mediador comprende tres funciones diferentes, a saber, las de profeta, sacerdote y rey. Estos no son tres cargos distintos, sino tres funciones del único cargo de mediador. Cristo es Rey y Cabeza soberana sobre su Iglesia y sobre todas las cosas para su Iglesia (Ef. 1:22; 4:15; Col. 1:18; 2:19). Él ejecuta este reinado mediador en su Iglesia, y sobre su Iglesia, y sobre todas las cosas en nombre de su Iglesia. Esta realeza difiere de la que esencialmente le pertenece como Dios, porque le es dada por el Padre como recompensa de su obediencia y sufrimientos (Fil. 2:6-11), y tiene como objeto especial la edificación y la gloria de su Iglesia redimida. Además, no se refiere a su naturaleza divina como tal, sino a su persona como Dios-hombre. Se puede considerar que el reino mediador de Cristo comprende (1) su reino de poder o su gobierno providencial del universo; (2) su reino de gracia, que es totalmente espiritual en sus sujetos y administración; y (3) su reino de gloria, que es la consumación de toda su administración providencial y misericordiosa. Cristo sostuvo y ejerció la función de Rey mediador así como de Profeta y Sacerdote, desde el tiempo de la caída del hombre, cuando emprendió su obra mediadora; sin embargo, se puede decir que fue entronizado pública y formalmente cuando ascendió a lo alto y se sentó a la diestra del Padre (Sal. 2:6; Jer. 23:5; Isa. 9:6), después de que “terminó” su obra de humillación y sufrimiento en la tierra."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ephesians 1:22",
+        "original": "Eph. 1:22"
+      },
+      {
+        "reference": "Ephesians 4:15",
+        "original": "Eph 4:15"
+      },
+      {
+        "reference": "Colossians 1:18",
+        "original": "Col. 1:18"
+      },
+      {
+        "reference": "Colossians 2:19",
+        "original": "Col 2:19"
+      },
+      {
+        "reference": "Philippians 2:6-11",
+        "original": "Phil. 2:6-11"
+      },
+      {
+        "reference": "Psalms 2:6",
+        "original": "Ps. 2:6"
+      },
+      {
+        "reference": "Jeremiah 23:5",
+        "original": "Jer. 23:5"
+      },
+      {
+        "reference": "Isaiah 9:6",
+        "original": "Isa. 9:6"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "lords-prayer": {
+    "name": "Oración del Señor",
+    "slug": "lords-prayer",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "la oración que Jesús enseñó a sus discípulos. (Mateo 6:9-13; Lucas 11:2-4) \"En esta oración, nuestro Señor muestra a sus discípulos cómo una infinita variedad de deseos y peticiones pueden comprimirse en unas pocas peticiones humildes. Encarna todos los deseos posibles de un corazón orante, todo un mundo de necesidades espirituales; pero todo en la forma más simple, condensada y humilde, asemejándose, en este sentido, a una perla en la que juega la luz del cielo.\"—Lange. \"Esta oración contiene cuatro grandes sentimientos generales, que constituyen el alma misma de la religión, sentimientos que son los gérmenes de todos los actos santos en todos los mundos. (1) Reverencia filial: se dirige a Dios no como el gran desconocido, no como el gobernador inescrutable, sino como un padre, el nombre más inteligible, atractivo y transformador. Es una forma de dirigirse casi desconocida al antiguo pacto, que ahora y entonces se insinúa como un recordatorio a los hijos de su rebelión. (Isaías 1:2); Mali 1:6 O mencionado como último recurso de la criatura huérfana y desolada, (Isaías 63:16) pero nunca sacado a relucir en su plenitud, como de hecho no podría ser, hasta que vino aquel por quien hemos recibido la adopción de hijos.”—Alford. (2) “Lealtad divina: 'Venga tu reino'. (3) Dependencia consciente: 'Danos hoy', etc. (4) Confianza ilimitada: 'Porque tuyo es el poder', etc.”—Dr. El genio de los evangelios de Tomás. La doxología, “Porque tuyo es el reino”, etc., falta en muchos manuscritos. Se omite en la versión revisada; pero, sin embargo, tiene la autoridad de algunos manuscritos y es verdaderamente bíblico, ya que casi todas las palabras se encuentran en (1 Crónicas 29:11) y es un final verdadero y apropiado para la oración."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 6:9-13",
+        "original": "Matthew 6:9-13"
+      },
+      {
+        "reference": "Luke 11:2-4",
+        "original": "Luke 11:2-4"
+      },
+      {
+        "reference": "Isaiah 1:2",
+        "original": "Isaiah 1:2"
+      },
+      {
+        "reference": "Isaiah 63:16",
+        "original": "Isaiah 63:16"
+      },
+      {
+        "reference": "1 Chronicles 29:11",
+        "original": "1 Chronicles 29:11"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "o"
+  },
+  "meat-offering": {
+    "name": "Ofrenda de carne",
+    "slug": "meat-offering",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(heb. minhah), originalmente un regalo de cualquier tipo. Esta palabra hebrea pasó últimamente a denotar un sacrificio “incruento”, en contraposición a un sacrificio “sangriento”. Generalmente la acompañaba una “ofrenda de libación”. La ley al respecto se da en Lev. 2 y 6:14-23. Fue un reconocimiento de la soberanía de Dios y de su generosidad al dar todas las bendiciones terrenales (1 Crónicas 29:10-14; Deuteronomio 26:5-11). Era una ofrenda que se daba por sentado y se basaba en la ofrenda por el pecado. Siguió el sacrificio de sangre. Se presentaba todos los días con el holocausto (Éxodo 29:40, 41), y consistía en harina o tortas preparadas de manera especial con aceite e incienso."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 2",
+        "original": "Lev. 2"
+      },
+      {
+        "reference": "1 Chronicles 29:10-14",
+        "original": "1 Chr. 29:10-14"
+      },
+      {
+        "reference": "Deuteronomy 26:5-11",
+        "original": "Deut. 26:5-11"
+      },
+      {
+        "reference": "Exodus 29:40",
+        "original": "Ex. 29:40"
+      },
+      {
+        "reference": "Exodus 29:41",
+        "original": "Ex. 29:41"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "o"
+  },
+  "nettle": {
+    "name": "Ortiga",
+    "slug": "nettle",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Heb. haral, “pinchazo” o “ardor”, Prov. 24:30, 31 (R.V. marg., “ vezas silvestres”); Trabajo 30:7; Sofo. 2:9. Muchos han supuesto que con esta palabra se entiende alguna planta espinosa o espinosa, como la zarza, el cardo, el ciruelo silvestre, el nopal o la tuna, etc. Probablemente sea una especie de mostaza, la Sinapis arvensis, que es una maleza perniciosa que abunda en los campos de maíz. Tristram piensa que esta palabra “designa el acanto espinoso (Acanthus spinosus), una maleza muy común y problemática en las llanuras de Palestina”. (2.) Heb. qimmosh, Isa. 34:13; Hos. 9:6; Prov. 24:31 (en ambas versiones, “espinas”). Se ha considerado que esta palabra denota espinas, cardos y manzanilla silvestre; pero probablemente se traduzca correctamente “ortiga”, la Urtica pilulifera, “una planta alta y vigorosa, a menudo de 6 pies de altura, cuya picadura es mucho más severa e irritante que la de nuestra ortiga común”."
+      },
+      {
+        "source": "SMI",
+        "text": "una conocida planta cubierta de diminutos pelos afilados; que contiene un veneno que produce una sensación dolorosa y sofocante. Crece en terrenos abandonados. Una palabra hebrea diferente en (Job 30:7; Proverbios 24:31; Sofonías 2:9) parece indicar una especie diferente."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Proverbs 24:30",
+        "original": "Prov. 24:30"
+      },
+      {
+        "reference": "Proverbs 24:31",
+        "original": "Prov. 24:31"
+      },
+      {
+        "reference": "Job 30:7",
+        "original": "Job 30:7"
+      },
+      {
+        "reference": "Zephaniah 2:9",
+        "original": "Zeph. 2:9"
+      },
+      {
+        "reference": "Isaiah 34:13",
+        "original": "Isa. 34:13"
+      },
+      {
+        "reference": "Hosea 9:6",
+        "original": "Hos. 9:6"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "o"
   }
 }

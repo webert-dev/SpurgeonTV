@@ -316,5 +316,2324 @@
       "EAS"
     ],
     "letter": "f"
+  },
+  "date": {
+    "name": "Fecha",
+    "slug": "date",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Fruto de una especie de palmera (q.v.), la Phoenix dactilifera. Este era un árbol común en Palestina (Joel 1:12; Neh. 8:15). Los judíos llevaban ramas de palma en ocasiones festivas, y especialmente en la fiesta de los Tabernáculos (Levítico 23:40; Nehemías 8:15)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joel 1:12",
+        "original": "Joel 1:12"
+      },
+      {
+        "reference": "Nehemiah 8:15",
+        "original": "Neh. 8:15"
+      },
+      {
+        "reference": "Leviticus 23:40",
+        "original": "Lev. 23:40"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
+  },
+  "dates": {
+    "name": "Fechas",
+    "slug": "dates",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(2 Crónicas 31:5) marg. [Palmera]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Chronicles 31:5",
+        "original": "2 Chronicles 31:5"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "end": {
+    "name": "Fin",
+    "slug": "end",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "En heb. 13:7, es la traducción de la inusual palabra griega ekbasin, que significa “resultado”, es decir, muerte. Aparece sólo en otra parte de 1 Cor. 10:13, donde se traduce “escapar”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Hebrews 13:7",
+        "original": "Heb. 13:7"
+      },
+      {
+        "reference": "1 Corinthians 10:13",
+        "original": "1 Cor. 10:13"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
+  },
+  "fable": {
+    "name": "Fábula",
+    "slug": "fable",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Aplicado en el Nuevo Testamento a las tradiciones y especulaciones, “fábulas astutamente ideadas”, de los judíos sobre cuestiones religiosas (1 Tim. 1:4; 4:7; 2 Tim. 4:4; Tito 1:14; 2 Pedro 1:16). En tales pasajes la palabra significa algo falso e irreal. Pero la palabra se usa casi como equivalente a parábola. Así tenemos (1) la fábula de Jotam, en la que se dice que los árboles eligen un rey (Jueces 9:8-15); y (2) el de los cedros del Líbano y el cardo como respuesta de Joás a Amasías (2 Reyes 14:9)."
+      },
+      {
+        "source": "SMI",
+        "text": "Una fábula es una narración en la que, con fines de instrucción moral, se finge que seres irracionales, y a veces inanimados, actúan y hablan con intereses y pasiones humanas.—Encyc. Británico. La fábula se diferencia de la parábola en que:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Timothy 1:4",
+        "original": "1 Tim. 1:4"
+      },
+      {
+        "reference": "1 Timothy 4:7",
+        "original": "1 Tim. 4:7"
+      },
+      {
+        "reference": "2 Timothy 4:4",
+        "original": "2 Tim. 4:4"
+      },
+      {
+        "reference": "Titus 1:14",
+        "original": "Titus 1:14"
+      },
+      {
+        "reference": "Judges 9:8-15",
+        "original": "Judg. 9:8-15"
+      },
+      {
+        "reference": "2 Kings 14:9",
+        "original": "2 Kings 14:9"
+      },
+      {
+        "reference": "2 Peter 1:16",
+        "original": "2 Peter 1:16"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "fairs": {
+    "name": "Ferias",
+    "slug": "fairs",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. 'izabhonim), encontrado siete veces en Ezek. 27, y en ningún otro lugar. La Versión Autorizada traduce la palabra así en todos estos casos, excepto en el versículo 33, donde se usa \"mercancías\". La versión revisada se traduce uniformemente por “mercancías”, que es la traducción correcta de la palabra hebrea. Nunca significa \"ferias\" en el sentido moderno de la palabra."
+      },
+      {
+        "source": "SMI",
+        "text": "una palabra que aparece sólo en (Ezequiel 27:1)... y allí no menos de siete veces, vs. (Ezequiel 27:12,14,16,19,22,27,33) en el último de estos versículos se traduce “mercancías”, y creemos que este es el verdadero significado de la palabra en todo momento."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezekiel 27",
+        "original": "Ezek. 27"
+      },
+      {
+        "reference": "Ezekiel 27:1",
+        "original": "Ezekiel 27:1"
+      },
+      {
+        "reference": "Ezekiel 27:12",
+        "original": "Ezekiel 27:12"
+      },
+      {
+        "reference": "Ezekiel 27:14",
+        "original": "Ezekiel 27:14"
+      },
+      {
+        "reference": "Ezekiel 27:16",
+        "original": "Ezekiel 27:16"
+      },
+      {
+        "reference": "Ezekiel 27:19",
+        "original": "Ezekiel 27:19"
+      },
+      {
+        "reference": "Ezekiel 27:22",
+        "original": "Ezekiel 27:22"
+      },
+      {
+        "reference": "Ezekiel 27:27",
+        "original": "Ezekiel 27:27"
+      },
+      {
+        "reference": "Ezekiel 27:33",
+        "original": "Ezekiel 27:33"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "faith": {
+    "name": "Fe",
+    "slug": "faith",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La fe es en general la persuasión de la mente de que cierta afirmación es verdadera (Fil. 1:27; 2 Tes. 2:13). Su idea principal es la confianza. Una cosa es verdadera y, por tanto, digna de confianza. Admite muchos grados hasta la plena seguridad de fe, de acuerdo con la evidencia en la que se basa. La fe es el resultado de la enseñanza (Romanos 10:14-17). El conocimiento es un elemento esencial en toda fe y, a veces, se lo considera un equivalente de la fe (Juan 10:38; 1 Juan 2:3). Sin embargo, ambos se distinguen en que la fe incluye en sí el asentimiento, que es un acto de la voluntad además del acto del entendimiento. El asentimiento a la verdad es la esencia de la fe, y el fundamento último sobre el que descansa nuestro asentimiento a cualquier verdad revelada es la veracidad de Dios. La fe histórica es la aprehensión y el asentimiento a ciertas afirmaciones que se consideran meros hechos históricos. La fe temporal es ese estado mental que se despierta en los hombres (por ejemplo, Félix) por la exhibición de la verdad y por la influencia de la simpatía religiosa, o por lo que a veces se llama la operación común del Espíritu Santo. La fe salvadora se llama así porque tiene la vida eterna inseparablemente conectada con ella. No se puede definir mejor que en las palabras del Catecismo Menor de la Asamblea: “La fe en Jesucristo es una gracia salvadora, por la cual recibimos y descansamos únicamente en Él para salvación, tal como se nos ofrece en el evangelio”. El objeto de la fe salvadora es toda la Palabra de Dios revelada. La fe lo acepta y lo cree como la verdad más segura. Pero el acto especial de fe que une a Cristo tiene como objeto la persona y obra del Señor Jesucristo (Juan 7:38; Hechos 16:31). Este es el acto específico de fe por el cual un pecador es justificado ante Dios (Rom. 3:22, 25; Gá. 2:16; Fil. 3:9; Juan 3:16-36; Hechos 10:43; 16:31). En este acto de fe el creyente se apropia y descansa únicamente en Cristo como Mediador en todos sus oficios. Este asentimiento o creencia en la verdad recibida sobre el testimonio divino siempre ha asociado con él un profundo sentido de pecado, una visión distinta de Cristo, una voluntad consiente y un corazón amoroso, junto con una dependencia, una confianza o un descanso en Cristo. Es ese estado mental en el que un pobre pecador, consciente de su pecado, huye de su yo culpable hacia Cristo su Salvador y echa sobre él el peso de todos sus pecados. Consiste principalmente, no en el consentimiento dado al testimonio de Dios en su Palabra, sino en abrazar con confianza y seguridad fiduciaria al único Salvador que Dios revela. Esta confianza y dependencia es la esencia de la fe. Por la fe el creyente se apropia directa e inmediatamente de Cristo como suyo. La fe en su acto directo hace nuestro a Cristo. No es una obra que Dios acepta bondadosamente en lugar de una obediencia perfecta, sino que es sólo la mano con la que nos aferramos a la persona y obra de nuestro Redentor como la única base de nuestra salvación. La fe salvadora es un acto moral, ya que procede de una voluntad renovada, y una voluntad renovada es necesaria para creer en el asentimiento a la verdad de Dios (1 Cor. 2:14; 2 Cor. 4:4). La fe, por tanto, tiene su asiento tanto en la parte moral de nuestra naturaleza como en la intelectual. La mente primero debe ser iluminada por la enseñanza divina (Juan 6:44; Hechos 13:48; 2 Cor. 4:6; Ef. 1:17, 18) antes de que pueda discernir las cosas del Espíritu. La fe es necesaria para nuestra salvación (Marcos 16:16), no porque haya algún mérito en ella, sino simplemente porque es el hecho de que el pecador tome el lugar que Dios le ha asignado, su caída en lo que Dios está haciendo. La garantía o fundamento de la fe es el testimonio divino, no la razonabilidad de lo que Dios dice, sino el simple hecho de que lo dice. La fe se basa inmediatamente en: \"Así dice el Señor\". Pero para tener esta fe se debe reconocer y apreciar la veracidad, la sinceridad y la verdad de Dios, junto con su inmutabilidad. La palabra de Dios anima y anima al pecador personalmente a negociar con Cristo como don de Dios, a acercarse a él, abrazarlo, entregarse a Cristo y tomar a Cristo como suyo. Esa palabra viene con poder, porque es la palabra de Dios que se ha revelado en sus obras, y especialmente en la cruz. A Dios se le debe creer por su palabra, pero también por su nombre. La fe en Cristo asegura al creyente la libertad de la condenación o la justificación ante Dios; una participación en la vida que es en Cristo, la vida divina (Juan 14:19; Rom. 6:4-10; Ef. 4:15, 16, etc.); “paz con Dios” (Romanos 5:1); y santificación (Hechos 26:18; Gálatas 5:6; Hechos 15:9). Todos los que así crean en Cristo ciertamente serán salvos (Juan 6:37, 40; 10:27, 28; Romanos 8:1). La fe = el evangelio (Hechos 6:7; Rom. 1:5; Gálatas 1:23; 1 Tim. 3:9; Judas 1:3)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Philippians 1:27",
+        "original": "Phil. 1:27"
+      },
+      {
+        "reference": "2 Thessalonians 2:13",
+        "original": "2 Thess. 2:13"
+      },
+      {
+        "reference": "Romans 10:14-17",
+        "original": "Rom. 10:14-17"
+      },
+      {
+        "reference": "John 10:38",
+        "original": "John 10:38"
+      },
+      {
+        "reference": "1 John 2:3",
+        "original": "1 John 2:3"
+      },
+      {
+        "reference": "John 7:38",
+        "original": "John 7:38"
+      },
+      {
+        "reference": "Acts 16:31",
+        "original": "Acts 16:31"
+      },
+      {
+        "reference": "Romans 3:22",
+        "original": "Rom. 3:22"
+      },
+      {
+        "reference": "Romans 3:25",
+        "original": "Rom. 3:25"
+      },
+      {
+        "reference": "Galatians 2:16",
+        "original": "Gal. 2:16"
+      },
+      {
+        "reference": "Philippians 3:9",
+        "original": "Phil. 3:9"
+      },
+      {
+        "reference": "John 3:16-36",
+        "original": "John 3:16-36"
+      },
+      {
+        "reference": "Acts 10:43",
+        "original": "Acts 10:43"
+      },
+      {
+        "reference": "1 Corinthians 2:14",
+        "original": "1 Cor. 2:14"
+      },
+      {
+        "reference": "2 Corinthians 4:4",
+        "original": "2 Cor. 4:4"
+      },
+      {
+        "reference": "John 6:44",
+        "original": "John 6:44"
+      },
+      {
+        "reference": "Acts 13:48",
+        "original": "Acts 13:48"
+      },
+      {
+        "reference": "2 Corinthians 4:6",
+        "original": "2 Cor. 4:6"
+      },
+      {
+        "reference": "Ephesians 1:17",
+        "original": "Eph. 1:17"
+      },
+      {
+        "reference": "Ephesians 1:18",
+        "original": "Eph. 1:18"
+      },
+      {
+        "reference": "Mark 16:16",
+        "original": "Mark 16:16"
+      },
+      {
+        "reference": "John 14:19",
+        "original": "John 14:19"
+      },
+      {
+        "reference": "Romans 6:4-10",
+        "original": "Rom. 6:4-10"
+      },
+      {
+        "reference": "Ephesians 4:15",
+        "original": "Eph. 4:15"
+      },
+      {
+        "reference": "Ephesians 4:16",
+        "original": "Eph. 4:16"
+      },
+      {
+        "reference": "Romans 5:1",
+        "original": "Rom. 5:1"
+      },
+      {
+        "reference": "Acts 26:18",
+        "original": "Acts 26:18"
+      },
+      {
+        "reference": "Galatians 5:6",
+        "original": "Gal. 5:6"
+      },
+      {
+        "reference": "Acts 15:9",
+        "original": "Acts 15:9"
+      },
+      {
+        "reference": "John 6:37",
+        "original": "John 6:37"
+      },
+      {
+        "reference": "John 6:40",
+        "original": "John 6:40"
+      },
+      {
+        "reference": "John 10:27",
+        "original": "John 10:27"
+      },
+      {
+        "reference": "John 10:28",
+        "original": "John 10:28"
+      },
+      {
+        "reference": "Romans 8:1",
+        "original": "Rom. 8:1"
+      },
+      {
+        "reference": "Acts 6:7",
+        "original": "Acts 6:7"
+      },
+      {
+        "reference": "Romans 1:5",
+        "original": "Rom. 1:5"
+      },
+      {
+        "reference": "Galatians 1:23",
+        "original": "Gal. 1:23"
+      },
+      {
+        "reference": "1 Timothy 3:9",
+        "original": "1 Tim. 3:9"
+      },
+      {
+        "reference": "Jude 1:1",
+        "original": "Jude 1"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
+  },
+  "faithful": {
+    "name": "Fiel",
+    "slug": "faithful",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Como designación de cristianos, significa llenos de fe, confiados y no simplemente dignos de confianza (Hechos 10:45; 16:1; 2 Cor. 6:15; Col. 1:2; 1 Tim. 4:3, 12; 5:16; 6:2; Tito 1:6; Ef. 1:1; 1 Cor. 4:17, etc.). También se usa para referirse a la palabra o pacto de Dios como verdadero y digno de confianza (Sal. 119:86, 138; Isa. 25:1; 1 Tim. 1:15; Apoc. 21:5; 22:6, etc.)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 10:45",
+        "original": "Acts 10:45"
+      },
+      {
+        "reference": "Acts 16:1",
+        "original": "Acts 16:1"
+      },
+      {
+        "reference": "2 Corinthians 6:15",
+        "original": "2 Cor. 6:15"
+      },
+      {
+        "reference": "Colossians 1:2",
+        "original": "Col. 1:2"
+      },
+      {
+        "reference": "1 Timothy 4:3",
+        "original": "1 Tim. 4:3"
+      },
+      {
+        "reference": "1 Timothy 4:12",
+        "original": "1 Tim. 4:12"
+      },
+      {
+        "reference": "Titus 1:6",
+        "original": "Titus 1:6"
+      },
+      {
+        "reference": "Ephesians 1:1",
+        "original": "Eph. 1:1"
+      },
+      {
+        "reference": "1 Corinthians 4:17",
+        "original": "1 Cor. 4:17"
+      },
+      {
+        "reference": "Psalms 119:86",
+        "original": "Ps. 119:86"
+      },
+      {
+        "reference": "Psalms 119:138",
+        "original": "Ps. 119:138"
+      },
+      {
+        "reference": "Isaiah 25:1",
+        "original": "Isa. 25:1"
+      },
+      {
+        "reference": "1 Timothy 1:15",
+        "original": "1 Tim. 1:15"
+      },
+      {
+        "reference": "Revelation 21:5",
+        "original": "Rev. 21:5"
+      },
+      {
+        "reference": "Revelation 22:6",
+        "original": "Rev 22:6"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
+  },
+  "feasts": {
+    "name": "Fiestas",
+    "slug": "feasts",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Festivales; Comidas]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "felix": {
+    "name": "Félix",
+    "slug": "felix",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Feliz, el procurador romano de Judea ante quien Pablo “razonaba” (Hechos 24:25). Parece haber esperado un soborno de Paul y, por lo tanto, tuvo varias entrevistas con él. Las “obras dignas” a las que se hace referencia en 24:2 fueron su limpieza del país de bandidos e impostores. Al final de un mandato de dos años, Porcio Festo fue nombrado en el lugar de Félix (60 d. C.), quien se dirigió a Roma, y ​​allí fue acusado de crueldad y malversación de su cargo por los judíos de Cesarea. La acusación quedó invalidada por la influencia de su hermano Palas en Nerón. (Véase Josefo, Ant. xx. 8, 9.) Drusila, la hija de Herodes Agripa, habiendo sido inducida por Félix a abandonar a su marido, el rey de Emesa, se convirtió en su compañera adúltera. Ella estaba sentada a su lado cuando Paul “razonó” ante el juez. Cuando Félix cedió el lugar a Festo, estando “dispuesto a complacer a los judíos”, dejó a Pablo atado."
+      },
+      {
+        "source": "SMI",
+        "text": "(feliz), procurador romano de Judea nombrado por el emperador Claudio en el año 53 d.C. Gobernó la provincia de una manera mezquina, cruel y despilfarradora. Su período en el cargo estuvo lleno de disturbios y sediciones. San Pablo fue llevado ante Félix en Cesarea. Fue enviado a prisión y permaneció allí dos años con la esperanza de extorsionarlo. (Hechos 24:26,27) Al final de ese tiempo, Porcio Festo [Festo, Porcio] fue designado para reemplazar a Félix, quien, a su regreso a Roma, fue acusado por los judíos en Cesarea, y habría sufrido el castigo debido a sus atrocidades si su hermano Palas no hubiera prevalecido con el emperador Nerón para que lo perdonara. Esto probablemente fue alrededor del año 60 d.C. La esposa de Félix era Drusila, hija de Herodes Agripa I, quien fue su tercera esposa y a quien persuadió para que dejara a su marido y se casara con él."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 24:25",
+        "original": "Acts 24:25"
+      },
+      {
+        "reference": "Acts 24:26",
+        "original": "Acts 24:26"
+      },
+      {
+        "reference": "Acts 24:27",
+        "original": "Acts 24:27"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "ferry-boat": {
+    "name": "ferry",
+    "slug": "ferry-boat",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(2 Sam. 19:18), una especie de barca para cruzar el río que los hombres de Judá pusieron al servicio del rey. Desde tiempos remotos se utilizaban flotadores o balsas para este propósito (Isaías 18:2)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 19:18",
+        "original": "2 Sam. 19:18"
+      },
+      {
+        "reference": "Isaiah 18:2",
+        "original": "Isa. 18:2"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
+  },
+  "festivals": {
+    "name": "festivales",
+    "slug": "festivals",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "I. Los tiempos religiosos ordenados en la ley se dividen en tres títulos:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Nehemiah 8:9-12",
+        "original": "Nehemiah 8:9-12"
+      },
+      {
+        "reference": "Exodus 12:16",
+        "original": "Exodus 12:16"
+      },
+      {
+        "reference": "Leviticus 16:29",
+        "original": "Leviticus 16:29"
+      },
+      {
+        "reference": "Leviticus 23:21",
+        "original": "Leviticus 23:21"
+      },
+      {
+        "reference": "Leviticus 23:24",
+        "original": "Leviticus 23:24"
+      },
+      {
+        "reference": "Leviticus 23:25",
+        "original": "Leviticus 23:25"
+      },
+      {
+        "reference": "Leviticus 23:35",
+        "original": "Leviticus 23:35"
+      },
+      {
+        "reference": "Leviticus 23:1",
+        "original": "Leviticus 23:1"
+      },
+      {
+        "reference": "Esther 9:20",
+        "original": "Esther 9:20"
+      },
+      {
+        "reference": "1Macc 4:56",
+        "original": "1Macc 4:56"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "festivals-religious": {
+    "name": "Festivales, Religiosos",
+    "slug": "festivals-religious",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Había festivales diarios (Levítico 23), semanales, mensuales y anuales, y se ponía gran énfasis en su observancia regular en cada detalle (Números 28:1-8; Éxodo 29:38-42; Levítico 6:8-23; Éxodo 30:7-9; 27:20). (1.) Las fiestas septenarias eran: (a) El sábado semanal (Levítico 23:1-3; Éxodo 19:3-30; 20:8-11; 31:12, etc.). (b) La séptima luna nueva, o la fiesta de las Trompetas (Números 28:11-15; 29:1-6). (c) El año sabático (Éxodo 23:10, 11; Levítico 25:2-7). (d) El año del jubileo (Levítico 23-35; 25:8-16; 27:16-25). (2.) Las grandes fiestas fueron, (a) La Pascua. (b) La fiesta de Pentecostés, o de las semanas. (c) La fiesta de los Tabernáculos, o de la recolección. En cada una de estas ocasiones, a cada varón israelita se le ordenó \"presentarse delante del Señor\" (Deuteronomio 27:7; Nehemías 8:9-12). La asistencia de las mujeres fue voluntaria. (Comp. Lucas 2:41; 1 Sam. 1:7; 2:19.) La promesa de que Dios protegería sus hogares (Éxodo 34:23, 24) mientras todos los varones estuvieran ausentes en Jerusalén en estas fiestas siempre se cumplió. \"Durante todo el período entre Moisés y Cristo nunca leímos de un enemigo que invadiera la tierra en el momento de las tres fiestas. El primer caso registrado es treinta y tres años después de que se habían retirado la protección divina al embeber sus manos en la sangre del Salvador, cuando Cestio, el general romano, mató a cincuenta del pueblo de Lida, mientras que todos los demás habían subido a la fiesta de los Tabernáculos, en el año 66 d.C.\". Estas fiestas, además de su finalidad religiosa, tenían una importante influencia en el mantenimiento entre el pueblo del sentimiento de unidad nacional. Los tiempos fijados para su observancia se dispusieron de manera que interfirieran lo menos posible con la laboriosidad del pueblo. La Pascua se celebraba justo antes de que comenzara la cosecha, Pentecostés al concluir la cosecha del maíz y antes de la vendimia, la fiesta de los Tabernáculos después de que se habían recogido todos los frutos de la tierra. (3.) El Día de la Expiación, el décimo día del séptimo mes (Levítico 16:1, 34; 23:26-32; Números 29:7-11). (Ver EXPIACIÓN, DÍA DE.) De las fiestas post-exilianas se hace referencia a la fiesta de la Dedicación (Juan 10:22). Esta fiesta fue designada por Judas Macabeo en conmemoración de la purificación del templo después de haber sido contaminado por Antíoco Epífanes. La “fiesta de Purim” (q.v.), Ester 9:24-32, también fue instituida después del exilio. (Cf. Juan 5:1.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 23",
+        "original": "Lev. 23"
+      },
+      {
+        "reference": "Numbers 28:1-8",
+        "original": "Num. 28:1-8"
+      },
+      {
+        "reference": "Exodus 29:38-42",
+        "original": "Ex. 29:38-42"
+      },
+      {
+        "reference": "Leviticus 6:8-23",
+        "original": "Lev. 6:8-23"
+      },
+      {
+        "reference": "Exodus 30:7-9",
+        "original": "Ex. 30:7-9"
+      },
+      {
+        "reference": "Exodus 27:20",
+        "original": "Ex 27:20"
+      },
+      {
+        "reference": "Leviticus 23:1-3",
+        "original": "Lev. 23:1-3"
+      },
+      {
+        "reference": "Exodus 19:3-30",
+        "original": "Ex. 19:3-30"
+      },
+      {
+        "reference": "Exodus 20:8-11",
+        "original": "Ex 20:8-11"
+      },
+      {
+        "reference": "Exodus 31:12",
+        "original": "Ex 31:12"
+      },
+      {
+        "reference": "Numbers 28:11-15",
+        "original": "Num. 28:11-15"
+      },
+      {
+        "reference": "Numbers 29:1-6",
+        "original": "Num 29:1-6"
+      },
+      {
+        "reference": "Exodus 23:10",
+        "original": "Ex. 23:10"
+      },
+      {
+        "reference": "Exodus 23:11",
+        "original": "Ex. 23:11"
+      },
+      {
+        "reference": "Leviticus 25:2-7",
+        "original": "Lev. 25:2-7"
+      },
+      {
+        "reference": "Deuteronomy 27:7",
+        "original": "Deut. 27:7"
+      },
+      {
+        "reference": "Nehemiah 8:9-12",
+        "original": "Neh. 8:9-12"
+      },
+      {
+        "reference": "Luke 2:41",
+        "original": "Luke 2:41"
+      },
+      {
+        "reference": "1 Samuel 1:7",
+        "original": "1 Sam. 1:7"
+      },
+      {
+        "reference": "1 Samuel 2:19",
+        "original": "1 Sam. 2:19"
+      },
+      {
+        "reference": "Exodus 34:23",
+        "original": "Ex. 34:23"
+      },
+      {
+        "reference": "Exodus 34:24",
+        "original": "Ex 34:24"
+      },
+      {
+        "reference": "Leviticus 16:1",
+        "original": "Lev. 16:1"
+      },
+      {
+        "reference": "Leviticus 16:34",
+        "original": "Lev. 16:34"
+      },
+      {
+        "reference": "Numbers 29:7-11",
+        "original": "Num. 29:7-11"
+      },
+      {
+        "reference": "John 10:22",
+        "original": "John 10:22"
+      },
+      {
+        "reference": "Esther 9:24-32",
+        "original": "Esther 9:24-32"
+      },
+      {
+        "reference": "John 5:1",
+        "original": "John 5:1"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
+  },
+  "festus-porcius": {
+    "name": "Festo, Porcio",
+    "slug": "festus-porcius",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El sucesor de Félix (60 d.C.) como procurador de Judea (Hechos 24:27). Unas semanas después de haber asumido su cargo, le informaron del caso de Pablo, entonces prisionero en Cesarea. Al “día siguiente”, después de haber bajado a Cesarea, escuchó a Pablo defenderse en presencia de Herodes Agripa II. y su hermana Berenice, al no encontrar en él nada digno de muerte o de prisión, lo habría puesto en libertad si no hubiera apelado al César (Hechos 25:11, 12). Como consecuencia de este llamamiento, Pablo fue enviado a Roma. Festo, después de haber estado en el cargo menos de dos años, murió en Judea. (Ver AGRIPPA.)"
+      },
+      {
+        "source": "SMI",
+        "text": "(Festo significa fiesta), sucesor de Félix como procurador de Judea (Hechos 24:27), enviado por Nerón probablemente en el otoño del año 60 d.C. Unas pocas semanas después de que Festo llegó a su provincia, escuchó la causa de San Pablo, a quien Félix había dejado prisionero, en presencia de Herodes Agripa II y su hermana Berenice (Hechos 25:11,12). Judea se encontraba en el mismo estado de perturbación durante el procuraduría de Festo que había prevalecido a través de la de su predecesor. Murió probablemente en el verano del año 60 d. C., después de haber gobernado la provincia menos de dos años."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 24:27",
+        "original": "Acts 24:27"
+      },
+      {
+        "reference": "Acts 25:11",
+        "original": "Acts 25:11"
+      },
+      {
+        "reference": "Acts 25:12",
+        "original": "Acts 25:12"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "fever": {
+    "name": "Fiebre",
+    "slug": "fever",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Deuteronomio 28:22; Mateo 8:14; Marcos 1:30; Juan 4:52; Hechos 28:8), un calor ardiente, como denota la palabra así traducida, que acompaña a todos los ataques febriles. En todos los países del Este estas enfermedades son muy comunes. Se dice que la madre de la esposa de Pedro sufrió de “gran fiebre” (Lucas 4:38), un ejemplo de la exactitud profesional de Lucas al describir la enfermedad. Adopta aquí la distinción técnica médica, ya que en aquellos tiempos las fiebres se dividían en “grandes” y “menores”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 28:22",
+        "original": "Deut. 28:22"
+      },
+      {
+        "reference": "Matthew 8:14",
+        "original": "Matt. 8:14"
+      },
+      {
+        "reference": "Mark 1:30",
+        "original": "Mark 1:30"
+      },
+      {
+        "reference": "John 4:52",
+        "original": "John 4:52"
+      },
+      {
+        "reference": "Acts 28:8",
+        "original": "Acts 28:8"
+      },
+      {
+        "reference": "Luke 4:38",
+        "original": "Luke 4:38"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
+  },
+  "fillets": {
+    "name": "filetes",
+    "slug": "fillets",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "heb. hashukum, plur., uniones (Éxodo 27:17; 38:17, 28), las varillas mediante las cuales se unían las partes superiores de las columnas alrededor del atrio del tabernáculo, y de las cuales se suspendían las cortinas (Éxodo 27:10, 11; 36:38). En Jer. 52:21 la traducción de una palabra diferente, choza, que significa “hilo”, y que designa una cuerda de medir de 12 codos de longitud para la circunferencia de las columnas de cobre del templo de Salomón."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 27:17",
+        "original": "Ex. 27:17"
+      },
+      {
+        "reference": "Exodus 38:17",
+        "original": "Ex 38:17"
+      },
+      {
+        "reference": "Exodus 38:28",
+        "original": "Ex 38:28"
+      },
+      {
+        "reference": "Exodus 27:10",
+        "original": "Ex. 27:10"
+      },
+      {
+        "reference": "Exodus 27:11",
+        "original": "Ex. 27:11"
+      },
+      {
+        "reference": "Jeremiah 52:21",
+        "original": "Jer. 52:21"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
+  },
+  "fire": {
+    "name": "Fuego",
+    "slug": "fire",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Para fines sagrados. Los sacrificios eran consumidos por el fuego (Génesis 8:20). El fuego siempre ardiente sobre el altar fue encendido primero desde el cielo (Lev. 6:9, 13; 9:24), y luego reavivado en la dedicación del templo de Salomón (2 Cr. 7:1, 3). Las expresiones \"fuego del cielo\" y \"fuego del Señor\" generalmente denotan relámpagos, pero a veces también se llamaba así al fuego del altar (Éxodo 29:18; Levítico 1:9; 2:3; 3:5, 9). El fuego para un propósito sagrado obtenido de otra manera que no fuera el altar se llamaba “fuego extraño” (Lev. 10:1, 2; Núm. 3:4). Las víctimas sacrificadas para las ofrendas por el pecado eran luego consumidas en el fuego fuera del campamento (Lev. 4:12, 21; 6:30; 16:27; Heb. 13:11). (2.) Para fines domésticos, como hornear, cocinar, calentarse, etc. (Jer. 36:22; Marcos 14:54; Juan 18:18). Pero en sábado no se debía encender fuego para ningún propósito doméstico (Éxodo 35:3; Números 15:32-36). (3.) Se imponía el castigo de muerte por fuego a los culpables de ciertas formas de falta de castidad e incesto (Lev. 20:14; 21:9). La quema de cautivos en la guerra no era desconocida entre los judíos (2 Sam. 12:31; Jer. 29:22). A veces también se quemaban los cuerpos de personas infames que fueron ejecutadas (Josué 7:25; 2 Reyes 23:16). (4.) En la guerra, el fuego se usaba en la destrucción de ciudades, como Jericó (Josué 6:24), Hai (8:19), Hazor (11:11), Lais (Jue. 18:27), etc. Los carros de guerra de los cananeos fueron quemados (Josué 11:6, 9, 13). Los israelitas quemaron las imágenes (2 Reyes 10:26; R.V., “columnas”) de la casa de Baal. Estos objetos de culto parecen haber sido del tipo de obeliscos y, en ocasiones, evidentemente estaban hechos de madera. A veces los soldados llevaban antorchas en la batalla (Jueces 7:16). (5.) En sentido figurado, el fuego es un símbolo de la presencia de Jehová y el instrumento de su poder (Éxo. 14:19; Núm. 11:1, 3; Jue. 13:20; 1 Reyes 18:38; 2 Reyes 1:10, 12; 2:11; Isa. 6:4; Eze. 1:4; Apoc. 1:14, etc.). La palabra de Dios también se asemeja al fuego (Jer. 23:29). Se le conoce como un emblema de pruebas o desgracias severas (Zacarías 12:6; Lucas 12:49; 1 Corintios 3:13, 15; 1 Pedro 1:7), y de castigo eterno (Mat. 5:22; Marcos 9:44; Apocalipsis 14:10; 21:8). La influencia del Espíritu Santo se asemeja al fuego (Mateo 3:11). Su descenso fue denotado por la aparición de lenguas como de fuego (Hechos 2:3)."
+      },
+      {
+        "source": "SMI",
+        "text": "se representa como el símbolo de la presencia de Jehová y el instrumento de su poder, ya sea en forma de aprobación o de destrucción. (Éxodo 3:2; 14:19) etc. No podría haber un mejor símbolo para Jehová que este del fuego, siendo inmaterial, misterioso, pero visible, cálido, alentador, reconfortante, pero también terrible y consumidor. Paralelamente a esta aplicación del fuego y a su significado simbólico, cabe señalar el uso similar con fines sacrificiales y el respeto que se le rinde o a los cuerpos celestes como símbolos de la deidad, que prevaleció entre tantas naciones de la antigüedad, y cuyos vestigios aún no se han extinguido; p.ej. los sistemas de adoración sabeos y magos. (Isaías 27:9.) El fuego para fines sagrados obtenido fuera del altar se llamaba “fuego extraño”, y por usarlo, Nadab y Abiú fueron castigados con la muerte por fuego de Dios. (Levítico 10:1,2; Números 3:4; 26:61)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 8:20",
+        "original": "Gen. 8:20"
+      },
+      {
+        "reference": "Leviticus 6:9",
+        "original": "Lev. 6:9"
+      },
+      {
+        "reference": "Leviticus 6:13",
+        "original": "Lev. 6:13"
+      },
+      {
+        "reference": "2 Chronicles 7:1",
+        "original": "2 Chr. 7:1"
+      },
+      {
+        "reference": "2 Chronicles 7:3",
+        "original": "2 Chr. 7:3"
+      },
+      {
+        "reference": "Exodus 29:18",
+        "original": "Ex. 29:18"
+      },
+      {
+        "reference": "Leviticus 1:9",
+        "original": "Lev. 1:9"
+      },
+      {
+        "reference": "Leviticus 2:3",
+        "original": "Lev 2:3"
+      },
+      {
+        "reference": "Leviticus 3:5",
+        "original": "Lev 3:5"
+      },
+      {
+        "reference": "Leviticus 3:9",
+        "original": "Lev 3:9"
+      },
+      {
+        "reference": "Leviticus 10:1",
+        "original": "Lev. 10:1"
+      },
+      {
+        "reference": "Leviticus 10:2",
+        "original": "Lev 10:2"
+      },
+      {
+        "reference": "Numbers 3:4",
+        "original": "Num. 3:4"
+      },
+      {
+        "reference": "Leviticus 4:12",
+        "original": "Lev. 4:12"
+      },
+      {
+        "reference": "Leviticus 4:21",
+        "original": "Lev. 4:21"
+      },
+      {
+        "reference": "Hebrews 13:11",
+        "original": "Heb. 13:11"
+      },
+      {
+        "reference": "Jeremiah 36:22",
+        "original": "Jer. 36:22"
+      },
+      {
+        "reference": "Mark 14:54",
+        "original": "Mark 14:54"
+      },
+      {
+        "reference": "John 18:18",
+        "original": "John 18:18"
+      },
+      {
+        "reference": "Exodus 35:3",
+        "original": "Ex. 35:3"
+      },
+      {
+        "reference": "Numbers 15:32-36",
+        "original": "Num. 15:32-36"
+      },
+      {
+        "reference": "Leviticus 20:14",
+        "original": "Lev. 20:14"
+      },
+      {
+        "reference": "Leviticus 21:9",
+        "original": "Lev 21:9"
+      },
+      {
+        "reference": "2 Samuel 12:31",
+        "original": "2 Sam. 12:31"
+      },
+      {
+        "reference": "Jeremiah 29:22",
+        "original": "Jer. 29:22"
+      },
+      {
+        "reference": "Joshua 7:25",
+        "original": "Josh. 7:25"
+      },
+      {
+        "reference": "2 Kings 23:16",
+        "original": "2 Kings 23:16"
+      },
+      {
+        "reference": "Joshua 6:24",
+        "original": "Josh. 6:24"
+      },
+      {
+        "reference": "Judges 18:27",
+        "original": "Judg. 18:27"
+      },
+      {
+        "reference": "Joshua 11:6",
+        "original": "Josh. 11:6"
+      },
+      {
+        "reference": "Joshua 11:9",
+        "original": "Josh. 11:9"
+      },
+      {
+        "reference": "Joshua 11:13",
+        "original": "Josh. 11:13"
+      },
+      {
+        "reference": "2 Kings 10:26",
+        "original": "2 Kings 10:26"
+      },
+      {
+        "reference": "Judges 7:16",
+        "original": "Judg. 7:16"
+      },
+      {
+        "reference": "Exodus 14:19",
+        "original": "Ex. 14:19"
+      },
+      {
+        "reference": "Numbers 11:1",
+        "original": "Num. 11:1"
+      },
+      {
+        "reference": "Numbers 11:3",
+        "original": "Num. 11:3"
+      },
+      {
+        "reference": "Judges 13:20",
+        "original": "Judg. 13:20"
+      },
+      {
+        "reference": "1 Kings 18:38",
+        "original": "1 Kings 18:38"
+      },
+      {
+        "reference": "2 Kings 1:10",
+        "original": "2 Kings 1:10"
+      },
+      {
+        "reference": "2 Kings 1:12",
+        "original": "2 Kings 1:12"
+      },
+      {
+        "reference": "Isaiah 6:4",
+        "original": "Isa. 6:4"
+      },
+      {
+        "reference": "Ezekiel 1:4",
+        "original": "Ezek. 1:4"
+      },
+      {
+        "reference": "Revelation 1:14",
+        "original": "Rev. 1:14"
+      },
+      {
+        "reference": "Jeremiah 23:29",
+        "original": "Jer. 23:29"
+      },
+      {
+        "reference": "Zechariah 12:6",
+        "original": "Zech. 12:6"
+      },
+      {
+        "reference": "Luke 12:49",
+        "original": "Luke 12:49"
+      },
+      {
+        "reference": "1 Corinthians 3:13",
+        "original": "1 Cor. 3:13"
+      },
+      {
+        "reference": "1 Corinthians 3:15",
+        "original": "1 Cor. 3:15"
+      },
+      {
+        "reference": "1 Peter 1:7",
+        "original": "1 Pet. 1:7"
+      },
+      {
+        "reference": "Matthew 5:22",
+        "original": "Matt. 5:22"
+      },
+      {
+        "reference": "Mark 9:44",
+        "original": "Mark 9:44"
+      },
+      {
+        "reference": "Revelation 14:10",
+        "original": "Rev. 14:10"
+      },
+      {
+        "reference": "Revelation 21:8",
+        "original": "Rev 21:8"
+      },
+      {
+        "reference": "Matthew 3:11",
+        "original": "Matt. 3:11"
+      },
+      {
+        "reference": "Acts 2:3",
+        "original": "Acts 2:3"
+      },
+      {
+        "reference": "Exodus 3:2",
+        "original": "Exodus 3:2"
+      },
+      {
+        "reference": "Isaiah 27:9",
+        "original": "Isaiah 27:9"
+      },
+      {
+        "reference": "Numbers 26:61",
+        "original": "Numbers 26:61"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "firkin": {
+    "name": "Firkin",
+    "slug": "firkin",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Usado sólo en Juan 2:6; el ánfora ática, equivalente al baño hebreo (q.v.), una medida para líquidos que contiene alrededor de 8 7/8 galones."
+      },
+      {
+        "source": "SMI",
+        "text": "[Pesos Y Medidas Y Medidas]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "John 2:6",
+        "original": "John 2:6"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "firmament": {
+    "name": "Firmamento",
+    "slug": "firmament",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "De la Vulgata firmamentum, que se utiliza como traducción del hebreo raki’a. Esta palabra significa simplemente \"expansión\". Denota el espacio o extensión como un arco que aparece inmediatamente encima de nosotros. Aquellos que rindieron raki'a mediante firmamentum lo consideraron como un cuerpo sólido. El lenguaje de las Escrituras no es científico sino popular, y por eso leemos sobre la salida y la puesta del sol, y también aquí el uso de esta palabra en particular. Es evidente que se utilizaba para denotar tanto solidez como expansión. Formó una división entre las aguas de arriba y las aguas de abajo (Génesis 1:7). La raki’a sostenía el depósito superior (Sal. 148:4). También era el soporte de los cuerpos celestes (Gén. 1:14), y se dice que tenía “ventanas” y “puertas” (Gén. 7:11; Isa. 24:18; Mal. 3:10) a través de las cuales podían descender la lluvia y la nieve."
+      },
+      {
+        "source": "SMI",
+        "text": "En las Escrituras la palabra denota una extensión, una extensión amplia; porque tal es el significado de la palabra hebrea. El original, por tanto, no transmite sensación de solidez, sino de estiramiento, extensión; el gran arco de extensión sobre nuestras cabezas, en el que están colocadas la atmósfera y las nubes, y en el que las estrellas parecen estar colocadas y realmente se ven.—Webster."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 1:7",
+        "original": "Gen. 1:7"
+      },
+      {
+        "reference": "Psalms 148:4",
+        "original": "Ps. 148:4"
+      },
+      {
+        "reference": "Genesis 1:14",
+        "original": "Gen. 1:14"
+      },
+      {
+        "reference": "Genesis 7:11",
+        "original": "Gen. 7:11"
+      },
+      {
+        "reference": "Isaiah 24:18",
+        "original": "Isa. 24:18"
+      },
+      {
+        "reference": "Malachi 3:10",
+        "original": "Mal. 3:10"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "fitches": {
+    "name": "Fitches",
+    "slug": "fitches",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Isa. 28:25, 27), traducción del hebreo ketsah, “sin duda la Nigella sativa, una pequeña planta anual del orden Ranunculacece, que crece silvestre en los países mediterráneos y se cultiva en Egipto y Siria por su semilla”. En el margen de la versión revisada se lee “comino negro”. Las semillas se utilizan como condimento. En Ezek. 4:9 esta palabra es la traducción del hebreo kussemeth (traducida incorrectamente “centeno” en la versión autorizada de Éxodo 9:32 e Isaías 28:25, pero “deletreada” en la versión revisada). La lectura \"encaja\" aquí es un error; debería estar \"deletreado\"."
+      },
+      {
+        "source": "SMI",
+        "text": "(es decir, VEZAS), sin duda la Nigella sativa, una planta herbácea anual perteneciente al orden natural Ranunculaceoe (la familia de los ranúnculos), que crece en el sur de Europa y en el norte de África. Sus semillas negras se utilizan como la pimienta y tienen un sabor casi igual de picante. Los sirios espolvorean estas semillas sobre sus tortas antes de hornearlas. [VER Centeno]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 28:25",
+        "original": "Isa. 28:25"
+      },
+      {
+        "reference": "Isaiah 28:27",
+        "original": "Isa. 28:27"
+      },
+      {
+        "reference": "Ezekiel 4:9",
+        "original": "Ezek. 4:9"
+      },
+      {
+        "reference": "Exodus 9:32",
+        "original": "Ex. 9:32"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "flagon": {
+    "name": "Frasco",
+    "slug": "flagon",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "heb. ashishah (2 Sam. 6:19; 1 Cr. 16:3; Cant. 2:5; Os. 3:1), que significa propiamente \"una torta de pasas prensadas\". Las “jarras de vino” de la versión autorizada deberían ser, como en la versión revisada, “tortas de pasas” en todos estos pasajes. En Isa. 22:24 es la traducción del hebreo nebel, que propiamente significa botella o vasija de piel. (Comp. 1 Sam. 1:24; 10:3; 25:18; 2 Sam. 16:1, donde se usa la misma palabra hebrea.)"
+      },
+      {
+        "source": "SMI",
+        "text": "una palabra empleada en la Versión Autorizada para traducir dos términos hebreos distintos:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 6:19",
+        "original": "2 Sam. 6:19"
+      },
+      {
+        "reference": "1 Chronicles 16:3",
+        "original": "1 Chr. 16:3"
+      },
+      {
+        "reference": "Song of Solomon 2:5",
+        "original": "Cant. 2:5"
+      },
+      {
+        "reference": "Hosea 3:1",
+        "original": "Hos. 3:1"
+      },
+      {
+        "reference": "Isaiah 22:24",
+        "original": "Isa. 22:24"
+      },
+      {
+        "reference": "1 Samuel 1:24",
+        "original": "1 Sam. 1:24"
+      },
+      {
+        "reference": "1 Samuel 10:3",
+        "original": "1 Sam. 10:3"
+      },
+      {
+        "reference": "1 Samuel 25:18",
+        "original": "1 Sam. 25:18"
+      },
+      {
+        "reference": "2 Samuel 16:1",
+        "original": "2 Sam. 16:1"
+      },
+      {
+        "reference": "Isaiah 30:14",
+        "original": "Isaiah 30:14"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "flowers": {
+    "name": "flores",
+    "slug": "flowers",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "En la Biblia se mencionan muy pocas especies de flores, aunque abundaban en Palestina. Se ha calculado que en Siria occidental y Palestina se encuentran entre dos mil y dos mil quinientas plantas, de las cuales unas quinientas probablemente sean flores silvestres británicas. A menudo se alude a su belleza (Cant. 2:12; Mat. 6:28). Se hace referencia a ellos como un emblema de la naturaleza transitoria de la vida humana (Job 14:2; Sal. 103:15; Isa. 28:1; 40:6; Santiago 1:10). Se habla de jardines que contienen flores y hierbas aromáticas (Cant. 4:16; 6:2)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Song of Solomon 2:12",
+        "original": "Cant. 2:12"
+      },
+      {
+        "reference": "Matthew 6:28",
+        "original": "Matt. 6:28"
+      },
+      {
+        "reference": "Job 14:2",
+        "original": "Job 14:2"
+      },
+      {
+        "reference": "Psalms 103:15",
+        "original": "Ps. 103:15"
+      },
+      {
+        "reference": "Isaiah 28:1",
+        "original": "Isa. 28:1"
+      },
+      {
+        "reference": "Isaiah 40:6",
+        "original": "Isa 40:6"
+      },
+      {
+        "reference": "James 1:10",
+        "original": "James 1:10"
+      },
+      {
+        "reference": "Song of Solomon 4:16",
+        "original": "Cant. 4:16"
+      },
+      {
+        "reference": "Song of Solomon 6:2",
+        "original": "Cant 6:2"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
+  },
+  "flute": {
+    "name": "Flauta",
+    "slug": "flute",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un instrumento musical, probablemente compuesto de varias flautas, mencionó Dan. 3:5, 7, 10, 15. En Mat. 9:23, 24, se presta atención a los músicos que tocan la flauta, aquí llamados “juglares” (pero en R.V. “flautistas”). Las flautas eran de uso común entre los antiguos egipcios."
+      },
+      {
+        "source": "SMI",
+        "text": "(1 Reyes 1:40) (marg., flauta), instrumento musical mencionado entre otros (Daniel 3:5,7,10,15) utilizado en la adoración de la imagen de oro que Nabucodonosor había erigido. Se parecía mucho a la flauta moderna y estaba hecha de cañas, cobre y otros materiales. Era el principal instrumento de viento."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Daniel 3:5",
+        "original": "Dan. 3:5"
+      },
+      {
+        "reference": "Daniel 3:7",
+        "original": "Dan. 3:7"
+      },
+      {
+        "reference": "Daniel 3:10",
+        "original": "Dan. 3:10"
+      },
+      {
+        "reference": "Daniel 3:15",
+        "original": "Dan. 3:15"
+      },
+      {
+        "reference": "Matthew 9:23",
+        "original": "Matt. 9:23"
+      },
+      {
+        "reference": "Matthew 9:24",
+        "original": "Matt. 9:24"
+      },
+      {
+        "reference": "1 Kings 1:40",
+        "original": "1 Kings 1:40"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "flux-bloody": {
+    "name": "flujo, sangriento",
+    "slug": "flux-bloody",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Hechos 28:8) lo mismo que nuestra disentería, que en Oriente es, aunque a veces esporádica, generalmente epidémica e infecciosa, y luego asume su peor forma."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 28:8",
+        "original": "Acts 28:8"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "fodder": {
+    "name": "Forraje",
+    "slug": "fodder",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "heb. belil, (Job 6:5), que significa propiamente una mezcla o popurrí (lat. farrago), “compuesto de diversas clases de granos, como trigo, cebada, arvejas y similares, todos mezclados y luego sembrados o dados al ganado” (Job 24:6, A.V. “maíz”, R.V. “forraje”; Isa. 30:24, forraje”)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 6:5",
+        "original": "Job 6:5"
+      },
+      {
+        "reference": "Job 24:6",
+        "original": "Job 24:6"
+      },
+      {
+        "reference": "Isaiah 30:24",
+        "original": "Isa. 30:24"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
+  },
+  "forehead": {
+    "name": "Frente",
+    "slug": "forehead",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "En Apocalipsis 13:16, 17 se alude a la práctica común entre las naciones orientales de colorear la frente o imprimir en ella alguna marca distintiva como señal de devoción a alguna deidad. 14:9; 17:5; 20:4. La “joya en tu frente” mencionada en Eze. 16:12 (R.V., “un anillo en tu nariz”) era con toda probabilidad el “anillo de la nariz” (Isaías 3:21). En Ezek. 3:7 la palabra “imprudente” se traduce correctamente en la versión revisada como “frente dura”. (Véase también los vers. 8, 9.)"
+      },
+      {
+        "source": "SMI",
+        "text": "La práctica de cubrirse el rostro (frente) con un velo en público entre las mujeres de clases altas, especialmente las casadas, en Oriente, estigmatiza suficientemente con reproche el rostro descubierto de las mujeres de mal carácter. (Génesis 24:64; Jeremías 3:3.) En otra parte se menciona la costumbre entre muchas naciones orientales de colorear el rostro y la frente y de imprimir en el cuerpo marcas indicativas de devoción a alguna deidad especial o secta religiosa. Las “joyas para la frente”, mencionadas por Ezequiel (Ezequiel 16:12) y en el margen de la versión autorizada (Génesis 24:22) eran con toda probabilidad anillos en la nariz. (Isaías 3:21)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Revelation 13:16",
+        "original": "Rev. 13:16"
+      },
+      {
+        "reference": "Revelation 13:17",
+        "original": "Rev. 13:17"
+      },
+      {
+        "reference": "Ezekiel 16:12",
+        "original": "Ezek. 16:12"
+      },
+      {
+        "reference": "Isaiah 3:21",
+        "original": "Isa. 3:21"
+      },
+      {
+        "reference": "Ezekiel 3:7",
+        "original": "Ezek. 3:7"
+      },
+      {
+        "reference": "Genesis 24:64",
+        "original": "Genesis 24:64"
+      },
+      {
+        "reference": "Jeremiah 3:3",
+        "original": "Jeremiah 3:3"
+      },
+      {
+        "reference": "Genesis 24:22",
+        "original": "Genesis 24:22"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "fornication": {
+    "name": "Fornicación",
+    "slug": "fornication",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "En todas sus formas fue severamente condenado por la ley mosaica (Levítico 21:9; 19:29; Deuteronomio 22:20, 21, 23-29; 23:18; Éxodo 22:16). (Ver ADULTERIO.) Pero esta palabra se usa con más frecuencia en un sentido simbólico que en su sentido ordinario. Con frecuencia significa abandonar a Dios o seguir a los ídolos (Isaías 1:2; Jer. 2:20; Ezequiel 16; Oseas 1:2; 2:1-5; Jer. 3:8, 9)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 21:9",
+        "original": "Lev. 21:9"
+      },
+      {
+        "reference": "Leviticus 19:29",
+        "original": "Lev 19:29"
+      },
+      {
+        "reference": "Deuteronomy 22:20",
+        "original": "Deut. 22:20"
+      },
+      {
+        "reference": "Deuteronomy 22:21",
+        "original": "Deut. 22:21"
+      },
+      {
+        "reference": "Deuteronomy 22:23",
+        "original": "Deut. 22:23"
+      },
+      {
+        "reference": "Exodus 22:16",
+        "original": "Ex. 22:16"
+      },
+      {
+        "reference": "Isaiah 1:2",
+        "original": "Isa. 1:2"
+      },
+      {
+        "reference": "Jeremiah 2:20",
+        "original": "Jer. 2:20"
+      },
+      {
+        "reference": "Ezekiel 16",
+        "original": "Ezek. 16"
+      },
+      {
+        "reference": "Hosea 1:2",
+        "original": "Hos. 1:2"
+      },
+      {
+        "reference": "Hosea 2:1-5",
+        "original": "Hos 2:1-5"
+      },
+      {
+        "reference": "Jeremiah 3:8",
+        "original": "Jer. 3:8"
+      },
+      {
+        "reference": "Jeremiah 3:9",
+        "original": "Jer. 3:9"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
+  },
+  "fortifications": {
+    "name": "Fortificaciones",
+    "slug": "fortifications",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Ciudades cercadas CIUDADES]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "fortunatus": {
+    "name": "Fortunato",
+    "slug": "fortunatus",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Afortunado, un discípulo de Corinto que visitó a Pablo en Éfeso y regresó con Estéfanas y Acaico, los portadores de la primera carta del apóstol a los Corintios (1 Cor. 16:17)."
+      },
+      {
+        "source": "SMI",
+        "text": "(afortunado) (1 Corintios 16:17) uno de los tres corintios, los otros son Estéfanas y Acaico, que estaban en Éfeso cuando San Pablo escribió su primera epístola. Hay un Fortunatus mencionado al final de la primera epístola de Clemente a los Corintios, que posiblemente era la misma persona."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Corinthians 16:17",
+        "original": "1 Cor. 16:17"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "fountain": {
+    "name": "Fuente",
+    "slug": "fountain",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(heb. 'ain; es decir, \"ojo\" del desierto de agua), una fuente natural de agua viva. Palestina era una “tierra de arroyos de agua, de fuentes y de abismos que brotan de valles y de colinas” (Deuteronomio 8:7; 11:11). Estas fuentes, brillantes “ojos” del desierto, destacan por su abundancia y su belleza, especialmente en el oeste de Jordania. Todos los ríos y arroyos perennes del país se abastecen de fuentes y dependen comparativamente poco del agua superficial. \"Palestina es un país de montañas y colinas, y abunda en fuentes de agua. El murmullo de estas aguas se escucha en cada valle, y el exuberante follaje que las rodea se ve en cada llanura\". Además de su agua de lluvia, sus cisternas y fuentes, Jerusalén tenía también un abundante suministro de agua en el magnífico depósito llamado “Estanques de Salomón” (q.v.), en la cabecera del valle de Urtas, desde donde era conducida a la ciudad por canales subterráneos de unas 10 millas de longitud. Todos estos han sido destruidos hace mucho tiempo, por lo que ahora no llega agua de los “Estanques” a Jerusalén. Sólo se ha descubierto una fuente en Jerusalén, las llamadas \"Fuentes de las Vírgenes\", en el valle de Cedrón; y sólo un pozo (heb. cerveza), el Bir Eyub, también en el valle de Kidron, al sur de los Jardines del Rey, que ha sido excavado en la roca sólida. Los habitantes de Jerusalén dependen ahora principalmente de las lluvias invernales, que almacenan en cisternas. (Ver BIEN.)"
+      },
+      {
+        "source": "SMI",
+        "text": "(un manantial a diferencia de un pozo). Los manantiales de Palestina, aunque de corta duración, destacan por su abundancia y belleza, especialmente los que caen en el Jordán y en sus lagos, de los cuales hay cientos a lo largo de todo su curso. El manantial o fuente de agua viva, el “ojo” del paisaje, se distingue en todas las lenguas orientales del pozo cerrado y excavado artificialmente. Jerusalén parece haber poseído más de un manantial perenne o uno que brotaba de más de una salida. En las ciudades orientales son frecuentes las fuentes públicas. Quizás se puedan encontrar rastros de tales fuentes en Jerusalén en los nombres de Enrogel, (2 Samuel 17:17), el \"pozo del Dragón\" o fuente, y la \"puerta de la fuente\". (Nehemías 2:13,14)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 8:7",
+        "original": "Deut. 8:7"
+      },
+      {
+        "reference": "Deuteronomy 11:11",
+        "original": "Deut 11:11"
+      },
+      {
+        "reference": "2 Samuel 17:17",
+        "original": "2 Samuel 17:17"
+      },
+      {
+        "reference": "Nehemiah 2:13",
+        "original": "Nehemiah 2:13"
+      },
+      {
+        "reference": "Nehemiah 2:14",
+        "original": "Nehemiah 2:14"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "fountain-of-the-virgin": {
+    "name": "fuente de la virgen",
+    "slug": "fountain-of-the-virgin",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La fuente perenne de la que se abastece el estanque de Siloé (q.v.), las aguas fluyen en una corriente copiosa hacia él a través de un túnel abierto en la roca, cuya longitud real es de 1,750 pies. El manantial nace en una cueva de 20 pies por 7. Un túnel serpenteante de 67 pies de largo corre desde allí hacia la izquierda, del cual se bifurca el túnel que conduce al estanque de Siloé. Es la única fuente inagotable de Jerusalén. La fuente debe su nombre a la “fantástica leyenda” de que aquí la virgen lavó los pañales de nuestro Señor. Este manantial tiene la singular característica de ser intermitente, manando de tres a cinco veces diarias en invierno, dos veces diarias en verano y sólo una vez diaria en otoño. Esta peculiaridad se explica por la suposición de que la salida del depósito se realiza por un conducto en forma de sifón."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
+  },
+  "frontlets": {
+    "name": "Frontlets",
+    "slug": "frontlets",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ocurre sólo en Éx. 13:16; Deut. 6:8 y 11:18. El significado del mandato dado a los israelitas, con respecto a las estatuas y preceptos que se les dieron, de que debían \"atarlos como una señal en sus manos y tenerlos como frontales entre sus ojos\", era que debían mantenerlos claramente a la vista y atenderlos cuidadosamente. Pero poco después de su regreso de Babilonia comenzaron a interpretar este mandato literalmente y, en consecuencia, escribieron y portaron sobre su persona partes de la ley. A estos los llamaron tefilín, es decir, \"oraciones\". Los pasajes así escritos en tiras de pergamino fueron estos, Éxo. 12:2-10; 13:11-21; Deut. 6:4-9; 11:18-21. Luego eran \"envueltos en una funda de piel de becerro negra, que estaba unida a una pieza de cuero más rígida, que tenía una correa de un dedo de ancho y un codo y medio de largo. Las que se llevaban en la frente se escribían en cuatro tiras de pergamino y se colocaban en cuatro pequeñas celdas dentro de una caja cuadrada, que tenía la letra hebrea llamada shin, cuyas tres puntas se consideraban un emblema de Dios\". Esta funda atada alrededor de la frente de una manera particular se llamaba “la tephillah en la cabeza”. (Ver FILACTERIA.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 13:16",
+        "original": "Ex. 13:16"
+      },
+      {
+        "reference": "Deuteronomy 6:8",
+        "original": "Deut. 6:8"
+      },
+      {
+        "reference": "Exodus 12:2-10",
+        "original": "Ex. 12:2-10"
+      },
+      {
+        "reference": "Exodus 13:11-21",
+        "original": "Ex 13:11-21"
+      },
+      {
+        "reference": "Deuteronomy 6:4-9",
+        "original": "Deut. 6:4-9"
+      },
+      {
+        "reference": "Deuteronomy 11:18-21",
+        "original": "Deut 11:18-21"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
+  },
+  "frontlets-or-phylacteries": {
+    "name": "Frontlets o filacterias",
+    "slug": "frontlets-or-phylacteries",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Éxodo 13:16; 6:8; 11:18; Mateo 23:5) Estos “frontales” o “filacterias” eran tiras de pergamino, en las cuales estaban escritos cuatro pasajes de las Escrituras (Éxodo 13:2-10,11-17; 6:4-9,13-23) en una tinta preparada para ese propósito. Luego los envolvían en una funda de piel de becerro negra, que estaba unida a una pieza de cuero más rígida, que tenía una correa de un dedo de ancho y un codo y medio de largo. Fueron colocados en la curva del brazo izquierdo. Las que se llevaban en la frente se escribían en cuatro tiras de pergamino y se colocaban en cuatro pequeñas celdas dentro de una caja cuadrada en la que se escribía la carta. El cuadrado tenía dos correas, en las que estaban inscritas letras hebreas. Es cierto que las filacterias se utilizaban como amuletos y era muy natural. La expresión “ensanchan sus filacterias” (Mateo 23:5) se refiere no tanto a la filacteria en sí, que parece haber sido de una anchura prescrita, como al estuche en el que se guardaba el pergamino, que los fariseos, entre sus otras costumbres pretenciosas (Marcos 7:3,4; Lucas 5:33), etc., hacían lo más visibles que podían. Se dice que los fariseos los llevaban siempre, mientras que la gente común sólo los usaba en las oraciones."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 13:16",
+        "original": "Exodus 13:16"
+      },
+      {
+        "reference": "Exodus 6:8",
+        "original": "Exodus 6:8"
+      },
+      {
+        "reference": "Exodus 11:18",
+        "original": "Exodus 11:18"
+      },
+      {
+        "reference": "Matthew 23:5",
+        "original": "Matthew 23:5"
+      },
+      {
+        "reference": "Exodus 13:2-10",
+        "original": "Exodus 13:2-10"
+      },
+      {
+        "reference": "Exodus 13:11-17",
+        "original": "Exodus 13:11-17"
+      },
+      {
+        "reference": "Exodus 6:4-9",
+        "original": "Exodus 6:4-9"
+      },
+      {
+        "reference": "Exodus 6:13-23",
+        "original": "Exodus 6:13-23"
+      },
+      {
+        "reference": "Mark 7:3",
+        "original": "Mark 7:3"
+      },
+      {
+        "reference": "Mark 7:4",
+        "original": "Mark 7:4"
+      },
+      {
+        "reference": "Luke 5:33",
+        "original": "Luke 5:33"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "fruit": {
+    "name": "Fruta",
+    "slug": "fruit",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Palabra utilizada en las Escrituras para denotar productos en general, ya sean vegetales o animales. Los hebreos dividían los frutos de la tierra en tres clases: (1.) El fruto del campo, “fruto de maíz” (heb. dagan); todo tipo de cereales y legumbres. (2.) El fruto de la vid, “fruto añejo” (heb. tirosh); uvas, ya sean húmedas o secas. (3.) “Frutas del huerto” (heb. yitshar), como dátiles, higos, cidras, etc. Los mandatos relativos a las ofrendas y los diezmos se expresaban únicamente mediante estos términos hebreos (Números 18:12; Deuteronomio 14:23). Esta palabra “fruto” también se usa para niños o descendencia (Gén. 30:2; Deut. 7:13; Lucas 1:42; Sal. 21:10; 132:11); también de la progenie de las bestias (Deuteronomio 28:51; Isaías 14:29). Se usa metafóricamente en una variedad de formas (Sal. 104:13; Prov. 1:31; 11:30; 31:16; Isa. 3:10; 10:12; Mateo 3:8; 21:41; 26:29; Heb. 13:15; Rom. 7:4, 5; 15:28). Los frutos del Espíritu (Gá. 5:22, 23; Ef. 5:9; Santiago 3:17, 18) son aquellas disposiciones y hábitos de gracia que el Espíritu produce en aquellos en quienes mora y obra."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 18:12",
+        "original": "Num. 18:12"
+      },
+      {
+        "reference": "Deuteronomy 14:23",
+        "original": "Deut. 14:23"
+      },
+      {
+        "reference": "Genesis 30:2",
+        "original": "Gen. 30:2"
+      },
+      {
+        "reference": "Deuteronomy 7:13",
+        "original": "Deut. 7:13"
+      },
+      {
+        "reference": "Luke 1:42",
+        "original": "Luke 1:42"
+      },
+      {
+        "reference": "Psalms 21:10",
+        "original": "Ps. 21:10"
+      },
+      {
+        "reference": "Psalms 132:11",
+        "original": "Ps 132:11"
+      },
+      {
+        "reference": "Deuteronomy 28:51",
+        "original": "Deut. 28:51"
+      },
+      {
+        "reference": "Isaiah 14:29",
+        "original": "Isa. 14:29"
+      },
+      {
+        "reference": "Psalms 104:13",
+        "original": "Ps. 104:13"
+      },
+      {
+        "reference": "Proverbs 1:31",
+        "original": "Prov. 1:31"
+      },
+      {
+        "reference": "Proverbs 11:30",
+        "original": "Prov 11:30"
+      },
+      {
+        "reference": "Proverbs 31:16",
+        "original": "Prov 31:16"
+      },
+      {
+        "reference": "Isaiah 3:10",
+        "original": "Isa. 3:10"
+      },
+      {
+        "reference": "Isaiah 10:12",
+        "original": "Isa 10:12"
+      },
+      {
+        "reference": "Matthew 3:8",
+        "original": "Matt. 3:8"
+      },
+      {
+        "reference": "Matthew 21:41",
+        "original": "Matt 21:41"
+      },
+      {
+        "reference": "Matthew 26:29",
+        "original": "Matt 26:29"
+      },
+      {
+        "reference": "Hebrews 13:15",
+        "original": "Heb. 13:15"
+      },
+      {
+        "reference": "Romans 7:4",
+        "original": "Rom. 7:4"
+      },
+      {
+        "reference": "Romans 7:5",
+        "original": "Rom. 7:5"
+      },
+      {
+        "reference": "Galatians 5:22",
+        "original": "Gal. 5:22"
+      },
+      {
+        "reference": "Galatians 5:23",
+        "original": "Gal. 5:23"
+      },
+      {
+        "reference": "Ephesians 5:9",
+        "original": "Eph. 5:9"
+      },
+      {
+        "reference": "James 3:17",
+        "original": "James 3:17"
+      },
+      {
+        "reference": "James 3:18",
+        "original": "James 3:18"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
+  },
+  "fugitive": {
+    "name": "Fugitivo",
+    "slug": "fugitive",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Génesis 4:12, 14, un vagabundo o vagabundo (heb. n’a); Juez. 12:4, un refugiado, uno que ha escapado (heb. palit); 2 Reyes 25:11, un desertor, uno que se ha apartado del enemigo (heb. nophel); Ezeq. 17:21, el que se ha escapado (heb. mibrah); Isa. 15:5; 43:14, un disidente, un fugitivo (heb. beriah), uno que huye."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 4:12",
+        "original": "Gen. 4:12"
+      },
+      {
+        "reference": "Genesis 4:14",
+        "original": "Gen. 4:14"
+      },
+      {
+        "reference": "Judges 12:4",
+        "original": "Judg. 12:4"
+      },
+      {
+        "reference": "2 Kings 25:11",
+        "original": "2 Kings 25:11"
+      },
+      {
+        "reference": "Ezekiel 17:21",
+        "original": "Ezek. 17:21"
+      },
+      {
+        "reference": "Isaiah 15:5",
+        "original": "Isa. 15:5"
+      },
+      {
+        "reference": "Isaiah 43:14",
+        "original": "Isa 43:14"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
+  },
+  "funeral": {
+    "name": "Funeral",
+    "slug": "funeral",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El entierro era entre los judíos la única manera de deshacerse de los cadáveres (Gén. 23:19; 25:9; 35:8, 9, etc.). Los primeros rastros de quema de muertos se encuentran en 1 Sam. 31:12. La quema del cuerpo fue fijada por la ley de Moisés como castigo a ciertos crímenes (Levítico 20:14; 21:9). Dejar a los muertos insepultos era visto con horror (1 Reyes 13:22; 14:11; 16:4; 21:24, etc.). En los primeros tiempos de los que tenemos registro, los parientes llevaban a sus muertos a la tumba (Gén. 25:9; 35:29; Jue. 16:31), pero en tiempos posteriores esto lo hicieron otros (Amós 6:16). Inmediatamente después del fallecimiento, el cuerpo era lavado y luego envuelto en un paño grande (Hechos 9:37; Mateo 27:59; Marcos 15:46). En el caso de personas distinguidas, se colocaban aromáticos en los pliegues de la tela (Juan 19:39; comp. Juan 12:7). Como regla general, el entierro (q.v.) tenía lugar el mismo día de la muerte (Hechos 5:6, 10), y el cuerpo era trasladado a la tumba en un ataúd abierto o en un féretro (Lucas 7:14). Después del entierro generalmente se ofrecía una comida fúnebre (2 Sam. 3:35; Jer. 16:5, 7; Os. 9:4)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 23:19",
+        "original": "Gen. 23:19"
+      },
+      {
+        "reference": "Genesis 25:9",
+        "original": "Gen 25:9"
+      },
+      {
+        "reference": "Genesis 35:8",
+        "original": "Gen 35:8"
+      },
+      {
+        "reference": "Genesis 35:9",
+        "original": "Gen 35:9"
+      },
+      {
+        "reference": "1 Samuel 31:12",
+        "original": "1 Sam. 31:12"
+      },
+      {
+        "reference": "Leviticus 20:14",
+        "original": "Lev. 20:14"
+      },
+      {
+        "reference": "Leviticus 21:9",
+        "original": "Lev 21:9"
+      },
+      {
+        "reference": "1 Kings 13:22",
+        "original": "1 Kings 13:22"
+      },
+      {
+        "reference": "1 Kings 14:11",
+        "original": "1 Kings 14:11"
+      },
+      {
+        "reference": "1 Kings 16:4",
+        "original": "1 Kings 16:4"
+      },
+      {
+        "reference": "1 Kings 21:24",
+        "original": "1 Kings 21:24"
+      },
+      {
+        "reference": "Genesis 35:29",
+        "original": "Gen 35:29"
+      },
+      {
+        "reference": "Judges 16:31",
+        "original": "Judg. 16:31"
+      },
+      {
+        "reference": "Amos 6:16",
+        "original": "Amos 6:16"
+      },
+      {
+        "reference": "Acts 9:37",
+        "original": "Acts 9:37"
+      },
+      {
+        "reference": "Matthew 27:59",
+        "original": "Matt. 27:59"
+      },
+      {
+        "reference": "Mark 15:46",
+        "original": "Mark 15:46"
+      },
+      {
+        "reference": "John 19:39",
+        "original": "John 19:39"
+      },
+      {
+        "reference": "John 12:7",
+        "original": "John 12:7"
+      },
+      {
+        "reference": "Acts 5:6",
+        "original": "Acts 5:6"
+      },
+      {
+        "reference": "Acts 5:10",
+        "original": "Acts 5:10"
+      },
+      {
+        "reference": "Luke 7:14",
+        "original": "Luke 7:14"
+      },
+      {
+        "reference": "2 Samuel 3:35",
+        "original": "2 Sam. 3:35"
+      },
+      {
+        "reference": "Jeremiah 16:5",
+        "original": "Jer. 16:5"
+      },
+      {
+        "reference": "Jeremiah 16:7",
+        "original": "Jer. 16:7"
+      },
+      {
+        "reference": "Hosea 9:4",
+        "original": "Hos. 9:4"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
+  },
+  "funerals": {
+    "name": "funerales",
+    "slug": "funerals",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Entierro, Sepulcros]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "furlong": {
+    "name": "furlong",
+    "slug": "furlong",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un estadio, una medida griega de distancia igual a 606 pies y 9 pulgadas (Lucas 24:13; Juan 6:19; 11:18; Apocalipsis 14:20; 21:16)."
+      },
+      {
+        "source": "SMI",
+        "text": "[Pesos Y Medidas Y Medidas]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 24:13",
+        "original": "Luke 24:13"
+      },
+      {
+        "reference": "John 6:19",
+        "original": "John 6:19"
+      },
+      {
+        "reference": "John 11:18",
+        "original": "John 11:18"
+      },
+      {
+        "reference": "Revelation 14:20",
+        "original": "Rev. 14:20"
+      },
+      {
+        "reference": "Revelation 21:16",
+        "original": "Rev 21:16"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "fury": {
+    "name": "Furia",
+    "slug": "fury",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Como se atribuye a Dios, es una expresión figurada para impartir juicios aflictivos (Lev. 26:28; Job 20:23; Isa. 63:3; Jer. 4:4; Eze. 5:13; Dan. 9:16; Zac. 8:2)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 26:28",
+        "original": "Lev. 26:28"
+      },
+      {
+        "reference": "Job 20:23",
+        "original": "Job 20:23"
+      },
+      {
+        "reference": "Isaiah 63:3",
+        "original": "Isa. 63:3"
+      },
+      {
+        "reference": "Jeremiah 4:4",
+        "original": "Jer. 4:4"
+      },
+      {
+        "reference": "Ezekiel 5:13",
+        "original": "Ezek. 5:13"
+      },
+      {
+        "reference": "Daniel 9:16",
+        "original": "Dan. 9:16"
+      },
+      {
+        "reference": "Zechariah 8:2",
+        "original": "Zech. 8:2"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
+  },
+  "ghost": {
+    "name": "Fantasma",
+    "slug": "ghost",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una antigua palabra sajona equivalente a alma o espíritu. Es la traducción del hebreo nephesh_ y del griego pneuma, que significan \"aliento\", \"vida\", \"espíritu\", el \"principio viviente\" (Job 11:20; Jer. 15:9; Mat. 27:50; Juan 19:30). La expresión “entregar el espíritu” significa morir (Lam. 1:19; Gén. 25:17; 35:29; 49:33; Job 3:11). (Ver ESPÍRITU SANTO.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 11:20",
+        "original": "Job 11:20"
+      },
+      {
+        "reference": "Jeremiah 15:9",
+        "original": "Jer. 15:9"
+      },
+      {
+        "reference": "Matthew 27:50",
+        "original": "Matt. 27:50"
+      },
+      {
+        "reference": "John 19:30",
+        "original": "John 19:30"
+      },
+      {
+        "reference": "Lamentations 1:19",
+        "original": "Lam. 1:19"
+      },
+      {
+        "reference": "Genesis 25:17",
+        "original": "Gen. 25:17"
+      },
+      {
+        "reference": "Genesis 35:29",
+        "original": "Gen 35:29"
+      },
+      {
+        "reference": "Genesis 49:33",
+        "original": "Gen 49:33"
+      },
+      {
+        "reference": "Job 3:11",
+        "original": "Job 3:11"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
+  },
+  "girdle": {
+    "name": "Faja",
+    "slug": "girdle",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Heb. hagor, un cinto de cualquier tipo usado por soldados (1 Sam. 18:4; 2 Sam. 20:8; 1 Reyes 2:5; 2 Reyes 3:21) o mujeres (Isa. 3:24). (2.) Heb. 'ezor, algo \"atado\", usado por los profetas (2 Reyes 1:8; Jer. 13:1), los soldados (Isa. 5:27; 2 Sam. 20:8; Eze. 23:15), los reyes (Job 12:18). (3.) Heb. mezah, una “cinta”, un cinto usado sólo por los hombres (Sal. 109:19; Isa. 22:21). (4.) Heb. ‘abnet, el cinto de los funcionarios sacerdotales y estatales (Éxodo 28:4, 39, 40; 29:9; 39:29). (5.) Heb. hesheb, el “curioso cinto” (Éxodo 28:8; R.V., “cinta astutamente tejida”) estaba sujeto al efod y estaba hecho del mismo material. El cinto común estaba hecho de cuero (2 Reyes 1:8; Mateo 3:4); una clase de lino más fino (Jer. 13:1; Eze. 16:10; Dan. 10:5). Se usaban cinturones de cilicio en señal de tristeza (Isaías 3:24; 22:12). Estaban sujetos de diversas formas al usuario (Marcos 1:6; Jer. 13:1; Ezequiel 16:10). El cinto era un símbolo de fuerza y ​​poder (Job 12:18, 21; 30:11; Isaías 22:21; 45:5). “Justicia y fidelidad” son el cinto del Mesías (Isaías 11:5). Los cinturones se usaban como carteras o bolsillos (Mat. 10:9. A. V., “monederos”; R.V., marg., “cintos”. También Marcos 6:8)."
+      },
+      {
+        "source": "SMI",
+        "text": "una prenda de vestir esencial en Oriente y usada tanto por hombres como por mujeres. El cinto común estaba hecho de cuero (2 Reyes 1:8; Mateo 3:4) como el que usan los beduinos de la actualidad. Un cinto más fino estaba hecho de lino (Jeremías 13:1; Ezequiel 16:10) bordado con seda y, a veces, con hilo de oro y plata (Daniel 10:5; Apocalipsis 1:13; 15:6) y frecuentemente tachonado con oro y piedras preciosas o perlas. La faja militar se llevaba alrededor de la cintura; de él colgaba la espada o la daga. (Jueces 3:16; 2 Samuel 20:8; Salmos 45:3.) Por lo tanto, ceñirse los lomos denota preparación para la batalla o para el esfuerzo activo. Los cinturones se usaban como bolsillos, como todavía se usan entre los árabes, y como bolsos, doblando un extremo del cinturón hacia atrás para este propósito. (Mateo 10:9; Marcos 6:8)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 18:4",
+        "original": "1 Sam. 18:4"
+      },
+      {
+        "reference": "2 Samuel 20:8",
+        "original": "2 Sam. 20:8"
+      },
+      {
+        "reference": "1 Kings 2:5",
+        "original": "1 Kings 2:5"
+      },
+      {
+        "reference": "2 Kings 3:21",
+        "original": "2 Kings 3:21"
+      },
+      {
+        "reference": "Isaiah 3:24",
+        "original": "Isa. 3:24"
+      },
+      {
+        "reference": "2 Kings 1:8",
+        "original": "2 Kings 1:8"
+      },
+      {
+        "reference": "Jeremiah 13:1",
+        "original": "Jer. 13:1"
+      },
+      {
+        "reference": "Isaiah 5:27",
+        "original": "Isa. 5:27"
+      },
+      {
+        "reference": "Ezekiel 23:15",
+        "original": "Ezek. 23:15"
+      },
+      {
+        "reference": "Job 12:18",
+        "original": "Job 12:18"
+      },
+      {
+        "reference": "Psalms 109:19",
+        "original": "Ps. 109:19"
+      },
+      {
+        "reference": "Isaiah 22:21",
+        "original": "Isa. 22:21"
+      },
+      {
+        "reference": "Exodus 28:4",
+        "original": "Ex. 28:4"
+      },
+      {
+        "reference": "Exodus 28:39",
+        "original": "Ex. 28:39"
+      },
+      {
+        "reference": "Exodus 28:40",
+        "original": "Ex. 28:40"
+      },
+      {
+        "reference": "Exodus 28:8",
+        "original": "Ex. 28:8"
+      },
+      {
+        "reference": "Matthew 3:4",
+        "original": "Matt. 3:4"
+      },
+      {
+        "reference": "Ezekiel 16:10",
+        "original": "Ezek. 16:10"
+      },
+      {
+        "reference": "Daniel 10:5",
+        "original": "Dan. 10:5"
+      },
+      {
+        "reference": "Isaiah 22:12",
+        "original": "Isa 22:12"
+      },
+      {
+        "reference": "Mark 1:6",
+        "original": "Mark 1:6"
+      },
+      {
+        "reference": "Job 12:21",
+        "original": "Job 12:21"
+      },
+      {
+        "reference": "Isaiah 45:5",
+        "original": "Isa 45:5"
+      },
+      {
+        "reference": "Isaiah 11:5",
+        "original": "Isa. 11:5"
+      },
+      {
+        "reference": "Matthew 10:9",
+        "original": "Matt. 10:9"
+      },
+      {
+        "reference": "Mark 6:8",
+        "original": "Mark 6:8"
+      },
+      {
+        "reference": "Revelation 1:13",
+        "original": "Revelation 1:13"
+      },
+      {
+        "reference": "Revelation 15:6",
+        "original": "Revelation 15:6"
+      },
+      {
+        "reference": "Judges 3:16",
+        "original": "Judges 3:16"
+      },
+      {
+        "reference": "Psalms 45:3",
+        "original": "Psalms 45:3"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "love-feasts": {
+    "name": "Fiestas de amor",
+    "slug": "love-feasts",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Agape), (2 Pedro 2:13; Judas 1:12) un entretenimiento en el que participaban los miembros más pobres de la iglesia, provisto de las contribuciones de los cristianos que recurrían a la celebración eucarística, pero se puede dudar si antes o después. La verdadera explicación del asunto es probablemente la dada por Crisóstomo, quien dice que después de que cesó la primitiva comunidad de bienes, los miembros más ricos traían a la iglesia contribuciones de comida y bebida, de las cuales, después de la conclusión de los servicios y la celebración de la Cena del Señor, todos participaban juntos, ayudando de este modo a promover el principio del amor entre los cristianos. La íntima conexión, especialmente en los primeros tiempos, entre la Eucaristía misma y las fiestas de amor ha llevado a algunos a hablar de ellas como idénticas. El Concilio de Laudicea, año 320 d.C., prohibió celebrar las fiestas de amor en las iglesias; pero de una forma u otra continuaron hasta un período mucho más posterior."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Peter 2:13",
+        "original": "2 Peter 2:13"
+      },
+      {
+        "reference": "Jude 1:1",
+        "original": "Jude 1"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "f"
+  },
+  "marriage-feasts": {
+    "name": "Fiestas de matrimonio",
+    "slug": "marriage-feasts",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Juan 2:1-11) \"normalmente duraba una semana entera; pero el costo de un regocijo tan prolongado es muy pequeño en Oriente. Los invitados se sientan alrededor del gran cuenco o cuencos en el suelo, y la comida generalmente consiste en un cordero o cabrito guisado en arroz o cebada. Los invitados más honorables se sientan más cerca, otros detrás; y todos, al comer, sumergen su mano en el único montículo humeante, trozos de pan fino, doblados juntos, sirviendo como cucharas cuando es necesario. Después de haber satisfecho el primer círculo ellos mismos, los de menor honor se sientan junto al resto, siendo toda la compañía hombres, porque nunca se ve a las mujeres en un banquete antes de comer, y esto se repite cuando termina la comida, habiéndose limpiado primero los dedos con pedazos de pan, que, después de servir para el mismo propósito que las servilletas, se arrojan al suelo para ser comidos por cualquier perro que haya entrado furtivamente de la calle a través de la puerta siempre abierta, o que los recojan los de afuera cuando los reúnan y los arrojen. (Mateo 15:27; Marcos 7:28). Levantándose del suelo y retirándose a los asientos alrededor de las paredes, los invitados se sientan con las piernas cruzadas y chismorrean, o escuchan recitales, o resuelven acertijos, la luz es escasamente suministrada por una pequeña lámpara o dos, o si la noche es fría, por un fuego humeante de malezas encendido en el medio de la habitación, tal vez en un brasero, a menudo en un agujero en el suelo. el suelo. En cuanto al humo, se escapa como mejor puede; pero en realidad hay poco, aunque lo suficiente como para ennegrecer el agua o el vino o los odres de leche colgados en clavijas en la pared. (Comp. Sal. 119:83.) A una fiesta de bodas así, Jesús y sus cinco discípulos fueron invitados en Caná de Galilea”. La vida de Cristo de Geikie. (Ver CANÁ.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "John 2:1-11",
+        "original": "John 2:1-11"
+      },
+      {
+        "reference": "Matthew 15:27",
+        "original": "Matt. 15:27"
+      },
+      {
+        "reference": "Mark 7:28",
+        "original": "Mark 7:28"
+      },
+      {
+        "reference": "Psalms 119:83",
+        "original": "Ps. 119:83"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "f"
   }
 }
