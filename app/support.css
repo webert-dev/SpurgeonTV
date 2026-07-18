@@ -1,0 +1,116 @@
+.support-page {
+  padding: 60px 0 100px;
+  min-height: calc(100vh - 200px);
+}
+
+.support-container {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: var(--bg-card);
+  border-radius: 16px;
+  padding: 60px 40px;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.05);
+  text-align: center;
+}
+
+[data-theme="dark"] .support-container {
+  box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+  border: 1px solid var(--border-color);
+}
+
+.support-image-container {
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.support-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 20px;
+  box-shadow: 0 8px 30px rgba(119, 78, 196, 0.3);
+  object-fit: cover;
+}
+
+.support-title {
+  font-family: var(--font-playfair);
+  font-size: 3rem;
+  color: var(--text-primary);
+  margin-bottom: 15px;
+}
+
+.support-subtitle {
+  font-family: var(--font-inter);
+  font-size: 1.25rem;
+  color: var(--brand-purple);
+  margin-bottom: 30px;
+  font-weight: 500;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.support-body {
+  font-family: var(--font-inter);
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: var(--text-secondary);
+  margin-bottom: 50px;
+  text-align: left;
+}
+
+.support-cta-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.support-cta-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--brand-purple);
+  color: white;
+  font-family: var(--font-inter);
+  font-size: 1.25rem;
+  font-weight: 600;
+  padding: 18px 40px;
+  border-radius: 50px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 8px 25px rgba(119, 78, 196, 0.4);
+}
+
+.support-cta-button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 35px rgba(119, 78, 196, 0.6);
+  background-color: #613cb0;
+  color: white;
+}
+
+/* Make nav link pop */
+.support-nav-link {
+  position: relative;
+}
+.support-nav-link::after {
+  content: '❤️';
+  font-size: 0.7rem;
+  position: absolute;
+  top: -5px;
+  right: -10px;
+}
+
+@media (max-width: 768px) {
+  .support-container {
+    padding: 40px 20px;
+  }
+  .support-title {
+    font-size: 2.2rem;
+  }
+  .support-subtitle {
+    font-size: 1.1rem;
+  }
+  .support-body {
+    font-size: 1rem;
+  }
+}

@@ -34,6 +34,7 @@ export default async function RootLayout({ children, params }) {
                 <Link href={`/${lang}/dictionary`} className="nav-link">{dict.navigation.dictionary}</Link>
                 <Link href={`/${lang}/about`} className="nav-link">{dict.navigation.about}</Link>
                 <Link href={`/${lang}/videos`} className="nav-link">{dict.navigation.videos}</Link>
+                <Link href={`/${lang}/support`} className="nav-link support-nav-link" style={{ fontWeight: 600, color: 'var(--brand-purple)' }}>{dict.navigation.support}</Link>
                 <LanguageSwitcher currentLang={lang} />
               </nav>
             </div>

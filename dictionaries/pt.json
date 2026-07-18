@@ -14,7 +14,8 @@
     "nextSermon": "Próximo Sermão",
     "firstSermon": "Primeiro Sermão",
     "lastSermon": "Último Sermão",
-    "videos": "Vídeos"
+    "videos": "Vídeos",
+    "support": "Apoie"
   },
   "footer": {
     "copyrightText": "Os sermões de Charles Haddon Spurgeon (1834–1892) estão em domínio público.",
@@ -194,5 +195,11 @@
     "share": "Compartilhar",
     "videoNotFound": "Vídeo não encontrado.",
     "loading": "Carregando vídeo..."
+  },
+  "support": {
+    "title": "Seja um Parceiro da Spurgeon TV",
+    "subtitle": "Ajude-nos a espalhar o evangelho através das obras sinceras e bíblicas de Charles Haddon Spurgeon.",
+    "body": "A Spurgeon TV é um trabalho de amor dedicado a traduzir, preservar e distribuir as obras completas de Spurgeon para a humanidade de forma gratuita. No entanto, manter esta enorme biblioteca online exige recursos contínuos. Suas contribuições cobrem diretamente nossos custos operacionais vitais: hospedagem de servidores, renovação de domínios, manutenção da plataforma, atualizações e os complexos processos de tradução necessários para disponibilizar esses sermões em vários idiomas. Ao fazer parceria conosco, você não está apenas mantendo um site — você está ajudando ativamente a anunciar o evangelho de Cristo ao mundo.",
+    "button": "Apoiar no Throne ❤️"
   }
 }

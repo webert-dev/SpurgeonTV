@@ -14,7 +14,8 @@
     "nextSermon": "Next Sermon",
     "firstSermon": "First Sermon",
     "lastSermon": "Last Sermon",
-    "videos": "Videos"
+    "videos": "Videos",
+    "support": "Support Us"
   },
   "footer": {
     "copyrightText": "The sermons of Charles Haddon Spurgeon (1834–1892) are in the public domain.",
@@ -194,5 +195,11 @@
     "share": "Share",
     "videoNotFound": "Video not found.",
     "loading": "Loading video..."
+  },
+  "support": {
+    "title": "Partner with Spurgeon TV",
+    "subtitle": "Help us spread the gospel through the sincere and biblical works of Charles Haddon Spurgeon.",
+    "body": "Spurgeon TV is a labor of love dedicated to translating, preserving, and distributing Spurgeon's complete works to humanity for free. However, keeping this massive library online requires significant ongoing resources. Your contributions directly cover our vital operational costs: server hosting, domain renewals, platform maintenance, system updates, and the complex translation processes required to make these sermons available in multiple languages. By partnering with us, you are not just maintaining a website—you are actively helping to announce the gospel of Christ to the world.",
+    "button": "Support on Throne ❤️"
   }
 }
