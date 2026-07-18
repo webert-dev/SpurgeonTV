@@ -1,5 +1,5 @@
 .support-page {
-  padding: 60px 0 100px;
+  padding: 20px 0 100px;
   min-height: calc(100vh - 200px);
 }
 
@@ -8,7 +8,7 @@
   margin: 0 auto;
   background-color: var(--bg-card);
   border-radius: 16px;
-  padding: 60px 40px;
+  padding: 30px 40px 60px;
   box-shadow: 0 10px 40px rgba(0,0,0,0.05);
   text-align: center;
 }
@@ -28,15 +28,24 @@
   width: 150px;
   height: 150px;
   border-radius: 20px;
-  box-shadow: 0 8px 30px rgba(119, 78, 196, 0.3);
   object-fit: cover;
+  /* Removed box-shadow so transparent background looks clean */
 }
 
 .support-title {
   font-family: var(--font-playfair);
-  font-size: 3rem;
-  color: var(--text-primary);
+  font-size: 2.3rem;
+  color: var(--brand-purple);
+  font-weight: 700;
   margin-bottom: 15px;
+  text-decoration: none;
+  display: inline-block;
+  transition: all 0.3s ease;
+}
+
+.support-title:hover {
+  color: #613cb0;
+  transform: translateY(-2px);
 }
 
 .support-subtitle {
@@ -56,7 +65,7 @@
   line-height: 1.8;
   color: var(--text-secondary);
   margin-bottom: 50px;
-  text-align: left;
+  text-align: justify;
 }
 
 .support-cta-container {
@@ -102,10 +111,10 @@
 
 @media (max-width: 768px) {
   .support-container {
-    padding: 40px 20px;
+    padding: 30px 20px;
   }
   .support-title {
-    font-size: 2.2rem;
+    font-size: 2rem;
   }
   .support-subtitle {
     font-size: 1.1rem;

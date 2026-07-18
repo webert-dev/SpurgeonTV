@@ -22,7 +22,7 @@ export default async function SupportPage({ params }) {
         <div className="support-container">
           <div className="support-image-container">
             <Image 
-              src="/support-book.png" 
+              src="/support-book-transparent.png" 
               alt="Support Spurgeon TV" 
               width={150} 
               height={150} 
@@ -30,7 +30,9 @@ export default async function SupportPage({ params }) {
             />
           </div>
           
-          <h1 className="support-title">{dict.support.title}</h1>
+          <a href="https://throne.com/spurgeon" target="_blank" rel="noopener noreferrer" className="support-title">
+            {dict.support.title}
+          </a>
           <h2 className="support-subtitle">{dict.support.subtitle}</h2>
           
           <div className="support-body">
