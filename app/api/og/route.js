@@ -136,7 +136,7 @@ export async function GET(request) {
                 fontWeight: 500,
               }}
             >
-              spurgeontv.com
+              spurgeon.tv
             </div>
           </div>
         </div>

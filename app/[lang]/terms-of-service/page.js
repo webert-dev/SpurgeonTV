@@ -31,7 +31,7 @@ const translations = {
       list: [
         "Os trabalhos originais e sermões em inglês de Charles Haddon Spurgeon estão em domínio público.",
         "As traduções em andamento (para português e espanhol) possuem propriedade intelectual da nossa equipe.",
-        "Apesar da distribuição gratuita de modo online no site, solicitamos e exigimos a menção à fonte caso compartilhe: \"Equipe Evangelística Spurgeon TV + spurgeontv.com\" (ou o link direto do site)."
+        "Apesar da distribuição gratuita de modo online no site, solicitamos e exigimos a menção à fonte caso compartilhe: \"Equipe Evangelística Spurgeon TV + spurgeon.tv\" (ou o link direto do site)."
       ]
     },
     disclaimer: {
@@ -77,7 +77,7 @@ const translations = {
       list: [
         "Charles Haddon Spurgeon's original works and English sermons are in the public domain.",
         "The ongoing translations (into Portuguese and Spanish) are the intellectual property of our team.",
-        "Despite free online distribution on the site, we request and require source attribution if shared: \"Equipe Evangelística Spurgeon TV + spurgeontv.com\" (or direct site link)."
+        "Despite free online distribution on the site, we request and require source attribution if shared: \"Equipe Evangelística Spurgeon TV + spurgeon.tv\" (or direct site link)."
       ]
     },
     disclaimer: {
@@ -123,7 +123,7 @@ const translations = {
       list: [
         "Las obras originales y sermones en inglés de Charles Haddon Spurgeon son de dominio público.",
         "Las traducciones en curso (al portugués y español) son propiedad intelectual de nuestro equipo.",
-        "A pesar de la distribución gratuita en línea, solicitamos y requerimos la mención de la fuente si se comparte: \"Equipe Evangelística Spurgeon TV + spurgeontv.com\" (o enlace directo)."
+        "A pesar de la distribución gratuita en línea, solicitamos y requerimos la mención de la fuente si se comparte: \"Equipe Evangelística Spurgeon TV + spurgeon.tv\" (o enlace directo)."
       ]
     },
     disclaimer: {
