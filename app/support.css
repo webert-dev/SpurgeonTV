@@ -46,8 +46,6 @@
   font-family: var(--font-playfair);
   font-size: 2rem;
   color: #FFD700;
-  -webkit-text-stroke: 1px #000;
-  text-shadow: 1px 1px 3px rgba(0,0,0,0.8);
   font-weight: 700;
   margin-bottom: 10px;
   text-decoration: none;
@@ -121,20 +119,22 @@
 
 @media (max-width: 768px) {
   .support-container {
-    padding: 30px 20px;
+    padding: 20px 15px;
   }
   .support-header {
-    flex-direction: column;
-    text-align: center;
     gap: 15px;
   }
+  .support-image {
+    width: 80px;
+    height: 80px;
+  }
   .support-title {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
   }
   .support-subtitle {
-    font-size: 1.05rem;
+    font-size: 0.95rem;
   }
   .support-body {
-    font-size: 1rem;
+    font-size: 0.95rem;
   }
 }
