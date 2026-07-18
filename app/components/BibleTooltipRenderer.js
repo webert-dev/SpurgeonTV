@@ -14,70 +14,49 @@ const BIBLE_BOOKS = [
   '1 Timothy', '2 Timothy', 'Titus', 'Philemon', 'Hebrews', 'James', '1 Peter', '2 Peter',
   '1 John', '2 John', '3 John', 'Jude', 'Revelation'
 ];
-
 export function BibleTooltipRenderer({ dict }) {
-  const { integrationEnabled, tooltipTranslation, isLoaded } = useBibleSettings();
+  const { integrationEnabled, isLoaded, tooltipTranslation } = useBibleSettings();
   const [hoveredRef, setHoveredRef] = useState(null);
   const [tooltipData, setTooltipData] = useState(null);
   const [tooltipPosition, setTooltipPosition] = useState({ top: 0, left: 0 });
-  const [bibleCache, setBibleCache] = useState({});
+  
+  const bibleCache = useRef({});
   const hideTimeoutRef = useRef(null);
 
+  // Auto-fetch data whenever translation or hoveredRef changes
   useEffect(() => {
-    if (!integrationEnabled || !isLoaded) return;
+    if (!hoveredRef) return;
 
-    const handleMouseOver = async (e) => {
-      const target = e.target.closest('.bible-ref-marker');
-      if (!target) {
-        // If we moved out of marker but into the tooltip, don't hide
-        if (e.target.closest('.bible-tooltip-popover')) return;
-        
-        hideTimeoutRef.current = setTimeout(() => {
-          setHoveredRef(null);
-        }, 300);
-        return;
-      }
+    const parts = hoveredRef.split('-');
+    const book = parts[0];
+    const chapter = parseInt(parts[1], 10);
+    const verse = parseInt(parts[2], 10);
+    const endVerse = parts[3] ? parseInt(parts[3], 10) : null;
 
-      // We are hovering over a marker
-      if (hideTimeoutRef.current) {
-        clearTimeout(hideTimeoutRef.current);
-      }
+    let isMounted = true;
 
-      const book = target.getAttribute('data-book');
-      const chapter = parseInt(target.getAttribute('data-chapter'), 10);
-      const verse = parseInt(target.getAttribute('data-verse'), 10);
-      const endVerse = target.getAttribute('data-end-verse') ? parseInt(target.getAttribute('data-end-verse'), 10) : null;
-
-      const rect = target.getBoundingClientRect();
-      setTooltipPosition({
-        top: rect.bottom + 10,
-        left: Math.max(10, rect.left - 100), // Center roughly, keep on screen
-      });
-
-      const refKey = `${book}-${chapter}-${verse}-${endVerse || ''}`;
-      if (hoveredRef === refKey) return; // Already showing
-
-      setHoveredRef(refKey);
+    const fetchAndSet = async () => {
       setTooltipData({ loading: true, book, chapter, verse, endVerse });
 
-      // Fetch or use cache
-      let bibleData = bibleCache[tooltipTranslation];
-      if (!bibleData) {
+      let data = bibleCache.current[tooltipTranslation];
+      if (!data) {
         try {
           const res = await fetch(`/bibles/${tooltipTranslation}.json`);
           if (res.ok) {
-            bibleData = await res.json();
-            setBibleCache(prev => ({ ...prev, [tooltipTranslation]: bibleData }));
+            data = await res.json();
+            bibleCache.current[tooltipTranslation] = data;
           }
         } catch (err) {
-          console.error("Failed to load bible translation", err);
+          console.error("Failed to fetch bible data", err);
         }
       }
 
-      if (bibleData) {
+      if (!isMounted) return;
+
+      if (data) {
         const bookIndex = BIBLE_BOOKS.findIndex(b => b === book);
-        if (bookIndex !== -1 && bibleData[bookIndex]) {
-          const chapterData = bibleData[bookIndex].chapters[chapter - 1];
+        if (bookIndex !== -1 && data[bookIndex]) {
+          const chapterData = data[bookIndex].chapters[chapter - 1];
           if (chapterData) {
             let versesText = [];
             if (endVerse) {
@@ -95,23 +74,65 @@ export function BibleTooltipRenderer({ dict }) {
               verse,
               endVerse,
               text: versesText.length > 0 ? versesText.join(' ') : (dict ? dict.bible.reader.notAvailable : 'Verse not found in this translation.'),
-              bookLocalName: bibleData[bookIndex].name
+              bookLocalName: data[bookIndex].name
             });
             return;
           }
         }
       }
-      
-      setTooltipData(prev => ({ ...prev, loading: false, text: dict ? dict.bible.reader.notAvailable : 'Text not available.' }));
+
+      setTooltipData({
+        loading: false,
+        book,
+        chapter,
+        verse,
+        endVerse,
+        text: dict ? dict.bible.reader.notAvailable : 'Text not available.',
+        bookLocalName: book
+      });
+    };
+
+    fetchAndSet();
+
+    return () => {
+      isMounted = false;
+    };
+  }, [hoveredRef, tooltipTranslation, dict]);
+
+  // Event listener attachment
+  useEffect(() => {
+    if (!integrationEnabled || !isLoaded) return;
+
+    const handleMouseOver = (e) => {
+      const target = e.target.closest('.bible-ref-marker');
+      if (!target) return;
+
+      if (hideTimeoutRef.current) {
+        clearTimeout(hideTimeoutRef.current);
+      }
+
+      const book = target.getAttribute('data-book');
+      const chapter = target.getAttribute('data-chapter');
+      const verse = target.getAttribute('data-verse');
+      const endVerse = target.getAttribute('data-end-verse') || '';
+
+      const rect = target.getBoundingClientRect();
+      setTooltipPosition({
+        top: rect.bottom + 10,
+        left: Math.max(10, rect.left - 100),
+      });
+
+      const refKey = `${book}-${chapter}-${verse}-${endVerse}`;
+      setHoveredRef(refKey);
     };
 
     const handleMouseOut = (e) => {
       const target = e.target.closest('.bible-ref-marker');
-      if (target) {
-        hideTimeoutRef.current = setTimeout(() => {
-          setHoveredRef(null);
-        }, 300);
-      }
+      if (!target) return;
+
+      hideTimeoutRef.current = setTimeout(() => {
+        setHoveredRef(null);
+      }, 300);
     };
 
     document.addEventListener('mouseover', handleMouseOver);
@@ -120,11 +141,10 @@ export function BibleTooltipRenderer({ dict }) {
     return () => {
       document.removeEventListener('mouseover', handleMouseOver);
       document.removeEventListener('mouseout', handleMouseOut);
-      if (hideTimeoutRef.current) clearTimeout(hideTimeoutRef.current);
     };
-  }, [integrationEnabled, isLoaded, tooltipTranslation, bibleCache, hoveredRef, dict]);
+  }, [integrationEnabled, isLoaded]);
 
-  if (!integrationEnabled || !hoveredRef || !tooltipData) return null;
+  if (!hoveredRef || !tooltipData) return null;
 
   return (
     <div 
@@ -136,29 +156,31 @@ export function BibleTooltipRenderer({ dict }) {
         zIndex: 999999,
         maxWidth: '350px',
         width: '100%',
+        background: 'var(--background)',
+        border: '1px solid var(--border)',
+        borderRadius: '8px',
+        boxShadow: '0 4px 12px rgba(0,0,0,0.15)'
       }}
       onMouseEnter={() => {
         if (hideTimeoutRef.current) clearTimeout(hideTimeoutRef.current);
       }}
       onMouseLeave={() => {
-        hideTimeoutRef.current = setTimeout(() => {
-          setHoveredRef(null);
-        }, 300);
+        setHoveredRef(null);
       }}
     >
-      {tooltipData.loading ? (
-        <div className="bible-tooltip-loading">{dict ? dict.bible.reader.loading : 'Loading...'}</div>
-      ) : (
-        <>
-          <div className="bible-tooltip-header">
-            <strong>{tooltipData.bookLocalName || tooltipData.book} {tooltipData.chapter}:{tooltipData.verse}{tooltipData.endVerse ? `-${tooltipData.endVerse}` : ''}</strong>
-            <span className="bible-tooltip-translation">{tooltipTranslation.toUpperCase()}</span>
-          </div>
-          <div className="bible-tooltip-body">
-            {tooltipData.text}
-          </div>
-        </>
-      )}
+      <div className="bible-tooltip-header" style={{ padding: '0.5rem 1rem', borderBottom: '1px solid var(--border)', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+        <strong style={{ color: 'var(--accent)', fontSize: '0.95rem' }}>
+          {tooltipData.loading ? (dict ? dict.bible.reader.loading : 'Loading...') : `${tooltipData.bookLocalName || tooltipData.book} ${tooltipData.chapter}:${tooltipData.verse}${tooltipData.endVerse ? `-${tooltipData.endVerse}` : ''}`}
+        </strong>
+        <span style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', textTransform: 'uppercase', background: 'var(--surface-hover)', padding: '0.1rem 0.3rem', borderRadius: '4px' }}>
+          {tooltipTranslation}
+        </span>
+      </div>
+      <div className="bible-tooltip-body" style={{ padding: '1rem', maxHeight: '200px', overflowY: 'auto' }}>
+        <div className="bible-tooltip-text" style={{ fontSize: '0.9rem', lineHeight: '1.5', color: 'var(--text)' }}>
+          {tooltipData.loading ? (dict ? dict.bible.reader.loading : 'Loading...') : tooltipData.text}
+        </div>
+      </div>
     </div>
   );
 }
