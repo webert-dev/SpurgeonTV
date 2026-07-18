@@ -104,8 +104,13 @@ export function BibleTooltipRenderer({ dict }) {
     if (!integrationEnabled || !isLoaded) return;
 
     const handleMouseOver = (e) => {
+      if (!integrationEnabled) return;
+      
       const target = e.target.closest('.bible-ref-marker');
       if (!target) return;
+      
+      // Disable tooltip for the main sermon scripture at the top, since it has an inline viewer
+      if (target.closest('.reader-scripture-ref')) return;
 
       if (hideTimeoutRef.current) {
         clearTimeout(hideTimeoutRef.current);
