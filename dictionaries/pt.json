@@ -197,7 +197,8 @@
     "loading": "Carregando vídeo...",
     "alertTitle": "🎬 Como assistir em Português",
     "alertBody": "Se o áudio ou a legenda não iniciarem no seu idioma automaticamente, clique no ícone de engrenagem (⚙️) no player, vá em 'Faixa de Áudio' (Audio Track) ou 'Legendas' (Subtitles/CC) e selecione Português.",
-    "cardAlert": "💡 Dica: Dublagem e legenda em Português disponíveis nas configurações (⚙️) do vídeo."
+    "cardAlert": "💡 Dica: Dublagem e legenda em Português disponíveis nas configurações (⚙️) do vídeo.",
+    "descriptionTitle": "Descrição"
   },
   "support": {
     "title": "Seja um Parceiro da Spurgeon TV",

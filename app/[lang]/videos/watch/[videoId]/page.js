@@ -85,6 +85,17 @@ export default async function WatchVideoPage({ params }) {
         <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap', marginTop: '1rem' }}>
           <ShareButton title={video.title} text={dict.watchVideo.share} />
         </div>
+        
+        {video.description && (
+          <div style={{ marginTop: '3rem', paddingTop: '2rem', borderTop: '1px solid var(--border)' }}>
+            <h2 style={{ fontSize: '1.5rem', fontFamily: 'var(--font-serif)', color: 'var(--text-primary)', marginBottom: '1.5rem' }}>
+              {dict.watchVideo?.descriptionTitle || "Description"}
+            </h2>
+            <div style={{ fontSize: '1.1rem', lineHeight: '1.8', color: 'var(--text-secondary)', whiteSpace: 'pre-wrap' }}>
+              {video.description}
+            </div>
+          </div>
+        )}
       </div>
       
       <style dangerouslySetInnerHTML={{__html: `

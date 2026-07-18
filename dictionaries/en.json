@@ -197,7 +197,8 @@
     "loading": "Loading video...",
     "alertTitle": "🎬 Multiple Languages Available",
     "alertBody": "Click the gear icon (⚙️) in the bottom right of the player to change the Audio Track or Subtitles to your preferred language.",
-    "cardAlert": "💡 Tip: Dubbing and subtitles available via the gear icon (⚙️)."
+    "cardAlert": "💡 Tip: Dubbing and subtitles available via the gear icon (⚙️).",
+    "descriptionTitle": "Description"
   },
   "support": {
     "title": "Partner with Spurgeon TV",
