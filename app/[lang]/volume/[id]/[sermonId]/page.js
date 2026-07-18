@@ -55,7 +55,8 @@ export async function generateMetadata({ params }) {
     ? `${sermon.scripture.reference} — ${excerpt}`
     : excerpt || `Read Sermon ${sermonNum} from Volume ${volNum} by Charles H. Spurgeon.`;
 
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv';
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 
+    (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : 'https://spurgeon-tv.vercel.app');
   const url = `${siteUrl}/${lang}/volume/${id}/${sermonId}`;
 
   return {
