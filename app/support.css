@@ -105,6 +105,29 @@
   color: white;
 }
 
+.support-cta-button-small {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--brand-purple);
+  color: white;
+  font-family: var(--font-inter);
+  font-size: 0.95rem;
+  font-weight: 600;
+  padding: 10px 24px;
+  border-radius: 50px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(119, 78, 196, 0.4);
+}
+
+.support-cta-button-small:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(119, 78, 196, 0.6);
+  background-color: #613cb0;
+  color: white;
+}
+
 /* Make nav link pop */
 .support-nav-link {
   position: relative;

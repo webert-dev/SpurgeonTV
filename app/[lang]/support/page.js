@@ -32,6 +32,11 @@ export default async function SupportPage({ params }) {
             </div>
             
             <div className="support-header-text">
+              <div style={{ marginBottom: '15px' }}>
+                <a href="https://throne.com/spurgeon" target="_blank" rel="noopener noreferrer" className="support-cta-button-small">
+                  {dict.support.button}
+                </a>
+              </div>
               <a href="https://throne.com/spurgeon" target="_blank" rel="noopener noreferrer" className="support-title">
                 {dict.support.title}
               </a>
