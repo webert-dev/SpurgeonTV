@@ -83,13 +83,6 @@ export default async function WatchVideoPage({ params }) {
         </h1>
         
         <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap', marginTop: '1rem' }}>
-          <a href={`https://www.youtube.com/watch?v=${videoId}`} target="_blank" rel="noopener noreferrer" style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5rem', background: 'var(--surface)', border: '1px solid var(--border)', padding: '0.8rem 1.5rem', borderRadius: '8px', color: 'var(--text-primary)', textDecoration: 'none', fontWeight: '500', transition: 'background 0.2s' }} className="btn-secondary">
-            <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
-              <path d="M21.582,6.186c-0.23-0.86-0.908-1.538-1.768-1.768C18.254,4,12,4,12,4S5.746,4,4.186,4.418c-0.86,0.23-1.538,0.908-1.768,1.768C2,7.746,2,12,2,12s0,4.254,0.418,5.814c0.23,0.86,0.908,1.538,1.768,1.768C5.746,20,12,20,12,20s6.254,0,7.814-0.418c0.86-0.23,1.538-0.908,1.768-1.768C22,16.254,22,12,22,12S22,7.746,21.582,6.186z M9.667,15.333V8.667L15.333,12L9.667,15.333z"/>
-            </svg>
-            {dict.watchVideo.watchOnYoutube}
-          </a>
-          
           <ShareButton title={video.title} text={dict.watchVideo.share} />
         </div>
       </div>
