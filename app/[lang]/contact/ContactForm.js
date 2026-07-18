@@ -38,19 +38,14 @@ export default function ContactForm({ t }) {
       mensagem: formProps.mensagem
     };
 
-    const webhookUrl = process.env.NEXT_PUBLIC_CONTACT_WEBHOOK_URL;
-    if (!webhookUrl) {
-      console.error('Webhook URL is not defined.');
-      setStatus('error');
-      setIsSubmitting(false);
-      return;
-    }
+    // Usando a URL fixa diretamente para evitar a necessidade de reiniciar o servidor (variáveis .env)
+    const webhookUrl = "https://script.google.com/macros/s/AKfycbyxoIyX-Mtb2rxFuqvpD6HFKm1awm85NAVz1t6JPT9xJBHv95YMXivTHf9857HPSL8/exec";
 
     try {
       const response = await fetch(webhookUrl, {
         method: 'POST',
         headers: {
-          'Content-Type': 'text/plain;charset=utf-8', // Apps Script requires text/plain to avoid CORS preflight issues on some setups
+          'Content-Type': 'text/plain;charset=utf-8', 
         },
         body: JSON.stringify(payload)
       });
