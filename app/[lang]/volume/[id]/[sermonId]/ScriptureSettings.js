@@ -23,7 +23,7 @@ export default function ScriptureSettings({ dict }) {
           value={tooltipTranslation}
           onChange={(e) => setTooltipTranslation(e.target.value)}
           title={dict ? dict.reader.tools.translation : "Translation for verses"}
-          style={{ padding: '0.2rem 0.5rem', background: 'var(--surface-hover)', border: '1px solid var(--border)', borderRadius: '4px', color: 'var(--text)', fontSize: '0.8rem' }}
+          style={{ padding: '0.4rem 0.6rem', background: 'var(--surface-hover)', border: '1px solid var(--border)', borderRadius: '6px', color: 'var(--text)', fontSize: '0.9rem', minWidth: '140px' }}
         >
           <option value="kjv">KJV</option>
           <option value="asv">ASV</option>
