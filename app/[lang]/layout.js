@@ -47,7 +47,7 @@ export default async function RootLayout({ children, params }) {
             <div className="container footer-inner">
               <div className="footer-links">
                 <ul>
-                  <li><Link href={`/${lang}/about`}>{dict.footer.links.aboutUs}</Link></li>
+                  <li><Link href={`/${lang}/about-us`}>{dict.footer.links.aboutUs}</Link></li>
                   <li><Link href={`/${lang}/transparency`}>{dict.footer.links.transparency}</Link></li>
                   <li><Link href={`/${lang}/contact`}>{dict.footer.links.contact}</Link></li>
                   <li><Link href={`/${lang}/support`} style={{ color: 'var(--brand-purple)' }}>{dict.footer.links.support}</Link></li>
