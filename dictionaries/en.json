@@ -15,7 +15,8 @@
     "firstSermon": "First Sermon",
     "lastSermon": "Last Sermon",
     "videos": "Videos",
-    "support": "Support Us"
+    "support": "Support Us",
+    "devotional": "Devotional"
   },
   "footer": {
     "copyrightText": "The sermons of Charles Haddon Spurgeon (1834–1892) are in the public domain.",
@@ -245,5 +246,13 @@
     "subtitle": "Help us spread the gospel through the sincere and biblical works of Charles Haddon Spurgeon.",
     "body": "Spurgeon TV is a labor of love dedicated to translating, preserving, and distributing Spurgeon's complete works to humanity for free. However, keeping this massive library online requires significant ongoing resources. Your contributions directly cover our vital operational costs: server hosting, domain renewals, platform maintenance, system updates, and the complex translation processes required to make these sermons available in multiple languages. By partnering with us, you are not just maintaining a website—you are actively helping to announce the gospel of Christ to the world.",
     "button": "Support on Throne ❤️"
+  },
+  "devotional": {
+    "pageTitle": "Spurgeon Morning and Evening Devotional",
+    "pageSubtitle": "Read the classic daily devotional by Charles Spurgeon, with inspiring readings for the morning and evening.",
+    "comingSoon": "We are preparing the complete and interactive digital version of this classic devotional. Soon, you will be able to read the daily portion directly here, with bible links and multiple translations.",
+    "introTitle": "The Classic 'Morning and Evening'",
+    "introText": "Written over a century ago, 'Morning and Evening' remains one of the most read and loved devotionals worldwide. Spurgeon distills the essence of the gospel into two short, profound daily messages filled with the love of Christ.",
+    "backHome": "Back to Home"
   }
 }

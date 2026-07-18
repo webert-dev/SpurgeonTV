@@ -15,7 +15,8 @@
     "firstSermon": "Primeiro Sermão",
     "lastSermon": "Último Sermão",
     "videos": "Vídeos",
-    "support": "Apoie"
+    "support": "Apoie",
+    "devotional": "Devocional"
   },
   "footer": {
     "copyrightText": "Os sermões de Charles Haddon Spurgeon (1834–1892) estão em domínio público.",
@@ -245,5 +246,13 @@
     "subtitle": "Ajude-nos a espalhar o evangelho através das obras sinceras e bíblicas de Charles Haddon Spurgeon.",
     "body": "A Spurgeon TV é um trabalho de amor dedicado a traduzir, preservar e distribuir as obras completas de Spurgeon para a humanidade de forma gratuita. No entanto, manter esta enorme biblioteca online exige recursos contínuos. Suas contribuições cobrem diretamente nossos custos operacionais vitais: hospedagem de servidores, renovação de domínios, manutenção da plataforma, atualizações e os complexos processos de tradução necessários para disponibilizar esses sermões em vários idiomas. Ao fazer parceria conosco, você não está apenas mantendo um site — você está ajudando ativamente a anunciar o evangelho de Cristo ao mundo.",
     "button": "Apoiar no Throne ❤️"
+  },
+  "devotional": {
+    "pageTitle": "Devocional Charles Spurgeon Dia e Noite",
+    "pageSubtitle": "Leia o clássico devocional diário de Charles Spurgeon, com leituras inspiradoras para a manhã e a noite.",
+    "comingSoon": "Estamos preparando a versão digital completa e interativa deste clássico devocional. Em breve, você poderá ler a porção diária diretamente aqui, com links bíblicos e múltiplas traduções.",
+    "introTitle": "O Clássico 'Morning and Evening'",
+    "introText": "Escrito há mais de um século, 'Dia e Noite' continua sendo um dos devocionais mais lidos e amados em todo o mundo. Spurgeon destila a essência do evangelho em duas mensagens diárias curtas, profundas e repletas do amor de Cristo.",
+    "backHome": "Voltar ao Início"
   }
 }

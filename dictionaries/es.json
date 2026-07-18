@@ -15,7 +15,8 @@
     "firstSermon": "Primer Sermón",
     "lastSermon": "Último Sermón",
     "videos": "Videos",
-    "support": "Apoya"
+    "support": "Apóyanos",
+    "devotional": "Devocional"
   },
   "footer": {
     "copyrightText": "Los sermones de Charles Haddon Spurgeon (1834–1892) son de dominio público.",
@@ -245,5 +246,13 @@
     "subtitle": "Ayúdanos a difundir el evangelio a través de las obras sinceras y bíblicas de Charles Haddon Spurgeon.",
     "body": "Spurgeon TV es una labor de amor dedicada a traducir, preservar y distribuir las obras completas de Spurgeon a la humanidad de forma gratuita. Sin embargo, mantener esta enorme biblioteca en línea requiere recursos continuos. Tus contribuciones cubren directamente nuestros costos operativos vitales: alojamiento de servidores, renovación de dominios, mantenimiento de la plataforma, actualizaciones y los complejos procesos de traducción requeridos para hacer que estos sermones estén disponibles en múltiples idiomas. Al asociarte con nosotros, no solo estás manteniendo un sitio web, estás ayudando activamente a anunciar el evangelio de Cristo al mundo.",
     "button": "Apoyar en Throne ❤️"
+  },
+  "devotional": {
+    "pageTitle": "Devocional Spurgeon Lecturas Matutinas y Vespertinas",
+    "pageSubtitle": "Lee el clásico devocional diario de Charles Spurgeon, con lecturas inspiradoras para la mañana y la tarde.",
+    "comingSoon": "Estamos preparando la versión digital completa e interactiva de este devocional clásico. Pronto podrás leer la porción diaria directamente aquí, con enlaces bíblicos y múltiples traducciones.",
+    "introTitle": "El Clásico 'Lecturas Matutinas y Vespertinas'",
+    "introText": "Escrito hace más de un siglo, sigue siendo uno de los devocionales más leídos y amados en todo el mundo. Spurgeon destila la esencia del evangelio en dos mensajes diarios cortos, profundos y llenos del amor de Cristo.",
+    "backHome": "Volver al Inicio"
   }
 }
