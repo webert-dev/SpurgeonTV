@@ -57,9 +57,10 @@ export async function generateMetadata({ params }) {
       siteName: 'Spurgeon TV',
       images: [
         {
-          url: `${siteUrl}/images/og-default.jpg`, // Você pode colocar uma imagem real aqui depois
+          url: `${siteUrl}/api/og?title=${encodeURIComponent(sermon.title)}&vol=${volNum}&num=${sermonNum}&subtitle=${encodeURIComponent(desc)}`,
           width: 1200,
           height: 630,
+          alt: sermon.title,
         },
       ],
       locale: lang,
