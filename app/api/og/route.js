@@ -17,6 +17,8 @@ export async function GET(request) {
       reference = `Sermon ${sermonNum} • Volume ${volume}`;
     }
 
+    const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv';
+    
     return new ImageResponse(
       (
         <div
@@ -25,11 +27,9 @@ export async function GET(request) {
             width: '100%',
             display: 'flex',
             flexDirection: 'column',
-            alignItems: 'center',
-            justifyContent: 'center',
-            backgroundColor: '#121214',
-            backgroundImage: 'linear-gradient(135deg, #09090b 0%, #1e1335 100%)', // Escuro para o roxo profundo da marca
-            padding: '40px 80px',
+            backgroundColor: '#09090b',
+            backgroundImage: 'linear-gradient(145deg, #09090b 0%, #1e1335 100%)', // Escuro para o roxo profundo
+            padding: '60px 80px',
             fontFamily: 'sans-serif',
             position: 'relative',
           }}
@@ -41,7 +41,7 @@ export async function GET(request) {
               top: 0,
               left: 0,
               right: 0,
-              height: '10px',
+              height: '12px',
               background: 'linear-gradient(90deg, #d4af37 0%, #ffdf73 50%, #d4af37 100%)',
             }}
           />
@@ -49,68 +49,85 @@ export async function GET(request) {
           <div
             style={{
               display: 'flex',
-              flexDirection: 'column',
-              alignItems: 'center',
-              justifyContent: 'center',
-              textAlign: 'center',
-              flex: 1,
+              alignItems: 'flex-start',
+              justifyContent: 'space-between',
+              width: '100%',
             }}
           >
-            {reference && (
+            <div style={{ display: 'flex', flexDirection: 'column', flex: 1, paddingRight: '40px' }}>
+              {reference && (
+                <div
+                  style={{
+                    fontSize: 28,
+                    color: '#A0A0B0',
+                    textTransform: 'uppercase',
+                    letterSpacing: '4px',
+                    marginBottom: 20,
+                    fontWeight: 700,
+                  }}
+                >
+                  {reference}
+                </div>
+              )}
+
               <div
                 style={{
-                  fontSize: 32,
-                  color: '#A0A0B0',
-                  textTransform: 'uppercase',
-                  letterSpacing: '3px',
-                  marginBottom: 20,
-                  fontWeight: 600,
+                  fontSize: 68,
+                  fontFamily: 'serif',
+                  fontWeight: 700,
+                  color: '#FFD700', // Dourado
+                  lineHeight: 1.1,
+                  marginBottom: 30,
+                  textShadow: '0 4px 15px rgba(212, 175, 55, 0.2)',
                 }}
               >
-                {reference}
+                {title}
               </div>
-            )}
 
-            <div
-              style={{
-                fontSize: 72,
-                fontFamily: 'serif',
-                fontWeight: 700,
-                color: '#FFD700', // Dourado SpurgeonTV
-                lineHeight: 1.2,
-                marginBottom: 30,
-                maxWidth: '900px',
-                textAlign: 'center',
-                textShadow: '0 4px 20px rgba(212, 175, 55, 0.2)',
-              }}
-            >
-              {title}
+              {subtitle && (
+                <div
+                  style={{
+                    fontSize: 32,
+                    color: '#E0E0E0',
+                    lineHeight: 1.5,
+                    fontStyle: 'italic',
+                    opacity: 0.9,
+                    display: '-webkit-box',
+                    WebkitLineClamp: 3,
+                    WebkitBoxOrient: 'vertical',
+                    overflow: 'hidden',
+                  }}
+                >
+                  "{subtitle}"
+                </div>
+              )}
             </div>
 
-            {subtitle && (
-              <div
-                style={{
-                  fontSize: 36,
-                  color: '#E0E0E0',
-                  maxWidth: '800px',
-                  textAlign: 'center',
-                  fontStyle: 'italic',
-                  lineHeight: 1.4,
+            {/* Logo area - right side */}
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+              <img 
+                src={`${siteUrl}/icon.png`}
+                width="200"
+                height="200"
+                style={{ 
+                  borderRadius: '16px',
+                  boxShadow: '0 20px 40px rgba(0,0,0,0.5)',
+                  border: '2px solid rgba(212, 175, 55, 0.3)'
                 }}
-              >
-                {subtitle}
-              </div>
-            )}
+              />
+            </div>
           </div>
 
-          {/* Footer Logo Area */}
+          <div style={{ flex: 1 }} />
+
+          {/* Footer */}
           <div
             style={{
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'space-between',
               width: '100%',
-              borderTop: '2px solid rgba(255, 255, 255, 0.1)',
+              borderTop: '1px solid rgba(255, 255, 255, 0.1)',
               paddingTop: '30px',
             }}
           >
@@ -133,7 +150,7 @@ export async function GET(request) {
               style={{
                 fontSize: 28,
                 color: '#A0A0B0',
-                fontWeight: 500,
+                fontWeight: 600,
               }}
             >
               spurgeon.tv

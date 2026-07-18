@@ -40,9 +40,20 @@ export async function generateMetadata({ params }) {
   const volNum = parseInt(id.replace('volume-', ''), 10);
   const sermonNum = sermonId.replace('sermon-', '');
 
-  const desc = sermon.scripture?.verse 
-    ? `"${sermon.scripture.verse}" — ${sermon.scripture.reference}`
-    : `Read Sermon ${sermonNum} from Volume ${volNum} by Charles H. Spurgeon.`;
+  // Extract a clean text excerpt from the HTML content
+  const stripHtml = (html) => html ? html.replace(/<[^>]*>?/gm, '').trim() : '';
+  const fullText = stripHtml(sermon.content);
+  // Get first 160 chars, ensuring we don't cut in the middle of a word if possible
+  let excerpt = fullText.substring(0, 160);
+  if (fullText.length > 160) {
+    excerpt = excerpt.substring(0, Math.min(excerpt.length, excerpt.lastIndexOf(' '))) + '...';
+  }
+  
+  // Use verse if requested, but user wanted "um trecho da mensagem", so let's prioritize the excerpt.
+  // We can include the verse reference in the description if it exists.
+  const desc = sermon.scripture?.reference 
+    ? `${sermon.scripture.reference} — ${excerpt}`
+    : excerpt || `Read Sermon ${sermonNum} from Volume ${volNum} by Charles H. Spurgeon.`;
 
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv';
   const url = `${siteUrl}/${lang}/volume/${id}/${sermonId}`;
@@ -57,7 +68,7 @@ export async function generateMetadata({ params }) {
       siteName: 'Spurgeon TV',
       images: [
         {
-          url: `${siteUrl}/api/og?title=${encodeURIComponent(sermon.title)}&vol=${volNum}&num=${sermonNum}&subtitle=${encodeURIComponent(desc)}`,
+          url: `${siteUrl}/api/og?title=${encodeURIComponent(sermon.title)}&vol=${volNum}&num=${sermonNum}&subtitle=${encodeURIComponent(excerpt)}`,
           width: 1200,
           height: 630,
           alt: sermon.title,
