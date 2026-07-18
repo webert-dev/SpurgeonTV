@@ -14,7 +14,7 @@ export default async function BiblePage({ params }) {
   const dict = await getDictionary(lang);
 
   return (
-    <div className="container" style={{ padding: '4rem 2rem' }}>
+    <div className="container" style={{ padding: '0.5rem 2rem' }}>
       <div style={{ marginBottom: '3rem', textAlign: 'center' }}>
         <p className="hero-eyebrow" style={{ marginBottom: '0.5rem' }}>
           {dict.bible.pageEyebrow}

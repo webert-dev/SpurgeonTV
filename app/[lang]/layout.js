@@ -45,6 +45,14 @@ export default async function RootLayout({ children, params }) {
           </main>
           <footer className="site-footer">
             <div className="container footer-inner">
+              <div className="footer-links">
+                <ul>
+                  <li><Link href={`/${lang}/about`}>{dict.footer.links.aboutUs}</Link></li>
+                  <li><Link href={`/${lang}/transparency`}>{dict.footer.links.transparency}</Link></li>
+                  <li><Link href={`/${lang}/contact`}>{dict.footer.links.contact}</Link></li>
+                  <li><Link href={`/${lang}/support`} style={{ color: 'var(--brand-purple)' }}>{dict.footer.links.support}</Link></li>
+                </ul>
+              </div>
               <div className="footer-brand">
                 <p className="footer-logo">SPURGEON<span>TV</span></p>
                 <p className="footer-quote">
@@ -55,16 +63,6 @@ export default async function RootLayout({ children, params }) {
                 </p>
               </div>
               <div className="footer-links">
-                <h4>{dict.navigation.about || "Spurgeon TV"}</h4>
-                <ul>
-                  <li><Link href={`/${lang}/about`}>{dict.footer.links.aboutUs}</Link></li>
-                  <li><Link href={`/${lang}/transparency`}>{dict.footer.links.transparency}</Link></li>
-                  <li><Link href={`/${lang}/contact`}>{dict.footer.links.contact}</Link></li>
-                  <li><Link href={`/${lang}/support`} style={{ color: 'var(--brand-purple)' }}>{dict.footer.links.support}</Link></li>
-                </ul>
-              </div>
-              <div className="footer-links">
-                <h4>Legal</h4>
                 <ul>
                   <li><Link href={`/${lang}/privacy-policy`}>{dict.footer.links.privacyPolicy}</Link></li>
                   <li><Link href={`/${lang}/terms-of-service`}>{dict.footer.links.termsOfService}</Link></li>

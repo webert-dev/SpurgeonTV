@@ -54,8 +54,8 @@ export default async function VideosHubPage({ params }) {
   }
 
   return (
-    <div className="container" style={{ padding: '4rem 2rem', minHeight: '80vh', maxWidth: '1200px', margin: '0 auto' }}>
-      <header style={{ marginBottom: '4rem', textAlign: 'center' }}>
+    <div className="container" style={{ padding: '1rem 2rem', minHeight: '80vh', maxWidth: '1200px', margin: '0 auto' }}>
+      <header style={{ marginBottom: '2rem', textAlign: 'center' }}>
         <h1 className="title-gold" style={{ fontSize: '3rem', marginBottom: '1.5rem' }}>
           {dict.videosHub.pageTitle}
         </h1>

@@ -160,7 +160,7 @@ export default async function SobrePage({ params }) {
   return (
     <div className="about-page">
       {/* HERO */}
-      <section className="about-hero" style={{ paddingBottom: '1rem' }}>
+      <section className="about-hero" style={{ paddingTop: '2rem', paddingBottom: '1rem' }}>
         <div className="about-hero-glow" />
         <div className="container about-hero-content">
           <p className="hero-eyebrow">{t.heroEyebrow}</p>
