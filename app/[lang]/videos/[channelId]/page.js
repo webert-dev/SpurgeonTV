@@ -73,6 +73,11 @@ export default async function ChannelVideosPage({ params, searchParams }) {
                 <h3 style={{ fontSize: '1.1rem', marginBottom: '0.5rem', display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden', lineHeight: '1.4' }}>
                   {video.title}
                 </h3>
+                {video.id === 'cKYQW5KB40U' && dict.watchVideo?.cardAlert && (
+                  <div style={{ marginTop: '0.8rem', padding: '0.6rem', background: 'rgba(255, 215, 0, 0.1)', border: '1px solid rgba(255, 215, 0, 0.3)', borderRadius: '6px', fontSize: '0.85rem', color: 'var(--text-secondary)', lineHeight: '1.4' }}>
+                    {dict.watchVideo.cardAlert}
+                  </div>
+                )}
               </div>
             </a>
           ))}

@@ -194,7 +194,10 @@
     "watchOnYoutube": "Ver en YouTube ↗",
     "share": "Compartir",
     "videoNotFound": "Video no encontrado.",
-    "loading": "Cargando video..."
+    "loading": "Cargando video...",
+    "alertTitle": "🎬 Cómo ver en Español",
+    "alertBody": "Si el audio o los subtítulos no se inician automáticamente en su idioma, haz clic en el ícono de engranaje (⚙️) en el reproductor, ve a 'Pista de audio' (Audio Track) o 'Subtítulos' (Subtitles/CC) y selecciona Español.",
+    "cardAlert": "💡 Consejo: Doblaje y subtítulos en Español disponibles en la configuración (⚙️) del video."
   },
   "support": {
     "title": "Asóciate con Spurgeon TV",

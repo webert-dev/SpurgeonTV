@@ -54,6 +54,17 @@ export default async function WatchVideoPage({ params }) {
         {dict.watchVideo.back}
       </Link>
       
+      {videoId === 'cKYQW5KB40U' && dict.watchVideo?.alertTitle && (
+        <div style={{ marginBottom: '2rem', padding: '1.5rem', background: 'rgba(255, 215, 0, 0.1)', border: '1px solid rgba(255, 215, 0, 0.4)', borderRadius: '12px' }}>
+          <h3 style={{ margin: '0 0 0.5rem 0', color: 'var(--text-primary)', fontSize: '1.2rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+            {dict.watchVideo.alertTitle}
+          </h3>
+          <p style={{ margin: 0, color: 'var(--text-secondary)', lineHeight: '1.5', fontSize: '1rem' }}>
+            {dict.watchVideo.alertBody}
+          </p>
+        </div>
+      )}
+
       <div style={{ background: '#000', borderRadius: '12px', overflow: 'hidden', boxShadow: '0 20px 40px rgba(0,0,0,0.5)', border: '1px solid var(--border)', marginBottom: '2rem' }}>
         <div style={{ position: 'relative', paddingTop: '56.25%' }}>
           <iframe
