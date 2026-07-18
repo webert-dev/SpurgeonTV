@@ -2393,7 +2393,7 @@ details[open] .summary-chevron {
   background-color: var(--surface);
   border-top: 1px solid var(--border);
   box-shadow: 0 -4px 12px rgba(0,0,0,0.2);
-  padding: 0.6rem 1rem;
+  padding: 0.4rem 0.5rem; /* Extremely tight padding */
 }
 
 .cookie-banner {
@@ -2401,16 +2401,14 @@ details[open] .summary-chevron {
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  gap: 1rem;
+  gap: 0.5rem; /* Tighter gap */
   width: 100%;
 }
-
-
 
 .cookie-content {
   display: flex;
   align-items: center;
-  gap: 0.8rem;
+  gap: 0.5rem;
   flex: 1;
 }
 
@@ -2419,17 +2417,23 @@ details[open] .summary-chevron {
   flex-shrink: 0;
 }
 
+@media (max-width: 600px) {
+  .cookie-icon {
+    display: none; /* Hide icon on small screens to save space */
+  }
+}
+
 .cookie-text h3 {
-  margin: 0 0 0.2rem 0;
-  font-size: 0.95rem;
+  margin: 0 0 0.1rem 0;
+  font-size: clamp(0.7rem, 2.5vw, 0.95rem); /* Dynamic sizing */
   color: var(--text-primary);
 }
 
 .cookie-text p {
   margin: 0;
-  font-size: 0.8rem;
+  font-size: clamp(0.6rem, 2vw, 0.8rem); /* Dynamic sizing */
   color: var(--text-secondary);
-  line-height: 1.3;
+  line-height: 1.2;
 }
 
 .cookie-text a {
@@ -2445,15 +2449,15 @@ details[open] .summary-chevron {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
-  gap: 0.4rem;
+  gap: 0.2rem; /* Tightest gap */
   flex-shrink: 0;
 }
 
 .cookie-btn-accept {
-  padding: 0.4rem 2rem;
-  font-size: 0.9rem;
+  padding: 0.3rem 1.2rem; /* Minimal padding */
+  font-size: clamp(0.7rem, 2.5vw, 0.85rem); /* Dynamic sizing */
   font-weight: 600;
-  border-radius: 6px;
+  border-radius: 4px;
   background-color: #6a5acd; /* Violet/Blue accent */
   color: white;
   border: none;
@@ -2471,14 +2475,14 @@ details[open] .summary-chevron {
 .cookie-actions-secondary {
   display: flex;
   align-items: center;
-  gap: 0.8rem;
+  gap: 0.5rem;
 }
 
 .cookie-actions-secondary button {
   background: none;
   border: none;
   color: var(--text-muted);
-  font-size: 0.8rem;
+  font-size: clamp(0.6rem, 2vw, 0.75rem); /* Dynamic sizing */
   text-decoration: underline;
   cursor: pointer;
   padding: 0;
