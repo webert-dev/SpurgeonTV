@@ -1,5 +1,5 @@
 .support-page {
-  padding: 20px 0 100px;
+  padding: 0 0 100px;
   min-height: calc(100vh - 200px);
 }
 
@@ -18,15 +18,25 @@
   border: 1px solid var(--border-color);
 }
 
-.support-image-container {
-  margin-bottom: 30px;
+.support-header {
   display: flex;
-  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+.support-image-container {
+  flex-shrink: 0;
+}
+
+.support-header-text {
+  flex: 1;
 }
 
 .support-image {
-  width: 150px;
-  height: 150px;
+  width: 130px;
+  height: 130px;
   border-radius: 20px;
   object-fit: cover;
   /* Removed box-shadow so transparent background looks clean */
@@ -50,13 +60,11 @@
 
 .support-subtitle {
   font-family: var(--font-inter);
-  font-size: 1.25rem;
+  font-size: 1.15rem;
   color: var(--brand-purple);
-  margin-bottom: 30px;
+  margin-bottom: 0;
   font-weight: 500;
   max-width: 600px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .support-body {
@@ -113,11 +121,16 @@
   .support-container {
     padding: 30px 20px;
   }
+  .support-header {
+    flex-direction: column;
+    text-align: center;
+    gap: 15px;
+  }
   .support-title {
     font-size: 2rem;
   }
   .support-subtitle {
-    font-size: 1.1rem;
+    font-size: 1.05rem;
   }
   .support-body {
     font-size: 1rem;
