@@ -22,7 +22,7 @@
   display: flex;
   align-items: center;
   gap: 30px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   text-align: left;
 }
 
@@ -44,17 +44,19 @@
 
 .support-title {
   font-family: var(--font-playfair);
-  font-size: 2.3rem;
-  color: var(--brand-purple);
+  font-size: 2rem;
+  color: #FFD700;
+  -webkit-text-stroke: 1px #000;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.8);
   font-weight: 700;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   text-decoration: none;
   display: inline-block;
   transition: all 0.3s ease;
 }
 
 .support-title:hover {
-  color: #613cb0;
+  color: #FFEA70;
   transform: translateY(-2px);
 }
 
@@ -72,14 +74,14 @@
   font-size: 1.1rem;
   line-height: 1.8;
   color: var(--text-secondary);
-  margin-bottom: 50px;
+  margin-bottom: 20px;
   text-align: justify;
 }
 
 .support-cta-container {
   display: flex;
   justify-content: center;
-  margin-top: 40px;
+  margin-top: 20px;
 }
 
 .support-cta-button {
@@ -127,7 +129,7 @@
     gap: 15px;
   }
   .support-title {
-    font-size: 2rem;
+    font-size: 1.6rem;
   }
   .support-subtitle {
     font-size: 1.05rem;
