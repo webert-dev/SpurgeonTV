@@ -125,7 +125,7 @@ export default async function SermonPage({ params }) {
 
         <div
           className="reader-content"
-          dangerouslySetInnerHTML={{ __html: sermon.content }}
+          dangerouslySetInnerHTML={{ __html: linkifyBibleReferences(sermon.content) }}
         />
         
         <SermonTags tags={tags} dict={dict} />
