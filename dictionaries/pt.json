@@ -19,7 +19,47 @@
   },
   "footer": {
     "copyrightText": "Os sermões de Charles Haddon Spurgeon (1834–1892) estão em domínio público.",
-    "quote": "“Visite muitos bons livros, mas viva na Bíblia.” — C.H. Spurgeon"
+    "quote": "“Visite muitos bons livros, mas viva na Bíblia.” — C.H. Spurgeon",
+    "links": {
+      "aboutUs": "Sobre Nós",
+      "transparency": "Transparência",
+      "contact": "Contato",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfService": "Termos de Serviço",
+      "cookiePolicy": "Política de Cookies",
+      "support": "Contribuições",
+      "home": "Página Inicial"
+    }
+  },
+  "cookies": {
+    "bannerTitle": "Valorizamos Sua Privacidade",
+    "bannerText": "Utilizamos cookies e coletamos dados para melhorar sua experiência e exibir anúncios personalizados. Você pode personalizar suas preferências a qualquer momento.",
+    "policyLinks": {
+      "privacy": "Política de Privacidade",
+      "separator": " • ",
+      "cookies": "Política de Cookies"
+    },
+    "btnGotIt": "Compreendi",
+    "btnCustomize": "Personalizar",
+    "btnReject": "Rejeitar Não Essenciais",
+    "modalTitle": "Preferências de Privacidade",
+    "modalText": "Gerencie suas preferências de cookies e coleta de dados. Você pode alterar essas configurações a qualquer momento.",
+    "essential": {
+      "title": "Cookies Essenciais",
+      "status": "SEMPRE ATIVO",
+      "desc": "Necessários para o funcionamento do site. Não podem ser desativados."
+    },
+    "analytics": {
+      "title": "Cookies de Análise",
+      "status": "OPCIONAL",
+      "desc": "Nos ajudam a entender como os visitantes interagem com nosso site (Google Analytics)."
+    },
+    "marketing": {
+      "title": "Cookies de Marketing",
+      "status": "OPCIONAL",
+      "desc": "Usados para exibir anúncios relevantes. Se desativado, você verá anúncios não personalizados baseados no conteúdo da página."
+    },
+    "btnSave": "Salvar Preferências"
   },
   "home": {
     "heroEyebrow": "O Príncipe dos Pregadores",

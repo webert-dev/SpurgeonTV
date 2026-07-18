@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { BibleSettingsProvider } from '../components/BibleSettingsProvider';
 import { getDictionary } from '../../lib/dictionaries';
 import LanguageSwitcher from '../components/LanguageSwitcher';
+import CookieBanner from '../components/CookieBanner';
 
 export const metadata = {
   title: 'SPURGEON TV | The Complete Sermon Collection',
@@ -44,15 +45,36 @@ export default async function RootLayout({ children, params }) {
           </main>
           <footer className="site-footer">
             <div className="container footer-inner">
-              <p className="footer-logo">SPURGEON<span>TV</span></p>
-              <p className="footer-text">
-                {dict.footer.copyrightText}
-              </p>
-              <p className="footer-quote">
-                {dict.footer.quote}
-              </p>
+              <div className="footer-brand">
+                <p className="footer-logo">SPURGEON<span>TV</span></p>
+                <p className="footer-quote">
+                  {dict.footer.quote}
+                </p>
+                <p className="footer-text">
+                  {dict.footer.copyrightText}
+                </p>
+              </div>
+              <div className="footer-links">
+                <h4>{dict.navigation.about || "Spurgeon TV"}</h4>
+                <ul>
+                  <li><Link href={`/${lang}/about`}>{dict.footer.links.aboutUs}</Link></li>
+                  <li><Link href={`/${lang}/transparency`}>{dict.footer.links.transparency}</Link></li>
+                  <li><Link href={`/${lang}/contact`}>{dict.footer.links.contact}</Link></li>
+                  <li><Link href={`/${lang}/support`} style={{ color: 'var(--brand-purple)' }}>{dict.footer.links.support}</Link></li>
+                </ul>
+              </div>
+              <div className="footer-links">
+                <h4>Legal</h4>
+                <ul>
+                  <li><Link href={`/${lang}/privacy-policy`}>{dict.footer.links.privacyPolicy}</Link></li>
+                  <li><Link href={`/${lang}/terms-of-service`}>{dict.footer.links.termsOfService}</Link></li>
+                  <li><Link href={`/${lang}/cookie-policy`}>{dict.footer.links.cookiePolicy}</Link></li>
+                  <li><Link href={`/${lang}`}>{dict.footer.links.home}</Link></li>
+                </ul>
+              </div>
             </div>
           </footer>
+          <CookieBanner lang={lang} dict={dict} />
         </BibleSettingsProvider>
       </body>
     </html>

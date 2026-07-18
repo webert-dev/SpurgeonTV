@@ -19,7 +19,47 @@
   },
   "footer": {
     "copyrightText": "The sermons of Charles Haddon Spurgeon (1834–1892) are in the public domain.",
-    "quote": "“Visit many good books, but live in the Bible.” — C.H. Spurgeon"
+    "quote": "“Visit many good books, but live in the Bible.” — C.H. Spurgeon",
+    "links": {
+      "aboutUs": "About Us",
+      "transparency": "Transparency",
+      "contact": "Contact",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service",
+      "cookiePolicy": "Cookie Policy",
+      "support": "Support",
+      "home": "Home"
+    }
+  },
+  "cookies": {
+    "bannerTitle": "We Value Your Privacy",
+    "bannerText": "We use cookies and collect data to improve your experience and show personalized ads. You can customize your preferences at any time.",
+    "policyLinks": {
+      "privacy": "Privacy Policy",
+      "separator": " • ",
+      "cookies": "Cookie Policy"
+    },
+    "btnGotIt": "Got It",
+    "btnCustomize": "Customize",
+    "btnReject": "Reject Non-Essential",
+    "modalTitle": "Privacy Preferences",
+    "modalText": "Manage your cookie preferences and data collection. You can change these settings at any time.",
+    "essential": {
+      "title": "Essential Cookies",
+      "status": "ALWAYS ACTIVE",
+      "desc": "Necessary for the website to function. Cannot be disabled."
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "status": "OPTIONAL",
+      "desc": "Help us understand how visitors interact with our website (Google Analytics)."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "status": "OPTIONAL",
+      "desc": "Used to show relevant ads. If disabled, you will see non-personalized ads based on the page content."
+    },
+    "btnSave": "Save Preferences"
   },
   "home": {
     "heroEyebrow": "The Prince of Preachers",

@@ -2380,3 +2380,343 @@ body.zen-mode-active .sermon-info-body {
 details[open] .summary-chevron {
   transform: rotate(180deg);
 }
+
+/* -------------------------------------
+ *  COOKIE BANNER & MODAL
+ * ------------------------------------- */
+.cookie-banner-wrapper {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+  background-color: var(--surface);
+  border-top: 1px solid var(--border);
+  box-shadow: 0 -4px 12px rgba(0,0,0,0.2);
+  padding: 1rem 0;
+}
+
+.cookie-banner {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+@media (min-width: 768px) {
+  .cookie-banner {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
+.cookie-content {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  flex: 1;
+}
+
+.cookie-icon {
+  color: var(--brand-purple);
+  flex-shrink: 0;
+  margin-top: 0.2rem;
+}
+
+.cookie-text h3 {
+  margin: 0 0 0.3rem 0;
+  font-size: 1rem;
+  color: var(--text-primary);
+}
+
+.cookie-text p {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  line-height: 1.4;
+}
+
+.cookie-text a {
+  color: var(--text-muted);
+  text-decoration: underline;
+  transition: color 0.2s;
+}
+.cookie-text a:hover {
+  color: var(--text-primary);
+}
+
+.cookie-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.cookie-actions-secondary {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.cookie-actions button {
+  white-space: nowrap;
+}
+
+.cookie-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.75);
+  backdrop-filter: blur(4px);
+  z-index: 10000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+.cookie-modal {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  width: 100%;
+  max-width: 600px;
+  max-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+  overflow: hidden;
+}
+
+.cookie-modal-header {
+  padding: 1.5rem;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cookie-modal-header h2 {
+  margin: 0;
+  font-size: 1.25rem;
+  color: var(--text-primary);
+}
+
+.btn-close {
+  background: transparent;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  padding: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: background 0.2s, color 0.2s;
+}
+
+.btn-close:hover {
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text-primary);
+}
+
+.cookie-modal-body {
+  padding: 1.5rem;
+  overflow-y: auto;
+  flex: 1;
+}
+
+.cookie-modal-desc {
+  margin: 0 0 1.5rem 0;
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.cookie-option {
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  transition: border-color 0.2s;
+  position: relative;
+  cursor: pointer;
+}
+
+.cookie-option:hover {
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+.cookie-option-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+  padding-right: 3.5rem; /* space for toggle */
+}
+
+.cookie-option-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.cookie-option-title h4 {
+  margin: 0;
+  font-size: 1rem;
+  color: var(--text-primary);
+}
+
+.cookie-status {
+  font-size: 0.65rem;
+  font-weight: 700;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  letter-spacing: 0.5px;
+}
+.status-active {
+  background: rgba(46, 204, 113, 0.15);
+  color: #2ecc71;
+}
+.status-optional {
+  background: rgba(243, 156, 18, 0.15);
+  color: #f39c12;
+}
+
+.cookie-option p {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  padding-right: 3.5rem;
+  line-height: 1.4;
+}
+
+/* Toggle Switch */
+.toggle {
+  position: absolute;
+  top: 1.2rem;
+  right: 1rem;
+  width: 44px;
+  height: 24px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  transition: background 0.2s;
+}
+.toggle.active {
+  background: var(--brand-purple);
+}
+.toggle-disabled {
+  background: rgba(255, 255, 255, 0.2);
+  opacity: 0.6;
+}
+.toggle-thumb {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  background: #fff;
+  border-radius: 50%;
+  transition: transform 0.2s;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+.toggle.active .toggle-thumb {
+  transform: translateX(20px);
+}
+.toggle-disabled .toggle-thumb {
+  transform: translateX(20px);
+  background: #ccc;
+}
+
+.cookie-modal-footer {
+  padding: 1rem 1.5rem;
+  border-top: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 1rem;
+  background: rgba(0,0,0,0.1);
+}
+
+
+/* -------------------------------------
+ *  FOOTER LINKS
+ * ------------------------------------- */
+.site-footer {
+  margin-top: 5rem;
+  padding: 4rem 0 2rem 0;
+  border-top: 1px solid var(--border);
+  background: rgba(0,0,0,0.2);
+}
+
+.footer-inner {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 3rem;
+}
+
+@media (min-width: 768px) {
+  .footer-inner {
+    grid-template-columns: 1.5fr 1fr 1fr;
+  }
+}
+
+.footer-brand {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.footer-logo {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 1.5rem;
+  letter-spacing: -0.02em;
+  margin: 0;
+}
+.footer-logo span {
+  color: var(--brand-gold);
+}
+
+.footer-quote {
+  font-style: italic;
+  color: var(--text-secondary);
+  font-family: var(--font-serif);
+  font-size: 1.1rem;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.footer-text {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin: 0;
+}
+
+.footer-links h4 {
+  font-size: 1.1rem;
+  color: var(--text-primary);
+  margin: 0 0 1.2rem 0;
+}
+
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.footer-links a {
+  color: var(--text-secondary);
+  text-decoration: none;
+  transition: color 0.2s;
+  font-size: 0.95rem;
+}
+.footer-links a:hover {
+  color: var(--text-primary);
+}

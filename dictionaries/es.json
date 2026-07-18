@@ -19,7 +19,47 @@
   },
   "footer": {
     "copyrightText": "Los sermones de Charles Haddon Spurgeon (1834–1892) son de dominio público.",
-    "quote": "“Visita muchos libros buenos, pero vive en la Biblia.” — C.H. Spurgeon"
+    "quote": "“Visita muchos libros buenos, pero vive en la Biblia.” — C.H. Spurgeon",
+    "links": {
+      "aboutUs": "Sobre Nosotros",
+      "transparency": "Transparencia",
+      "contact": "Contacto",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfService": "Términos de Servicio",
+      "cookiePolicy": "Política de Cookies",
+      "support": "Contribuciones",
+      "home": "Página Inicial"
+    }
+  },
+  "cookies": {
+    "bannerTitle": "Valoramos su Privacidad",
+    "bannerText": "Utilizamos cookies y recopilamos datos para mejorar su experiencia y mostrar anuncios personalizados. Puede personalizar sus preferencias en cualquier momento.",
+    "policyLinks": {
+      "privacy": "Política de Privacidad",
+      "separator": " • ",
+      "cookies": "Política de Cookies"
+    },
+    "btnGotIt": "Entendido",
+    "btnCustomize": "Personalizar",
+    "btnReject": "Rechazar No Esenciales",
+    "modalTitle": "Preferencias de Privacidad",
+    "modalText": "Administre sus preferencias de cookies y recopilación de datos. Puede cambiar estas configuraciones en cualquier momento.",
+    "essential": {
+      "title": "Cookies Esenciales",
+      "status": "SIEMPRE ACTIVO",
+      "desc": "Necesarias para el funcionamiento del sitio. No se pueden desactivar."
+    },
+    "analytics": {
+      "title": "Cookies de Análisis",
+      "status": "OPCIONAL",
+      "desc": "Nos ayudan a entender cómo los visitantes interactúan con nuestro sitio (Google Analytics)."
+    },
+    "marketing": {
+      "title": "Cookies de Marketing",
+      "status": "OPCIONAL",
+      "desc": "Se utilizan para mostrar anuncios relevantes. Si las desactiva, verá anuncios no personalizados basados en el contenido de la página."
+    },
+    "btnSave": "Guardar Preferencias"
   },
   "home": {
     "heroEyebrow": "El Príncipe de los Predicadores",
