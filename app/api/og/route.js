@@ -117,6 +117,8 @@ export async function GET(request) {
             <div style={{ display: 'flex', alignItems: 'center' }}>
               <div
                 style={{
+                  display: 'flex',
+                  alignItems: 'center',
                   fontSize: 36,
                   fontWeight: 800,
                   color: '#FFFFFF',
