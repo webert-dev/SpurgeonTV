@@ -50,8 +50,8 @@ export function BibleTooltipRenderer({ dict }) {
 
       const rect = target.getBoundingClientRect();
       setTooltipPosition({
-        top: rect.bottom + window.scrollY + 10,
-        left: Math.max(10, rect.left + window.scrollX - 100), // Center roughly, keep on screen
+        top: rect.bottom + 10,
+        left: Math.max(10, rect.left - 100), // Center roughly, keep on screen
       });
 
       const refKey = `${book}-${chapter}-${verse}-${endVerse || ''}`;
@@ -130,10 +130,10 @@ export function BibleTooltipRenderer({ dict }) {
     <div 
       className="bible-tooltip-popover"
       style={{
-        position: 'absolute',
+        position: 'fixed',
         top: `${tooltipPosition.top}px`,
         left: `${tooltipPosition.left}px`,
-        zIndex: 1000,
+        zIndex: 999999,
         maxWidth: '350px',
         width: '100%',
       }}
