@@ -30,7 +30,6 @@ export default async function RootLayout({ children, params }) {
               </Link>
               <nav className="site-nav">
                 <Link href={`/${lang}/sermons`} className="nav-link">{dict.navigation.sermons}</Link>
-                <Link href={`/${lang}/volumes`} className="nav-link">{dict.navigation.volumes}</Link>
                 <Link href={`/${lang}/bible`} className="nav-link">{dict.navigation.bible}</Link>
                 <Link href={`/${lang}/dictionary`} className="nav-link">{dict.navigation.dictionary}</Link>
                 <Link href={`/${lang}/devotional`} className="nav-link">{dict.navigation.devotional}</Link>
