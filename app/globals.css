@@ -2447,15 +2447,43 @@ details[open] .summary-chevron {
 
 .cookie-actions {
   display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 0.5rem;
+  flex-direction: column;
+  gap: 0.8rem;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .cookie-actions {
+    width: auto;
+    min-width: 340px;
+  }
+}
+
+.cookie-btn-accept {
+  width: 100%;
+  padding: 0.9rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: 8px;
+  background-color: #6a5acd; /* Violet/Blue accent */
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: opacity 0.2s, transform 0.1s;
+  text-align: center;
+}
+.cookie-btn-accept:hover {
+  opacity: 0.9;
+}
+.cookie-btn-accept:active {
+  transform: scale(0.98);
 }
 
 .cookie-actions-secondary {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  justify-content: space-between;
+  width: 100%;
 }
 
 .cookie-actions button {
