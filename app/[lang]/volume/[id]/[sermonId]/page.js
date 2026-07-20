@@ -6,12 +6,12 @@ import { getVolumes, getSermonsInVolume, getSermonContent, getSermonNeighbors } 
 import { linkifyBibleReferences } from '../../../../../lib/linkifyBible';
 import ReaderTools from './ReaderTools';
 import SermonTags from './SermonTags';
+import SermonDetails from './SermonDetails';
+import { getMetadata } from '../../../../../lib/sermon-metadata';
 import { BibleTooltipRenderer } from '../../../../components/BibleTooltipRenderer';
 import { getDictionary } from '../../../../../lib/dictionaries';
 import ScriptureSettings from './ScriptureSettings';
 import TTSPlayer from '../../../../components/TTSPlayer';
-import SermonDetails from './SermonDetails';
-import { getMetadata } from '../../../../../lib/sermon-metadata';
 
 export async function generateStaticParams() {
   const langs = ['en', 'es', 'pt'];
@@ -115,7 +115,7 @@ export default async function SermonPage({ params }) {
   const stripHtml = (html) => html ? html.replace(/<[^>]*>?/gm, '').replace(/&nbsp;/g, ' ').trim() : '';
   const textToRead = `${sermon.title}. ${stripHtml(sermon.content)}`;
 
-  const meta = getMetadata(sermonNum, volNum, lang);
+  const meta = getMetadata(parseInt(sermonNum, 10), volNum, lang);
   if (meta) {
     meta.title = sermon.title;
     meta.scripture = sermon.scripture?.reference;

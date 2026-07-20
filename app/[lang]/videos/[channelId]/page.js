@@ -28,7 +28,7 @@ export default async function ChannelVideosPage({ params, searchParams }) {
   const { lang = 'en', channelId } = await params;
   const dict = await getDictionary(lang);
   
-  if (!['pt', 'en', 'es'].includes(channelId)) {
+  if (!['pt', 'en', 'es', 'es-devocional'].includes(channelId)) {
     notFound();
   }
 

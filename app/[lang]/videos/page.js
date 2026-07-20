@@ -43,14 +43,24 @@ export default async function VideosHubPage({ params }) {
     desc: dict.videosHub.channels.es.desc,
     videos: data.es.slice(0, 3)
   };
+  const esDevocionalChannel = {
+    id: 'es-devocional',
+    title: 'Devocional que Ben Dice',
+    desc: 'Devocionales diarios de Charles Spurgeon',
+    videos: [
+      { id: "UmCGiI7NYKw", title: "Devocional de Charles Spurgeon", thumbnail: "https://i.ytimg.com/vi/UmCGiI7NYKw/maxresdefault.jpg" },
+      { id: "y04s2fagflQ", title: "Devocional de Charles Spurgeon", thumbnail: "https://i.ytimg.com/vi/y04s2fagflQ/maxresdefault.jpg" },
+      { id: "JFfwDZb49b4", title: "Devocional de Charles Spurgeon", thumbnail: "https://i.ytimg.com/vi/JFfwDZb49b4/maxresdefault.jpg" }
+    ]
+  };
 
   let channels = [];
   if (lang === 'pt') {
-    channels = [ptChannel, enChannel, esChannel];
+    channels = [ptChannel, enChannel, esDevocionalChannel, esChannel];
   } else if (lang === 'es') {
-    channels = [esChannel, enChannel, ptChannel];
+    channels = [esDevocionalChannel, esChannel, enChannel, ptChannel];
   } else {
-    channels = [enChannel, ptChannel, esChannel];
+    channels = [enChannel, ptChannel, esDevocionalChannel, esChannel];
   }
 
   return (

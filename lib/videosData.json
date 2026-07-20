@@ -32480,5 +32480,56 @@
       "url": "https://www.youtube.com/watch?v=4XUnfAPkLtE",
       "duration": 222
     }
+  ],
+  "es-devocional": [
+    {
+      "id": "cHWcfMdw6mI",
+      "title": "Devocional de Charles Spurgeon",
+      "thumbnail": "https://i.ytimg.com/vi/cHWcfMdw6mI/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=cHWcfMdw6mI",
+      "duration": 180
+    },
+    {
+      "id": "oW6bkG59Iz4",
+      "title": "Devocional de Charles Spurgeon",
+      "thumbnail": "https://i.ytimg.com/vi/oW6bkG59Iz4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=oW6bkG59Iz4",
+      "duration": 180
+    },
+    {
+      "id": "UmCGiI7NYKw",
+      "title": "Devocional de Charles Spurgeon",
+      "thumbnail": "https://i.ytimg.com/vi/UmCGiI7NYKw/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=UmCGiI7NYKw",
+      "duration": 180
+    },
+    {
+      "id": "y04s2fagflQ",
+      "title": "Devocional de Charles Spurgeon",
+      "thumbnail": "https://i.ytimg.com/vi/y04s2fagflQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=y04s2fagflQ",
+      "duration": 180
+    },
+    {
+      "id": "JFfwDZb49b4",
+      "title": "Devocional de Charles Spurgeon",
+      "thumbnail": "https://i.ytimg.com/vi/JFfwDZb49b4/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=JFfwDZb49b4",
+      "duration": 180
+    },
+    {
+      "id": "ihIXMcDzEbo",
+      "title": "Devocional de Charles Spurgeon",
+      "thumbnail": "https://i.ytimg.com/vi/ihIXMcDzEbo/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=ihIXMcDzEbo",
+      "duration": 180
+    },
+    {
+      "id": "GkXxHInw7Yg",
+      "title": "Devocional de Charles Spurgeon",
+      "thumbnail": "https://i.ytimg.com/vi/GkXxHInw7Yg/maxresdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GkXxHInw7Yg",
+      "duration": 180
+    }
   ]
 }

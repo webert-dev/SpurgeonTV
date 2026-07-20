@@ -5,7 +5,7 @@ import React, { createContext, useContext, useState, useEffect } from 'react';
 const BibleSettingsContext = createContext();
 
 export function BibleSettingsProvider({ children }) {
-  const [integrationEnabled, setIntegrationEnabled] = useState(true);
+  const [integrationEnabled, setIntegrationEnabled] = useState(false);
   const [tooltipTranslation, setTooltipTranslation] = useState('kjv');
   const [isLoaded, setIsLoaded] = useState(false);
 
@@ -35,6 +35,12 @@ export function BibleSettingsProvider({ children }) {
       localStorage.setItem('spurgeon_bible_translation', tooltipTranslation);
     } catch (e) {
       console.error("Error writing to localStorage", e);
+    }
+
+    if (integrationEnabled) {
+      document.body.classList.add('bible-links-enabled');
+    } else {
+      document.body.classList.remove('bible-links-enabled');
     }
   }, [integrationEnabled, tooltipTranslation, isLoaded]);
 

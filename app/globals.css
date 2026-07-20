@@ -1649,7 +1649,7 @@ body.zen-mode-active .sermon-info-body {
 }
 
 /* Tooltip Reference Marker */
-.bible-ref-marker {
+body.bible-links-enabled .bible-ref-marker {
   color: var(--accent);
   text-decoration: underline dotted;
   text-underline-offset: 4px;
@@ -1659,7 +1659,7 @@ body.zen-mode-active .sermon-info-body {
   border-radius: 4px;
 }
 
-.bible-ref-marker:hover {
+body.bible-links-enabled .bible-ref-marker:hover {
   background-color: rgba(212, 175, 55, 0.1);
   color: #fff;
 }
