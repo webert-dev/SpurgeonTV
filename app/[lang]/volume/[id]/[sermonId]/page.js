@@ -113,7 +113,12 @@ export default async function SermonPage({ params }) {
   }
 
   const stripHtml = (html) => html ? html.replace(/<[^>]*>?/gm, '').replace(/&nbsp;/g, ' ').trim() : '';
-  const textToRead = `${sermon.title}. ${stripHtml(sermon.content)}`;
+  let textToRead = `${sermon.title}. `;
+  if (sermon.scripture) {
+    if (sermon.scripture.verse) textToRead += `${sermon.scripture.verse} `;
+    if (sermon.scripture.reference) textToRead += `${sermon.scripture.reference}. `;
+  }
+  textToRead += stripHtml(sermon.content);
 
   const meta = getMetadata(parseInt(sermonNum, 10), volNum, lang);
   if (meta) {

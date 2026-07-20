@@ -67,12 +67,14 @@ export default function DevotionalClient({ lang, dict, devotionalData }) {
 
   const formatBody = (body) => {
     if (!body) return [];
-    const cleaned = body
-      .replace(/^[^\n]+Morning Reading[^\n]*\n/, '')
-      .replace(/^[^\n]+Evening Reading[^\n]*\n/, '')
-      .replace(/^[^\n]+keyverse[^\n]*\n/, '')
-      .replace(/\r\n/g, '\n')
-      .trim();
+    let cleaned = body.replace(/\r\n/g, '\n').trim();
+    // Split into paragraphs based on double newlines
+    const parts = cleaned.split(/\n\n+/);
+    // If the first paragraph is short (often the date/time header) and contains typical header artifacts
+    if (parts.length > 1 && parts[0].length < 250 && parts[0].includes('—')) {
+      parts.shift(); // Remove the duplicated header/keyverse
+    }
+    cleaned = parts.join('\n\n');
     return cleaned.split('\n\n').filter((p) => p.trim().length > 0);
   };
 
