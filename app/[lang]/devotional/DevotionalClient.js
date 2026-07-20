@@ -94,20 +94,37 @@ export default function DevotionalClient({ lang, dict, devotionalData }) {
           position: relative;
         }
         .dev-header {
-          text-align: center;
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          text-align: left;
+          gap: 2rem;
           margin-bottom: 2rem;
+          margin-top: 1rem;
         }
         .dev-title {
-          font-size: clamp(1.8rem, 5vw, 2.8rem);
-          margin: 1.25rem 0 0.75rem;
+          font-size: clamp(1.8rem, 4vw, 2.8rem);
           line-height: 1.2;
+          margin: 0;
+          flex: 1;
         }
         .dev-subtitle {
           color: var(--text-secondary);
-          font-size: clamp(1rem, 2.5vw, 1.1rem);
-          max-width: 580px;
-          margin: 0 auto;
+          font-size: clamp(0.95rem, 2vw, 1.05rem);
+          max-width: 400px;
+          margin: 0;
           line-height: 1.6;
+          flex: 1;
+        }
+        @media (max-width: 768px) {
+          .dev-header {
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 1rem;
+          }
+          .dev-subtitle {
+            max-width: 100%;
+          }
         }
         .dev-date-bar {
           display: flex;
@@ -198,10 +215,12 @@ export default function DevotionalClient({ lang, dict, devotionalData }) {
           border: 1px solid var(--border);
           margin-bottom: 2rem;
           gap: 0.5rem;
+          flex-wrap: nowrap;
         }
         @media (max-width: 640px) {
           .dev-controls-bar {
-            flex-direction: column;
+            padding: 0.25rem;
+            gap: 0.2rem;
           }
         }
         .dev-tab {
@@ -218,6 +237,20 @@ export default function DevotionalClient({ lang, dict, devotionalData }) {
           justify-content: center;
           gap: 0.4rem;
           width: 100%;
+        }
+        @media (max-width: 640px) {
+          .dev-tab {
+            padding: 0.5rem 0.2rem;
+            font-size: 0.85rem;
+            gap: 0.2rem;
+          }
+          .dev-date-wrapper span {
+            font-size: 0.85rem;
+          }
+          .dev-today-badge {
+            font-size: 0.6rem !important;
+            padding: 0.1rem 0.3rem !important;
+          }
         }
         .dev-date-wrapper {
           display: flex;
