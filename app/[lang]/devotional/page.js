@@ -1,7 +1,9 @@
 import Link from 'next/link';
 import { getDictionary } from '../../../lib/dictionaries';
-import devotionalData from '../../../../public/data/morning-and-evening.json';
+import fs from 'fs';
+import path from 'path';
 import DevotionalClient from './DevotionalClient';
+
 
 export async function generateMetadata({ params }) {
   const { lang } = await params;
@@ -20,6 +22,9 @@ export async function generateMetadata({ params }) {
 export default async function DevotionalPage({ params }) {
   const { lang = 'en' } = await params;
   const dict = await getDictionary(lang);
+
+  const dataPath = path.join(process.cwd(), 'public', 'data', 'morning-and-evening.json');
+  const devotionalData = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
 
   return (
     <DevotionalClient

@@ -445,10 +445,9 @@ export default function DevotionalClient({ lang, dict, devotionalData }) {
             </button>
             <button
               className="dev-nav-btn"
-              onClick={() => setIsToday(true) /* no-op, just for today */}
+              onClick={() => { setSelectedMonth(today.month); setSelectedDay(today.day); }}
               style={{ maxWidth: '3rem', fontSize: '1.2rem' }}
               title={todayLabel}
-              onClick={() => { setSelectedMonth(today.month); setSelectedDay(today.day); }}
             >
               ✦
             </button>
