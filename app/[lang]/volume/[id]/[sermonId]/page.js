@@ -8,8 +8,8 @@ import ReaderTools from './ReaderTools';
 import SermonTags from './SermonTags';
 import { BibleTooltipRenderer } from '../../../../components/BibleTooltipRenderer';
 import { getDictionary } from '../../../../../lib/dictionaries';
-
 import ScriptureSettings from './ScriptureSettings';
+import TTSPlayer from '../../../../components/TTSPlayer';
 
 export async function generateStaticParams() {
   const langs = ['en', 'es', 'pt'];
@@ -110,6 +110,9 @@ export default async function SermonPage({ params }) {
     console.error("Error reading tags:", e);
   }
 
+  const stripHtml = (html) => html ? html.replace(/<[^>]*>?/gm, '').replace(/&nbsp;/g, ' ').trim() : '';
+  const textToRead = `${sermon.title}. ${stripHtml(sermon.content)}`;
+
   return (
     <div className="reader-container">
       <Link href={`/${lang}`} className="back-link">
@@ -120,6 +123,9 @@ export default async function SermonPage({ params }) {
         <header className="reader-header">
           <div className="meta">{dict.volume.title.replace('{num}', volNum)} · {dict.volume.table.sermon} {sermonNum}</div>
           <h1 className="title-gold">{sermon.title}</h1>
+          <div style={{ display: 'flex', justifyContent: 'flex-end', margin: '1rem 0' }}>
+            <TTSPlayer lang={lang} dict={dict} text={textToRead} />
+          </div>
           {sermon.scripture && (
             <div className="reader-scripture">
               {sermon.scripture.verse && (

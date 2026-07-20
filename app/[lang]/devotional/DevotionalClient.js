@@ -3,6 +3,7 @@
 import { useState, useEffect, useCallback } from 'react';
 import Link from 'next/link';
 import ReaderTools from '../volume/[id]/[sermonId]/ReaderTools';
+import TTSPlayer from '../../components/TTSPlayer';
 
 export default function DevotionalClient({ lang, dict, devotionalData }) {
   const [today, setToday] = useState(null);
@@ -106,12 +107,11 @@ export default function DevotionalClient({ lang, dict, devotionalData }) {
           font-size: clamp(1.8rem, 4vw, 2.8rem);
           line-height: 1.2;
           margin: 0;
-          flex: 1;
+          flex: 2;
         }
         .dev-subtitle {
           color: var(--text-secondary);
           font-size: clamp(0.95rem, 2vw, 1.05rem);
-          max-width: 400px;
           margin: 0;
           line-height: 1.6;
           flex: 1;
@@ -467,6 +467,15 @@ export default function DevotionalClient({ lang, dict, devotionalData }) {
           </div>
         ) : activeEntry ? (
           <div key={`${selectedMonth}-${selectedDay}-${activeTab}`} className="dev-content">
+            {/* TTS Player */}
+            <div style={{ marginBottom: '1.5rem', display: 'flex', justifyContent: 'flex-end' }}>
+              <TTSPlayer 
+                lang={lang} 
+                dict={dict} 
+                text={`${activeEntry.keyverse}. ${formatBody(activeEntry.body).join(' ')}`} 
+              />
+            </div>
+
             {/* Key verse */}
             <blockquote className="dev-keyverse">
               {activeEntry.keyverse}
