@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useCallback } from 'react';
 import Link from 'next/link';
+import ReaderTools from '../volume/[id]/[sermonId]/ReaderTools';
 
 export default function DevotionalClient({ lang, dict, devotionalData }) {
   const [today, setToday] = useState(null);
@@ -88,12 +89,13 @@ export default function DevotionalClient({ lang, dict, devotionalData }) {
         .dev-container {
           max-width: 800px;
           margin: 0 auto;
-          padding: 3rem 1.5rem 5rem;
+          padding: 1rem 1.5rem 5rem;
           min-height: 80vh;
+          position: relative;
         }
         .dev-header {
           text-align: center;
-          margin-bottom: 3rem;
+          margin-bottom: 2rem;
         }
         .dev-title {
           font-size: clamp(1.8rem, 5vw, 2.8rem);
@@ -186,14 +188,21 @@ export default function DevotionalClient({ lang, dict, devotionalData }) {
           align-items: center;
           justify-content: center;
         }
-        .dev-tabs {
+        .dev-controls-bar {
           display: flex;
-          gap: 0.5rem;
-          margin-bottom: 2rem;
+          align-items: center;
+          justify-content: space-between;
           background: var(--surface);
           border-radius: 12px;
-          padding: 0.35rem;
+          padding: 0.5rem;
           border: 1px solid var(--border);
+          margin-bottom: 2rem;
+          gap: 0.5rem;
+        }
+        @media (max-width: 640px) {
+          .dev-controls-bar {
+            flex-direction: column;
+          }
         }
         .dev-tab {
           flex: 1;
@@ -207,6 +216,13 @@ export default function DevotionalClient({ lang, dict, devotionalData }) {
           display: flex;
           align-items: center;
           justify-content: center;
+          gap: 0.4rem;
+          width: 100%;
+        }
+        .dev-date-wrapper {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
           gap: 0.4rem;
         }
         .dev-content {
@@ -238,8 +254,10 @@ export default function DevotionalClient({ lang, dict, devotionalData }) {
         .dev-body-para {
           color: var(--text);
           margin-bottom: 1.25rem;
-          font-size: clamp(0.95rem, 2vw, 1.05rem);
-          line-height: 1.85;
+          font-size: calc(clamp(0.95rem, 2vw, 1.05rem) + var(--font-size-offset, 0rem));
+          line-height: var(--reader-line-height, 1.85);
+          font-family: var(--reader-font-family, inherit);
+          text-align: justify;
         }
         .dev-attribution {
           text-align: center;
@@ -303,6 +321,7 @@ export default function DevotionalClient({ lang, dict, devotionalData }) {
       `}</style>
 
       <div className="dev-container">
+        <ReaderTools dict={dict} />
         {/* Back link */}
         <Link href={`/${lang}`} style={{ color: 'var(--text-muted)', textDecoration: 'none', fontSize: '0.88rem' }}>
           ← {d.backHome || 'Home'}
@@ -310,7 +329,6 @@ export default function DevotionalClient({ lang, dict, devotionalData }) {
 
         {/* Header */}
         <div className="dev-header">
-          <div style={{ fontSize: '2.5rem', marginBottom: '0.5rem' }}>📖</div>
           <h1 className="title-gold dev-title">
             {d.pageTitle || 'Spurgeon Morning and Evening Devotional'}
           </h1>
@@ -319,25 +337,52 @@ export default function DevotionalClient({ lang, dict, devotionalData }) {
           </p>
         </div>
 
-        {/* Date display */}
-        {today && (
-          <div className="dev-date-bar">
-            <button
-              className="dev-date-btn"
-              onClick={() => setShowCalendar(!showCalendar)}
-              aria-expanded={showCalendar}
-            >
-              <span>📅</span>
-              <span>{getMonthName(selectedMonth)} {selectedDay}</span>
-              <span style={{ color: 'var(--text-muted)', fontSize: '0.8rem' }}>
-                {showCalendar ? '▲' : '▼'}
-              </span>
-            </button>
-            {isToday(selectedMonth, selectedDay) && (
-              <span className="dev-today-badge">✦ {readingLabel}</span>
-            )}
-          </div>
-        )}
+        {/* Combined Controls: Tabs + Date Bar */}
+        <div className="dev-controls-bar">
+          <button
+            className="dev-tab"
+            onClick={() => setActiveTab('morning')}
+            style={{
+              background: activeTab === 'morning' ? 'var(--brand-gold)' : 'transparent',
+              color: activeTab === 'morning' ? '#000' : 'var(--text-secondary)',
+            }}
+          >
+            <span>🌅</span>
+            <span>{morningLabel}</span>
+          </button>
+
+          {today && (
+            <div className="dev-date-wrapper">
+              <button
+                className="dev-date-btn"
+                onClick={() => setShowCalendar(!showCalendar)}
+                aria-expanded={showCalendar}
+                style={{ padding: '0.5rem 1rem', fontSize: '0.95rem', borderRadius: '8px', border: 'none', background: 'transparent', borderBottom: '1px solid var(--border)' }}
+              >
+                <span>📅</span>
+                <span>{getMonthName(selectedMonth)} {selectedDay}</span>
+                <span style={{ color: 'var(--text-muted)', fontSize: '0.7rem' }}>
+                  {showCalendar ? '▲' : '▼'}
+                </span>
+              </button>
+              {isToday(selectedMonth, selectedDay) && (
+                <span className="dev-today-badge" style={{ fontSize: '0.7rem', padding: '0.15rem 0.5rem' }}>✦ {readingLabel}</span>
+              )}
+            </div>
+          )}
+
+          <button
+            className="dev-tab"
+            onClick={() => setActiveTab('evening')}
+            style={{
+              background: activeTab === 'evening' ? 'var(--brand-gold)' : 'transparent',
+              color: activeTab === 'evening' ? '#000' : 'var(--text-secondary)',
+            }}
+          >
+            <span>🌙</span>
+            <span>{eveningLabel}</span>
+          </button>
+        </div>
 
         {/* Calendar */}
         {showCalendar && (
@@ -378,26 +423,6 @@ export default function DevotionalClient({ lang, dict, devotionalData }) {
             </div>
           </div>
         )}
-
-        {/* Morning / Evening tabs */}
-        <div className="dev-tabs" role="tablist">
-          {['morning', 'evening'].map((tab) => (
-            <button
-              key={tab}
-              className="dev-tab"
-              role="tab"
-              aria-selected={activeTab === tab}
-              onClick={() => setActiveTab(tab)}
-              style={{
-                background: activeTab === tab ? 'var(--brand-gold)' : 'transparent',
-                color: activeTab === tab ? '#000' : 'var(--text-secondary)',
-              }}
-            >
-              <span>{tab === 'morning' ? '🌅' : '🌙'}</span>
-              <span>{tab === 'morning' ? morningLabel : eveningLabel}</span>
-            </button>
-          ))}
-        </div>
 
         {/* Content */}
         {isLoading || !today ? (
