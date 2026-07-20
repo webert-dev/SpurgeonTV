@@ -54,8 +54,8 @@ export default function DevotionalClient({ lang, dict, devotionalData }) {
     if (!selectedMonth || !selectedDay || !devotionalData?.length) return;
     setIsLoading(true);
     const dateStr = `${selectedMonth}-${selectedDay}`;
-    const am = devotionalData.find((e) => e.date === dateStr && e.time === 'am');
-    const pm = devotionalData.find((e) => e.date === dateStr && e.time === 'pm');
+    const am = devotionalData.find((e) => e && e.date === dateStr && e.time === 'am');
+    const pm = devotionalData.find((e) => e && e.date === dateStr && e.time === 'pm');
     setMorningEntry(am || null);
     setEveningEntry(pm || null);
     setIsLoading(false);
