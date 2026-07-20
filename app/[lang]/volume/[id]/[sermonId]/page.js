@@ -10,6 +10,8 @@ import { BibleTooltipRenderer } from '../../../../components/BibleTooltipRendere
 import { getDictionary } from '../../../../../lib/dictionaries';
 import ScriptureSettings from './ScriptureSettings';
 import TTSPlayer from '../../../../components/TTSPlayer';
+import SermonDetails from './SermonDetails';
+import { getMetadata } from '../../../../../lib/sermon-metadata';
 
 export async function generateStaticParams() {
   const langs = ['en', 'es', 'pt'];
@@ -113,6 +115,16 @@ export default async function SermonPage({ params }) {
   const stripHtml = (html) => html ? html.replace(/<[^>]*>?/gm, '').replace(/&nbsp;/g, ' ').trim() : '';
   const textToRead = `${sermon.title}. ${stripHtml(sermon.content)}`;
 
+  const meta = getMetadata(sermonNum, volNum, lang);
+  if (meta) {
+    meta.title = sermon.title;
+    meta.scripture = sermon.scripture?.reference;
+    meta.isTranslated = sermon.isTranslated;
+    meta.availableLangs = sermon.availableLangs;
+    meta.volumeId = id;
+    meta.sermonSlug = sermon.slug;
+  }
+
   return (
     <div className="reader-container">
       <Link href={`/${lang}`} className="back-link">
@@ -146,6 +158,7 @@ export default async function SermonPage({ params }) {
           dangerouslySetInnerHTML={{ __html: linkifyBibleReferences(sermon.content) }}
         />
         
+        <SermonDetails meta={meta} lang={lang} dict={dict} />
         <SermonTags tags={tags} dict={dict} />
       </article>
 

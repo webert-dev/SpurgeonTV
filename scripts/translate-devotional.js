@@ -33,10 +33,10 @@ async function run() {
     
     chunk.forEach(item => {
       if (item) {
-        ptInput.push(item.keyverse);
-        ptInput.push(item.body);
-        esInput.push(item.keyverse);
-        esInput.push(item.body);
+        ptInput.push(item.keyverse || '');
+        ptInput.push(item.body || '');
+        esInput.push(item.keyverse || '');
+        esInput.push(item.body || '');
       }
     });
 
@@ -52,17 +52,15 @@ async function run() {
       let offset = 0;
       for (let j = 0; j < chunk.length; j++) {
         const itemIndex = i + j;
-        const item = chunk[j];
+        if (!chunk[j]) continue;
         
-        if (item) {
-          // Results are arrays because input was an array
-          ptData[itemIndex].keyverse = Array.isArray(resPt) ? resPt[offset * 2].text : resPt.text;
-          ptData[itemIndex].body = Array.isArray(resPt) ? resPt[offset * 2 + 1].text : resPt.text;
-          
-          esData[itemIndex].keyverse = Array.isArray(resEs) ? resEs[offset * 2].text : resEs.text;
-          esData[itemIndex].body = Array.isArray(resEs) ? resEs[offset * 2 + 1].text : resEs.text;
-          offset++;
-        }
+        // Results are arrays because input was an array
+        ptData[itemIndex].keyverse = Array.isArray(resPt) ? resPt[offset * 2].text : resPt.text;
+        ptData[itemIndex].body = Array.isArray(resPt) ? resPt[offset * 2 + 1].text : resPt.text;
+        
+        esData[itemIndex].keyverse = Array.isArray(resEs) ? resEs[offset * 2].text : resEs.text;
+        esData[itemIndex].body = Array.isArray(resEs) ? resEs[offset * 2 + 1].text : resEs.text;
+        offset++;
       }
       
       // Save progress so we don't lose data if it crashes
@@ -82,14 +80,13 @@ async function run() {
         let offset = 0;
         for (let j = 0; j < chunk.length; j++) {
           const itemIndex = i + j;
-          const item = chunk[j];
-          if (item) {
-            ptData[itemIndex].keyverse = Array.isArray(resPt) ? resPt[offset * 2].text : resPt.text;
-            ptData[itemIndex].body = Array.isArray(resPt) ? resPt[offset * 2 + 1].text : resPt.text;
-            esData[itemIndex].keyverse = Array.isArray(resEs) ? resEs[offset * 2].text : resEs.text;
-            esData[itemIndex].body = Array.isArray(resEs) ? resEs[offset * 2 + 1].text : resEs.text;
-            offset++;
-          }
+          if (!chunk[j]) continue;
+
+          ptData[itemIndex].keyverse = Array.isArray(resPt) ? resPt[offset * 2].text : resPt.text;
+          ptData[itemIndex].body = Array.isArray(resPt) ? resPt[offset * 2 + 1].text : resPt.text;
+          esData[itemIndex].keyverse = Array.isArray(resEs) ? resEs[offset * 2].text : resEs.text;
+          esData[itemIndex].body = Array.isArray(resEs) ? resEs[offset * 2 + 1].text : resEs.text;
+          offset++;
         }
         
         fs.writeFileSync(outPtPath, JSON.stringify(ptData, null, 2));
