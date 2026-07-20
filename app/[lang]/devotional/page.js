@@ -1,6 +1,7 @@
 import { getDictionary } from '../../../lib/dictionaries';
-import devotionalData from '../../../public/data/morning-and-evening.json';
 import DevotionalClient from './DevotionalClient';
+import fs from 'fs';
+import path from 'path';
 
 export async function generateMetadata({ params }) {
   const { lang } = await params;
@@ -19,6 +20,22 @@ export async function generateMetadata({ params }) {
 export default async function DevotionalPage({ params }) {
   const { lang = 'en' } = await params;
   const dict = await getDictionary(lang);
+
+  let devotionalData = [];
+  try {
+    const fileName = lang === 'en' ? 'morning-and-evening.json' : `morning-and-evening-${lang}.json`;
+    const filePath = path.join(process.cwd(), 'public', 'data', fileName);
+    
+    if (fs.existsSync(filePath)) {
+      devotionalData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+    } else {
+      // Fallback to English if file is not found (e.g. while translation is running)
+      const fallbackPath = path.join(process.cwd(), 'public', 'data', 'morning-and-evening.json');
+      devotionalData = JSON.parse(fs.readFileSync(fallbackPath, 'utf-8'));
+    }
+  } catch (error) {
+    console.error("Error loading devotional data:", error);
+  }
 
   return (
     <DevotionalClient
