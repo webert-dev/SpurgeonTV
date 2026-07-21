@@ -125,6 +125,7 @@ export default async function SermonPage({ params }) {
     meta.title = sermon.title;
     meta.scripture = sermon.scripture?.reference;
     meta.isTranslated = sermon.isTranslated;
+    meta.isAutoTranslated = sermon.isAutoTranslated;
     meta.availableLangs = sermon.availableLangs;
     meta.volumeId = id;
     meta.sermonSlug = sermon.slug;

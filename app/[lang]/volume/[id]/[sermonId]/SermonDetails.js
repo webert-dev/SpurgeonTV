@@ -70,11 +70,23 @@ export default function SermonDetails({ meta, lang, dict }) {
             <p className="sermon-info-title" style={{ fontSize: '1.3rem', color: 'var(--color-gold)', fontFamily: 'var(--font-serif)', fontWeight: 'bold', marginBottom: '0.5rem' }}>{meta.title}</p>
             <p className="sermon-info-scripture" style={{ fontStyle: 'italic' }}>{meta.scripture}</p>
             
-            {lang === 'es' && meta.isTranslated && (
+            {lang === 'es' && meta.isTranslated && !meta.isAutoTranslated && (
               <>
                 <hr className="sermon-info-divider" style={{ border: 'none', borderTop: '1px solid var(--border)', margin: '1.5rem auto', width: '50%' }} />
                 <p className="sermon-info-translator" style={{ fontSize: '0.9rem', fontStyle: 'italic', color: 'var(--color-gold)', marginTop: '1rem' }}>
                   Traducción al español por el Misionero Allan Román
+                </p>
+              </>
+            )}
+
+            {meta.isTranslated && meta.isAutoTranslated && (
+              <>
+                <hr className="sermon-info-divider" style={{ border: 'none', borderTop: '1px solid var(--border)', margin: '1.5rem auto', width: '50%' }} />
+                <p className="sermon-info-translator" style={{ fontSize: '0.9rem', fontStyle: 'italic', color: 'var(--color-gold)', marginTop: '1rem', lineHeight: '1.5' }}>
+                  {lang === 'es' 
+                    ? 'Traducción semiautomatizada con un mínimo de auditoría humana. La traducción totalmente revisada se está realizando poco a poco. Si identifica algún error o punto de mejora, póngase en contacto con nosotros en '
+                    : 'Tradução semi-automatizada com o mínimo de auditoria humana. A tradução plenamente revisada está sendo realizada aos poucos. Se identificar qualquer erro ou pontos de melhoria, entre em contato conosco em '}
+                  <a href="/contato" style={{ textDecoration: 'underline', color: 'inherit' }}>{lang === 'es' ? 'nuestro formulario de contacto' : 'nosso formulário de contato'}</a>.
                 </p>
               </>
             )}
