@@ -18,7 +18,7 @@ async function translateText(text, targetLang) {
     } catch (e) {
         console.error('Translation error:', e);
         // Wait a bit and retry
-        await new Promise(r => setTimeout(r, 5000));
+        await new Promise(r => setTimeout(r, 15000));
         try {
             const res = await translate(text, { to: targetLang, autoCorrect: true });
             return res.text;
@@ -105,7 +105,7 @@ async function run() {
                 totalTranslated++;
                 
                 // Be nice to the API
-                await new Promise(r => setTimeout(r, 1000));
+                await new Promise(r => setTimeout(r, 3000));
             }
         }
     }

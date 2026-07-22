@@ -1,5 +1,6 @@
 import '../globals.css';
 import Link from 'next/link';
+import Script from 'next/script';
 import { BibleSettingsProvider } from '../components/BibleSettingsProvider';
 import { getDictionary } from '../../lib/dictionaries';
 import LanguageSwitcher from '../components/LanguageSwitcher';
@@ -22,6 +23,18 @@ export default async function RootLayout({ children, params }) {
         <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&family=Inter:wght@300;400;500;600;700&family=Lexend:wght@400;500;600&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet" />
       </head>
       <body>
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-W7VF0M0Y8K"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-W7VF0M0Y8K');
+          `}
+        </Script>
         <BibleSettingsProvider>
           <header className="site-header">
             <div className="container header-container">
