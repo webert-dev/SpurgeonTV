@@ -133,6 +133,33 @@ export default async function SermonPage({ params }) {
 
   return (
     <div className="reader-container">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "headline": sermon.title,
+            "alternativeHeadline": `Sermon No. ${sermonNum}`,
+            "image": "https://spurgeontv.vercel.app/icon.png",
+            "author": {
+              "@type": "Person",
+              "name": "Charles Haddon Spurgeon",
+              "sameAs": "https://wikipedia.org/wiki/Charles_Haddon_Spurgeon"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Spurgeon TV",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://spurgeontv.vercel.app/icon.png"
+              }
+            },
+            "datePublished": meta ? `${meta.year}-01-01` : "1855-01-01",
+            "description": `Read the famous sermon "${sermon.title}" preached by C.H. Spurgeon.`
+          })
+        }}
+      />
       <Link href={`/${lang}`} className="back-link">
         ← {dict.navigation.backToHome}
       </Link>

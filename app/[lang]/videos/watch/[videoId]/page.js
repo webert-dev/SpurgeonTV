@@ -50,6 +50,21 @@ export default async function WatchVideoPage({ params }) {
 
   return (
     <div className="container" style={{ padding: '2rem 1rem 6rem', minHeight: '90vh', maxWidth: '1000px', margin: '0 auto' }}>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "VideoObject",
+            "name": video.title,
+            "description": video.description || `Sermon or documentary about Charles Spurgeon on SPURGEON TV.`,
+            "thumbnailUrl": [video.thumbnail],
+            "uploadDate": "2026-02-15T08:00:00+08:00",
+            "contentUrl": `https://spurgeontv.vercel.app/videos/watch/${videoId}`,
+            "embedUrl": `https://www.youtube.com/embed/${videoId}`
+          })
+        }}
+      />
       <Link href={`/${lang}/videos/${video.channelId}`} style={{ color: 'var(--text-muted)', textDecoration: 'none', marginBottom: '2rem', display: 'inline-block' }}>
         {dict.watchVideo.back}
       </Link>

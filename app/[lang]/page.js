@@ -52,6 +52,17 @@ export default async function HomePage({ params }) {
 
   return (
     <div className="home-page">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "Spurgeon TV",
+            "url": "https://spurgeontv.vercel.app/",
+          })
+        }}
+      />
 
       {/* ══════════════════════════════════════════
           HERO

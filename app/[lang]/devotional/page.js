@@ -38,10 +38,36 @@ export default async function DevotionalPage({ params }) {
   }
 
   return (
-    <DevotionalClient
-      lang={lang}
-      dict={dict}
-      devotionalData={devotionalData}
-    />
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "headline": dict.devotional?.pageTitle || "Spurgeon Morning and Evening Devotional",
+            "author": {
+              "@type": "Person",
+              "name": "Charles Haddon Spurgeon",
+              "sameAs": "https://wikipedia.org/wiki/Charles_Haddon_Spurgeon"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Spurgeon TV",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://spurgeontv.vercel.app/icon.png"
+              }
+            },
+            "description": dict.devotional?.pageSubtitle || "Read the classic daily devotional by Charles Spurgeon."
+          })
+        }}
+      />
+      <DevotionalClient
+        lang={lang}
+        dict={dict}
+        devotionalData={devotionalData}
+      />
+    </>
   );
 }

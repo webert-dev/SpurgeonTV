@@ -159,6 +159,51 @@ export default async function SobrePage({ params }) {
 
   return (
     <div className="about-page">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "AboutPage",
+            "name": t.whoWasTitle,
+            "description": t.whoWasP1,
+            "mainEntity": {
+              "@type": "Person",
+              "name": "Charles Haddon Spurgeon",
+              "birthDate": "1834-06-19",
+              "deathDate": "1892-01-31",
+              "sameAs": [
+                "https://en.wikipedia.org/wiki/Charles_Haddon_Spurgeon",
+                "https://pt.wikipedia.org/wiki/Charles_Haddon_Spurgeon",
+                "https://es.wikipedia.org/wiki/Charles_Spurgeon"
+              ]
+            }
+          })
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": `https://spurgeontv.vercel.app/${lang}`
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "About Spurgeon",
+                "item": `https://spurgeontv.vercel.app/${lang}/about`
+              }
+            ]
+          })
+        }}
+      />
       {/* HERO */}
       <section className="about-hero" style={{ paddingTop: '2rem', paddingBottom: '1rem' }}>
         <div className="about-hero-glow" />

@@ -15,6 +15,40 @@ export default async function BiblePage({ params }) {
 
   return (
     <div className="container" style={{ padding: '0.5rem 2rem' }}>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": dict.bible.pageTitle,
+            "description": dict.bible.pageSubtitle
+          })
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": `https://spurgeontv.vercel.app/${lang}`
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": dict.bible.pageTitle,
+                "item": `https://spurgeontv.vercel.app/${lang}/bible`
+              }
+            ]
+          })
+        }}
+      />
       <div style={{ marginBottom: '3rem', textAlign: 'center' }}>
         <p className="hero-eyebrow" style={{ marginBottom: '0.5rem' }}>
           {dict.bible.pageEyebrow}

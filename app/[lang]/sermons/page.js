@@ -18,6 +18,40 @@ export default async function SermonsPage({ params, searchParams }) {
 
   return (
     <div>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "CollectionPage",
+            "name": "All Sermons | SPURGEON TV",
+            "description": "Browse the complete collection of Charles Spurgeon's sermons across all 63 volumes."
+          })
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": `https://spurgeontv.vercel.app/${lang}`
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Sermons",
+                "item": `https://spurgeontv.vercel.app/${lang}/sermons`
+              }
+            ]
+          })
+        }}
+      />
       {/* ── HERO ── */}
       <section className="hero-section">
         <div className="hero-bg-glow" />

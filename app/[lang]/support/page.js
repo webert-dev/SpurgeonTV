@@ -18,6 +18,40 @@ export default async function SupportPage({ params }) {
 
   return (
     <div className="support-page">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "name": dict.support.title,
+            "description": dict.support.subtitle
+          })
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": `https://spurgeontv.vercel.app/${lang}`
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": dict.navigation.support,
+                "item": `https://spurgeontv.vercel.app/${lang}/support`
+              }
+            ]
+          })
+        }}
+      />
       <div className="container">
         <div className="support-container">
           <div className="support-header">

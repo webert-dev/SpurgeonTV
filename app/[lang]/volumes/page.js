@@ -15,6 +15,40 @@ export default async function Home({ params }) {
 
   return (
     <div>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "CollectionPage",
+            "name": "63 Volumes of Sermons | SPURGEON TV",
+            "description": "Explore over 3,500 sermons from Charles Spurgeon organized in 63 volumes."
+          })
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": `https://spurgeontv.vercel.app/${lang}`
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Volumes",
+                "item": `https://spurgeontv.vercel.app/${lang}/volumes`
+              }
+            ]
+          })
+        }}
+      />
       {/* ── HERO ── */}
       <section className="hero-section">
         <div className="hero-bg-glow" />
