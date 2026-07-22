@@ -152,6 +152,23 @@ const translations = {
   }
 };
 
+export async function generateMetadata({ params }) {
+  const { lang } = await params;
+  const t = translations[lang] || translations.en;
+  
+  return {
+    title: `${t.whoWasTitle} | SPURGEON TV`,
+    description: t.whoWasP1,
+    alternates: {
+      languages: {
+        'en': '/en/about',
+        'pt': '/pt/about',
+        'es': '/es/about',
+      }
+    }
+  };
+}
+
 export default async function SobrePage({ params }) {
   const { lang } = await params;
   const allArticles = getAllArticles(lang);

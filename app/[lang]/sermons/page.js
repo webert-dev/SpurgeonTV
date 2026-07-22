@@ -6,6 +6,13 @@ import { getDictionary } from '../../../lib/dictionaries';
 export const metadata = {
   title: 'All Sermons | SPURGEON TV',
   description: 'Browse the complete collection of Charles Spurgeon\'s sermons across all 63 volumes, over 3,500 sermons of faithful biblical exposition.',
+  alternates: {
+    languages: {
+      'en': '/en/sermons',
+      'pt': '/pt/sermons',
+      'es': '/es/sermons',
+    }
+  }
 };
 
 export default async function SermonsPage({ params, searchParams }) {

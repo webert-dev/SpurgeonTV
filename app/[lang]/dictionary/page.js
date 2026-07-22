@@ -4,6 +4,13 @@ import { Suspense } from 'react';
 export const metadata = {
   title: 'Dictionary | Spurgeon TV',
   description: 'Theological and Biblical Dictionary for studying Charles H. Spurgeon\'s sermons.',
+  alternates: {
+    languages: {
+      'en': '/en/dictionary',
+      'pt': '/pt/dictionary',
+      'es': '/es/dictionary',
+    }
+  }
 };
 
 export default async function DictionaryPage({ params }) {

@@ -6,10 +6,26 @@ import path from 'path';
 export async function generateMetadata({ params }) {
   const { lang } = await params;
   const dict = await getDictionary(lang);
+  
+  const availableLangs = ['en'];
+  try {
+    const dataDir = path.join(process.cwd(), 'public', 'data');
+    if (fs.existsSync(path.join(dataDir, 'morning-and-evening-pt.json'))) availableLangs.push('pt');
+    if (fs.existsSync(path.join(dataDir, 'morning-and-evening-es.json'))) availableLangs.push('es');
+  } catch (e) {}
+
+  const languages = {};
+  availableLangs.forEach(l => {
+    languages[l] = `/${l}/devotional`;
+  });
+
   return {
     title: dict.devotional?.pageTitle || 'Spurgeon Morning and Evening Devotional',
     description: dict.devotional?.pageSubtitle || 'Read the classic daily devotional by Charles Spurgeon, with morning and evening readings.',
     keywords: ['Charles Spurgeon', 'Morning and Evening', 'devocional', 'devotional', 'dia e noite', 'Spurgeon devotional'],
+    alternates: {
+      languages: Object.keys(languages).length > 0 ? languages : undefined
+    },
     openGraph: {
       title: dict.devotional?.pageTitle || 'Spurgeon Morning and Evening Devotional',
       description: dict.devotional?.pageSubtitle,

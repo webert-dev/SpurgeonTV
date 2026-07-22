@@ -9,6 +9,13 @@ export async function generateMetadata({ params }) {
   return {
     title: `${dict.navigation.support} | SPURGEON TV`,
     description: dict.support.subtitle,
+    alternates: {
+      languages: {
+        'en': '/en/support',
+        'pt': '/pt/support',
+        'es': '/es/support',
+      }
+    }
   };
 }
 

@@ -2,6 +2,18 @@ import Link from 'next/link';
 import { getVolumes } from '../../../lib/sermons';
 import SearchClient from '../search-client';
 
+export const metadata = {
+  title: 'Volumes | SPURGEON TV',
+  description: 'Explore over 3,500 sermons from Charles Spurgeon organized in 63 volumes.',
+  alternates: {
+    languages: {
+      'en': '/en/volumes',
+      'pt': '/pt/volumes',
+      'es': '/es/volumes',
+    }
+  }
+};
+
 export default async function Home({ params }) {
   const { lang } = await params;
   const volumes = await getVolumes(lang);

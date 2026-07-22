@@ -58,12 +58,23 @@ export async function generateMetadata({ params }) {
     : excerpt || `Read Sermon ${sermonNum} from Volume ${volNum} by Charles H. Spurgeon.`;
 
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 
-    (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : 'https://spurgeon-tv.vercel.app');
+    (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : 'https://spurgeontv.vercel.app');
   const url = `${siteUrl}/${lang}/volume/${id}/${sermonId}`;
+
+  const languages = {};
+  if (sermon.availableLangs && sermon.availableLangs.length > 0) {
+    sermon.availableLangs.forEach(l => {
+      languages[l] = `${siteUrl}/${l}/volume/${id}/${sermonId}`;
+    });
+  }
 
   return {
     title: `${sermon.title} | Spurgeon TV`,
     description: desc,
+    alternates: {
+      canonical: url,
+      languages: Object.keys(languages).length > 0 ? languages : undefined
+    },
     openGraph: {
       title: sermon.title,
       description: desc,

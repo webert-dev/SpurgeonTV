@@ -6,6 +6,13 @@ import { Suspense } from 'react';
 export const metadata = {
   title: 'Bible | SpurgeonTV',
   description: 'Read the Bible on SpurgeonTV.',
+  alternates: {
+    languages: {
+      'en': '/en/bible',
+      'pt': '/pt/bible',
+      'es': '/es/bible',
+    }
+  }
 };
 
 export default async function BiblePage({ params }) {

@@ -7,6 +7,13 @@ import { getAllArticles } from '../../lib/articles';
 export const metadata = {
   title: 'SPURGEON TV | Charles Haddon Spurgeon — The Complete Sermon Collection',
   description: 'Explore over 3,500 sermons by Charles Haddon Spurgeon — the most prolific preacher in Church history. Read, search, and study the complete collection across 63 volumes.',
+  alternates: {
+    languages: {
+      'en': '/en',
+      'pt': '/pt',
+      'es': '/es',
+    }
+  }
 };
 
 export default async function HomePage({ params }) {
