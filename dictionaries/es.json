@@ -245,7 +245,13 @@
     "title": "Asóciate con Spurgeon TV",
     "subtitle": "Ayúdanos a difundir el evangelio a través de las obras sinceras y bíblicas de Charles Haddon Spurgeon.",
     "body": "Spurgeon TV es una labor de amor dedicada a traducir, preservar y distribuir las obras completas de Spurgeon a la humanidad de forma gratuita. Sin embargo, mantener esta enorme biblioteca en línea requiere recursos continuos. Tus contribuciones cubren directamente nuestros costos operativos vitales: alojamiento de servidores, renovación de dominios, mantenimiento de la plataforma, actualizaciones y los complejos procesos de traducción requeridos para hacer que estos sermones estén disponibles en múltiples idiomas. Al asociarte con nosotros, no solo estás manteniendo un sitio web, estás ayudando activamente a anunciar el evangelio de Cristo al mundo.",
-    "button": "Apoyar en Throne ❤️"
+    "button": "Apoyar en Throne ❤️",
+    "otherWaysTitle": "🤝 También puedes apoyar esta misión de otras maneras:",
+    "otherWays": [
+      { "emoji": "🙏", "text": "Ora por nuestro proyecto, por nuestro equipo y para que Dios guíe cada decisión de traducción y diseño." },
+      { "emoji": "📢", "text": "Comparte Spurgeon TV con amigos, familia y comunidades que tienen hambre de predicación bíblica profunda." },
+      { "emoji": "✏️", "text": "Ayúdanos a mejorar señalando errores o sugerencias en las traducciones, el contenido o el sitio web.", "hasLink": true, "linkText": "Envíanos un mensaje" }
+    ]
   },
   "devotional": {
     "pageTitle": "Devocional Spurgeon Lecturas Matutinas y Vespertinas",

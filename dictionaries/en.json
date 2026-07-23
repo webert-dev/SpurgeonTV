@@ -245,7 +245,13 @@
     "title": "Partner with Spurgeon TV",
     "subtitle": "Help us spread the gospel through the sincere and biblical works of Charles Haddon Spurgeon.",
     "body": "Spurgeon TV is a labor of love dedicated to translating, preserving, and distributing Spurgeon's complete works to humanity for free. However, keeping this massive library online requires significant ongoing resources. Your contributions directly cover our vital operational costs: server hosting, domain renewals, platform maintenance, system updates, and the complex translation processes required to make these sermons available in multiple languages. By partnering with us, you are not just maintaining a website—you are actively helping to announce the gospel of Christ to the world.",
-    "button": "Support on Throne ❤️"
+    "button": "Support on Throne ❤️",
+    "otherWaysTitle": "🤝 You can also support this mission in other ways:",
+    "otherWays": [
+      { "emoji": "🙏", "text": "Pray for our project, our team, and for God to guide every translation and design decision." },
+      { "emoji": "📢", "text": "Share Spurgeon TV with friends, family, and communities who hunger for deep, biblical preaching." },
+      { "emoji": "✏️", "text": "Help us improve by pointing out errors or suggestions in translations, content, or the website.", "hasLink": true, "linkText": "Send us a message" }
+    ]
   },
   "devotional": {
     "pageTitle": "Spurgeon Morning and Evening Devotional",

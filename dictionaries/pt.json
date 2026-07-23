@@ -245,7 +245,13 @@
     "title": "Seja um Parceiro da Spurgeon TV",
     "subtitle": "Ajude-nos a espalhar o evangelho através das obras sinceras e bíblicas de Charles Haddon Spurgeon.",
     "body": "A Spurgeon TV é um trabalho de amor dedicado a traduzir, preservar e distribuir as obras completas de Spurgeon para a humanidade de forma gratuita. No entanto, manter esta enorme biblioteca online exige recursos contínuos. Suas contribuições cobrem diretamente nossos custos operacionais vitais: hospedagem de servidores, renovação de domínios, manutenção da plataforma, atualizações e os complexos processos de tradução necessários para disponibilizar esses sermões em vários idiomas. Ao fazer parceria conosco, você não está apenas mantendo um site — você está ajudando ativamente a anunciar o evangelho de Cristo ao mundo.",
-    "button": "Apoiar no Throne ❤️"
+    "button": "Apoiar no Throne ❤️",
+    "otherWaysTitle": "🤝 Você também pode apoiar esta missão de outras formas:",
+    "otherWays": [
+      { "emoji": "🙏", "text": "Ore pelo nosso projeto, pela nossa equipe e para que Deus guie cada decisão de tradução e design." },
+      { "emoji": "📢", "text": "Divulgue a Spurgeon TV para amigos, família e comunidades que têm fome de pregações bíblicas profundas." },
+      { "emoji": "✏️", "text": "Nos ajude a melhorar apontando erros ou sugestões nas traduções, no conteúdo ou no site.", "hasLink": true, "linkText": "Envie uma mensagem" }
+    ]
   },
   "devotional": {
     "pageTitle": "Devocional Charles Spurgeon Dia e Noite",

@@ -22,10 +22,10 @@ const translations = {
       title: "Como Você Pode Apoiar",
       intro: "Você pode apoiar essa iniciativa de várias formas:",
       list: [
-        "Com orações pelo nosso projeto e equipe",
-        "Com a divulgação para quem precisa conhecer estas obras",
-        "Apontando pontos de melhoria e/ou correção no site, nas traduções ou nos materiais impressos",
-        "Com apoio financeiro para mantermos os servidores e as traduções"
+        { text: "Com orações pelo nosso projeto e equipe" },
+        { text: "Com a divulgação para quem precisa conhecer estas obras" },
+        { text: "Apontando pontos de melhoria e/ou correção no site, nas traduções ou nos materiais impressos", linkText: "entre em contato", linkKey: "contact" },
+        { text: "Com apoio financeiro para mantermos os servidores e as traduções", linkText: "Apoiar no Throne ❤️", linkKey: "throne" }
       ]
     },
     contact: {
@@ -50,10 +50,10 @@ const translations = {
       title: "How You Can Support Us",
       intro: "You can support this initiative in several ways:",
       list: [
-        "With prayers for our project and team",
-        "By spreading the word to those who need to know these works",
-        "By pointing out areas for improvement or corrections on the site, translations, or printed materials",
-        "With financial support to help maintain our servers and translations"
+        { text: "With prayers for our project and team" },
+        { text: "By spreading the word to those who need to know these works" },
+        { text: "By pointing out areas for improvement or corrections on the site, translations, or printed materials", linkText: "get in touch", linkKey: "contact" },
+        { text: "With financial support to help maintain our servers and translations", linkText: "Support on Throne ❤️", linkKey: "throne" }
       ]
     },
     contact: {
@@ -78,10 +78,10 @@ const translations = {
       title: "Cómo Puede Apoyarnos",
       intro: "Puede apoyar esta iniciativa de varias formas:",
       list: [
-        "Con oraciones por nuestro proyecto y equipo",
-        "Difundiendo la palabra a quienes necesitan conocer estas obras",
-        "Señalando áreas de mejora o correcciones en el sitio, traducciones o materiales impresos",
-        "Con apoyo financiero para mantener los servidores y las traducciones"
+        { text: "Con oraciones por nuestro proyecto y equipo" },
+        { text: "Difundiendo la palabra a quienes necesitan conocer estas obras" },
+        { text: "Señalando áreas de mejora o correcciones en el sitio, traducciones o materiales impresos", linkText: "contáctenos", linkKey: "contact" },
+        { text: "Con apoyo financiero para mantener los servidores y las traducciones", linkText: "Apoyar en Throne ❤️", linkKey: "throne" }
       ]
     },
     contact: {
@@ -128,7 +128,36 @@ export default async function AboutUsPage({ params }) {
         </div>
         <p style={{ color: 'var(--text-secondary)', marginBottom: '1.5rem', fontSize: '1.1rem' }}>{t.support.intro}</p>
         <ul className="policy-list">
-          {t.support.list.map((item, i) => <li key={i}>{item}</li>)}
+          {t.support.list.map((item, i) => (
+            <li key={i}>
+              {item.text}
+              {item.linkKey === 'contact' && (
+                <> — <Link href={`/${lang}/contact`} style={{ color: 'var(--accent)', fontWeight: '600', textDecoration: 'underline', textUnderlineOffset: '3px' }}>{item.linkText}</Link></>
+              )}
+              {item.linkKey === 'throne' && (
+                <div style={{ marginTop: '0.75rem' }}>
+                  <a
+                    href="https://throne.com/spurgeon"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{
+                      display: 'inline-block',
+                      background: 'var(--accent)',
+                      color: '#000',
+                      fontWeight: '700',
+                      padding: '0.5rem 1.25rem',
+                      borderRadius: '999px',
+                      fontSize: '0.9rem',
+                      textDecoration: 'none',
+                      transition: 'opacity 0.2s'
+                    }}
+                  >
+                    {item.linkText}
+                  </a>
+                </div>
+              )}
+            </li>
+          ))}
         </ul>
       </div>
 

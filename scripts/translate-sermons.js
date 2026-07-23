@@ -12,6 +12,9 @@ const OUT_DIR = TARGET_LANG === 'pt' ? SERMONS_PT_DIR : SERMONS_ES_DIR;
 async function translateText(text, targetLang) {
     if (!text || text.trim() === '') return '';
     
+    // SLOW MODE: Wait 15 seconds before every request to bypass 429 Too Many Requests
+    await new Promise(r => setTimeout(r, 15000));
+
     try {
         const res = await translate(text, { to: targetLang, autoCorrect: true });
         return res.text;
@@ -51,8 +54,8 @@ async function translateMarkdown(content, targetLang) {
         }
 
         // Special handling for title (# Title) and blockquotes (> text)
-        // It's safer to translate line by line or paragraph by paragraph
-        if (currentChunk.join('\n').length + line.length > 3000) {
+        // Maximize chunk to 4500 chars (limit is 5000) to reduce total requests
+        if (currentChunk.join('\n').length + line.length > 4500) {
             const translated = await translateText(currentChunk.join('\n'), targetLang);
             translatedLines.push(translated);
             currentChunk = [];
@@ -104,8 +107,8 @@ async function run() {
                 console.log(`Saved ${outFile}`);
                 totalTranslated++;
                 
-                // Be nice to the API
-                await new Promise(r => setTimeout(r, 3000));
+                // Be nice to the API: 20s cooldown between files
+                await new Promise(r => setTimeout(r, 20000));
             }
         }
     }

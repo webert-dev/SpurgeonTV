@@ -99,6 +99,24 @@ export default async function SupportPage({ params }) {
               {dict.support.button}
             </a>
           </div>
+
+          {/* Other ways to support */}
+          <div className="support-other-ways">
+            <p className="support-other-ways-title">{dict.support.otherWaysTitle}</p>
+            <ul className="support-other-ways-list">
+              {dict.support.otherWays.map((item, idx) => (
+                <li key={idx} className="support-other-ways-item">
+                  <span className="support-other-ways-emoji">{item.emoji}</span>
+                  <span>
+                    {item.text}
+                    {item.hasLink && (
+                      <> — <a href={`/${lang}/contact`} className="support-other-ways-link">{item.linkText}</a></>
+                    )}
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </div>
         </div>
       </div>
     </div>
