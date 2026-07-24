@@ -2,6 +2,7 @@ import Link from 'next/link';
 import fs from 'fs';
 import path from 'path';
 import { getDictionary } from '../../../lib/dictionaries';
+import SpanishVideosTabs from '../../components/SpanishVideosTabs';
 
 export async function generateMetadata({ params }) {
   const { lang } = await params;
@@ -56,11 +57,11 @@ export default async function VideosHubPage({ params }) {
 
   let channels = [];
   if (lang === 'pt') {
-    channels = [ptChannel, enChannel, esDevocionalChannel, esChannel];
+    channels = [ptChannel, enChannel];
   } else if (lang === 'es') {
-    channels = [esDevocionalChannel, esChannel, enChannel, ptChannel];
+    channels = [enChannel, ptChannel];
   } else {
-    channels = [enChannel, ptChannel, esDevocionalChannel, esChannel];
+    channels = [enChannel, ptChannel];
   }
 
   return (
@@ -75,6 +76,10 @@ export default async function VideosHubPage({ params }) {
       </header>
 
       <div style={{ display: 'flex', flexDirection: 'column', gap: '5rem' }}>
+        {lang === 'es' && (
+          <SpanishVideosTabs esChannel={esChannel} esDevocionalChannel={esDevocionalChannel} dict={dict} lang={lang} />
+        )}
+
         {channels.map(channel => (
           <section key={channel.id}>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', marginBottom: '2rem', borderBottom: '1px solid var(--border)', paddingBottom: '1rem' }}>
@@ -116,6 +121,10 @@ export default async function VideosHubPage({ params }) {
             )}
           </section>
         ))}
+
+        {lang !== 'es' && (
+          <SpanishVideosTabs esChannel={esChannel} esDevocionalChannel={esDevocionalChannel} dict={dict} lang={lang} />
+        )}
       </div>
       
       {/* Add a tiny CSS for hover effect in line */}
