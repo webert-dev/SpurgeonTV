@@ -29,6 +29,14 @@ export async function generateMetadata({ params }) {
     openGraph: {
       title: dict.devotional?.pageTitle || 'Spurgeon Morning and Evening Devotional',
       description: dict.devotional?.pageSubtitle,
+      images: [
+        {
+          url: 'https://spurgeon-tv.vercel.app/opengraph-image.png',
+          width: 256,
+          height: 256,
+          alt: 'Spurgeon TV',
+        }
+      ],
     },
   };
 }
