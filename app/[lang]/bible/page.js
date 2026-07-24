@@ -44,13 +44,13 @@ export default async function BiblePage({ params }) {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": `https://spurgeontv.vercel.app/${lang}`
+                "item": `https://spurgeon-tv.vercel.app/${lang}`
               },
               {
                 "@type": "ListItem",
                 "position": 2,
                 "name": dict.bible.pageTitle,
-                "item": `https://spurgeontv.vercel.app/${lang}/bible`
+                "item": `https://spurgeon-tv.vercel.app/${lang}/bible`
               }
             ]
           })

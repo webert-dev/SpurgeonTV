@@ -209,13 +209,13 @@ export default async function SobrePage({ params }) {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": `https://spurgeontv.vercel.app/${lang}`
+                "item": `https://spurgeon-tv.vercel.app/${lang}`
               },
               {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "About Spurgeon",
-                "item": `https://spurgeontv.vercel.app/${lang}/about`
+                "item": `https://spurgeon-tv.vercel.app/${lang}/about`
               }
             ]
           })

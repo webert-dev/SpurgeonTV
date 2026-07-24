@@ -66,7 +66,7 @@ export default async function HomePage({ params }) {
             "@context": "https://schema.org",
             "@type": "WebSite",
             "name": "Spurgeon TV",
-            "url": "https://spurgeontv.vercel.app/",
+            "url": "https://spurgeon-tv.vercel.app/",
           })
         }}
       />

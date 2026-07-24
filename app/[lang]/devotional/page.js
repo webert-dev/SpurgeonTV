@@ -72,7 +72,7 @@ export default async function DevotionalPage({ params }) {
               "name": "Spurgeon TV",
               "logo": {
                 "@type": "ImageObject",
-                "url": "https://spurgeontv.vercel.app/icon.png"
+                "url": "https://spurgeon-tv.vercel.app/icon.png"
               }
             },
             "description": dict.devotional?.pageSubtitle || "Read the classic daily devotional by Charles Spurgeon."

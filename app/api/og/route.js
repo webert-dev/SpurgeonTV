@@ -104,19 +104,7 @@ export async function GET(request) {
               )}
             </div>
 
-            {/* Logo area - right side */}
-            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-              <img 
-                src={`${siteUrl}/icon.png`}
-                width="200"
-                height="200"
-                style={{ 
-                  borderRadius: '16px',
-                  boxShadow: '0 20px 40px rgba(0,0,0,0.5)',
-                  border: '2px solid rgba(212, 175, 55, 0.3)'
-                }}
-              />
-            </div>
+            {/* Removed Logo area to fix rendering glitch and focus on typography */}
           </div>
 
           <div style={{ flex: 1 }} />

@@ -60,7 +60,7 @@ export default async function WatchVideoPage({ params }) {
             "description": video.description || `Sermon or documentary about Charles Spurgeon on SPURGEON TV.`,
             "thumbnailUrl": [video.thumbnail],
             "uploadDate": "2026-02-15T08:00:00+08:00",
-            "contentUrl": `https://spurgeontv.vercel.app/videos/watch/${videoId}`,
+            "contentUrl": `https://spurgeon-tv.vercel.app/videos/watch/${videoId}`,
             "embedUrl": `https://www.youtube.com/embed/${videoId}`
           })
         }}

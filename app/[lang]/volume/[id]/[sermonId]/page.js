@@ -58,7 +58,7 @@ export async function generateMetadata({ params }) {
     : excerpt || `Read Sermon ${sermonNum} from Volume ${volNum} by Charles H. Spurgeon.`;
 
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 
-    (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : 'https://spurgeontv.vercel.app');
+    (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : 'https://spurgeon-tv.vercel.app');
   const url = `${siteUrl}/${lang}/volume/${id}/${sermonId}`;
 
   const languages = {};
@@ -152,7 +152,7 @@ export default async function SermonPage({ params }) {
             "@type": "Article",
             "headline": sermon.title,
             "alternativeHeadline": `Sermon No. ${sermonNum}`,
-            "image": "https://spurgeontv.vercel.app/icon.png",
+            "image": "https://spurgeon-tv.vercel.app/icon.png",
             "author": {
               "@type": "Person",
               "name": "Charles Haddon Spurgeon",
@@ -163,7 +163,7 @@ export default async function SermonPage({ params }) {
               "name": "Spurgeon TV",
               "logo": {
                 "@type": "ImageObject",
-                "url": "https://spurgeontv.vercel.app/icon.png"
+                "url": "https://spurgeon-tv.vercel.app/icon.png"
               }
             },
             "datePublished": meta ? `${meta.year}-01-01` : "1855-01-01",

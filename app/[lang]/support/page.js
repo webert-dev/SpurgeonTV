@@ -47,13 +47,13 @@ export default async function SupportPage({ params }) {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": `https://spurgeontv.vercel.app/${lang}`
+                "item": `https://spurgeon-tv.vercel.app/${lang}`
               },
               {
                 "@type": "ListItem",
                 "position": 2,
                 "name": dict.navigation.support,
-                "item": `https://spurgeontv.vercel.app/${lang}/support`
+                "item": `https://spurgeon-tv.vercel.app/${lang}/support`
               }
             ]
           })

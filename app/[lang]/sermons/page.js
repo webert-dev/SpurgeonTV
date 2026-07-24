@@ -47,13 +47,13 @@ export default async function SermonsPage({ params, searchParams }) {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": `https://spurgeontv.vercel.app/${lang}`
+                "item": `https://spurgeon-tv.vercel.app/${lang}`
               },
               {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Sermons",
-                "item": `https://spurgeontv.vercel.app/${lang}/sermons`
+                "item": `https://spurgeon-tv.vercel.app/${lang}/sermons`
               }
             ]
           })

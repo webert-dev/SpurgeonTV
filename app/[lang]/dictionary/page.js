@@ -24,7 +24,7 @@ export default async function DictionaryPage({ params }) {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "DefinedTermSet",
-            "@id": `https://spurgeontv.vercel.app/${lang}/dictionary`,
+            "@id": `https://spurgeon-tv.vercel.app/${lang}/dictionary`,
             "name": "Spurgeon TV Theological Dictionary",
             "description": "A comprehensive dictionary of theological, biblical, and historical terms used in Charles Spurgeon's sermons.",
             "inLanguage": lang
@@ -42,13 +42,13 @@ export default async function DictionaryPage({ params }) {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Home",
-                "item": `https://spurgeontv.vercel.app/${lang}`
+                "item": `https://spurgeon-tv.vercel.app/${lang}`
               },
               {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Dictionary",
-                "item": `https://spurgeontv.vercel.app/${lang}/dictionary`
+                "item": `https://spurgeon-tv.vercel.app/${lang}/dictionary`
               }
             ]
           })
