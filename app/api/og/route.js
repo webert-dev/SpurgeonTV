@@ -28,14 +28,13 @@ export async function GET(request) {
             width: '100%',
             display: 'flex',
             flexDirection: 'column',
-            backgroundColor: '#09090b',
-            backgroundImage: 'linear-gradient(145deg, #09090b 0%, #1e1335 100%)', // Escuro para o roxo profundo
+            backgroundColor: '#120f1c', // Solid dark purple/black color instead of gradient
             padding: '60px 80px',
             fontFamily: 'sans-serif',
             position: 'relative',
           }}
         >
-          {/* Subtle accent line on top */}
+          {/* Solid accent line on top */}
           <div
             style={{
               position: 'absolute',
@@ -43,7 +42,7 @@ export async function GET(request) {
               left: 0,
               right: 0,
               height: '12px',
-              background: 'linear-gradient(90deg, #d4af37 0%, #ffdf73 50%, #d4af37 100%)',
+              backgroundColor: '#d4af37', // Solid gold
             }}
           />
 
@@ -79,7 +78,6 @@ export async function GET(request) {
                   color: '#FFD700', // Dourado
                   lineHeight: 1.1,
                   marginBottom: 30,
-                  textShadow: '0 4px 15px rgba(212, 175, 55, 0.2)',
                 }}
               >
                 {title}
@@ -92,7 +90,6 @@ export async function GET(request) {
                     color: '#E0E0E0',
                     lineHeight: 1.5,
                     fontStyle: 'italic',
-                    opacity: 0.9,
                     display: '-webkit-box',
                     WebkitLineClamp: 3,
                     WebkitBoxOrient: 'vertical',
@@ -112,8 +109,7 @@ export async function GET(request) {
                 height="200"
                 style={{ 
                   borderRadius: '16px',
-                  boxShadow: '0 20px 40px rgba(0,0,0,0.5)',
-                  border: '2px solid rgba(212, 175, 55, 0.3)'
+                  border: '2px solid #d4af37' // Solid border
                 }}
               />
             </div>
