@@ -66,8 +66,8 @@ export default async function VideosHubPage({ params }) {
 
   return (
     <div className="container" style={{ padding: '1rem 2rem', minHeight: '80vh', maxWidth: '1200px', margin: '0 auto' }}>
-      <header style={{ marginBottom: '2rem', textAlign: 'center' }}>
-        <h1 className="title-gold" style={{ fontSize: '3rem', marginBottom: '1.5rem' }}>
+      <header style={{ marginBottom: '1.5rem', textAlign: 'center' }}>
+        <h1 className="title-gold" style={{ fontSize: '3rem', marginBottom: '0.5rem' }}>
           {dict.videosHub.pageTitle}
         </h1>
         <p style={{ fontSize: '1.2rem', color: 'var(--text-secondary)', maxWidth: '600px', margin: '0 auto' }}>
@@ -75,16 +75,16 @@ export default async function VideosHubPage({ params }) {
         </p>
       </header>
 
-      <div style={{ display: 'flex', flexDirection: 'column', gap: '5rem' }}>
+      <div style={{ display: 'flex', flexDirection: 'column', gap: '3rem' }}>
         {lang === 'es' && (
           <SpanishVideosTabs esChannel={esChannel} esDevocionalChannel={esDevocionalChannel} dict={dict} lang={lang} />
         )}
 
         {channels.map(channel => (
           <section key={channel.id}>
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', marginBottom: '2rem', borderBottom: '1px solid var(--border)', paddingBottom: '1rem' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', marginBottom: '1.2rem', borderBottom: '1px solid var(--border)', paddingBottom: '0.5rem' }}>
               <div>
-                <h2 style={{ fontSize: '2rem', fontFamily: 'var(--font-serif)', color: 'var(--text-primary)', marginBottom: '0.5rem' }}>
+                <h2 style={{ fontSize: '2rem', fontFamily: 'var(--font-serif)', color: 'var(--text-primary)', marginBottom: '0.2rem' }}>
                   {channel.title}
                 </h2>
               </div>
