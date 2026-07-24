@@ -17,8 +17,7 @@ export async function GET(request) {
       reference = `Sermon ${sermonNum} • Volume ${volume}`;
     }
 
-    const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 
-      (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : 'https://spurgeon-tv.vercel.app');
+    const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon-tv.vercel.app';
     
     return new ImageResponse(
       (

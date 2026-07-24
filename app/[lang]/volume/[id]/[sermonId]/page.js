@@ -57,8 +57,7 @@ export async function generateMetadata({ params }) {
     ? `${sermon.scripture.reference} — ${excerpt}`
     : excerpt || `Read Sermon ${sermonNum} from Volume ${volNum} by Charles H. Spurgeon.`;
 
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 
-    (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : 'https://spurgeon-tv.vercel.app');
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon-tv.vercel.app';
   const url = `${siteUrl}/${lang}/volume/${id}/${sermonId}`;
 
   const languages = {};
@@ -82,7 +81,7 @@ export async function generateMetadata({ params }) {
       siteName: 'Spurgeon TV',
       images: [
         {
-          url: `${siteUrl}/api/og?title=${encodeURIComponent(sermon.title)}&vol=${volNum}&num=${sermonNum}&subtitle=${encodeURIComponent(excerpt)}`,
+          url: `${siteUrl}/api/og?title=${encodeURIComponent(sermon.title)}&vol=${volNum}&num=${sermonNum}&subtitle=${encodeURIComponent(excerpt)}&ext=.png`,
           width: 1200,
           height: 630,
           alt: sermon.title,
