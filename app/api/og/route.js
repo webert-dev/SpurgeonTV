@@ -19,6 +19,10 @@ export async function GET(request) {
 
     const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon-tv.vercel.app';
     
+    // Fetch local image as ArrayBuffer to avoid HTTP network latency
+    // This bundles the image directly into the Edge function
+    const logoData = await fetch(new URL('../../icon.png', import.meta.url)).then((res) => res.arrayBuffer());
+
     return new ImageResponse(
       (
         <div
@@ -103,7 +107,7 @@ export async function GET(request) {
             {/* Logo area - right side */}
             <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
               <img 
-                src={`${siteUrl}/icon.png`}
+                src={logoData}
                 width="200"
                 height="200"
                 style={{ 
