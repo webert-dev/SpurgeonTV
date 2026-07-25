@@ -7,9 +7,14 @@ import LanguageSwitcher from '../components/LanguageSwitcher';
 import CookieBanner from '../components/CookieBanner';
 
 export const metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon-tv.vercel.app'),
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv'),
   title: 'SPURGEON TV | The Complete Sermon Collection',
   description: 'Read the complete collection of Charles Spurgeon\'s sermons across all 63 volumes.',
+  verification: {
+    other: {
+      'msvalidate.01': '77071CAEB066E83C746FC1ADDC0B1502',
+    },
+  },
 };
 
 export default async function RootLayout({ children, params }) {
