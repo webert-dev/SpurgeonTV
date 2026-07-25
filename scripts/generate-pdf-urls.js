@@ -2,8 +2,8 @@ const fs = require('fs');
 const path = require('path');
 const https = require('https');
 
-// This script dynamically scrapes the directory listing of spurgeongems.org
-// to get the exact filenames of all PDFs, avoiding 404 errors for non-standard filenames.
+// Scrapes the official Sermon page of spurgeongems.org
+// Grouping output by Volume to make manual uploading easier.
 
 function fetchHtml(url) {
   return new Promise((resolve, reject) => {
@@ -15,36 +15,89 @@ function fetchHtml(url) {
   });
 }
 
+function buildSermonVolumeMap() {
+  const map = {};
+  const sermonsDir = path.join(__dirname, '..', 'chspurgeon-sermons-main');
+  
+  if (!fs.existsSync(sermonsDir)) return map;
+
+  const volumes = fs.readdirSync(sermonsDir).filter(d => d.startsWith('volume-'));
+  
+  for (const vol of volumes) {
+    const volNum = parseInt(vol.replace('volume-', ''), 10);
+    const volPath = path.join(sermonsDir, vol);
+    
+    if (fs.statSync(volPath).isDirectory()) {
+      const files = fs.readdirSync(volPath);
+      for (const file of files) {
+        if (file.startsWith('sermon') && file.endsWith('.md')) {
+          // e.g. sermon-1.md, sermon_348.md, or sermon-7-8.md
+          const match = file.match(/sermon[-_](\d+)/);
+          if (match) {
+            map[parseInt(match[1], 10)] = volNum;
+          }
+        }
+      }
+    }
+  }
+  return map;
+}
+
 async function generateUrls() {
-  const baseUrl = 'https://www.spurgeongems.org/sermon/';
-  console.log(`Fetching directory listing from ${baseUrl}...`);
+  const url = 'https://www.spurgeongems.org/spurgeon-sermons/';
+  console.log(`Fetching official sermon list from ${url}...`);
   
   try {
-    const html = await fetchHtml(baseUrl);
+    const sermonToVol = buildSermonVolumeMap();
+    const html = await fetchHtml(url);
     
-    // Match all hrefs ending in .pdf
-    // <a href="chs001.pdf">
-    const regex = /href="([^"]+\.pdf)"/g;
+    const regex = /href="([^"]*?\/sermon\/chs(\d+)[^"]*\.pdf)"/g;
     let match;
-    const urls = [];
+    
+    const volumeGroups = {}; // volNum -> array of links
+    let unmapped = [];
     
     while ((match = regex.exec(html)) !== null) {
-      let filename = match[1];
-      // Note: Some filenames in the href are already URL encoded (e.g. %20), some are not. 
-      // The browser/Up-4Ever usually handles either, but let's just append the raw href value.
-      urls.push(baseUrl + filename);
+      let link = match[1];
+      const sermonNum = parseInt(match[2], 10);
+      
+      if (link.startsWith('/sermon/')) {
+        link = 'https://www.spurgeongems.org' + link;
+      }
+      
+      const volNum = sermonToVol[sermonNum];
+      if (volNum) {
+        if (!volumeGroups[volNum]) volumeGroups[volNum] = [];
+        volumeGroups[volNum].push(link);
+      } else {
+        unmapped.push(link);
+      }
     }
 
-    if (urls.length === 0) {
-      console.error('No PDFs found! The directory listing might have changed.');
-      return;
+    const outputLines = [];
+    
+    // Sort by volume
+    const sortedVols = Object.keys(volumeGroups).map(Number).sort((a,b) => a - b);
+    
+    for (const vol of sortedVols) {
+      outputLines.push(`\n============================`);
+      outputLines.push(`VOLUME ${vol.toString().padStart(2, '0')}`);
+      outputLines.push(`============================\n`);
+      outputLines.push(...volumeGroups[vol]);
+    }
+    
+    if (unmapped.length > 0) {
+      outputLines.push(`\n============================`);
+      outputLines.push(`UNMAPPED / EXTRAS`);
+      outputLines.push(`============================\n`);
+      outputLines.push(...unmapped);
     }
 
     const outputPath = path.join(__dirname, 'pdf-urls-for-upload.txt');
-    fs.writeFileSync(outputPath, urls.join('\n'));
-    console.log(`Successfully extracted ${urls.length} PDF URLs!`);
+    fs.writeFileSync(outputPath, outputLines.join('\n').trim());
+    
+    console.log(`Successfully grouped and saved URLs!`);
     console.log(`Saved to ${outputPath}`);
-    console.log('You can now copy the contents of this file and paste it into the Remote Upload page of Up-4Ever or FileUpload.');
   } catch (error) {
     console.error('Error fetching directory:', error.message);
   }
