@@ -90,27 +90,23 @@ export default async function ChannelVideosPage({ params, searchParams }) {
       {totalPages > 1 && (
         <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '1rem', marginTop: '4rem' }}>
           {currentPage > 1 ? (
-            <Link href={`/${lang}/videos/${channelId}?page=${currentPage - 1}`} style={{ padding: '0.8rem 1.5rem', background: 'var(--surface)', border: '1px solid var(--border)', borderRadius: '8px', color: 'var(--text-primary)', textDecoration: 'none', transition: 'background 0.2s' }}>
+            <Link rel="prev" href={`/${lang}/videos/${channelId}?page=${currentPage - 1}`} style={{ padding: '0.8rem 1.5rem', background: 'var(--surface)', border: '1px solid var(--border)', borderRadius: '8px', color: 'var(--text-primary)', textDecoration: 'none', transition: 'background 0.2s' }}>
               {dict.channelVideos.previous}
             </Link>
           ) : (
-            <span style={{ padding: '0.8rem 1.5rem', background: 'var(--bg-primary)', border: '1px solid var(--border)', borderRadius: '8px', color: 'var(--text-muted)', cursor: 'not-allowed' }}>
-              {dict.channelVideos.previous}
-            </span>
+            <div style={{ width: '120px' }}></div>
           )}
 
-          <span style={{ fontWeight: 'bold', margin: '0 1rem' }}>
+          <div style={{ fontSize: '0.9rem', color: 'var(--text-secondary)', fontWeight: 600 }}>
             {currentPage} / {totalPages}
-          </span>
+          </div>
 
           {currentPage < totalPages ? (
-            <Link href={`/${lang}/videos/${channelId}?page=${currentPage + 1}`} style={{ padding: '0.8rem 1.5rem', background: 'var(--surface)', border: '1px solid var(--border)', borderRadius: '8px', color: 'var(--text-primary)', textDecoration: 'none', transition: 'background 0.2s' }}>
+            <Link rel="next" href={`/${lang}/videos/${channelId}?page=${currentPage + 1}`} style={{ padding: '0.8rem 1.5rem', background: 'var(--surface)', border: '1px solid var(--border)', borderRadius: '8px', color: 'var(--text-primary)', textDecoration: 'none', transition: 'background 0.2s' }}>
               {dict.channelVideos.next}
             </Link>
           ) : (
-            <span style={{ padding: '0.8rem 1.5rem', background: 'var(--bg-primary)', border: '1px solid var(--border)', borderRadius: '8px', color: 'var(--text-muted)', cursor: 'not-allowed' }}>
-              {dict.channelVideos.next}
-            </span>
+            <div style={{ width: '120px' }}></div>
           )}
         </div>
       )}

@@ -131,6 +131,7 @@ export default async function SermonsPage({ params, searchParams }) {
               className={`pagination-btn ${currentPage <= 1 ? 'disabled' : ''}`}
               aria-disabled={currentPage <= 1}
               tabIndex={currentPage <= 1 ? -1 : 0}
+              rel="prev"
             >
               &larr; {dict.sermons.pagination.previous}
             </Link>
@@ -144,6 +145,7 @@ export default async function SermonsPage({ params, searchParams }) {
               className={`pagination-btn ${currentPage >= totalPages ? 'disabled' : ''}`}
               aria-disabled={currentPage >= totalPages}
               tabIndex={currentPage >= totalPages ? -1 : 0}
+              rel="next"
             >
               {dict.sermons.pagination.next} &rarr;
             </Link>

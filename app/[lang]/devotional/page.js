@@ -1,97 +1,15 @@
-import { getDictionary } from '../../../lib/dictionaries';
-import DevotionalClient from './DevotionalClient';
-import fs from 'fs';
-import path from 'path';
+import { redirect } from 'next/navigation';
 
-export async function generateMetadata({ params }) {
-  const { lang } = await params;
-  const dict = await getDictionary(lang);
-  
-  const availableLangs = ['en'];
-  try {
-    const dataDir = path.join(process.cwd(), 'public', 'data');
-    if (fs.existsSync(path.join(dataDir, 'morning-and-evening-pt.json'))) availableLangs.push('pt');
-    if (fs.existsSync(path.join(dataDir, 'morning-and-evening-es.json'))) availableLangs.push('es');
-  } catch (e) {}
+export const dynamic = 'force-dynamic';
+export const revalidate = 0;
 
-  const languages = {};
-  availableLangs.forEach(l => {
-    languages[l] = `/${l}/devotional`;
-  });
-
-  return {
-    title: dict.devotional?.pageTitle || 'Spurgeon Morning and Evening Devotional',
-    description: dict.devotional?.pageSubtitle || 'Read the classic daily devotional by Charles Spurgeon, with morning and evening readings.',
-    keywords: ['Charles Spurgeon', 'Morning and Evening', 'devocional', 'devotional', 'dia e noite', 'Spurgeon devotional'],
-    alternates: {
-      languages: Object.keys(languages).length > 0 ? languages : undefined
-    },
-    openGraph: {
-      title: dict.devotional?.pageTitle || 'Spurgeon Morning and Evening Devotional',
-      description: dict.devotional?.pageSubtitle,
-      images: [
-        {
-          url: 'https://spurgeon-tv.vercel.app/opengraph-image.png',
-          width: 256,
-          height: 256,
-          alt: 'Spurgeon TV',
-        }
-      ],
-    },
-  };
-}
-
-export default async function DevotionalPage({ params }) {
+export default async function DevotionalRootPage({ params }) {
   const { lang = 'en' } = await params;
-  const dict = await getDictionary(lang);
-
-  let devotionalData = [];
-  try {
-    const fileName = lang === 'en' ? 'morning-and-evening.json' : `morning-and-evening-${lang}.json`;
-    const filePath = path.join(process.cwd(), 'public', 'data', fileName);
-    
-    if (fs.existsSync(filePath)) {
-      devotionalData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-    } else {
-      // Fallback to English if file is not found (e.g. while translation is running)
-      const fallbackPath = path.join(process.cwd(), 'public', 'data', 'morning-and-evening.json');
-      devotionalData = JSON.parse(fs.readFileSync(fallbackPath, 'utf-8'));
-    }
-  } catch (error) {
-    console.error("Error loading devotional data:", error);
-  }
-
-  return (
-    <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "Article",
-            "headline": dict.devotional?.pageTitle || "Spurgeon Morning and Evening Devotional",
-            "author": {
-              "@type": "Person",
-              "name": "Charles Haddon Spurgeon",
-              "sameAs": "https://wikipedia.org/wiki/Charles_Haddon_Spurgeon"
-            },
-            "publisher": {
-              "@type": "Organization",
-              "name": "Spurgeon TV",
-              "logo": {
-                "@type": "ImageObject",
-                "url": "https://spurgeon-tv.vercel.app/icon.png"
-              }
-            },
-            "description": dict.devotional?.pageSubtitle || "Read the classic daily devotional by Charles Spurgeon."
-          })
-        }}
-      />
-      <DevotionalClient
-        lang={lang}
-        dict={dict}
-        devotionalData={devotionalData}
-      />
-    </>
-  );
+  
+  // Use current server time to determine today's date
+  const now = new Date();
+  const month = (now.getMonth() + 1).toString().padStart(2, '0');
+  const day = now.getDate().toString().padStart(2, '0');
+  
+  redirect(`/${lang}/devotional/${month}-${day}`);
 }
