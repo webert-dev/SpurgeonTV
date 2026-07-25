@@ -54,7 +54,9 @@ export default function SearchClient({ lang = 'en', dict, isGlobal = false }) {
     } else {
       // Legacy local search for sermons only
       if (!index) return;
-      const filtered = index
+      
+      const sermonsLang = index[lang] || index.en || [];
+      const filtered = sermonsLang
         .filter((s) => {
           const titleMatch = s.title.toLowerCase().includes(q);
           const refMatch = s.scripture?.reference?.toLowerCase().includes(q);

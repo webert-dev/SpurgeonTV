@@ -14,7 +14,8 @@ export async function GET(request) {
   
   try {
     if (type === 'sermons') {
-      const filtered = sermonsData.filter(s => {
+      const sermonsLang = sermonsData[lang] || sermonsData.en || [];
+      const filtered = sermonsLang.filter(s => {
         const titleMatch = s.title.toLowerCase().includes(q);
         const refMatch = s.scripture?.reference?.toLowerCase().includes(q);
         const verseMatch = s.scripture?.verse?.toLowerCase().includes(q);

@@ -42,33 +42,46 @@ function extractScripture(content) {
 }
 
 async function main() {
-  console.log('📖 Reading sermon volumes...');
+  console.log('📖 Reading sermon volumes for all languages...');
 
-  const entries = await fs.readdir(SERMONS_DIR, { withFileTypes: true });
-  const volumes = entries
-    .filter((d) => d.isDirectory() && d.name.startsWith('volume-'))
-    .map((d) => d.name)
-    .sort();
+  const index = {
+    en: [],
+    pt: [],
+    es: []
+  };
 
-  const index = [];
+  const dirs = [
+    { lang: 'en', dir: path.join(ROOT, 'chspurgeon-sermons-main') },
+    { lang: 'pt', dir: path.join(ROOT, 'chspurgeon-sermons-pt') },
+    { lang: 'es', dir: path.join(ROOT, 'chspurgeon-sermons-es') }
+  ];
 
-  for (const volume of volumes) {
-    const volumeNum = parseInt(volume.replace('volume-', ''), 10);
-    const volumePath = path.join(SERMONS_DIR, volume);
-    const files = (await fs.readdir(volumePath)).filter((f) => f.endsWith('.md'));
+  for (const { lang, dir } of dirs) {
+    if (await fs.stat(dir).catch(() => null)) {
+      const entries = await fs.readdir(dir, { withFileTypes: true });
+      const volumes = entries
+        .filter((d) => d.isDirectory() && d.name.startsWith('volume-'))
+        .map((d) => d.name)
+        .sort();
 
-    for (const filename of files) {
-      const filePath = path.join(volumePath, filename);
-      const content = await fs.readFile(filePath, 'utf-8');
-      const firstLine = content.split('\n')[0];
-      const title = firstLine.replace(/^#\s*/, '').trim();
-      const slug = filename.replace('.md', '');
-      const scripture = extractScripture(content);
+      for (const volume of volumes) {
+        const volumeNum = parseInt(volume.replace('volume-', ''), 10);
+        const volumePath = path.join(dir, volume);
+        const files = (await fs.readdir(volumePath)).filter((f) => f.endsWith('.md'));
 
-      index.push({ title, slug, volume, volumeNum, scripture });
+        for (const filename of files) {
+          const filePath = path.join(volumePath, filename);
+          const content = await fs.readFile(filePath, 'utf-8');
+          const firstLine = content.split('\n')[0];
+          const title = firstLine.replace(/^#\s*/, '').trim();
+          const slug = filename.replace('.md', '');
+          const scripture = extractScripture(content);
+
+          index[lang].push({ title, slug, volume, volumeNum, scripture });
+        }
+      }
+      console.log(`  ✓ Indexed ${lang.toUpperCase()} sermons`);
     }
-
-    process.stdout.write(`  ✓ Volume ${volumeNum} (${files.length} sermons)\r`);
   }
 
   // Ensure public dir exists
