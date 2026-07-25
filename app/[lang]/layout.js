@@ -5,6 +5,7 @@ import { BibleSettingsProvider } from '../components/BibleSettingsProvider';
 import { getDictionary } from '../../lib/dictionaries';
 import LanguageSwitcher from '../components/LanguageSwitcher';
 import CookieBanner from '../components/CookieBanner';
+import AdSenseScript from '../../components/AdSenseScript';
 
 export async function generateMetadata({ params }) {
   const { lang } = await params;
@@ -61,6 +62,7 @@ export default async function RootLayout({ children, params }) {
             gtag('config', 'G-W7VF0M0Y8K');
           `}
         </Script>
+        <AdSenseScript />
         <BibleSettingsProvider>
           <header className="site-header">
             <div className="container header-container">
