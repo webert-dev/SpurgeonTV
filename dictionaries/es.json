@@ -102,7 +102,10 @@
     "quote": {
       "text": "Una Biblia que se cae a pedazos por lo general pertenece a alguien que no lo está.",
       "author": "Charles Haddon Spurgeon"
-    }
+    },
+    "seoTitle": "SPURGEON TV | La Colección Completa de Sermones",
+    "seoDesc": "Explora más de 3.500 sermones de Charles Haddon Spurgeon — el predicador más prolífico de la historia de la Iglesia. Lee, busca y estudia la colección completa en 63 volúmenes.",
+    "seoH1Addon": " — La Colección Completa de Sermones"
   },
   "sermons": {
     "title": "Todos los Sermones",
@@ -248,9 +251,20 @@
     "button": "Apoyar en Throne ❤️",
     "otherWaysTitle": "🤝 También puedes apoyar esta misión de otras maneras:",
     "otherWays": [
-      { "emoji": "🙏", "text": "Ora por nuestro proyecto, por nuestro equipo y para que Dios guíe cada decisión de traducción y diseño." },
-      { "emoji": "📢", "text": "Comparte Spurgeon TV con amigos, familia y comunidades que tienen hambre de predicación bíblica profunda." },
-      { "emoji": "✏️", "text": "Ayúdanos a mejorar señalando errores o sugerencias en las traducciones, el contenido o el sitio web.", "hasLink": true, "linkText": "Envíanos un mensaje" }
+      {
+        "emoji": "🙏",
+        "text": "Ora por nuestro proyecto, por nuestro equipo y para que Dios guíe cada decisión de traducción y diseño."
+      },
+      {
+        "emoji": "📢",
+        "text": "Comparte Spurgeon TV con amigos, familia y comunidades que tienen hambre de predicación bíblica profunda."
+      },
+      {
+        "emoji": "✏️",
+        "text": "Ayúdanos a mejorar señalando errores o sugerencias en las traducciones, el contenido o el sitio web.",
+        "hasLink": true,
+        "linkText": "Envíanos un mensaje"
+      }
     ]
   },
   "devotional": {

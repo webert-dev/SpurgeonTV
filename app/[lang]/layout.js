@@ -6,16 +6,36 @@ import { getDictionary } from '../../lib/dictionaries';
 import LanguageSwitcher from '../components/LanguageSwitcher';
 import CookieBanner from '../components/CookieBanner';
 
-export const metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv'),
-  title: 'SPURGEON TV | The Complete Sermon Collection',
-  description: 'Read the complete collection of Charles Spurgeon\'s sermons across all 63 volumes.',
-  verification: {
-    other: {
-      'msvalidate.01': '77071CAEB066E83C746FC1ADDC0B1502',
+export async function generateMetadata({ params }) {
+  const { lang } = await params;
+  const dict = await getDictionary(lang);
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon-tv.vercel.app';
+
+  return {
+    metadataBase: new URL(siteUrl),
+    title: {
+      template: '%s | SPURGEON TV',
+      default: dict.home.seoTitle,
     },
-  },
-};
+    description: dict.home.seoDesc,
+    icons: {
+      icon: [
+        { url: '/icon.png', sizes: 'any' }
+      ],
+      apple: '/apple-icon.png',
+    },
+    openGraph: {
+      images: ['/opengraph-image.png'],
+    },
+    alternates: {
+      languages: {
+        'en': `${siteUrl}/en`,
+        'pt': `${siteUrl}/pt`,
+        'es': `${siteUrl}/es`,
+      }
+    }
+  };
+}
 
 export default async function RootLayout({ children, params }) {
   const { lang } = await params;

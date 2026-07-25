@@ -102,7 +102,10 @@
     "quote": {
       "text": "A Bible that is falling apart usually belongs to someone who isn't.",
       "author": "Charles Haddon Spurgeon"
-    }
+    },
+    "seoTitle": "SPURGEON TV | The Complete Sermon Collection",
+    "seoDesc": "Explore over 3,500 sermons by Charles Haddon Spurgeon — the most prolific preacher in Church history. Read, search, and study the complete collection across 63 volumes.",
+    "seoH1Addon": " — The Complete Sermon Collection"
   },
   "sermons": {
     "title": "All Sermons",
@@ -248,9 +251,20 @@
     "button": "Support on Throne ❤️",
     "otherWaysTitle": "🤝 You can also support this mission in other ways:",
     "otherWays": [
-      { "emoji": "🙏", "text": "Pray for our project, our team, and for God to guide every translation and design decision." },
-      { "emoji": "📢", "text": "Share Spurgeon TV with friends, family, and communities who hunger for deep, biblical preaching." },
-      { "emoji": "✏️", "text": "Help us improve by pointing out errors or suggestions in translations, content, or the website.", "hasLink": true, "linkText": "Send us a message" }
+      {
+        "emoji": "🙏",
+        "text": "Pray for our project, our team, and for God to guide every translation and design decision."
+      },
+      {
+        "emoji": "📢",
+        "text": "Share Spurgeon TV with friends, family, and communities who hunger for deep, biblical preaching."
+      },
+      {
+        "emoji": "✏️",
+        "text": "Help us improve by pointing out errors or suggestions in translations, content, or the website.",
+        "hasLink": true,
+        "linkText": "Send us a message"
+      }
     ]
   },
   "devotional": {

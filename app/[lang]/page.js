@@ -4,17 +4,7 @@ import SearchClient from './search-client';
 import { getDictionary } from '../../lib/dictionaries';
 import { getAllArticles } from '../../lib/articles';
 
-export const metadata = {
-  title: 'SPURGEON TV | Charles Haddon Spurgeon — The Complete Sermon Collection',
-  description: 'Explore over 3,500 sermons by Charles Haddon Spurgeon — the most prolific preacher in Church history. Read, search, and study the complete collection across 63 volumes.',
-  alternates: {
-    languages: {
-      'en': '/en',
-      'pt': '/pt',
-      'es': '/es',
-    }
-  }
-};
+
 
 export default async function HomePage({ params }) {
   const { lang } = await params;
@@ -88,6 +78,7 @@ export default async function HomePage({ params }) {
           <h1 className="home-hero-title">
             Charles Haddon
             <span className="home-hero-name">Spurgeon</span>
+            <span className="sr-only">{dict.home.seoH1Addon}</span>
           </h1>
 
           <p className="home-hero-subtitle">

@@ -84,6 +84,31 @@ export default async function ArticlePage({ params }) {
         &larr; {currentUi.back}
       </Link>
       
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "headline": data.title,
+            "image": "https://spurgeon-tv.vercel.app/icon.png",
+            "author": {
+              "@type": "Organization",
+              "name": "Spurgeon TV"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Spurgeon TV",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://spurgeon-tv.vercel.app/icon.png"
+              }
+            },
+            "description": data.description
+          })
+        }}
+      />
+
       <article className="sermon-content">
         <header style={{ marginBottom: '3rem', textAlign: 'center' }}>
           <div style={{ color: 'var(--text-muted)', fontSize: '0.9rem', marginBottom: '1rem', textTransform: 'uppercase', letterSpacing: '1px' }}>

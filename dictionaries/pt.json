@@ -102,7 +102,10 @@
     "quote": {
       "text": "Uma Bíblia que está caindo aos pedaços geralmente pertence a alguém que não está.",
       "author": "Charles Haddon Spurgeon"
-    }
+    },
+    "seoTitle": "SPURGEON TV | O Acervo Completo de Sermões",
+    "seoDesc": "Explore mais de 3.500 sermões de Charles Haddon Spurgeon — o pregador mais prolífico da história da Igreja. Leia, pesquise e estude o acervo completo em 63 volumes.",
+    "seoH1Addon": " — O Acervo Completo de Sermões"
   },
   "sermons": {
     "title": "Todos os Sermões",
@@ -248,9 +251,20 @@
     "button": "Apoiar no Throne ❤️",
     "otherWaysTitle": "🤝 Você também pode apoiar esta missão de outras formas:",
     "otherWays": [
-      { "emoji": "🙏", "text": "Ore pelo nosso projeto, pela nossa equipe e para que Deus guie cada decisão de tradução e design." },
-      { "emoji": "📢", "text": "Divulgue a Spurgeon TV para amigos, família e comunidades que têm fome de pregações bíblicas profundas." },
-      { "emoji": "✏️", "text": "Nos ajude a melhorar apontando erros ou sugestões nas traduções, no conteúdo ou no site.", "hasLink": true, "linkText": "Envie uma mensagem" }
+      {
+        "emoji": "🙏",
+        "text": "Ore pelo nosso projeto, pela nossa equipe e para que Deus guie cada decisão de tradução e design."
+      },
+      {
+        "emoji": "📢",
+        "text": "Divulgue a Spurgeon TV para amigos, família e comunidades que têm fome de pregações bíblicas profundas."
+      },
+      {
+        "emoji": "✏️",
+        "text": "Nos ajude a melhorar apontando erros ou sugestões nas traduções, no conteúdo ou no site.",
+        "hasLink": true,
+        "linkText": "Envie uma mensagem"
+      }
     ]
   },
   "devotional": {
