@@ -21,6 +21,10 @@
   --font-serif: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
 }
 
+.download-pdf-btn:hover {
+  background-color: rgba(255, 215, 0, 0.2) !important;
+}
+
 body.theme-clear {
   --background: #fdfdfc;
   --surface: #ffffff;
