@@ -46,11 +46,17 @@ export default async function DownloadPage({ params }) {
   return (
     <div className="download-page-container" style={{ maxWidth: '800px', margin: '4rem auto', padding: '0 1rem', textAlign: 'center' }}>
       <Link href={`/${lang}/volume/${id}/${sermonId}`} className="back-link" style={{ display: 'inline-block', marginBottom: '2rem', color: 'var(--gold)', textDecoration: 'none' }}>
-        ← {dict.reader?.backToVolume?.replace('{num}', volNum) || "Back to Sermon"}
+        ← {dict.download?.backToSermon || (lang === 'pt' ? 'Voltar ao Sermão' : (lang === 'es' ? 'Volver al Sermón' : 'Back to Sermon'))}
       </Link>
       
       <h1 className="title-gold" style={{ fontSize: '2rem', marginBottom: '0.5rem' }}>{dict.download?.title || "Download Sermon"}</h1>
-      <h2 style={{ fontSize: '1.2rem', fontWeight: 'normal', marginBottom: '3rem', color: 'var(--text-muted)' }}>{sermon.title}</h2>
+      <h2 style={{ fontSize: '1.2rem', fontWeight: 'normal', marginBottom: '1rem', color: 'var(--text-muted)' }}>{sermon.title}</h2>
+
+      <div style={{ backgroundColor: 'rgba(255,215,0,0.05)', border: '1px solid rgba(255,215,0,0.2)', padding: '1rem', borderRadius: '8px', maxWidth: '500px', margin: '0 auto 3rem auto' }}>
+        <p style={{ margin: 0, fontSize: '0.95rem', color: 'var(--gold)' }}>
+          <strong>Nota:</strong> {lang === 'pt' ? 'O PDF está na Versão Inglesa Atualizada (Updated English Version).' : (lang === 'es' ? 'El PDF está en la Versión Inglesa Actualizada (Updated English Version).' : 'The PDF is in the Updated English Version.')}
+        </p>
+      </div>
 
       <p style={{ marginBottom: '2rem', fontSize: '1.1rem' }}>{dict.download?.chooseServer || "Choose a server to download the PDF"}:</p>
 
