@@ -260,5 +260,14 @@
     "introTitle": "The Classic 'Morning and Evening'",
     "introText": "Written over a century ago, 'Morning and Evening' remains one of the most read and loved devotionals worldwide. Spurgeon distills the essence of the gospel into two short, profound daily messages filled with the love of Christ.",
     "backHome": "Back to Home"
+  },
+  "download": {
+    "title": "Download Sermon",
+    "chooseServer": "Choose a server to download the PDF",
+    "server1": "Download via Up-4Ever",
+    "server2": "Download via FileUpload",
+    "readOnline": "Read PDF Online (Coming Soon)",
+    "readOnlineDesc": "Powered by Cloudflare R2 / Backblaze B2",
+    "downloadPdf": "Download PDF"
   }
 }

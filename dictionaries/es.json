@@ -260,5 +260,14 @@
     "introTitle": "El Clásico 'Lecturas Matutinas y Vespertinas'",
     "introText": "Escrito hace más de un siglo, sigue siendo uno de los devocionales más leídos y amados en todo el mundo. Spurgeon destila la esencia del evangelio en dos mensajes diarios cortos, profundos y llenos del amor de Cristo.",
     "backHome": "Volver al Inicio"
+  },
+  "download": {
+    "title": "Descargar Sermón",
+    "chooseServer": "Elige un servidor para descargar el PDF",
+    "server1": "Descargar vía Up-4Ever",
+    "server2": "Descargar vía FileUpload",
+    "readOnline": "Leer PDF Online (Próximamente)",
+    "readOnlineDesc": "Desarrollado por Cloudflare R2 / Backblaze B2",
+    "downloadPdf": "Descargar PDF"
   }
 }

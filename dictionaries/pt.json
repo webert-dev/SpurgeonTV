@@ -260,5 +260,14 @@
     "introTitle": "O Clássico 'Morning and Evening'",
     "introText": "Escrito há mais de um século, 'Dia e Noite' continua sendo um dos devocionais mais lidos e amados em todo o mundo. Spurgeon destila a essência do evangelho em duas mensagens diárias curtas, profundas e repletas do amor de Cristo.",
     "backHome": "Voltar ao Início"
+  },
+  "download": {
+    "title": "Baixar Sermão",
+    "chooseServer": "Escolha um servidor para baixar o PDF",
+    "server1": "Baixar via Up-4Ever",
+    "server2": "Baixar via FileUpload",
+    "readOnline": "Ler PDF Online (Em Breve)",
+    "readOnlineDesc": "Powered by Cloudflare R2 / Backblaze B2",
+    "downloadPdf": "Baixar PDF"
   }
 }

@@ -178,7 +178,29 @@ export default async function SermonPage({ params }) {
         <header className="reader-header">
           <div className="meta">{dict.volume.title.replace('{num}', volNum)} · {dict.volume.table.sermon} {sermonNum}</div>
           <h1 className="title-gold">{sermon.title}</h1>
-          <div style={{ display: 'flex', justifyContent: 'flex-end', margin: '1rem 0' }}>
+          <div style={{ display: 'flex', justifyContent: 'flex-end', alignItems: 'center', gap: '1rem', margin: '1rem 0', flexWrap: 'wrap' }}>
+            <Link 
+              href={`/${lang}/volume/${id}/${sermonId}/download`}
+              title={dict.download?.downloadPdf || "Download PDF"}
+              style={{
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: '0.5rem',
+                backgroundColor: 'var(--gold)',
+                color: 'var(--bg)',
+                padding: '0.5rem 1rem',
+                borderRadius: '8px',
+                fontWeight: '600',
+                textDecoration: 'none',
+                fontSize: '0.85rem',
+                transition: 'opacity 0.2s',
+                border: 'none',
+                cursor: 'pointer'
+              }}
+            >
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+              {dict.download?.downloadPdf || "Download PDF"}
+            </Link>
             <TTSPlayer lang={lang} dict={dict} text={textToRead} />
           </div>
           {sermon.scripture && (
