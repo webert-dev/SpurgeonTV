@@ -2,7 +2,7 @@ import { getVolumes, getSermonsInVolume } from '../lib/sermons';
 
 export default async function sitemap() {
   // Use the canonical domain from env, fallback to vercel domain or localhost
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon-tv.vercel.app';
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv';
   const langs = ['en', 'pt', 'es'];
   
   // 1. Static Routes
@@ -75,3 +75,4 @@ export default async function sitemap() {
 
   return sitemapUrls;
 }
+
