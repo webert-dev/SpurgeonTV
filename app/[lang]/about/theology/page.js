@@ -1,5 +1,7 @@
 import Link from 'next/link';
 
+export const revalidate = false;
+
 export const metadata = {
   title: "His Theology | Charles Spurgeon",
   description: "Explore Charles Spurgeon's theological convictions, his defense of Calvinism, and his unwavering devotion to the doctrines of grace.",

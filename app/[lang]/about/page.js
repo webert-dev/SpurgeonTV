@@ -1,4 +1,6 @@
 import Link from 'next/link';
+
+export const revalidate = false;
 import AboutArticleList from '@/app/components/AboutArticleList';
 import { getAllArticles } from '@/lib/articles';
 

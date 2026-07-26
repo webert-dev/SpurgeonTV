@@ -1,5 +1,7 @@
 import Link from 'next/link';
 
+export const revalidate = false;
+
 export const metadata = {
   title: 'Terms of Service | Spurgeon TV',
   description: 'Terms of Service and Intellectual Property for SpurgeonTV.',

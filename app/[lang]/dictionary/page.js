@@ -1,4 +1,6 @@
 import DictionaryClient from './DictionaryClient';
+
+export const revalidate = false;
 import { Suspense } from 'react';
 
 export const metadata = {

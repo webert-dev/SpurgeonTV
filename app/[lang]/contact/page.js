@@ -1,5 +1,7 @@
 import ContactForm from './ContactForm';
 
+export const revalidate = false;
+
 export const metadata = {
   title: 'Contact Us | Spurgeon TV',
   description: 'Get in touch with the SpurgeonTV Evangelistic Team.',

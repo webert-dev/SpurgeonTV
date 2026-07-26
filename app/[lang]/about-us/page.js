@@ -1,5 +1,7 @@
 import Link from 'next/link';
 
+export const revalidate = false;
+
 export const metadata = {
   title: 'About Us | Spurgeon TV',
   description: 'Who we are and our mission at SpurgeonTV.',

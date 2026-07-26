@@ -1,4 +1,6 @@
 import Link from 'next/link';
+
+export const revalidate = false;
 import path from 'path';
 import { promises as fs } from 'fs';
 import { notFound } from 'next/navigation';

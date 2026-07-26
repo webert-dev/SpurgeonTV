@@ -1,4 +1,6 @@
 import Link from 'next/link';
+
+export const revalidate = false;
 import { getVolumes, getSermonsInVolume } from '../../../../lib/sermons';
 import { getMetadata } from '../../../../lib/sermon-metadata';
 import SermonInfoPanel from './SermonInfoPanel';

@@ -1,5 +1,7 @@
 import Link from 'next/link';
 
+export const revalidate = false;
+
 export const metadata = {
   title: 'Privacy Policy | Spurgeon TV',
   description: 'Privacy Policy and Data Collection information for SpurgeonTV.',

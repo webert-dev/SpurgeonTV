@@ -1,5 +1,7 @@
 import Link from 'next/link';
 
+export const revalidate = false;
+
 export const metadata = {
   title: 'Cookie Policy | Spurgeon TV',
   description: 'Cookie Policy for SpurgeonTV.',

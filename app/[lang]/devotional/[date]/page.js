@@ -1,4 +1,6 @@
 import { getDictionary } from '../../../../lib/dictionaries';
+
+export const revalidate = false;
 import DevotionalDayClient from './DevotionalDayClient';
 import fs from 'fs';
 import path from 'path';

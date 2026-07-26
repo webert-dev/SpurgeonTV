@@ -1,4 +1,6 @@
 import { getDictionary } from '../../../lib/dictionaries';
+
+export const revalidate = false;
 import '../../support.css';
 import Image from 'next/image';
 

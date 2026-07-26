@@ -1,4 +1,6 @@
 import Link from 'next/link';
+
+export const revalidate = false;
 import { getVolumes } from '../../../lib/sermons';
 import SearchClient from '../search-client';
 

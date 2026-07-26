@@ -1,4 +1,6 @@
 import BibleReader from './BibleReader';
+
+export const revalidate = false;
 import { getSearchIndex } from '../../../lib/sermons';
 import { getDictionary } from '../../../lib/dictionaries';
 import { Suspense } from 'react';

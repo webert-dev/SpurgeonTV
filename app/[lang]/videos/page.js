@@ -1,4 +1,6 @@
 import Link from 'next/link';
+
+export const revalidate = false;
 import fs from 'fs';
 import path from 'path';
 import { getDictionary } from '../../../lib/dictionaries';

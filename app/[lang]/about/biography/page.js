@@ -1,5 +1,7 @@
 import Link from 'next/link';
 
+export const revalidate = false;
+
 export default function BiographyPage() {
   return (
     <div className="container" style={{ padding: '4rem 2rem', minHeight: '80vh' }}>

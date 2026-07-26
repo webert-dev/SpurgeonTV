@@ -1,5 +1,7 @@
 import Link from 'next/link';
 
+export const revalidate = false;
+
 export const metadata = {
   title: "The Preacher & His Work | Charles Spurgeon",
   description: "Explore Charles Spurgeon's homiletics, the establishment of the Pastors' College, and his profound influence on generations of ministers.",

@@ -1,5 +1,7 @@
 import Link from 'next/link';
 
+export const revalidate = false;
+
 export const metadata = {
   title: 'Transparency | Spurgeon TV',
   description: 'How we operate, handle data, and sustain SpurgeonTV.',
