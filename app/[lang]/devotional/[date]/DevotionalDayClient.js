@@ -4,6 +4,7 @@ import { useState, useCallback } from 'react';
 import Link from 'next/link';
 import ReaderTools from '../../volume/[id]/[sermonId]/ReaderTools';
 import TTSPlayer from '../../../components/TTSPlayer';
+import CitationBox from '../../../components/CitationBox';
 
 export default function DevotionalDayClient({ lang, dict, dateStr, morningEntry, eveningEntry }) {
   const [activeTab, setActiveTab] = useState('morning');
@@ -248,6 +249,12 @@ export default function DevotionalDayClient({ lang, dict, dateStr, morningEntry,
               : '— Charles Haddon Spurgeon (1834–1892) · Public domain text'}
           </p>
         </div>
+        <CitationBox
+          type="devotional"
+          lang={lang}
+          url={typeof window !== 'undefined' ? window.location.href : ''}
+          title={activeEntry?.title || ''}
+        />
       </div>
     </>
   );

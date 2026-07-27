@@ -5,8 +5,8 @@ import fs from 'fs';
 import path from 'path';
 import { notFound } from 'next/navigation';
 import { getDictionary } from '../../../../../lib/dictionaries';
-
 import ShareButton from '../../../../components/ShareButton';
+import CitationBox from '../../../../components/CitationBox';
 
 export async function generateMetadata({ params }) {
   const { lang, videoId } = await params;
@@ -111,6 +111,14 @@ export default async function WatchVideoPage({ params }) {
             <div style={{ fontSize: '1.1rem', lineHeight: '1.8', color: 'var(--text-secondary)', whiteSpace: 'pre-wrap' }}>
               {video.description}
             </div>
+            <CitationBox
+              type="video"
+              lang={lang}
+              url={`${process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv'}/${lang}/videos/watch/${videoId}`}
+              title={video.title}
+              videoUrl={`https://www.youtube.com/watch?v=${videoId}`}
+              compact
+            />
           </div>
         )}
       </div>

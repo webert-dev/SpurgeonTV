@@ -19,6 +19,8 @@
 
   --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
   --font-serif: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
+
+  --brand-purple: #a78bfa; /* Brand Purple */
 }
 
 .download-pdf-btn:hover {
@@ -28,6 +30,7 @@
 body.theme-clear {
   --background: #fdfdfc;
   --surface: #ffffff;
+  --surface-hover: #f3f4f6;
   --text-primary: #1a1a1a;
   --text-secondary: #4a4a4a;
   --text-muted: #888888;
@@ -38,6 +41,7 @@ body.theme-clear {
 body.theme-sepia {
   --background: #f4ecd8;
   --surface: #fbf6eb;
+  --surface-hover: #f1e6d4;
   --text-primary: #433422;
   --text-secondary: #6e5c46;
   --text-muted: #998771;
@@ -98,6 +102,16 @@ h1, h2, h3, h4, h5, h6 {
    HEADER / NAV
    ========================================================= */
 .site-header {
+  /* Enforce Dark Theme on Header */
+  --background: #0f1115;
+  --surface: #1a1d24;
+  --surface-hover: #22262f;
+  --border: #2e333d;
+  --text-primary: #e6e8eb;
+  --text-secondary: #9ba1a6;
+  --text-muted: #6b7280;
+  --accent: #d4af37;
+
   border-bottom: 1px solid var(--border);
   background: rgba(15, 17, 21, 0.85);
   backdrop-filter: blur(12px);
@@ -900,14 +914,12 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background: rgba(26, 29, 36, 0.85);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  background: var(--surface);
   border: 1px solid var(--border);
   border-radius: 999px;
   padding: 0.5rem;
   z-index: 100;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
   transition: all 0.3s ease;
 }
 
@@ -2691,10 +2703,20 @@ details[open] .summary-chevron {
  *  FOOTER LINKS
  * ------------------------------------- */
 .site-footer {
+  /* Enforce Dark Theme on Footer */
+  --background: #0f1115;
+  --surface: #1a1d24;
+  --surface-hover: #22262f;
+  --border: #2e333d;
+  --text-primary: #e6e8eb;
+  --text-secondary: #9ba1a6;
+  --text-muted: #6b7280;
+  --accent: #d4af37;
+
   margin-top: 5rem;
   padding: 1.5rem 0 2rem 0;
   border-top: 1px solid var(--border);
-  background: rgba(0,0,0,0.2);
+  background: var(--background);
 }
 
 .footer-inner {
@@ -2911,3 +2933,85 @@ details[open] .summary-chevron {
   .policy-card { padding: 1.5rem; }
   .policy-title { font-size: 2rem; }
 }
+
+/* =========================================================
+   CITATION BOX
+   ========================================================= */
+.citation-box {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  background: var(--surface-hover);
+  border: 1.5px solid var(--border);
+  border-left: 5px solid var(--accent);
+  border-radius: 10px;
+  padding: 1.25rem 1.5rem;
+  margin: 2.5rem 0 1.5rem;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.88rem;
+  line-height: 1.7;
+  color: var(--text-primary);
+  transition: opacity 0.2s;
+}
+
+.citation-box__icon {
+  font-size: 1.3rem;
+  flex-shrink: 0;
+  margin-top: 0.1rem;
+}
+
+.citation-box__body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.citation-box__warning {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.citation-box__text {
+  margin: 0;
+  word-break: break-word;
+}
+
+
+@media (max-width: 600px) {
+  .citation-box {
+    flex-direction: column;
+    gap: 0.5rem;
+    padding: 1rem;
+    font-size: 0.82rem;
+  }
+}
+
+/* Compact variant — for Bible, Dictionary and Video pages */
+.citation-box--compact {
+  padding: 0.8rem 1.1rem;
+  margin: 1.5rem 0 1rem;
+  font-size: 0.78rem;
+  border-left-width: 4px;
+  border-radius: 8px;
+  gap: 0.6rem;
+}
+
+.citation-box--compact .citation-box__icon {
+  font-size: 1rem;
+}
+
+.citation-box--compact .citation-box__warning {
+  font-size: 0.73rem;
+}
+
+@media (max-width: 600px) {
+  .citation-box--compact {
+    font-size: 0.74rem;
+    padding: 0.7rem 0.9rem;
+  }
+}
+

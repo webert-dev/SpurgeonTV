@@ -2,6 +2,7 @@ import DictionaryClient from './DictionaryClient';
 
 export const revalidate = false;
 import { Suspense } from 'react';
+import CitationBox from '../../components/CitationBox';
 
 export const metadata = {
   title: 'Dictionary | Spurgeon TV',
@@ -59,6 +60,12 @@ export default async function DictionaryPage({ params }) {
       <Suspense fallback={<div>Loading Dictionary...</div>}>
         <DictionaryClient lang={lang} />
       </Suspense>
+      <CitationBox
+        type="dictionary"
+        lang={lang}
+        url={`${process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv'}/${lang}/dictionary`}
+        compact
+      />
     </div>
   );
 }

@@ -14,6 +14,7 @@ import { BibleTooltipRenderer } from '../../../../components/BibleTooltipRendere
 import { getDictionary } from '../../../../../lib/dictionaries';
 import ScriptureSettings from './ScriptureSettings';
 import TTSPlayer from '../../../../components/TTSPlayer';
+import CitationBox from '../../../../components/CitationBox';
 
 export async function generateStaticParams() {
   const langs = ['en', 'es', 'pt'];
@@ -228,6 +229,15 @@ export default async function SermonPage({ params }) {
         
         <SermonDetails meta={meta} lang={lang} dict={dict} />
         <SermonTags tags={tags} dict={dict} />
+        <CitationBox
+          type="sermon"
+          lang={lang}
+          url={`${process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv'}/${lang}/volume/${id}/${sermonId}`}
+          title={sermon.title}
+          sermonNum={sermonNum}
+          isTranslated={sermon.isTranslated}
+          isAutoTranslated={sermon.isAutoTranslated}
+        />
       </article>
 
       <BibleTooltipRenderer dict={dict} />

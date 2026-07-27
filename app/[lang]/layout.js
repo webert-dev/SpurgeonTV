@@ -2,8 +2,10 @@ import '../globals.css';
 import Link from 'next/link';
 import Script from 'next/script';
 import { BibleSettingsProvider } from '../components/BibleSettingsProvider';
+import { ThemeProvider } from '../components/ThemeProvider';
 import { getDictionary } from '../../lib/dictionaries';
 import LanguageSwitcher from '../components/LanguageSwitcher';
+import ThemeSelector from '../components/ThemeSelector';
 import CookieBanner from '../components/CookieBanner';
 import AdSenseScript from '../../components/AdSenseScript';
 
@@ -63,7 +65,8 @@ export default async function RootLayout({ children, params }) {
           `}
         </Script>
         <AdSenseScript />
-        <BibleSettingsProvider>
+        <ThemeProvider>
+          <BibleSettingsProvider>
           <header className="site-header">
             <div className="container header-container">
               <Link href={`/${lang}`} className="logo">
@@ -77,7 +80,10 @@ export default async function RootLayout({ children, params }) {
                 <Link href={`/${lang}/about`} className="nav-link">{dict.navigation.about}</Link>
                 <Link href={`/${lang}/videos`} className="nav-link">{dict.navigation.videos}</Link>
                 <Link href={`/${lang}/support`} className="nav-link support-nav-link" style={{ fontWeight: 600, color: 'var(--brand-purple)' }}>{dict.navigation.support}</Link>
-                <LanguageSwitcher currentLang={lang} />
+                <div style={{ display: 'flex', alignItems: 'center', gap: '1rem', marginLeft: '1rem' }}>
+                  <LanguageSwitcher currentLang={lang} />
+                  <ThemeSelector dict={dict} />
+                </div>
               </nav>
             </div>
           </header>
@@ -102,6 +108,9 @@ export default async function RootLayout({ children, params }) {
                 <p className="footer-text">
                   {dict.footer.copyrightText}
                 </p>
+                <div style={{ display: 'flex', justifyContent: 'center', marginTop: '1.5rem' }}>
+                  <ThemeSelector dict={dict} />
+                </div>
               </div>
               <div className="footer-links">
                 <ul>
@@ -114,7 +123,8 @@ export default async function RootLayout({ children, params }) {
             </div>
           </footer>
           <CookieBanner lang={lang} dict={dict} />
-        </BibleSettingsProvider>
+          </BibleSettingsProvider>
+        </ThemeProvider>
         <Script id="infolinks-config" strategy="afterInteractive">
           {`
             var infolinks_pid = 3446708;

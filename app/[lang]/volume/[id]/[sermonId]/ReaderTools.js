@@ -2,9 +2,11 @@
 
 import { useState, useEffect } from 'react';
 import { useBibleSettings } from '../../../../components/BibleSettingsProvider';
+import { useTheme } from '../../../../components/ThemeProvider';
 
 export default function ReaderTools({ dict }) {
   const { integrationEnabled, setIntegrationEnabled, tooltipTranslation, setTooltipTranslation } = useBibleSettings();
+  const { theme, setTheme, isLoaded } = useTheme();
   const [scrollProgress, setScrollProgress] = useState(0);
   const [fontSizeOffset, setFontSizeOffset] = useState(0); // offset levels
   const [isZenMode, setIsZenMode] = useState(false);
@@ -92,12 +94,8 @@ export default function ReaderTools({ dict }) {
             <span style={{ fontSize: '0.65rem', fontWeight: 700, letterSpacing: '0.1em', textTransform: 'uppercase', color: 'var(--text-muted)' }}>{dict ? dict.reader.tools.theme : "Theme"}</span>
             <select 
               className="toolbar-select"
-              onChange={(e) => {
-                document.body.classList.remove('theme-clear', 'theme-sepia');
-                if (e.target.value !== 'dark') {
-                  document.body.classList.add(`theme-${e.target.value}`);
-                }
-              }}
+              value={theme}
+              onChange={(e) => setTheme(e.target.value)}
               title={dict ? dict.reader.tools.theme : "Reading Theme"}
               style={{ width: '100%', marginBottom: '0.5rem' }}
             >

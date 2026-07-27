@@ -12,11 +12,8 @@ export function BibleSettingsProvider({ children }) {
   // Load from localStorage on mount
   useEffect(() => {
     try {
-      const savedEnabled = localStorage.getItem('spurgeon_bible_integration');
-      if (savedEnabled !== null) {
-        setIntegrationEnabled(savedEnabled === 'true');
-      }
-      
+      // NOTE: Bible Links toggle always starts OFF by design.
+      // We only restore the preferred Bible translation, not the toggle state.
       const savedTranslation = localStorage.getItem('spurgeon_bible_translation');
       if (savedTranslation) {
         setTooltipTranslation(savedTranslation);

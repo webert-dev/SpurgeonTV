@@ -19,13 +19,13 @@ export default function LanguageSwitcher({ currentLang }) {
   };
 
   return (
-    <div className="language-switcher" style={{ display: 'flex', alignItems: 'center', marginLeft: '1.5rem' }}>
+    <div className="language-switcher" style={{ display: 'flex', alignItems: 'center' }}>
       <select 
         value={currentLang} 
         onChange={(e) => handleLanguageChange(e.target.value)}
         style={{
           background: 'var(--surface-hover)',
-          color: 'var(--text)',
+          color: 'var(--text-primary)',
           border: '1px solid var(--border)',
           borderRadius: '4px',
           padding: '0.2rem 0.5rem',

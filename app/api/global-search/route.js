@@ -1,6 +1,10 @@
 import { NextResponse } from 'next/server';
 import videosData from '../../../lib/videosData.json';
 import sermonsData from '../../../public/search-index.json';
+import articlesIndex from '../../../lib/articles-index.json';
+import dictionaryIndex from '../../../public/data/dictionary/en/search_index.json';
+
+export const runtime = 'edge';
 
 export async function GET(request) {
   const { searchParams } = new URL(request.url);
@@ -43,8 +47,7 @@ export async function GET(request) {
       });
       
     } else if (type === 'articles') {
-      const { getAllArticles } = require('../../../lib/articles');
-      const articles = getAllArticles(lang);
+      const articles = articlesIndex[lang] || [];
       
       const filtered = articles.filter(a => a.title.toLowerCase().includes(q) || (a.desc && a.desc.toLowerCase().includes(q))).slice(0, 15);
       
@@ -57,7 +60,6 @@ export async function GET(request) {
       });
       
     } else if (type === 'dictionary') {
-      const dictionaryIndex = require('../../../public/data/dictionary/en/search_index.json');
       const filtered = dictionaryIndex.filter(d => d.name.toLowerCase().includes(q)).slice(0, 15);
       
       filtered.forEach(d => {
@@ -108,5 +110,9 @@ export async function GET(request) {
     console.error('Global search error:', error);
   }
 
-  return NextResponse.json(results);
+  return NextResponse.json(results, {
+    headers: {
+      'Cache-Control': 'public, s-maxage=86400, stale-while-revalidate=43200'
+    }
+  });
 }

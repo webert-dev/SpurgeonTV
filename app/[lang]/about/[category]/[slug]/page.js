@@ -3,6 +3,7 @@ import Link from 'next/link';
 export const revalidate = false;
 import fs from 'fs/promises';
 import path from 'path';
+import CitationBox from '../../../../components/CitationBox';
 
 // Gerar metadata dinâmico
 export async function generateMetadata({ params }) {
@@ -172,6 +173,15 @@ export default async function ArticlePage({ params }) {
               </div>
             </details>
           )}
+
+          {/* CITATION */}
+          <CitationBox
+            type="article"
+            lang={lang}
+            url={`${process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv'}/${lang}/about/${category}/${slug}`}
+            title={data.title}
+            date={data.date ? data.date.split('/').pop() || data.date : undefined}
+          />
 
           {/* PAGINATION */}
           {(data.prev?.title || data.next?.title) && (
