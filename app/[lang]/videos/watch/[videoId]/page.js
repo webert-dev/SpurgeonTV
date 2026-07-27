@@ -8,6 +8,30 @@ import { getDictionary } from '../../../../../lib/dictionaries';
 import ShareButton from '../../../../components/ShareButton';
 import CitationBox from '../../../../components/CitationBox';
 
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+  const langs = ['en', 'es', 'pt'];
+  const params = [];
+  
+  const filePath = path.join(process.cwd(), 'lib', 'videosData.json');
+  if (!fs.existsSync(filePath)) return [];
+  const fileContents = fs.readFileSync(filePath, 'utf8');
+  const data = JSON.parse(fileContents);
+
+  for (const lang of langs) {
+    for (const channel of ['pt', 'en', 'es', 'es-devocional']) {
+      if (data[channel]) {
+        for (const video of data[channel]) {
+          params.push({ lang, videoId: video.id });
+        }
+      }
+    }
+  }
+  
+  return params;
+}
+
 export async function generateMetadata({ params }) {
   const { lang, videoId } = await params;
   const video = getVideoData(videoId);

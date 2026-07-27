@@ -4,6 +4,35 @@ export const revalidate = false;
 import fs from 'fs/promises';
 import path from 'path';
 import CitationBox from '../../../../components/CitationBox';
+import fsSync from 'fs';
+
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+  const langs = ['en', 'es', 'pt'];
+  const params = [];
+  
+  const filePath = path.join(process.cwd(), 'lib', 'articles-index.json');
+  if (!fsSync.existsSync(filePath)) return [];
+  const fileContents = fsSync.readFileSync(filePath, 'utf8');
+  const data = JSON.parse(fileContents);
+
+  for (const lang of langs) {
+    if (data[lang]) {
+      for (const article of data[lang]) {
+        // href is like "/about/category/slug"
+        const parts = article.href.split('/');
+        if (parts.length >= 4) {
+          const category = parts[2];
+          const slug = parts[3];
+          params.push({ lang, category, slug });
+        }
+      }
+    }
+  }
+  
+  return params;
+}
 
 // Gerar metadata dinâmico
 export async function generateMetadata({ params }) {

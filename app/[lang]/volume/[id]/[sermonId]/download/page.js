@@ -4,8 +4,31 @@ export const revalidate = false;
 import { notFound } from 'next/navigation';
 import fs from 'fs/promises';
 import path from 'path';
-import { getSermonContent } from '../../../../../../lib/sermons';
+import { getSermonContent, getVolumes, getSermonsInVolume } from '../../../../../../lib/sermons';
 import { getDictionary } from '../../../../../../lib/dictionaries';
+
+export const dynamicParams = false;
+
+export async function generateStaticParams() {
+  const langs = ['en', 'es', 'pt'];
+  const paramSet = new Set();
+  const params = [];
+
+  for (const lang of langs) {
+    const volumes = await getVolumes(lang);
+    for (const volume of volumes) {
+      const sermons = await getSermonsInVolume(volume, lang);
+      for (const sermon of sermons) {
+        const key = `${lang}::${volume}::${sermon.slug}`;
+        if (!paramSet.has(key)) {
+          paramSet.add(key);
+          params.push({ lang, id: volume, sermonId: sermon.slug });
+        }
+      }
+    }
+  }
+  return params;
+}
 
 export async function generateMetadata({ params }) {
   const { id, sermonId, lang } = await params;

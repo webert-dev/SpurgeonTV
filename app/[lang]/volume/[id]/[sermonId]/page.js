@@ -16,6 +16,8 @@ import ScriptureSettings from './ScriptureSettings';
 import TTSPlayer from '../../../../components/TTSPlayer';
 import CitationBox from '../../../../components/CitationBox';
 
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
   const langs = ['en', 'es', 'pt'];
   const paramSet = new Set();
@@ -26,10 +28,10 @@ export async function generateStaticParams() {
     for (const volume of volumes) {
       const sermons = await getSermonsInVolume(volume, lang);
       for (const sermon of sermons) {
-        const key = `${volume}::${sermon.slug}`;
+        const key = `${lang}::${volume}::${sermon.slug}`;
         if (!paramSet.has(key)) {
           paramSet.add(key);
-          params.push({ id: volume, sermonId: sermon.slug });
+          params.push({ lang, id: volume, sermonId: sermon.slug });
         }
       }
     }

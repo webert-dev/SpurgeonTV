@@ -5,13 +5,20 @@ import path from 'path';
 import { promises as fs } from 'fs';
 import { notFound } from 'next/navigation';
 
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
-  return [
-    { category: 'biography' },
-    { category: 'controversies' },
-    { category: 'preacher' },
-    { category: 'theology' },
-  ];
+  const langs = ['en', 'es', 'pt'];
+  const categories = ['biography', 'controversies', 'preacher', 'theology'];
+  const params = [];
+  
+  for (const lang of langs) {
+    for (const category of categories) {
+      params.push({ lang, category });
+    }
+  }
+  
+  return params;
 }
 
 const categoryTitles = {

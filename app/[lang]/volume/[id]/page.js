@@ -6,6 +6,8 @@ import { getMetadata } from '../../../../lib/sermon-metadata';
 import SermonInfoPanel from './SermonInfoPanel';
 import { getDictionary } from '../../../../lib/dictionaries';
 
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
   const langs = ['en', 'es', 'pt'];
   const paramSet = new Set();
@@ -16,13 +18,11 @@ export async function generateStaticParams() {
       const key = `${lang}::${volume}`;
       if (!paramSet.has(key)) {
         paramSet.add(key);
-        params.push({ id: volume });
+        params.push({ lang, id: volume });
       }
     }
   }
-  // Deduplicate by volume id
-  const seen = new Set();
-  return params.filter(p => { if (seen.has(p.id)) return false; seen.add(p.id); return true; });
+  return params;
 }
 
 export default async function VolumePage({ params }) {
