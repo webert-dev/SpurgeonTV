@@ -1,9 +1,9 @@
 import { NextResponse } from 'next/server';
-import fs from 'fs';
-import path from 'path';
+
+export const runtime = 'edge';
 
 export async function GET(request) {
-  const { searchParams } = new URL(request.url);
+  const { searchParams, origin } = new URL(request.url);
   const q = searchParams.get('q');
   const lang = searchParams.get('lang') || 'en';
 
@@ -12,19 +12,15 @@ export async function GET(request) {
   }
 
   try {
-    const indexPath = path.join(process.cwd(), 'public', 'data', 'dictionary', lang, 'search_index.json');
+    let res = await fetch(`${origin}/data/dictionary/${lang}/search_index.json`);
     
-    let indexData;
-    try {
-      indexData = await fs.promises.readFile(indexPath, 'utf-8');
-    } catch {
+    if (!res.ok) {
       // Fallback to English if translation is missing/incomplete
-      const fallbackPath = path.join(process.cwd(), 'public', 'data', 'dictionary', 'en', 'search_index.json');
-      indexData = await fs.promises.readFile(fallbackPath, 'utf-8');
+      res = await fetch(`${origin}/data/dictionary/en/search_index.json`);
+      if (!res.ok) throw new Error(`Search index not found (status ${res.status})`);
     }
     
-    const index = JSON.parse(indexData);
-
+    const index = await res.json();
     const query = q.toLowerCase();
     
     // Simple filter: starts with or includes
@@ -43,7 +39,7 @@ export async function GET(request) {
 
     return NextResponse.json(results);
   } catch (error) {
-    console.error('Error searching dictionary:', error);
+    console.error('Error fetching dictionary search:', error);
     return NextResponse.json({ error: 'Failed to search dictionary' }, { status: 500 });
   }
 }

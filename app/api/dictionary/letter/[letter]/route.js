@@ -1,10 +1,10 @@
 import { NextResponse } from 'next/server';
-import fs from 'fs';
-import path from 'path';
+
+export const runtime = 'edge';
 
 export async function GET(request, { params }) {
   const { letter } = await params;
-  const { searchParams } = new URL(request.url);
+  const { searchParams, origin } = new URL(request.url);
   const lang = searchParams.get('lang') || 'en';
 
   if (!letter || letter.length !== 1) {
@@ -13,21 +13,19 @@ export async function GET(request, { params }) {
 
   try {
     const safeLetter = letter.toLowerCase();
-    const filePath = path.join(process.cwd(), 'public', 'data', 'dictionary', lang, `${safeLetter}.json`);
+    const res = await fetch(`${origin}/data/dictionary/${lang}/${safeLetter}.json`);
     
-    // Check if file exists
-    try {
-      await fs.promises.access(filePath);
-    } catch {
-      return NextResponse.json({ error: 'Letter not found' }, { status: 404 });
+    if (!res.ok) {
+      if (res.status === 404) {
+        return NextResponse.json({ error: 'Letter not found' }, { status: 404 });
+      }
+      throw new Error(`Fetch failed with status ${res.status}`);
     }
 
-    const fileData = await fs.promises.readFile(filePath, 'utf-8');
-    const data = JSON.parse(fileData);
-
+    const data = await res.json();
     return NextResponse.json(data);
   } catch (error) {
-    console.error(`Error reading dictionary letter ${letter}:`, error);
+    console.error(`Error fetching dictionary letter ${letter}:`, error);
     return NextResponse.json({ error: 'Failed to read dictionary data' }, { status: 500 });
   }
 }
