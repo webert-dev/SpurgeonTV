@@ -28,10 +28,12 @@ export async function generateStaticParams() {
     for (const volume of volumes) {
       const sermons = await getSermonsInVolume(volume, lang);
       for (const sermon of sermons) {
-        const key = `${lang}::${volume}::${sermon.slug}`;
-        if (!paramSet.has(key)) {
-          paramSet.add(key);
-          params.push({ lang, id: volume, sermonId: sermon.slug });
+        if (lang === 'en' || sermon.isTranslated) {
+          const key = `${lang}::${volume}::${sermon.slug}`;
+          if (!paramSet.has(key)) {
+            paramSet.add(key);
+            params.push({ lang, id: volume, sermonId: sermon.slug });
+          }
         }
       }
     }
@@ -185,7 +187,7 @@ export default async function SermonPage({ params }) {
           <h1 className="title-gold">{sermon.title}</h1>
           <div style={{ display: 'flex', justifyContent: 'flex-end', alignItems: 'center', gap: '1rem', margin: '1rem 0', flexWrap: 'wrap' }}>
             <Link 
-              href={`/${lang}/volume/${id}/${sermonId}/download`}
+              href={`/${lang}/download?volume=${id}&sermon=${sermonId}&title=${encodeURIComponent(sermon.title)}`}
               title={dict.download?.downloadPdf || "Download PDF"}
               className="download-pdf-btn"
               style={{

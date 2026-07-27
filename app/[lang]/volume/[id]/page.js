@@ -61,10 +61,11 @@ export default async function VolumePage({ params }) {
             meta.volumeId = id;
             meta.sermonSlug = sermon.slug;
           }
+          const targetLang = (lang !== 'en' && !sermon.isTranslated) ? 'en' : lang;
           
           return (
             <div key={sermon.slug} className="sermon-list-entry">
-              <Link href={`/${lang}/volume/${id}/${sermon.slug}`}>
+              <Link href={`/${targetLang}/volume/${id}/${sermon.slug}`}>
                 <div className="sermon-item">
                   <div className="sermon-number">#{num}</div>
                   <div className="sermon-item-content">
