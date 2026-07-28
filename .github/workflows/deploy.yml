@@ -47,28 +47,33 @@ jobs:
           echo "=== Root of .open-next ==="
           ls -la .open-next/ 2>/dev/null || echo "ERROR: .open-next NOT FOUND!"
           echo ""
-          echo "=== Flattening assets into .open-next ==="
-          cp -r .open-next/assets/* .open-next/
-          if test -f .open-next/worker.js; then
-            mv .open-next/worker.js .open-next/_worker.js
-            echo "worker.js RENAMED to _worker.js"
-          else
-            echo "worker.js NOT FOUND"
-          fi
-          echo ""
+          
           echo "=== Removing cache and internal files that exceed Cloudflare Pages limits ==="
           rm -rf .open-next/cloudflare/cache-assets-manifest.sql
           rm -rf .open-next/dynamodb-provider/
           find .open-next -type f -size +24M -exec rm -f {} \;
           echo "Removed massive cache files to prevent 25 MiB upload limit error."
           echo ""
-          echo "=== New .open-next directory ==="
-          ls -la .open-next/ 2>/dev/null | head -30
+
+          echo "=== Moving backend files into assets folder ==="
+          # Move worker.js to assets/_worker.js so it acts as Cloudflare Pages Function
+          if test -f .open-next/worker.js; then
+            mv .open-next/worker.js .open-next/assets/_worker.js
+            echo "worker.js MOVED to assets/_worker.js"
+          fi
+          
+          # Move required backend directories into assets so _worker.js can import them
+          mv .open-next/cloudflare .open-next/assets/ 2>/dev/null || true
+          mv .open-next/server-functions .open-next/assets/ 2>/dev/null || true
+          mv .open-next/middleware .open-next/assets/ 2>/dev/null || true
+          
+          echo "=== New .open-next/assets directory ==="
+          ls -la .open-next/assets/ 2>/dev/null | head -30
 
       - name: Publish to Cloudflare
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: |
-          npx wrangler pages deploy .open-next --project-name=spurgeontv --branch=main --commit-dirty=true
+          npx wrangler pages deploy .open-next/assets --project-name=spurgeontv --branch=main --commit-dirty=true
 
