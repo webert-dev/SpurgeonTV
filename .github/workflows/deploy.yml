@@ -56,9 +56,11 @@ jobs:
             echo "worker.js NOT FOUND"
           fi
           echo ""
-          echo "=== Removing files that exceed Cloudflare Pages limits ==="
-          rm -f .open-next/cloudflare/cache-assets-manifest.sql
-          echo "Removed cache-assets-manifest.sql to prevent 25 MiB upload limit error."
+          echo "=== Removing cache and internal files that exceed Cloudflare Pages limits ==="
+          rm -rf .open-next/cloudflare/cache-assets-manifest.sql
+          rm -rf .open-next/dynamodb-provider/
+          find .open-next -type f -size +24M -exec rm -f {} \;
+          echo "Removed massive cache files to prevent 25 MiB upload limit error."
           echo ""
           echo "=== New .open-next directory ==="
           ls -la .open-next/ 2>/dev/null | head -30
