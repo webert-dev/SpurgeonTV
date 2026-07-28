@@ -33,10 +33,36 @@ jobs:
           NODE_OPTIONS: --max_old_space_size=8192
         run: npm run build:cf
 
+      - name: Diagnose build output
+        run: |
+          echo "=== Root of .vercel/output/static ==="
+          ls -la .vercel/output/static/ 2>/dev/null || echo "ERROR: .vercel/output/static NOT FOUND!"
+          echo ""
+          echo "=== _worker.js check ==="
+          if test -f .vercel/output/static/_worker.js; then
+            echo "_worker.js FOUND (size: $(wc -c < .vercel/output/static/_worker.js) bytes)"
+          else
+            echo "_worker.js NOT FOUND"
+          fi
+          echo ""
+          echo "=== _routes.json check ==="
+          if test -f .vercel/output/static/_routes.json; then
+            echo "_routes.json FOUND:"
+            cat .vercel/output/static/_routes.json
+          else
+            echo "_routes.json NOT FOUND"
+          fi
+          echo ""
+          echo "=== HTML files generated ==="
+          find .vercel/output/static -name "*.html" 2>/dev/null | head -20
+          echo ""
+          echo "=== Directory structure ==="
+          find .vercel/output/static -maxdepth 2 -type d 2>/dev/null | head -30
+
       - name: Publish to Cloudflare
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: |
           npx wrangler pages project create spurgeontv --production-branch main || true
-          npx wrangler pages deploy .vercel/output/static --project-name=spurgeontv --branch=main
+          npx wrangler pages deploy .vercel/output/static --project-name=spurgeontv --branch=main --commit-dirty=true
