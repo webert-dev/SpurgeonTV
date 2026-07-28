@@ -8,28 +8,12 @@ import { getDictionary } from '../../../../../lib/dictionaries';
 import ShareButton from '../../../../components/ShareButton';
 import CitationBox from '../../../../components/CitationBox';
 
-export const dynamicParams = false;
+export const dynamicParams = true;
 
 export function generateStaticParams() {
-  const langs = ['en', 'es', 'pt'];
-  const params = [];
-  
-  const filePath = path.join(process.cwd(), 'lib', 'videosData.json');
-  if (!fs.existsSync(filePath)) return [];
-  const fileContents = fs.readFileSync(filePath, 'utf8');
-  const data = JSON.parse(fileContents);
-
-  for (const lang of langs) {
-    for (const channel of ['pt', 'en', 'es', 'es-devocional']) {
-      if (data[channel]) {
-        for (const video of data[channel]) {
-          params.push({ lang, videoId: video.id });
-        }
-      }
-    }
-  }
-  
-  return params;
+  // Retorna array vazio para não pré-renderizar nenhum vídeo e evitar estourar o limite de 20k arquivos da Cloudflare.
+  // Os vídeos serão gerados sob demanda (SSR) porque dynamicParams = true.
+  return [];
 }
 
 export async function generateMetadata({ params }) {
