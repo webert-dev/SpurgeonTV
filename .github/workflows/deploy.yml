@@ -42,14 +42,15 @@ jobs:
       - name: Build project
         run: npm run build:cf
 
-      - name: Diagnose build output
+      - name: Prepare worker for Cloudflare Pages
         run: |
           echo "=== Root of .open-next ==="
           ls -la .open-next/ 2>/dev/null || echo "ERROR: .open-next NOT FOUND!"
           echo ""
-          echo "=== worker.js check ==="
+          echo "=== Moving worker.js to assets/_worker.js ==="
           if test -f .open-next/worker.js; then
-            echo "worker.js FOUND (size: $(wc -c < .open-next/worker.js) bytes)"
+            mv .open-next/worker.js .open-next/assets/_worker.js
+            echo "worker.js MOVED to .open-next/assets/_worker.js"
           else
             echo "worker.js NOT FOUND"
           fi
