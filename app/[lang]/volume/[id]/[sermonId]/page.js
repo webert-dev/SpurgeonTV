@@ -16,7 +16,7 @@ import ScriptureSettings from './ScriptureSettings';
 import TTSPlayer from '../../../../components/TTSPlayer';
 import CitationBox from '../../../../components/CitationBox';
 
-export const dynamicParams = false;
+
 
 export async function generateStaticParams() {
   const langs = ['en', 'es', 'pt'];

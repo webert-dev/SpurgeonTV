@@ -7,7 +7,7 @@ import path from 'path';
 import { getSermonContent, getVolumes, getSermonsInVolume } from '../../../../../../lib/sermons';
 import { getDictionary } from '../../../../../../lib/dictionaries';
 
-export const dynamicParams = false;
+
 
 export async function generateStaticParams() {
   const langs = ['en', 'es', 'pt'];
