@@ -19,11 +19,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Build project
-        env:
-          NODE_OPTIONS: --max_old_space_size=8192
-        run: npm run build:cf
-
       - name: Debug Cloudflare Auth
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
@@ -31,7 +26,14 @@ jobs:
         run: |
           npx wrangler whoami
           npx wrangler pages project list
-          
+
+      - name: Build project
+        env:
+          NODE_OPTIONS: --max_old_space_size=8192
+        run: npm run build:cf
+          NODE_OPTIONS: --max_old_space_size=8192
+        run: npm run build:cf
+
       - name: Publish to Cloudflare
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
