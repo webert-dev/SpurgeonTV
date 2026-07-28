@@ -63,7 +63,7 @@ export default async function DictionaryPage({ params }) {
       <CitationBox
         type="dictionary"
         lang={lang}
-        url={`${process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv'}/${lang}/dictionary`}
+        url={`${process.env.NEXT_PUBLIC_SITE_URL || 'https://www.spurgeon.tv'}/${lang}/dictionary`}
         compact
       />
     </div>

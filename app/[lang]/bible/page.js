@@ -77,7 +77,7 @@ export default async function BiblePage({ params }) {
       <CitationBox
         type="bible"
         lang={lang}
-        url={`${process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv'}/${lang}/bible`}
+        url={`${process.env.NEXT_PUBLIC_SITE_URL || 'https://www.spurgeon.tv'}/${lang}/bible`}
         compact
       />
     </div>

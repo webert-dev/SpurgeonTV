@@ -207,7 +207,7 @@ export default async function ArticlePage({ params }) {
           <CitationBox
             type="article"
             lang={lang}
-            url={`${process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv'}/${lang}/about/${category}/${slug}`}
+            url={`${process.env.NEXT_PUBLIC_SITE_URL || 'https://www.spurgeon.tv'}/${lang}/about/${category}/${slug}`}
             title={data.title}
             date={data.date ? data.date.split('/').pop() || data.date : undefined}
           />

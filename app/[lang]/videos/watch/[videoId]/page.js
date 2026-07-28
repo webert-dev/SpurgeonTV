@@ -138,7 +138,7 @@ export default async function WatchVideoPage({ params }) {
             <CitationBox
               type="video"
               lang={lang}
-              url={`${process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv'}/${lang}/videos/watch/${videoId}`}
+              url={`${process.env.NEXT_PUBLIC_SITE_URL || 'https://www.spurgeon.tv'}/${lang}/videos/watch/${videoId}`}
               title={video.title}
               videoUrl={`https://www.youtube.com/watch?v=${videoId}`}
               compact

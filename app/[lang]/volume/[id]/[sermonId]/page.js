@@ -64,7 +64,7 @@ export async function generateMetadata({ params }) {
     ? `${sermon.scripture.reference} — ${excerpt}`
     : excerpt || `Read Sermon ${sermonNum} from Volume ${volNum} by Charles H. Spurgeon.`;
 
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon-tv.vercel.app';
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.spurgeon.tv';
   const url = `${siteUrl}/${lang}/volume/${id}/${sermonId}`;
 
   const languages = {};
@@ -236,7 +236,7 @@ export default async function SermonPage({ params }) {
         <CitationBox
           type="sermon"
           lang={lang}
-          url={`${process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv'}/${lang}/volume/${id}/${sermonId}`}
+          url={`${process.env.NEXT_PUBLIC_SITE_URL || 'https://www.spurgeon.tv'}/${lang}/volume/${id}/${sermonId}`}
           title={sermon.title}
           sermonNum={sermonNum}
           isTranslated={sermon.isTranslated}

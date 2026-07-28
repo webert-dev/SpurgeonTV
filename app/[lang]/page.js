@@ -8,6 +8,16 @@ import { getAllArticles } from '../../lib/articles';
 
 
 
+export async function generateMetadata({ params }) {
+  const { lang } = await params;
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.spurgeon.tv';
+  return {
+    alternates: {
+      canonical: `${siteUrl}/${lang}`,
+    }
+  };
+}
+
 export default async function HomePage({ params }) {
   const { lang } = await params;
   const dict = await getDictionary(lang);

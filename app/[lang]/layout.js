@@ -16,7 +16,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }) {
   const { lang } = await params;
   const dict = await getDictionary(lang);
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon-tv.vercel.app';
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.spurgeon.tv';
 
   return {
     metadataBase: new URL(siteUrl),

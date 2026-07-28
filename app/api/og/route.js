@@ -17,7 +17,7 @@ export async function GET(request) {
       reference = `Sermon ${sermonNum} • Volume ${volume}`;
     }
 
-    const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv';
+    const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.spurgeon.tv';
     
     // Fetch local image as ArrayBuffer to avoid HTTP network latency
     // This bundles the image directly into the Edge function
