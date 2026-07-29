@@ -34,12 +34,10 @@ export async function generateMetadata({ params }) {
 
 const VIDEOS_PER_PAGE = 24;
 
+import videosData from '../../../../lib/videosData.json';
+
 function getVideosData(channelId) {
-  const filePath = path.join(process.cwd(), 'lib', 'videosData.json');
-  if (!fs.existsSync(filePath)) return [];
-  const fileContents = fs.readFileSync(filePath, 'utf8');
-  const data = JSON.parse(fileContents);
-  return data[channelId] || [];
+  return videosData[channelId] || [];
 }
 
 export default async function ChannelVideosPage({ params, searchParams }) {

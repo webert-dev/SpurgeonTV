@@ -15,12 +15,12 @@ export async function generateMetadata({ params }) {
   };
 }
 
-// We will read the local json directly on the server
+import videosData from '../../../lib/videosData.json';
+
+// We import the local json directly so it is bundled by Webpack/Turbopack
+// and works in Cloudflare Workers without relying on fs.
 function getVideosData() {
-  const filePath = path.join(process.cwd(), 'lib', 'videosData.json');
-  if (!fs.existsSync(filePath)) return { pt: [], en: [], es: [] };
-  const fileContents = fs.readFileSync(filePath, 'utf8');
-  return JSON.parse(fileContents);
+  return videosData || { pt: [], en: [], es: [] };
 }
 
 export default async function VideosHubPage({ params }) {

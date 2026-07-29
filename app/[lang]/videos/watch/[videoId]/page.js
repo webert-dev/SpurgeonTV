@@ -33,14 +33,11 @@ export async function generateMetadata({ params }) {
   };
 }
 
+import videosData from '../../../../../lib/videosData.json';
+
 function getVideoData(videoId) {
-  const filePath = path.join(process.cwd(), 'lib', 'videosData.json');
-  if (!fs.existsSync(filePath)) return null;
-  const fileContents = fs.readFileSync(filePath, 'utf8');
-  const data = JSON.parse(fileContents);
-  
   for (const channel of ['pt', 'en', 'es']) {
-    const found = data[channel].find(v => v.id === videoId);
+    const found = videosData[channel]?.find(v => v.id === videoId);
     if (found) {
       return { ...found, channelId: channel };
     }

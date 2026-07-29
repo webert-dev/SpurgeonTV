@@ -69,10 +69,15 @@ jobs:
             ],
             "exclude": [
               "/_next/*",
+              "/bibles/*",
+              "/data/*",
+              "/search-index.json",
               "/favicon.ico",
               "/icon.png",
               "/apple-icon.png",
-              "/opengraph-image.png"
+              "/opengraph-image.png",
+              "/*.svg",
+              "/*.png"
             ]
           }
           EOF
