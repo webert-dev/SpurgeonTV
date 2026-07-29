@@ -60,6 +60,24 @@ jobs:
           # so Cloudflare Pages serves them from the correct URL paths.
           cp -r .open-next/assets/* .open-next/
           
+          echo "=== Criando _routes.json para corrigir o roteamento estático ==="
+          cat << 'EOF' > .open-next/_routes.json
+          {
+            "version": 1,
+            "include": [
+              "/*"
+            ],
+            "exclude": [
+              "/_next/*",
+              "/favicon.ico",
+              "/icon.png",
+              "/apple-icon.png",
+              "/opengraph-image.png"
+            ]
+          }
+          EOF
+          echo "_routes.json gerado com sucesso!"
+          
           # Rename worker to act as Cloudflare Pages Function
           if test -f .open-next/worker.js; then
             mv .open-next/worker.js .open-next/_worker.js
