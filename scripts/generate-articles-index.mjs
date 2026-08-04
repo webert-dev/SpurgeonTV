@@ -75,5 +75,6 @@ for (const lang of langs) {
 
 fs.mkdirSync(path.join(ROOT, 'lib'), { recursive: true });
 fs.writeFileSync(path.join(ROOT, 'lib', 'articles-index.json'), JSON.stringify(articlesIndex, null, 2));
+fs.writeFileSync(path.join(ROOT, 'public', 'articles-index.json'), JSON.stringify(articlesIndex));
 
 console.log('✅ Generated lib/articles-index.json');

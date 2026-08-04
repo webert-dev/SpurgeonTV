@@ -42,60 +42,10 @@ jobs:
       - name: Build project
         run: npm run build:cf
 
-      - name: Prepare Cloudflare Pages structure
-        run: |
-          echo "=== Root of .open-next ==="
-          ls -la .open-next/ 2>/dev/null || echo "ERROR: .open-next NOT FOUND!"
-          echo ""
-          
-          echo "=== Removing cache and internal files that exceed Cloudflare Pages limits ==="
-          rm -rf .open-next/cloudflare/cache-assets-manifest.sql
-          rm -rf .open-next/dynamodb-provider/
-          find .open-next -type f -size +24M -exec rm -f {} \;
-          echo "Removed massive cache files to prevent 25 MiB upload limit error."
-          echo ""
-
-          echo "=== Flattening assets into .open-next ==="
-          # This copies all static assets (like _next, favicon) to the root
-          # so Cloudflare Pages serves them from the correct URL paths.
-          cp -r .open-next/assets/* .open-next/
-          
-          echo "=== Criando _routes.json para corrigir o roteamento estático ==="
-          cat << 'EOF' > .open-next/_routes.json
-          {
-            "version": 1,
-            "include": [
-              "/*"
-            ],
-            "exclude": [
-              "/_next/*",
-              "/bibles/*",
-              "/data/*",
-              "/search-index.json",
-              "/favicon.ico",
-              "/icon.png",
-              "/apple-icon.png",
-              "/opengraph-image.png",
-              "/*.svg",
-              "/*.png"
-            ]
-          }
-          EOF
-          echo "_routes.json gerado com sucesso!"
-          
-          # Rename worker to act as Cloudflare Pages Function
-          if test -f .open-next/worker.js; then
-            mv .open-next/worker.js .open-next/_worker.js
-            echo "worker.js RENAMED to _worker.js"
-          fi
-          
-          echo "=== New .open-next directory ==="
-          ls -la .open-next/ 2>/dev/null | head -30
-
       - name: Publish to Cloudflare
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: |
-          npx wrangler pages deploy .open-next --project-name=spurgeontv --branch=main --commit-dirty=true
+          npx wrangler pages deploy out --project-name=spurgeontv --branch=main --commit-dirty=true
 
