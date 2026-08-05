@@ -1,5 +1,7 @@
 import { getVolumes, getSermonsInVolume } from '../lib/sermons';
 
+export const dynamic = 'force-static';
+
 export default async function sitemap() {
   // Use the canonical domain from env, fallback to vercel domain or localhost
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.spurgeon.tv';
