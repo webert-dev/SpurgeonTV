@@ -72,6 +72,7 @@ export default async function RootLayout({ children, params }) {
         <AdSenseScript />
         <ThemeProvider>
           <BibleSettingsProvider>
+            <CopyAppendURL lang={lang} />
           <header className="site-header">
             <div className="container header-container">
               <Link href={`/${lang}`} className="logo">

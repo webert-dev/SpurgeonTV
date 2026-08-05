@@ -111,19 +111,6 @@ export default function DevotionalDayClient({ lang, dict, dateStr, morningEntry,
         .dev-nav-arrows { display: flex; justify-content: space-between; margin-top: 1.5rem; gap: 1rem; }
         .dev-nav-btn { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 0.6rem 1.25rem; cursor: pointer; color: var(--text-secondary); font-size: 0.9rem; font-weight: 500; transition: all 0.2s; display: flex; align-items: center; gap: 0.4rem; flex: 1; justify-content: center; text-decoration: none; }
         .dev-nav-btn:hover { border-color: var(--brand-gold); color: var(--brand-gold); }
-        .dev-share-large {
-          width: 100%;
-          max-width: 400px;
-          padding: 1.2rem;
-          border-radius: 12px;
-          background: rgba(212,175,55,0.08);
-          border: 1px solid var(--brand-gold);
-          color: var(--brand-gold);
-          font-size: 1.1rem;
-        }
-        .dev-share-large:hover {
-          background: rgba(212,175,55,0.15);
-        }
       `}</style>
 
       <div className="dev-container">

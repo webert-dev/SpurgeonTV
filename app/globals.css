@@ -407,6 +407,24 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* =========================================================
+   SHARE BUTTON
+   ========================================================= */
+.dev-share-large {
+  width: 100%;
+  max-width: 400px;
+  padding: 1.2rem;
+  border-radius: 12px;
+  background: rgba(212,175,55,0.08);
+  border: 1px solid var(--brand-gold);
+  color: var(--brand-gold);
+  font-size: 1.1rem;
+  transition: background 0.2s;
+}
+.dev-share-large:hover {
+  background: rgba(212,175,55,0.15);
+}
+
+/* =========================================================
    QUOTE BANNER
    ========================================================= */
 .quote-banner {
