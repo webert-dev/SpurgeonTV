@@ -17,7 +17,7 @@ function getLocale(request) {
   return defaultLocale;
 }
 
-export function middleware(request) {
+export function proxy(request) {
   const { pathname } = request.nextUrl;
   
   // Ignore static files, images, api, search-index
