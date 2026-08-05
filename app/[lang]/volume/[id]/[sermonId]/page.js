@@ -15,31 +15,15 @@ import { getDictionary } from '../../../../../lib/dictionaries';
 import ScriptureSettings from './ScriptureSettings';
 import TTSPlayer from '../../../../components/TTSPlayer';
 import CitationBox from '../../../../components/CitationBox';
+import ShareButton from '../../../../components/ShareButton';
 
-
+export const dynamicParams = true;
 
 export async function generateStaticParams() {
-  const langs = ['en', 'es', 'pt'];
-  const paramSet = new Set();
-  const params = [];
-
-  for (const lang of langs) {
-    const volumes = await getVolumes(lang);
-    for (const volume of volumes) {
-      const sermons = await getSermonsInVolume(volume, lang);
-      for (const sermon of sermons) {
-        if (lang === 'en' || sermon.isTranslated) {
-          const key = `${lang}::${volume}::${sermon.slug}`;
-          if (!paramSet.has(key)) {
-            paramSet.add(key);
-            params.push({ lang, id: volume, sermonId: sermon.slug });
-          }
-        }
-      }
-    }
-  }
-  return params;
+  return [];
 }
+
+
 
 export async function generateMetadata({ params }) {
   const { id, sermonId, lang } = await params;
@@ -210,6 +194,10 @@ export default async function SermonPage({ params }) {
               {dict.download?.downloadPdf || "Download PDF"}
             </Link>
             <TTSPlayer lang={lang} dict={dict} text={textToRead} />
+            <ShareButton 
+              title={sermon.title}
+              text={lang === 'pt' ? 'Leia este sermão poderoso no Spurgeon.tv' : lang === 'es' ? 'Lee este sermón en Spurgeon.tv' : 'Read this sermon on Spurgeon.tv'}
+            />
           </div>
           {sermon.scripture && (
             <div className="reader-scripture">
@@ -242,6 +230,14 @@ export default async function SermonPage({ params }) {
           isTranslated={sermon.isTranslated}
           isAutoTranslated={sermon.isAutoTranslated}
         />
+
+        <div style={{ marginTop: '2.5rem', marginBottom: '2.5rem', display: 'flex', justifyContent: 'center' }}>
+          <ShareButton 
+            className="dev-share-large"
+            title={sermon.title}
+            text={lang === 'pt' ? 'Leia este sermão no Spurgeon.tv' : lang === 'es' ? 'Lee este sermón en Spurgeon.tv' : 'Read this sermon on Spurgeon.tv'}
+          />
+        </div>
       </article>
 
       <BibleTooltipRenderer dict={dict} />

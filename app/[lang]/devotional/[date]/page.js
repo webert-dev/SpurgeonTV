@@ -5,11 +5,8 @@ export const dynamicParams = false;
 import DevotionalDayClient from './DevotionalDayClient';
 import enDevo from '../../../../public/data/morning-and-evening.json';
 
-// We optionally load other languages, but for Next.js static export we can just import them safely.
-let ptDevo = null;
-let esDevo = null;
-try { ptDevo = require('../../../../public/data/morning-and-evening-pt.json'); } catch(e){}
-try { esDevo = require('../../../../public/data/morning-and-evening-es.json'); } catch(e){}
+import ptDevo from '../../../../public/data/morning-and-evening-pt.json';
+import esDevo from '../../../../public/data/morning-and-evening-es.json';
 
 const devos = { en: enDevo, pt: ptDevo, es: esDevo };
 

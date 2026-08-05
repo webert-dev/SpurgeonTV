@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { BIBLE_BOOKS } from '../../../lib/bible-books';
+import ShareButton from '../../components/ShareButton';
 
 export default function BibleReader({ lang, sermons = [], dict }) {
   const searchParams = useSearchParams();
@@ -154,7 +155,13 @@ export default function BibleReader({ lang, sermons = [], dict }) {
         
         {!loading && !error && (
           <div className="bible-verses">
-            <h2 className="bible-chapter-title">{localizedBookName} {selectedChapter}</h2>
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.5rem', flexWrap: 'wrap', gap: '1rem' }}>
+              <h2 className="bible-chapter-title" style={{ margin: 0 }}>{localizedBookName} {selectedChapter}</h2>
+              <ShareButton 
+                title={`Bíblia - ${localizedBookName} ${selectedChapter}`}
+                text={lang === 'pt' ? 'Leia este capítulo da Bíblia no Spurgeon.tv' : lang === 'es' ? 'Lee este capítulo de la Biblia en Spurgeon.tv' : 'Read this Bible chapter on Spurgeon.tv'}
+              />
+            </div>
             
             {verses.length === 0 ? (
               <p className="bible-verse" style={{ fontStyle: 'italic', opacity: 0.7, textAlign: 'center', marginTop: '2rem' }}>
@@ -168,6 +175,16 @@ export default function BibleReader({ lang, sermons = [], dict }) {
                   <sup className="bible-verse-num">{i + 1}</sup> {text}
                 </p>
               ))
+            )}
+            
+            {!loading && !error && verses.length > 0 && (
+              <div style={{ marginTop: '3rem', marginBottom: '1.5rem', display: 'flex', justifyContent: 'center' }}>
+                <ShareButton 
+                  className="dev-share-large"
+                  title={`Bíblia - ${localizedBookName} ${selectedChapter}`}
+                  text={lang === 'pt' ? 'Leia este capítulo da Bíblia no Spurgeon.tv' : lang === 'es' ? 'Lee este capítulo de la Biblia en Spurgeon.tv' : 'Read this Bible chapter on Spurgeon.tv'}
+                />
+              </div>
             )}
           </div>
         )}

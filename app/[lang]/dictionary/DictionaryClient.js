@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { useSearchParams } from 'next/navigation';
 import '../../dictionary.css';
 
@@ -13,6 +13,7 @@ export default function DictionaryClient({ lang }) {
   const [selectedWord, setSelectedWord] = useState(null);
   const [isLoading, setIsLoading] = useState(false);
   const [isSearching, setIsSearching] = useState(!!initialQuery);
+  const searchIndexRef = useRef(null);
 
   const alphabet = Array.from('abcdefghijklmnopqrstuvwxyz');
 
@@ -23,7 +24,7 @@ export default function DictionaryClient({ lang }) {
     async function fetchLetter() {
       setIsLoading(true);
       try {
-        const res = await fetch(`/api/dictionary/letter/${currentLetter}?lang=${lang}`);
+        const res = await fetch(`/data/dictionary/${lang}/${currentLetter}.json`);
         if (res.ok) {
           const data = await res.json();
           // Data is an object { "A": { name: "A", definitions: [...] }, "Aaron": ... }
@@ -60,17 +61,35 @@ export default function DictionaryClient({ lang }) {
       setIsSearching(true);
       setIsLoading(true);
       try {
-        const res = await fetch(`/api/dictionary/search?q=${encodeURIComponent(query)}&lang=${lang}`);
-        if (res.ok) {
-          const searchResults = await res.json();
-          // searchResults only has { name, slug, letter }
-          // we need to fetch the full details for the first one
-          setWords(searchResults);
-          if (searchResults.length > 0) {
-            fetchWordDetails(searchResults[0].slug, searchResults[0].letter);
-          } else {
-            setSelectedWord(null);
+        if (!searchIndexRef.current) {
+          let res = await fetch(`/data/dictionary/${lang}/search_index.json`);
+          if (!res.ok) {
+            res = await fetch(`/data/dictionary/en/search_index.json`);
           }
+          if (res.ok) {
+            searchIndexRef.current = await res.json();
+          } else {
+            searchIndexRef.current = [];
+          }
+        }
+
+        const q = query.toLowerCase();
+        let results = searchIndexRef.current.filter(item => item.name.toLowerCase().includes(q));
+        
+        results.sort((a, b) => {
+          const aStarts = a.name.toLowerCase().startsWith(q) ? -1 : 1;
+          const bStarts = b.name.toLowerCase().startsWith(q) ? -1 : 1;
+          if (aStarts !== bStarts) return aStarts - bStarts;
+          return a.name.length - b.name.length;
+        });
+
+        results = results.slice(0, 50);
+
+        setWords(results);
+        if (results.length > 0) {
+          fetchWordDetails(results[0].slug, results[0].letter);
+        } else {
+          setSelectedWord(null);
         }
       } catch (error) {
         console.error("Error searching:", error);
@@ -88,7 +107,7 @@ export default function DictionaryClient({ lang }) {
       letter = slug.charAt(0).toLowerCase();
     }
     try {
-      const res = await fetch(`/api/dictionary/letter/${letter}?lang=${lang}`);
+      const res = await fetch(`/data/dictionary/${lang}/${letter}.json`);
       if (res.ok) {
         const data = await res.json();
         // Find the word by slug in the letter data

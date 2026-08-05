@@ -5,6 +5,7 @@ import fs from 'fs/promises';
 import path from 'path';
 import CitationBox from '../../../../components/CitationBox';
 import fsSync from 'fs';
+import ShareButton from '../../../../components/ShareButton';
 
 export const dynamicParams = false;
 
@@ -143,8 +144,14 @@ export default async function ArticlePage({ params }) {
 
       <article className="sermon-content">
         <header style={{ marginBottom: '3rem', textAlign: 'center' }}>
-          <div style={{ color: 'var(--text-muted)', fontSize: '0.9rem', marginBottom: '1rem', textTransform: 'uppercase', letterSpacing: '1px' }}>
-            {data.date} {data.readTime && `• ${data.readTime}`}
+          <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '1rem', flexWrap: 'wrap', marginBottom: '1.5rem' }}>
+            <div style={{ color: 'var(--text-muted)', fontSize: '0.9rem', textTransform: 'uppercase', letterSpacing: '1px' }}>
+              {data.date} {data.readTime && `• ${data.readTime}`}
+            </div>
+            <ShareButton 
+              title={data.title}
+              text={lang === 'pt' ? 'Leia este artigo no Spurgeon.tv' : lang === 'es' ? 'Lee este artículo en Spurgeon.tv' : 'Read this article on Spurgeon.tv'}
+            />
           </div>
           <h1 className="title-gold" style={{ fontSize: '2.5rem', marginBottom: '1.5rem', lineHeight: '1.2' }}>
             {data.title}
@@ -202,6 +209,14 @@ export default async function ArticlePage({ params }) {
               </div>
             </details>
           )}
+
+          <div style={{ marginTop: '3rem', marginBottom: '1rem', display: 'flex', justifyContent: 'center' }}>
+            <ShareButton 
+              className="dev-share-large"
+              title={data.title}
+              text={lang === 'pt' ? 'Leia este artigo no Spurgeon.tv' : lang === 'es' ? 'Lee este artículo en Spurgeon.tv' : 'Read this article on Spurgeon.tv'}
+            />
+          </div>
 
           {/* CITATION */}
           <CitationBox

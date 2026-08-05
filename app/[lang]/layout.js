@@ -8,6 +8,7 @@ import LanguageSwitcher from '../components/LanguageSwitcher';
 import ThemeSelector from '../components/ThemeSelector';
 import CookieBanner from '../components/CookieBanner';
 import AdSenseScript from '../../components/AdSenseScript';
+import CopyAppendURL from '../components/CopyAppendURL';
 
 export async function generateStaticParams() {
   return [{ lang: 'en' }, { lang: 'pt' }, { lang: 'es' }];
@@ -136,6 +137,7 @@ export default async function RootLayout({ children, params }) {
           `}
         </Script>
         <Script strategy="lazyOnload" src="https://resources.infolinks.com/js/infolinks_main.js" />
+        <CopyAppendURL lang={lang} />
       </body>
     </html>
   );
