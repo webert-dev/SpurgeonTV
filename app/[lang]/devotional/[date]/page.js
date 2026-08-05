@@ -3,8 +3,15 @@ import { getDictionary } from '../../../../lib/dictionaries';
 export const revalidate = false;
 export const dynamicParams = false;
 import DevotionalDayClient from './DevotionalDayClient';
-import fs from 'fs';
-import path from 'path';
+import enDevo from '../../../../public/data/morning-and-evening.json';
+
+// We optionally load other languages, but for Next.js static export we can just import them safely.
+let ptDevo = null;
+let esDevo = null;
+try { ptDevo = require('../../../../public/data/morning-and-evening-pt.json'); } catch(e){}
+try { esDevo = require('../../../../public/data/morning-and-evening-es.json'); } catch(e){}
+
+const devos = { en: enDevo, pt: ptDevo, es: esDevo };
 
 function daysInMonth(m) {
   const d30 = [4, 6, 9, 11];
@@ -62,11 +69,8 @@ export async function generateMetadata({ params }) {
   const fullTitle = `${titlePrefix} ${day} ${lang === 'en' ? 'of' : 'de'} ${mName} | Spurgeon`;
 
   const availableLangs = ['en'];
-  try {
-    const dataDir = path.join(process.cwd(), 'public', 'data');
-    if (fs.existsSync(path.join(dataDir, 'morning-and-evening-pt.json'))) availableLangs.push('pt');
-    if (fs.existsSync(path.join(dataDir, 'morning-and-evening-es.json'))) availableLangs.push('es');
-  } catch (e) {}
+  if (ptDevo) availableLangs.push('pt');
+  if (esDevo) availableLangs.push('es');
 
   const languages = {};
   availableLangs.forEach(l => {
@@ -104,20 +108,7 @@ export default async function DevotionalDayPage({ params }) {
   const month = parseInt(mStr, 10);
   const day = parseInt(dStr, 10);
 
-  let devotionalData = [];
-  try {
-    const fileName = lang === 'en' ? 'morning-and-evening.json' : `morning-and-evening-${lang}.json`;
-    const filePath = path.join(process.cwd(), 'public', 'data', fileName);
-    
-    if (fs.existsSync(filePath)) {
-      devotionalData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-    } else {
-      const fallbackPath = path.join(process.cwd(), 'public', 'data', 'morning-and-evening.json');
-      devotionalData = JSON.parse(fs.readFileSync(fallbackPath, 'utf-8'));
-    }
-  } catch (error) {
-    console.error("Error loading devotional data:", error);
-  }
+  const devotionalData = devos[lang] || devos.en || [];
 
   // Next.js 13+ hoists <link> tags returned in the component to the <head>!
   const prevDate = getPrevDateStr(month, day);
