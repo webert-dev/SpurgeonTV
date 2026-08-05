@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "cross-env NODE_OPTIONS=--max-old-space-size=4096 next dev",
     "build": "cross-env NODE_OPTIONS=--max-old-space-size=8192 next build",
-    "build:cf": "npm run build",
+    "build:cf": "opennextjs-cloudflare build",
     "prebuild": "node scripts/generate-search-index.mjs && node scripts/generate-articles-index.mjs && node scripts/copy-sermons.mjs && node scripts/generate-sitemap.mjs",
     "start": "next start",
     "lint": "eslint",
