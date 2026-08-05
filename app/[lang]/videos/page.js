@@ -15,17 +15,11 @@ export async function generateMetadata({ params }) {
   };
 }
 
-import videosData from '../../../lib/videosData.json';
-
-// We import the local json directly so it is bundled by Webpack/Turbopack
-// and works in Cloudflare Workers without relying on fs.
-function getVideosData() {
-  return videosData || { pt: [], en: [], es: [] };
-}
+import { loadStaticJson } from '../../../lib/data-loader';
 
 export default async function VideosHubPage({ params }) {
   const { lang = 'en' } = await params;
-  const data = getVideosData();
+  const data = await loadStaticJson('videosData.json') || { pt: [], en: [], es: [] };
   const dict = await getDictionary(lang);
 
   const ptChannel = {

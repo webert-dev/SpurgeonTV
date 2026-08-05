@@ -16,9 +16,22 @@ export function generateStaticParams() {
   return [];
 }
 
+import { loadStaticJson } from '../../../../../lib/data-loader';
+
+async function getVideoData(videoId) {
+  const data = await loadStaticJson('videosData.json') || { pt: [], en: [], es: [], 'es-devocional': [] };
+  for (const channel of ['pt', 'en', 'es', 'es-devocional']) {
+    const found = data[channel]?.find(v => v.id === videoId);
+    if (found) {
+      return { ...found, channelId: channel };
+    }
+  }
+  return null;
+}
+
 export async function generateMetadata({ params }) {
   const { lang, videoId } = await params;
-  const video = getVideoData(videoId);
+  const video = await getVideoData(videoId);
   
   if (!video) {
     return { title: "Video Not Found | Charles Spurgeon" };
@@ -33,23 +46,11 @@ export async function generateMetadata({ params }) {
   };
 }
 
-import videosData from '../../../../../lib/videosData.json';
-
-function getVideoData(videoId) {
-  for (const channel of ['pt', 'en', 'es']) {
-    const found = videosData[channel]?.find(v => v.id === videoId);
-    if (found) {
-      return { ...found, channelId: channel };
-    }
-  }
-  return null;
-}
-
 export default async function WatchVideoPage({ params }) {
   const { lang = 'en', videoId } = await params;
   const dict = await getDictionary(lang);
   
-  const video = getVideoData(videoId);
+  const video = await getVideoData(videoId);
 
   if (!video) {
     notFound();

@@ -9,7 +9,7 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const SERMONS_DIR = path.join(ROOT, 'chspurgeon-sermons-main');
-const OUTPUT_LIB = path.join(ROOT, 'lib', 'search-index.json');
+const OUTPUT_LIB = path.join(ROOT, 'public', 'data', 'search-index.json');
 const OUTPUT_PUBLIC = path.join(ROOT, 'public', 'search-index.json');
 
 function extractScripture(content) {

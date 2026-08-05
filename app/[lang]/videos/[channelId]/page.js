@@ -34,21 +34,18 @@ export async function generateMetadata({ params }) {
 
 const VIDEOS_PER_PAGE = 24;
 
-import videosData from '../../../../lib/videosData.json';
-
-function getVideosData(channelId) {
-  return videosData[channelId] || [];
-}
+import { loadStaticJson } from '../../../../lib/data-loader';
 
 export default async function ChannelVideosPage({ params, searchParams }) {
   const { lang = 'en', channelId } = await params;
+  const videosData = await loadStaticJson('videosData.json') || { pt: [], en: [], es: [], 'es-devocional': [] };
   const dict = await getDictionary(lang);
   
   if (!['pt', 'en', 'es', 'es-devocional'].includes(channelId)) {
     notFound();
   }
 
-  const allVideos = getVideosData(channelId);
+  const allVideos = videosData[channelId] || [];
   const totalVideos = allVideos.length;
   const totalPages = Math.ceil(totalVideos / VIDEOS_PER_PAGE);
   

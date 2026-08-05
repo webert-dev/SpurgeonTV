@@ -19,6 +19,20 @@ export default async function VolumePage({ params }) {
   const sermons = await getSermonsInVolume(id, lang);
   const volNum = parseInt(id.replace('volume-', ''), 10);
 
+  const sermonsWithMeta = await Promise.all(sermons.map(async (sermon, index) => {
+    const num = parseInt(sermon.slug.match(/\d+/)?.[0] || index + 1, 10);
+    const meta = await getMetadata(num, volNum, lang);
+    if (meta) {
+      meta.title = sermon.title;
+      meta.scripture = sermon.scripture?.reference;
+      meta.isTranslated = sermon.isTranslated;
+      meta.availableLangs = sermon.availableLangs;
+      meta.volumeId = id;
+      meta.sermonSlug = sermon.slug;
+    }
+    return { ...sermon, num, meta };
+  }));
+
   return (
     <div className="container" style={{ padding: '4rem 2rem' }}>
       <Link href={`/${lang}/volumes`} className="back-link">
@@ -36,26 +50,14 @@ export default async function VolumePage({ params }) {
       </div>
 
       <div className="sermon-list">
-        {sermons.map((sermon, index) => {
-          const num = parseInt(sermon.slug.match(/\d+/)?.[0] || index + 1, 10);
-          const meta = getMetadata(num, volNum, lang);
-          
-          // Adding title and scripture to meta for the panel
-          if (meta) {
-            meta.title = sermon.title;
-            meta.scripture = sermon.scripture?.reference;
-            meta.isTranslated = sermon.isTranslated;
-            meta.availableLangs = sermon.availableLangs;
-            meta.volumeId = id;
-            meta.sermonSlug = sermon.slug;
-          }
+        {sermonsWithMeta.map((sermon) => {
           const targetLang = (lang !== 'en' && !sermon.isTranslated) ? 'en' : lang;
           
           return (
             <div key={sermon.slug} className="sermon-list-entry">
               <Link href={`/${targetLang}/volume/${id}/${sermon.slug}`}>
                 <div className="sermon-item">
-                  <div className="sermon-number">#{num}</div>
+                  <div className="sermon-number">#{sermon.num}</div>
                   <div className="sermon-item-content">
                     <div className="sermon-title">{sermon.title}</div>
                     {sermon.scripture?.reference && (
@@ -64,7 +66,7 @@ export default async function VolumePage({ params }) {
                   </div>
                 </div>
               </Link>
-              <SermonInfoPanel meta={meta} lang={lang} dict={dict} />
+              <SermonInfoPanel meta={sermon.meta} lang={lang} dict={dict} />
             </div>
           );
         })}

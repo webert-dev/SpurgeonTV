@@ -3,12 +3,7 @@ import { getDictionary } from '../../../../lib/dictionaries';
 export const revalidate = false;
 export const dynamicParams = false;
 import DevotionalDayClient from './DevotionalDayClient';
-import enDevo from '../../../../public/data/morning-and-evening.json';
-
-import ptDevo from '../../../../public/data/morning-and-evening-pt.json';
-import esDevo from '../../../../public/data/morning-and-evening-es.json';
-
-const devos = { en: enDevo, pt: ptDevo, es: esDevo };
+import { loadStaticJson } from '../../../../lib/data-loader';
 
 function daysInMonth(m) {
   const d30 = [4, 6, 9, 11];
@@ -65,9 +60,7 @@ export async function generateMetadata({ params }) {
   const titlePrefix = lang === 'pt' ? 'Devocional de' : lang === 'es' ? 'Devocional de' : 'Devotional for';
   const fullTitle = `${titlePrefix} ${day} ${lang === 'en' ? 'of' : 'de'} ${mName} | Spurgeon`;
 
-  const availableLangs = ['en'];
-  if (ptDevo) availableLangs.push('pt');
-  if (esDevo) availableLangs.push('es');
+  const availableLangs = ['en', 'pt', 'es'];
 
   const languages = {};
   availableLangs.forEach(l => {
@@ -105,7 +98,8 @@ export default async function DevotionalDayPage({ params }) {
   const month = parseInt(mStr, 10);
   const day = parseInt(dStr, 10);
 
-  const devotionalData = devos[lang] || devos.en || [];
+  const langSuffix = lang === 'en' ? '' : `-${lang}`;
+  const devotionalData = await loadStaticJson(`morning-and-evening${langSuffix}.json`) || [];
 
   // Next.js 13+ hoists <link> tags returned in the component to the <head>!
   const prevDate = getPrevDateStr(month, day);

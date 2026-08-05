@@ -26,7 +26,7 @@ export default async function HomePage({ params }) {
   const { sermons: featuredSermons } = await getPaginatedSermons(lang, 1, 4);
 
   // Fetch all localized articles and pick the 4 featured ones
-  const allArticles = getAllArticles(lang);
+  const allArticles = await getAllArticles(lang);
   
   // The slugs of the hand-curated featured articles
   const featuredArticleSlugs = [

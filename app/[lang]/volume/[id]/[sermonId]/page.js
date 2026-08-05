@@ -2,9 +2,8 @@ import Link from 'next/link';
 
 export const revalidate = false;
 import { notFound } from 'next/navigation';
-import fs from 'fs/promises';
-import path from 'path';
 import { getVolumes, getSermonsInVolume, getSermonContent, getSermonNeighbors } from '../../../../../lib/sermons';
+import { loadStaticJson } from '../../../../../lib/data-loader';
 import { linkifyBibleReferences } from '../../../../../lib/linkifyBible';
 import ReaderTools from './ReaderTools';
 import SermonTags from './SermonTags';
@@ -105,9 +104,7 @@ export default async function SermonPage({ params }) {
 
   let tags = [];
   try {
-    const tagsFilePath = path.join(process.cwd(), 'lib', 'sermon_tags_en_full.json');
-    const tagsData = await fs.readFile(tagsFilePath, 'utf8');
-    const tagsJson = JSON.parse(tagsData);
+    const tagsJson = await loadStaticJson('sermon_tags_en_full.json') || {};
     tags = tagsJson[id]?.[sermonId] || [];
   } catch (e) {
     console.error("Error reading tags:", e);
@@ -121,7 +118,7 @@ export default async function SermonPage({ params }) {
   }
   textToRead += stripHtml(sermon.content);
 
-  const meta = getMetadata(parseInt(sermonNum, 10), volNum, lang);
+  const meta = await getMetadata(parseInt(sermonNum, 10), volNum, lang);
   if (meta) {
     meta.title = sermon.title;
     meta.scripture = sermon.scripture?.reference;

@@ -173,7 +173,7 @@ export async function generateMetadata({ params }) {
 
 export default async function SobrePage({ params }) {
   const { lang } = await params;
-  const allArticles = getAllArticles(lang);
+  const allArticles = await getAllArticles(lang);
   const t = translations[lang] || translations.en;
 
   return (
