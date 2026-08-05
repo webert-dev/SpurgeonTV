@@ -17,10 +17,13 @@ function getLocale(request) {
   return defaultLocale;
 }
 
-export function proxy(request) {
+// NOTE: "proxy" convention is Next.js 16+, but opennextjs-cloudflare requires
+// Edge Runtime which only works with the legacy "middleware" export name.
+// The deprecation warning is harmless - this runs in Edge and works with Cloudflare Workers.
+export function middleware(request) {
   const { pathname } = request.nextUrl;
   
-  // Ignore static files, images, api, search-index
+  // Ignore static files, images, api, data assets
   if (
     pathname.startsWith('/_next') ||
     pathname.startsWith('/api') ||
@@ -36,7 +39,6 @@ export function proxy(request) {
   if (pathnameIsMissingLocale) {
     const locale = getLocale(request);
     
-    // Redirect if there is no locale
     return NextResponse.redirect(
       new URL(
         `/${locale}${pathname.startsWith('/') ? '' : '/'}${pathname}`,
@@ -47,6 +49,5 @@ export function proxy(request) {
 }
 
 export const config = {
-  // Matcher ignoring `/_next/` and `/api/`
   matcher: ['/((?!api|_next/static|_next/image|favicon.ico).*)'],
 };
