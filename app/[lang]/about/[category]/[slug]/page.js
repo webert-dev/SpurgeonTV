@@ -35,44 +35,43 @@ export function generateStaticParams() {
   return params;
 }
 
-// Gerar metadata dinâmico
 export async function generateMetadata({ params }) {
   const resolvedParams = await params;
   const { lang, category, slug } = resolvedParams;
   
   try {
-    const filePath = path.join(process.cwd(), 'content', 'articles', category, slug, `${lang}.json`);
-    const fileContents = await fs.readFile(filePath, 'utf8');
-    const data = JSON.parse(fileContents);
+    const folder = `data/articles/${category}/${slug}`;
+    const data = await loadStaticJson(`${lang}.json`, folder) || await loadStaticJson(`en.json`, folder);
     
-    return {
-      title: data.seoTitle || data.title,
-      description: data.description,
-      keywords: data.keywords,
-    };
-  } catch (error) {
-    return {
-      title: 'Article Not Found',
-    };
-  }
+    if (data) {
+      return {
+        title: data.seoTitle || data.title,
+        description: data.description,
+        keywords: data.keywords,
+      };
+    }
+  } catch (error) {}
+  
+  return { title: 'Article Not Found' };
 }
+
+import { loadStaticJson } from '../../../../../lib/data-loader';
 
 export default async function ArticlePage({ params }) {
   const resolvedParams = await params;
   const { lang, category, slug } = resolvedParams;
   
   let data = null;
-  try {
-    const filePath = path.join(process.cwd(), 'content', 'articles', category, slug, `${lang}.json`);
-    const fileContents = await fs.readFile(filePath, 'utf8');
-    data = JSON.parse(fileContents);
-  } catch (error) {
+  const filename = `${lang}.json`;
+  const folder = `data/articles/${category}/${slug}`;
+  data = await loadStaticJson(filename, folder);
+
+  if (!data) {
     // Fallback to English if translation doesn't exist
-    try {
-      const fallbackPath = path.join(process.cwd(), 'content', 'articles', category, slug, 'en.json');
-      const fileContents = await fs.readFile(fallbackPath, 'utf8');
-      data = JSON.parse(fileContents);
-    } catch (fallbackError) {
+    const fallbackFilename = `en.json`;
+    data = await loadStaticJson(fallbackFilename, folder);
+    
+    if (!data) {
       return (
         <div className="container" style={{ padding: '4rem 2rem', minHeight: '80vh', maxWidth: '800px', margin: '0 auto', textAlign: 'center' }}>
           <h2>Article not found</h2>

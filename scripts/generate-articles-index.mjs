@@ -5,6 +5,7 @@ import { fileURLToPath } from 'url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const baseDir = path.join(ROOT, 'content', 'articles');
+const publicArticlesDir = path.join(ROOT, 'public', 'data', 'articles');
 
 function getAllArticles(lang = 'en') {
   if (!fs.existsSync(baseDir)) return [];
@@ -73,10 +74,21 @@ for (const lang of langs) {
   articlesIndex[lang] = getAllArticles(lang);
 }
 
+// Ensure directories exist
 fs.mkdirSync(path.join(ROOT, 'lib'), { recursive: true });
 fs.mkdirSync(path.join(ROOT, 'public', 'data'), { recursive: true });
+
+// Copy articles to public/data/articles
+if (fs.existsSync(publicArticlesDir)) {
+  fs.rmSync(publicArticlesDir, { recursive: true, force: true });
+}
+if (fs.existsSync(baseDir)) {
+  fs.cpSync(baseDir, publicArticlesDir, { recursive: true });
+}
+
+// Write index files
 const outPath = path.join(ROOT, 'public', 'data', 'articles-index.json');
 fs.writeFileSync(path.join(ROOT, 'lib', 'articles-index.json'), JSON.stringify(articlesIndex, null, 2));
 fs.writeFileSync(outPath, JSON.stringify(articlesIndex));
 
-console.log('✅ Generated lib/articles-index.json');
+console.log('✅ Generated lib/articles-index.json and copied articles to public/data/articles');
