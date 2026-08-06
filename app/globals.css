@@ -2496,9 +2496,11 @@ details[open] .summary-chevron {
 
 .cookie-actions {
   display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  gap: 0.2rem; /* Tightest gap */
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.8rem;
   flex-shrink: 0;
 }
 
@@ -2521,13 +2523,8 @@ details[open] .summary-chevron {
   transform: scale(0.98);
 }
 
-.cookie-actions-secondary {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-}
-
-.cookie-actions-secondary button {
+.cookie-btn-reject,
+.cookie-btn-customize {
   background: none;
   border: none;
   color: var(--text-muted);
@@ -2537,7 +2534,8 @@ details[open] .summary-chevron {
   padding: 0;
   white-space: nowrap;
 }
-.cookie-actions-secondary button:hover {
+.cookie-btn-reject:hover,
+.cookie-btn-customize:hover {
   color: var(--text-primary);
 }
 

@@ -83,14 +83,12 @@ export default function CookieBanner({ lang, dict }) {
               <button className="btn-primary cookie-btn-accept" onClick={acceptAll}>
                 {dict.cookies.btnGotIt}
               </button>
-              <div className="cookie-actions-secondary">
-                <button className="btn-text cookie-btn-customize" onClick={() => setShowModal(true)}>
-                  {dict.cookies.btnCustomize}
-                </button>
-                <button className="btn-text cookie-btn-reject" onClick={rejectNonEssential}>
-                  {dict.cookies.btnReject}
-                </button>
-              </div>
+              <button className="btn-text cookie-btn-reject" onClick={rejectNonEssential}>
+                {dict.cookies.btnReject}
+              </button>
+              <button className="btn-text cookie-btn-customize" onClick={() => setShowModal(true)}>
+                {dict.cookies.btnCustomize}
+              </button>
             </div>
           </div>
         </div>
