@@ -7,7 +7,7 @@ import CitationBox from '../../../../components/CitationBox';
 import fsSync from 'fs';
 import ShareButton from '../../../../components/ShareButton';
 
-export const dynamicParams = false;
+export const dynamicParams = true;
 
 export function generateStaticParams() {
   const langs = ['en', 'es', 'pt'];
