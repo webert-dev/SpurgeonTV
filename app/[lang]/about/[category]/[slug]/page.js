@@ -1,18 +1,20 @@
 import Link from 'next/link';
-
-export const revalidate = false;
-import fs from 'fs/promises';
 import path from 'path';
 import CitationBox from '../../../../components/CitationBox';
-import fsSync from 'fs';
 import ShareButton from '../../../../components/ShareButton';
+import { loadStaticJson } from '../../../../../lib/data-loader';
 
+export const revalidate = false;
 export const dynamicParams = true;
 
 export function generateStaticParams() {
   const langs = ['en', 'es', 'pt'];
   const params = [];
   
+  // Use require inside the function so it doesn't break Edge runtime / Turbopack
+  const fsSync = typeof require !== 'undefined' ? require('fs') : null;
+  if (!fsSync) return [];
+
   const filePath = path.join(process.cwd(), 'lib', 'articles-index.json');
   if (!fsSync.existsSync(filePath)) return [];
   const fileContents = fsSync.readFileSync(filePath, 'utf8');
@@ -54,8 +56,6 @@ export async function generateMetadata({ params }) {
   
   return { title: 'Article Not Found' };
 }
-
-import { loadStaticJson } from '../../../../../lib/data-loader';
 
 export default async function ArticlePage({ params }) {
   const resolvedParams = await params;
