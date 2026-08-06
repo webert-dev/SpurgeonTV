@@ -22,7 +22,7 @@ This project is a modern web application dedicated to preserving and presenting 
 - **Framework**: Next.js (App Router)
 - **Styling**: Vanilla CSS with customized CSS Variables
 - **Search Engine**: Pre-built JSON indexing for blazing-fast client-side lookups
-- **Deployment**: Ready for Vercel or any Node.js hosting
+- **Deployment**: Configured exclusively for **Cloudflare Workers** via OpenNext (`@opennextjs/cloudflare`)
 
 ---
 
@@ -43,7 +43,7 @@ Este proyecto es una aplicación web moderna dedicada a preservar y presentar la
 - **Framework**: Next.js (App Router)
 - **Estilos**: CSS puro con variables personalizadas
 - **Motor de Búsqueda**: Indexación JSON preconstruida para búsquedas ultra rápidas del lado del cliente
-- **Despliegue**: Listo para Vercel o cualquier alojamiento Node.js
+- **Despliegue**: Configurado exclusivamente para **Cloudflare Workers** vía OpenNext (`@opennextjs/cloudflare`)
 
 ---
 
@@ -64,7 +64,8 @@ Este projeto é uma aplicação web moderna dedicada a preservar e apresentar a 
 - **Framework**: Next.js (App Router)
 - **Estilização**: CSS puro com variáveis customizadas
 - **Motor de Busca**: Indexação em JSON pré-construída para pesquisas extremamente rápidas no lado do cliente
-- **Implantação**: Pronto para Vercel ou qualquer hospedagem Node.js
+- **Implantação**: Configurado exclusivamente para **Cloudflare Workers** via OpenNext (`@opennextjs/cloudflare`)
+- **Infraestrutura**: Requer a configuração de variáveis de ambiente no Cloudflare Dashboard (ex: `NEXT_PUBLIC_SITE_URL`, `DEEPL_API_KEY`, etc.) e a flag de compatibilidade `nodejs_compat`.
 
 ---
 
