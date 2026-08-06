@@ -1,6 +1,6 @@
 import { getDictionary } from '../../../../lib/dictionaries';
 
-export const revalidate = false;
+export const revalidate = 86400;
 export const dynamicParams = true;
 import DevotionalDayClient from './DevotionalDayClient';
 import { loadStaticJson } from '../../../../lib/data-loader';
@@ -98,8 +98,11 @@ export default async function DevotionalDayPage({ params }) {
   const month = parseInt(mStr, 10);
   const day = parseInt(dStr, 10);
 
-  const langSuffix = lang === 'en' ? '' : `-${lang}`;
-  const devotionalData = await loadStaticJson(`morning-and-evening${langSuffix}.json`) || [];
+  const monthStr = month.toString().padStart(2, '0');
+  const folder = `data/devotional/${lang}`;
+  const filename = `${monthStr}.json`;
+  
+  const devotionalData = await loadStaticJson(filename, folder) || [];
 
   // Next.js 13+ hoists <link> tags returned in the component to the <head>!
   const prevDate = getPrevDateStr(month, day);

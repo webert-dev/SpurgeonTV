@@ -1,6 +1,6 @@
 import Link from 'next/link';
 
-export const revalidate = false;
+export const revalidate = 86400;
 import { getPaginatedSermons } from '../../../lib/sermons';
 import SearchClient from '../search-client';
 import { getDictionary } from '../../../lib/dictionaries';

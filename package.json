@@ -6,7 +6,7 @@
     "dev": "cross-env NODE_OPTIONS=--max-old-space-size=4096 next dev",
     "build": "cross-env NODE_OPTIONS=--max-old-space-size=8192 next build",
     "build:cf": "opennextjs-cloudflare build",
-    "prebuild": "node scripts/generate-search-index.mjs && node scripts/generate-articles-index.mjs && node scripts/copy-sermons.mjs && node scripts/generate-sitemap.mjs",
+    "prebuild": "node scripts/generate-search-index.mjs && node scripts/generate-devotional-pages.mjs && node scripts/generate-sermon-pages.mjs && node scripts/generate-articles-index.mjs && node scripts/copy-sermons.mjs && node scripts/generate-sitemap.mjs",
     "start": "next start",
     "lint": "eslint",
     "generate:index": "node scripts/generate-search-index.mjs"
