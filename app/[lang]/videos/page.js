@@ -1,10 +1,10 @@
 import Link from 'next/link';
-
-export const revalidate = false;
-import fs from 'fs';
 import path from 'path';
 import { getDictionary } from '../../../lib/dictionaries';
 import SpanishVideosTabs from '../../components/SpanishVideosTabs';
+import { loadStaticJson } from '../../../lib/data-loader';
+
+export const revalidate = false;
 
 export async function generateMetadata({ params }) {
   const { lang } = await params;
@@ -14,8 +14,6 @@ export async function generateMetadata({ params }) {
     description: dict.videosHub?.pageSubtitle || "Watch the largest collection of Charles Spurgeon sermons, documentaries, and teachings in English, Portuguese, and Spanish.",
   };
 }
-
-import { loadStaticJson } from '../../../lib/data-loader';
 
 export default async function VideosHubPage({ params }) {
   const { lang = 'en' } = await params;

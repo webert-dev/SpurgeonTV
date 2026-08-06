@@ -1,10 +1,10 @@
 import Link from 'next/link';
-
-export const revalidate = false;
-import fs from 'fs';
 import path from 'path';
 import { notFound } from 'next/navigation';
 import { getDictionary } from '../../../../lib/dictionaries';
+import { loadStaticJson } from '../../../../lib/data-loader';
+
+export const revalidate = false;
 
 export const dynamicParams = false;
 
@@ -33,8 +33,6 @@ export async function generateMetadata({ params }) {
 }
 
 const VIDEOS_PER_PAGE = 24;
-
-import { loadStaticJson } from '../../../../lib/data-loader';
 
 export default async function ChannelVideosPage({ params, searchParams }) {
   const { lang = 'en', channelId } = await params;

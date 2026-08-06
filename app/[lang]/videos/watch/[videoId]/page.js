@@ -1,12 +1,12 @@
 import Link from 'next/link';
-
-export const revalidate = false;
-import fs from 'fs';
 import path from 'path';
 import { notFound } from 'next/navigation';
 import { getDictionary } from '../../../../../lib/dictionaries';
 import ShareButton from '../../../../components/ShareButton';
 import CitationBox from '../../../../components/CitationBox';
+import { loadStaticJson } from '../../../../../lib/data-loader';
+
+export const revalidate = false;
 
 export const dynamicParams = true;
 
@@ -15,8 +15,6 @@ export function generateStaticParams() {
   // Os vídeos serão gerados sob demanda (SSR) porque dynamicParams = true.
   return [];
 }
-
-import { loadStaticJson } from '../../../../../lib/data-loader';
 
 async function getVideoData(videoId) {
   const data = await loadStaticJson('videosData.json') || { pt: [], en: [], es: [], 'es-devocional': [] };

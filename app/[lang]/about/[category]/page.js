@@ -2,7 +2,6 @@ import Link from 'next/link';
 
 export const revalidate = false;
 import path from 'path';
-import { promises as fs } from 'fs';
 import { notFound } from 'next/navigation';
 
 export const dynamicParams = false;
@@ -28,7 +27,12 @@ const categoryTitles = {
   theology: { en: 'His Theology', pt: 'Sua Teologia', es: 'Su Teología' }
 };
 
-export default async function CategoryPage({ params: { lang, category } }) {
+import { loadStaticJson } from '../../../../lib/data-loader';
+
+export default async function CategoryPage({ params }) {
+  const resolvedParams = await params;
+  const { lang, category } = resolvedParams;
+
   if (!categoryTitles[category]) {
     notFound();
   }
@@ -36,40 +40,19 @@ export default async function CategoryPage({ params: { lang, category } }) {
   const title = categoryTitles[category][lang] || categoryTitles[category]['en'];
   const backText = lang === 'pt' ? '← Voltar para Sobre Spurgeon' : (lang === 'es' ? '← Volver a Sobre Spurgeon' : '← Back to About Spurgeon');
 
-  const contentDir = path.join(process.cwd(), 'content', 'articles', category);
-  let slugs = [];
-  try {
-    const dirents = await fs.readdir(contentDir, { withFileTypes: true });
-    slugs = dirents.filter(dirent => dirent.isDirectory()).map(dirent => dirent.name);
-  } catch (err) {
-    console.error(`Could not read directory: ${contentDir}`, err);
-    slugs = [];
-  }
-
-  const articles = [];
-  for (const slug of slugs) {
-    const jsonPathPt = path.join(contentDir, slug, 'pt.json');
-    const jsonPathEs = path.join(contentDir, slug, 'es.json');
-    const jsonPathEn = path.join(contentDir, slug, 'en.json');
-    
-    let targetPath = jsonPathEn;
-    if (lang === 'pt') targetPath = jsonPathPt;
-    else if (lang === 'es') targetPath = jsonPathEs;
-
-    try {
-      let content = '';
-      try {
-        content = await fs.readFile(targetPath, 'utf8');
-      } catch (err) {
-        // Fallback to EN if translation doesn't exist
-        content = await fs.readFile(jsonPathEn, 'utf8');
-      }
-      const data = JSON.parse(content);
-      articles.push({ slug, ...data });
-    } catch (err) {
-      console.error(`Error loading article JSON for ${slug}:`, err);
-    }
-  }
+  const allArticles = await loadStaticJson('articles-index.json') || {};
+  let langArticles = allArticles[lang] || allArticles['en'] || [];
+  
+  // Filter by category
+  let articles = langArticles.filter(a => a.category === category);
+  
+  // Map href to slug to maintain compatibility with the rest of the page
+  articles = articles.map(a => {
+    return {
+      ...a,
+      slug: a.href.split('/').pop()
+    };
+  });
 
   // Sort by date or just keep order. Currently we parse the date loosely or reverse.
   // The english JSONs have format "September 21, 2025"
