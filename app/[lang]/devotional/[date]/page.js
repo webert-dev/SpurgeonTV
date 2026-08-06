@@ -1,7 +1,7 @@
 import { getDictionary } from '../../../../lib/dictionaries';
 
 export const revalidate = false;
-export const dynamicParams = false;
+export const dynamicParams = true;
 import DevotionalDayClient from './DevotionalDayClient';
 import { loadStaticJson } from '../../../../lib/data-loader';
 
