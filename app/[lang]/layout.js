@@ -17,7 +17,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }) {
   const { lang } = await params;
   const dict = await getDictionary(lang);
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.spurgeon.tv';
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv';
 
   return {
     metadataBase: new URL(siteUrl),
@@ -33,7 +33,14 @@ export async function generateMetadata({ params }) {
       apple: '/apple-icon.png',
     },
     openGraph: {
-      images: ['/opengraph-image.png'],
+      images: [
+        {
+          url: `${siteUrl}/opengraph-image.png`,
+          width: 1200,
+          height: 630,
+          alt: 'Charles Spurgeon',
+        }
+      ],
     },
     alternates: {
       languages: {
