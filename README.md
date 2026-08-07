@@ -96,7 +96,49 @@ To deploy the application to your Cloudflare account, follow these steps:
    ```bash
    npx wrangler deploy
    ```
+   
+> **Pro Tip:** You can run both commands together in a single line to build and deploy sequentially:
+> ```bash
+> npm run deploy:cf
+> ```
+
    *(Note: This requires you to be logged into your Cloudflare account via `npx wrangler login` or by setting the `CLOUDFLARE_API_TOKEN` environment variable).*
+
+---
+**🇧🇷 Deploy na Cloudflare (Português):**
+1. Faça o build da aplicação Next.js para Cloudflare:
+   ```bash
+   npm run build:cf
+   ```
+2. Faça o deploy do worker gerado usando o Wrangler:
+   ```bash
+   npx wrangler deploy
+   ```
+   
+> **Dica:** Você pode rodar os dois comandos juntos em uma única linha para fazer o build e deploy na sequência:
+> ```bash
+> npm run deploy:cf
+> ```
+
+   *(Nota: Isso exige que você esteja logado na sua conta da Cloudflare via `npx wrangler login` ou configurando a variável de ambiente `CLOUDFLARE_API_TOKEN`).*
+
+---
+**🇪🇸 Despliegue en Cloudflare (Español):**
+1. Construye la aplicación Next.js para Cloudflare:
+   ```bash
+   npm run build:cf
+   ```
+2. Despliega el worker generado usando Wrangler:
+   ```bash
+   npx wrangler deploy
+   ```
+   
+> **Consejo:** Puedes ejecutar ambos comandos juntos en una sola línea para construir y desplegar secuencialmente:
+> ```bash
+> npm run deploy:cf
+> ```
+
+   *(Nota: Esto requiere que inicies sesión en tu cuenta de Cloudflare mediante `npx wrangler login` o configurando la variable de entorno `CLOUDFLARE_API_TOKEN`).*
 
 ### Custom Domains
 If deploying to a custom domain (e.g. `spurgeon.tv`), ensure you have linked the domain in the **Cloudflare Dashboard**:

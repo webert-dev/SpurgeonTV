@@ -131,6 +131,7 @@ export default async function RootLayout({ children, params }) {
                   <li><Link href={`/${lang}/terms-of-service`}>{dict.footer.links.termsOfService}</Link></li>
                   <li><Link href={`/${lang}/cookie-policy`}>{dict.footer.links.cookiePolicy}</Link></li>
                   <li><Link href={`/${lang}`}>{dict.footer.links.home}</Link></li>
+                  <li><a href="https://sovrn.co/25fnhu8" target="_blank" rel="noopener noreferrer">Classic Devotional</a></li>
                 </ul>
               </div>
             </div>
