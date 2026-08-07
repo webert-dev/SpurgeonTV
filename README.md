@@ -81,3 +81,25 @@ Este projeto é uma aplicação web moderna dedicada a preservar e apresentar a 
    npm run dev
    ```
 4. Open [http://localhost:3000](http://localhost:3000) / Abre en tu navegador / Abra no seu navegador.
+
+## 🚀 Deployment (Cloudflare Workers)
+
+This project has been fully migrated from Vercel to **Cloudflare Workers** using [OpenNext](https://opennext.js.org/cloudflare).
+
+To deploy the application to your Cloudflare account, follow these steps:
+
+1. Build the Next.js application for Cloudflare:
+   ```bash
+   npm run build:cf
+   ```
+2. Deploy the generated worker using Wrangler:
+   ```bash
+   npx wrangler deploy
+   ```
+   *(Note: This requires you to be logged into your Cloudflare account via `npx wrangler login` or by setting the `CLOUDFLARE_API_TOKEN` environment variable).*
+
+### Custom Domains
+If deploying to a custom domain (e.g. `spurgeon.tv`), ensure you have linked the domain in the **Cloudflare Dashboard**:
+1. Go to **Workers & Pages** -> **spurgeontv-app**
+2. Go to **Triggers** / **Custom Domains**
+3. Add your custom domains. Cloudflare will automatically route the traffic to the Worker.
