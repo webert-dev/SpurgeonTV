@@ -71,18 +71,7 @@ export default function SearchClient({ lang = 'en', dict, isGlobal = false }) {
             }));
           }
         } 
-        else if (type === 'videos') {
-          const index = await getIndex('/videosData.json');
-          if (index) {
-            const videosLang = index[lang] || [];
-            const filtered = videosLang.filter(v => v.title.toLowerCase().includes(q)).slice(0, 15);
-            currentResults = filtered.map(v => ({
-              title: v.title,
-              subtitle: `Video`,
-              href: `/${lang}/videos/watch/${v.id}`
-            }));
-          }
-        } 
+
         else if (type === 'articles') {
           const index = await getIndex('/articles-index.json');
           if (index) {
@@ -149,7 +138,7 @@ export default function SearchClient({ lang = 'en', dict, isGlobal = false }) {
   function handleFocus() {
     const type = isGlobal ? searchType : 'sermons';
     if (type === 'sermons') getIndex('/search-index.json');
-    else if (type === 'videos') getIndex('/videosData.json');
+
     else if (type === 'articles') getIndex('/articles-index.json');
     else if (type === 'dictionary') getIndex('/data/dictionary/en/search_index.json');
     else if (type === 'bible') {

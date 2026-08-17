@@ -46,10 +46,14 @@ export async function generateMetadata({ params }) {
     const data = await loadStaticJson(`${lang}.json`, folder) || await loadStaticJson(`en.json`, folder);
     
     if (data) {
+      const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv';
       return {
         title: data.seoTitle || data.title,
         description: data.description,
         keywords: data.keywords,
+        alternates: {
+          canonical: `${siteUrl}/${lang}/about/${category}/${slug}/`,
+        },
       };
     }
   } catch (error) {}

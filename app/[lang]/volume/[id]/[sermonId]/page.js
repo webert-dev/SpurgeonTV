@@ -47,13 +47,13 @@ export async function generateMetadata({ params }) {
     ? `${sermon.scripture.reference} — ${excerpt}`
     : excerpt || `Read Sermon ${sermonNum} from Volume ${volNum} by Charles H. Spurgeon.`;
 
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.spurgeon.tv';
-  const url = `${siteUrl}/${lang}/volume/${id}/${sermonId}`;
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv';
+  const url = `${siteUrl}/${lang}/volume/${id}/${sermonId}/`;
 
   const languages = {};
   if (sermon.availableLangs && sermon.availableLangs.length > 0) {
     sermon.availableLangs.forEach(l => {
-      languages[l] = `${siteUrl}/${l}/volume/${id}/${sermonId}`;
+      languages[l] = `${siteUrl}/${l}/volume/${id}/${sermonId}/`;
     });
   }
 

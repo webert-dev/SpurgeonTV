@@ -6,17 +6,23 @@ import { getDictionary } from '../../../lib/dictionaries';
 import { Suspense } from 'react';
 import CitationBox from '../../components/CitationBox';
 
-export const metadata = {
-  title: 'Bible | SpurgeonTV',
-  description: 'Read the Bible on SpurgeonTV.',
-  alternates: {
-    languages: {
-      'en': '/en/bible',
-      'pt': '/pt/bible',
-      'es': '/es/bible',
+export async function generateMetadata({ params }) {
+  const { lang } = await params;
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv';
+  
+  return {
+    title: 'Bible | SpurgeonTV',
+    description: 'Read the Bible on SpurgeonTV.',
+    alternates: {
+      canonical: `${siteUrl}/${lang}/bible/`,
+      languages: {
+        'en': `${siteUrl}/en/bible/`,
+        'pt': `${siteUrl}/pt/bible/`,
+        'es': `${siteUrl}/es/bible/`,
+      }
     }
-  }
-};
+  };
+}
 
 export default async function BiblePage({ params }) {
   const { lang } = await params;

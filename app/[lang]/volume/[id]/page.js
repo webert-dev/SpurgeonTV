@@ -12,6 +12,20 @@ export async function generateStaticParams() {
   return [];
 }
 
+export async function generateMetadata({ params }) {
+  const { id, lang } = await params;
+  const dict = await getDictionary(lang);
+  const volNum = parseInt(id.replace('volume-', ''), 10);
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv';
+  
+  return {
+    title: `${dict.volume.title.replace('{num}', volNum)} | Spurgeon`,
+    alternates: {
+      canonical: `${siteUrl}/${lang}/volume/${id}/`,
+    }
+  };
+}
+
 
 export default async function VolumePage({ params }) {
   const { id, lang } = await params;

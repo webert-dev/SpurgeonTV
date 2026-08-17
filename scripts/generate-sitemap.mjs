@@ -6,7 +6,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const ROOT = path.resolve(__dirname, '..');
 
-const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.spurgeon.tv';
+const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv';
 const langs = ['en', 'pt', 'es'];
 
 const staticRoutes = [
@@ -26,18 +26,20 @@ const staticRoutes = [
   '/support',
   '/terms-of-service',
   '/transparency',
-  '/videos',
   '/volumes',
 ];
 
 const sitemapUrls = [];
 const now = new Date().toISOString();
 
+// Helper to ensure trailing slash
+const withTrailingSlash = (url) => url.endsWith('/') ? url : `${url}/`;
+
 // 1. Static Routes
 for (const lang of langs) {
   for (const route of staticRoutes) {
     sitemapUrls.push({
-      url: `${baseUrl}/${lang}${route}`,
+      url: withTrailingSlash(`${baseUrl}/${lang}${route}`),
       lastModified: now,
       changeFrequency: route === '' ? 'daily' : 'weekly',
       priority: route === '' ? 1 : 0.8,
@@ -56,7 +58,7 @@ if (fs.existsSync(sermonDir)) {
     // Add Volume route
     for (const lang of langs) {
       sitemapUrls.push({
-        url: `${baseUrl}/${lang}/volume/${volId}`,
+        url: withTrailingSlash(`${baseUrl}/${lang}/volume/${volId}`),
         lastModified: now,
         changeFrequency: 'weekly',
         priority: 0.7,
@@ -70,7 +72,7 @@ if (fs.existsSync(sermonDir)) {
         const sermonSlug = sermon.replace('.json', '');
         for (const lang of langs) {
           sitemapUrls.push({
-            url: `${baseUrl}/${lang}/volume/${volId}/${sermonSlug}`,
+            url: withTrailingSlash(`${baseUrl}/${lang}/volume/${volId}/${sermonSlug}`),
             lastModified: now,
             changeFrequency: 'monthly',
             priority: 0.6,

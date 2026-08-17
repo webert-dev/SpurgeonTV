@@ -6,7 +6,7 @@ const SERMONS_EN_DIR = path.join(__dirname, '..', 'chspurgeon-sermons-main');
 const SERMONS_PT_DIR = path.join(__dirname, '..', 'chspurgeon-sermons-pt');
 const SERMONS_ES_DIR = path.join(__dirname, '..', 'chspurgeon-sermons-es');
 
-const VOLUMES = ['volume-10'];
+const VOLUMES = ['volume-11'];
 
 async function translateText(text, targetLang) {
     if (!text || text.trim() === '') return '';

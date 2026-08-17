@@ -62,9 +62,10 @@ export async function generateMetadata({ params }) {
 
   const availableLangs = ['en', 'pt', 'es'];
 
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv';
   const languages = {};
   availableLangs.forEach(l => {
-    languages[l] = `/${l}/devotional/${date}`;
+    languages[l] = `${siteUrl}/${l}/devotional/${date}/`;
   });
 
   return {
@@ -72,7 +73,7 @@ export async function generateMetadata({ params }) {
     description: dict.devotional?.pageSubtitle || 'Read the classic daily devotional by Charles Spurgeon.',
     keywords: ['Charles Spurgeon', 'Morning and Evening', 'devocional', 'devotional', mName, day.toString()],
     alternates: {
-      canonical: `/${lang}/devotional/${date}`,
+      canonical: `${siteUrl}/${lang}/devotional/${date}/`,
       languages: Object.keys(languages).length > 0 ? languages : undefined
     },
     openGraph: {

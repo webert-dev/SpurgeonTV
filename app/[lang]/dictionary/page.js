@@ -4,17 +4,23 @@ export const revalidate = false;
 import { Suspense } from 'react';
 import CitationBox from '../../components/CitationBox';
 
-export const metadata = {
-  title: 'Dictionary | Spurgeon TV',
-  description: 'Theological and Biblical Dictionary for studying Charles H. Spurgeon\'s sermons.',
-  alternates: {
-    languages: {
-      'en': '/en/dictionary',
-      'pt': '/pt/dictionary',
-      'es': '/es/dictionary',
+export async function generateMetadata({ params }) {
+  const { lang } = await params;
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv';
+  
+  return {
+    title: 'Dictionary | Spurgeon TV',
+    description: 'Theological and Biblical Dictionary for studying Charles H. Spurgeon\'s sermons.',
+    alternates: {
+      canonical: `${siteUrl}/${lang}/dictionary/`,
+      languages: {
+        'en': `${siteUrl}/en/dictionary/`,
+        'pt': `${siteUrl}/pt/dictionary/`,
+        'es': `${siteUrl}/es/dictionary/`,
+      }
     }
-  }
-};
+  };
+}
 
 export default async function DictionaryPage({ params }) {
   const { lang } = await params;
