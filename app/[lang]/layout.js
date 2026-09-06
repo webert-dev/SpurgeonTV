@@ -138,13 +138,6 @@ export default async function RootLayout({ children, params }) {
           <CookieBanner lang={lang} dict={dict} />
           </BibleSettingsProvider>
         </ThemeProvider>
-        <Script id="infolinks-config" strategy="lazyOnload">
-          {`
-            var infolinks_pid = 3446708;
-            var infolinks_wsid = 0;
-          `}
-        </Script>
-        <Script strategy="lazyOnload" src="https://resources.infolinks.com/js/infolinks_main.js" />
         <CopyAppendURL lang={lang} />
       </body>
     </html>

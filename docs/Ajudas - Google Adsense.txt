@@ -1,0 +1,2329 @@
+Pular para o conteúdo principal
+Central de Ajuda
+Comunidade
+Comunicados
+Google AdSense
+Políticas e restrições para publishersPolíticas para editores do Google
+Visite A sua página do AdSense, onde pode encontrar informações acerca da sua conta para ajudar a ter sucesso com o AdSense.
+
+
+Políticas
+Políticas para editores do Google
+Próximo: Restrições para editores do Google
+Estamos migrando e consolidando todas as Políticas para editores do Google e as Restrições para editores do Google na nova Central de Ajuda das políticas para editores. Por enquanto, você pode ver todas as políticas nas Centrais de Ajuda da AdMob, do Google AdSense e do Ad Manager.
+Para monetizar seu conteúdo usando o código de anúncio do Google, você precisa obedecer às políticas a seguir. Deixar de cumprir essas políticas pode fazer com que o Google bloqueie a exibição de anúncios no seu conteúdo, suspenda ou encerre sua conta.
+
+Essas políticas se aplicam em combinação com todas as outras que regem o uso de produtos para editores do Google.
+
+O Google viabiliza uma Web aberta e sem custo financeiro, ajudando os editores a monetizar o conteúdo, e os anunciantes a alcançar clientes em potencial com serviços e produtos úteis e relevantes. Para manter a confiança no ecossistema de anúncios, é necessário estabelecer limites sobre o que pode ser monetizado.
+
+As Políticas para editores do Google são organizadas nas seguintes categorias:
+
+Políticas de conteúdo
+Políticas comportamentais
+Políticas relacionadas à privacidade
+Requisitos e outros padrões
+Saiba mais sobre os termos de políticas usados com frequência e o que eles significam no glossário.
+Políticas de conteúdo
+Conteúdo ilegal
+Não permitimos conteúdo que:
+
+seja ilegal, promova atividades ilegais ou infrinja os direitos legais de terceiros.
+ Saiba mais sobre conteúdo ilegal
+
+Abuso de propriedade intelectual
+Não permitimos conteúdo que:
+
+viole direitos autorais. Faz parte da nossa política responder a acusações de supostas violações da Lei de Direitos Autorais do Milênio Digital (DMCA). Você pode registrar uma contranotificação por meio deste formulário;
+venda ou promova a venda de produtos falsificados. Esses itens contêm um logotipo ou uma marca registrada idêntica ou com diferenças mínimas em relação à marca verdadeira. Eles imitam as características da marca para tentar se passar por produtos originais do proprietário.
+Saiba mais sobre abuso de propriedade intelectual
+
+Conteúdo perigoso ou depreciativo
+Não permitimos conteúdo que:
+
+promova discriminação, deprecie ou incite o ódio contra um indivíduo ou um grupo com base em raça ou origem étnica, religião, deficiência, idade, nacionalidade, condição de veterano de guerra, orientação sexual, sexo, identidade de gênero ou outras características associadas à marginalização ou discriminação sistêmicas;
+Exemplos: promover grupos de ódio ou produtos desses grupos, incentivar outras pessoas a acreditar que um indivíduo ou um grupo é desumano, inferior ou digno de ser odiado
+
+assedie, intimide ou pratique bullying contra um indivíduo ou grupo;
+Exemplos: isolar alguém por abuso ou assédio, sugerir que um evento trágico não aconteceu ou que as vítimas ou suas famílias sejam atores ou cúmplices em acobertar o evento
+
+inclua ameaças ou incite a violência física ou mental contra si mesmo ou outras pessoas;
+Exemplos: conteúdo que promova suicídio, anorexia ou outra forma de automutilação; ameace alguém com danos reais ou incite o ataque a outra pessoa; promova, exalte ou tolere a violência contra outros indivíduos; conteúdo criado por ou em apoio a grupos terroristas ou organizações de tráfico de drogas transnacionais ou que promova atos terroristas, incluindo recrutamento ou celebração de ataques desse tipo
+
+explore outras pessoas por meio de extorsão.
+Exemplos: remoções abusivas, revenge porn (pornografia de vingança), chantagem
+
+Saiba mais sobre conteúdo perigoso e depreciativo
+
+Crueldade contra animais
+Não permitimos conteúdo que:
+
+promova crueldade ou violência gratuita contra animais;
+Exemplos: promoção de crueldade contra animais para fins de entretenimento, como rinhas de galos ou de cães
+
+promova a venda de produtos originados de espécies ameaçadas ou em risco de extinção.
+Exemplos: venda de tigres, barbatanas de tubarão, marfim de elefantes, peles de tigres, chifres de rinocerontes, óleo de golfinho
+
+Saiba mais sobre a crueldade contra animais
+
+Conteúdo enganoso
+Representação enganosa
+Não permitimos conteúdo que:
+
+contenha declarações falsas, descrições enganosas ou oculte informações sobre o editor, o criador do conteúdo, a finalidade do conteúdo ou o conteúdo em si;
+sugira, de forma falsa, afiliação ou apoio de outro indivíduo, organização, produto ou serviço.
+Exemplos: falsificação de produtos do Google, uso indevido de logotipos de empresas
+
+ Saiba mais sobre representações enganosas.
+
+Declarações não confiáveis e prejudiciais
+Não permitimos conteúdo que:
+
+faça afirmações comprovadamente falsas e que possa prejudicar de forma significativa a participação ou a confiança no processo eleitoral ou democrático;
+Exemplos: informações sobre processos de votações públicas, qualificação de candidatos políticos com base na idade ou local de nascimento, resultados eleitorais ou dados do censo que contradizem os registros oficiais do governo
+
+promova declarações prejudiciais sobre saúde ou esteja relacionado a uma grande crise sanitária atual e seja contra o consenso científico oficial.
+
+Exemplos: manifestações contra a vacina, negação da existência de condições médicas, como a AIDS ou a COVID-19, e promoção de terapia de reorientação sexual
+
+seja contra o consenso científico oficial sobre mudança climática.
+
+ Saiba mais sobre declarações não confiáveis e prejudiciais
+
+Práticas enganosas
+Não é permitido:
+
+incentivar usuários a interagir com o conteúdo sob pretextos falsos ou imprecisos;
+tentar roubar informações pessoais ou enganar os usuários para que compartilhem informações pessoais;
+Exemplo: engenharia social, como phishing
+
+promover conteúdo, produtos ou serviços usando promessas falsas, desonestas ou enganosas;
+Exemplo: esquemas para "ganhar dinheiro rápido"
+
+agir de maneira coordenada com outros sites ou contas, bem como fazer declarações falsas ou ocultar informações sobre sua identidade ou outros detalhes relevantes, caso o conteúdo seja relacionado a política, problemas sociais ou questões de interesse público;
+
+direcionar conteúdo sobre política, problemas sociais ou questões de interesse público para usuários em outros países, se houver declarações falsas ou ocultação do seu país de origem ou outros detalhes relevantes sobre si mesmo.
+
+ Saiba mais sobre práticas enganosas.
+
+Mídia manipulada
+Não permitimos conteúdo que:
+
+engane os usuários com a utilização de mídias manipuladas sobre política, questões sociais ou assuntos de interesse público.
+ Saiba mais sobre mídias manipuladas.
+
+Permissão de comportamento desonesto
+Não permitimos conteúdo que:
+
+ajude os usuários a enganar outras pessoas;
+Exemplos: criação de documentos falsos ou falsificados, como passaportes, diplomas ou credenciamento; venda ou distribuição de trabalhos acadêmicos, serviços de elaboração de trabalhos ou realização de exames; informações ou produtos para passar em testes de drogas
+
+promova qualquer forma de atividade de hackers e crackers e/ou disponibilize aos usuários instruções, equipamentos ou softwares que falsifiquem ou permitam acesso não autorizado a dispositivos, softwares, servidores ou sites;
+
+Exemplos: páginas ou produtos que permitam acesso ilegal a celulares e outros sistemas ou dispositivos de comunicação ou envio de conteúdo; produtos ou serviços que burlem a proteção de direitos autorais, incluindo a violação de tecnologias de gerenciamento de direitos digitais; produtos que decifrem de forma ilegal sinais de satélite ou a cabo para acessar serviços gratuitamente; páginas que auxiliem ou possibilitem o download de streaming de vídeo, caso isso seja proibido pelo provedor do conteúdo
+
+permita a um usuário rastrear ou monitorar outra pessoa ou as atividades dela sem autorização, ou que promova produtos e serviços com essa função.
+Exemplos: spyware e tecnologia usados para vigilância de parceiros íntimos, incluindo, entre outros, spyware/malware que monitoram mensagens de texto, chamadas telefônicas ou histórico de navegação de outra pessoa; rastreadores por GPS vendidos especificamente para espionar ou monitorar alguém sem consentimento; promoção de equipamentos de vigilância (câmeras, gravadores de áudio, câmeras veiculares e babás eletrônicas) comercializados com o objetivo explícito de espionagem.
+
+Isso não inclui (a) serviços de investigação particular ou (b) produtos ou serviços criados para que pais monitorem ou rastreiem os filhos menores de idade.
+
+ Saiba mais sobre permissão de comportamento desonesto
+
+Conteúdo sexualmente explícito
+Não permitimos conteúdo que:
+
+inclua texto, imagem, áudio, vídeo ou jogos sexualmente explícitos;
+Exemplos: atos sexuais, como sexo genital, anal e/ou oral; masturbação; quadrinhos pornográficos ou hentai; nudez explícita
+
+contenha temas sexuais não consensuais simulados ou reais;
+Exemplos: estupro, incesto, zoofilia, necrofilia, pornografia com crianças, adolescentes ou com mortes reais (snuff) e encontros com menores
+
+promova a criação ou distribuição de conteúdo que foi alterado ou gerado para ser sexualmente explícito ou mostrar nudez.
+Exemplos: sites ou apps que alegam gerar pornografia deepfake, instruções para criar pornografia deepfake, apoio ou comparação de serviços de pornografia deepfake
+
+    Saiba mais sobre o conteúdo sexualmente explícito
+
+Atos sexuais compensados
+Não permitimos conteúdo que:
+
+possa ser interpretado como promoção de um ato sexual em troca de pagamento.
+Exemplos: prostituição, serviços de acompanhantes, massagens íntimas, sites de carícias, serviços de namoro ou encontros sexuais compensados em que um participante precise dar dinheiro, presentes, apoio financeiro, orientação ou outros benefícios valiosos para outro participante, como "sugar dating"
+
+     Saiba mais sobre atos sexuais compensados
+
+Serviços de noivas estrangeiras
+Não permitimos conteúdo que:
+
+facilite o casamento com um estrangeiro.
+Exemplos: serviços de noivas estrangeiras, agentes matrimoniais internacionais, tours de romance
+
+      Saiba mais sobre os serviços de noivas estrangeiras
+
+Temas adultos em conteúdo para a família
+Não permitimos conteúdo que:
+
+seja aparentemente adequado ao público familiar, mas que inclua temas adultos (como sexo, violência ou outras representações de crianças ou personagens infantis conhecidos) inadequados para o público em geral.
+       Saiba mais sobre temas adultos em conteúdo familiar
+
+Abuso e exploração sexual infantil
+Não permitimos conteúdo que:
+
+explore ou abuse sexualmente de crianças, ou que promova a exploração ou abuso sexual de crianças. Isso inclui todos os materiais de abuso sexual infantil;
+coloque crianças em risco, incluindo, mas não se limitando a:
+aliciamento infantil (por exemplo, fazer amizade on-line para facilitar contato sexual on-line ou off-line e/ou trocar imagens sexuais com uma criança);
+extorsão sexual (por exemplo, ameaçar ou chantagear uma criança usando acesso real ou suposto a imagens íntimas dela);
+sexualização de menores (por exemplo, conteúdo que retrate, incentive ou promova o abuso ou a exploração sexual de crianças); e
+tráfico infantil (por exemplo, fazer propaganda de crianças ou oferecê-las para exploração sexual comercial).
+Adotaremos as medidas apropriadas, que podem incluir denúncias ao Centro Nacional para Crianças Desaparecidas e Exploradas e desativação das contas. Se você acredita que uma criança corre perigo ou foi alvo de abuso, exploração ou tráfico, entre em contato com a polícia imediatamente. Caso suspeite que uma criança esteja ou estava sendo ameaçada com alguma relação com nossos produtos, denuncie o comportamento ao Google.
+
+        Saiba mais sobre abuso e exploração sexual infantil
+
+Políticas comportamentais
+Declarações desonestas
+As informações fornecidas pelos editores para permitir o uso ou a interação com os sistemas de publicidade do Google:
+
+precisam ser significativamente precisas e completas, sem omissões enganosas; e
+não podem ser expressas de forma errônea ou enganosa.
+Exemplos: informações pessoais ou detalhes de pagamento fornecidos por um editor estão significativamente incompletos, confusos ou imprecisos; informações imprecisas fornecidas sobre o site (por exemplo, no arquivo ads.txt) ou app (por exemplo, no arquivo app-ads.txt) do publisher; dados enganosos, incompletos ou imprecisos nas solicitações de anúncios, como URLs ou IDs de apps parciais ou imprecisos, geolocalização incorreta etc.
+
+               Saiba mais sobre as declarações desonestas
+
+Interferência de anúncios
+Anúncios veiculados pelo Google que interferem no conteúdo ou nas interações do usuário
+Não permitimos anúncios veiculados pelo Google que:
+
+sejam adjacentes ou se sobreponham a itens de navegação ou outros itens de ação e possam levar a interações não intencionais com o anúncio;
+interfiram muito no consumo de conteúdo por empurrá-lo para fora da tela, sobrepor-se a ele, entre outros exemplos;
+sejam posicionados em uma tela da qual o usuário não consegue sair sem clicar no anúncio.
+               Saiba mais sobre a interferência de anúncios
+
+Valor do inventário
+Anúncios veiculados pelo Google em telas sem conteúdo do editor
+Não permitimos anúncios veiculados pelo Google em telas:
+
+sem conteúdo do editor ou com conteúdo de baixo valor;
+que estejam em construção;
+que sejam usadas para alertas, navegação ou outros fins comportamentais.
+anúncios veiculados pelo Google em telas sem conteúdo do editor
+
+Anúncios fora de contexto
+Não são permitidos anúncios veiculados pelo Google:
+
+em apps ou páginas da Web executados em segundo plano;
+que apareçam fora da tela;
+quando se espera que a atenção do usuário esteja em outro lugar, e não na tela que exibe o anúncio.
+É preciso deixar claro para o usuário com que conteúdo do editor o anúncio está associado.
+
+Saiba mais sobre anúncios fora de contexto
+
+Anúncios veiculados pelo Google em telas com conteúdo replicado
+Não permitimos anúncios veiculados pelo Google em telas:
+
+com conteúdo incorporado ou copiado de outros usuários e que não tenha nenhum comentário ou edição do conteúdo adicionais nem agregue valor ao mesmo.
+Você também precisa obedecer à nossa política de abuso de propriedade intelectual.
+
+Saiba mais sobre anúncios veiculados pelo Google em telas com conteúdo replicado
+
+Mais anúncios ou material promocional pago do que conteúdo do editor
+Não permitimos anúncios veiculados pelo Google em telas:
+
+com mais anúncios ou outros materiais promocionais pagos do que conteúdo do editor.
+Saiba mais sobre quantidades maiores de anúncios ou material promocional pago do que conteúdo do editor
+
+ 
+
+Idiomas não compatíveis
+Não permitimos conteúdo que:
+
+não esteja (em grande parte) em um dos idiomas compatíveis.
+Saiba mais sobre idiomas não compatíveis
+
+ 
+ 
+Políticas relacionadas à privacidade
+Publicidade personalizada
+Não é permitido usar produtos de plataformas do Google ou o código de anúncio do Google para selecionar ou segmentar anúncios personalizados nem para coletar ou usar dados do público-alvo, como listas de cookies, com base em:
+
+Atividades anteriores ou atuais de usuários menores de 13 anos;
+Atividade anterior ou atual de usuários em sites ou apps, ou áreas de sites ou aplicativos, direcionados a crianças menores de 13 anos;
+Atividade anterior ou atual de usuários em sites ou apps relacionados a conteúdo adulto, jogos de azar ou agências governamentais;
+Outras informações sensíveis reais ou implícitas, incluindo, sem limitação:
+Histórico ou informações de saúde ou sobre saúde, como em sites ou apps voltados para um grupo específico relacionado à saúde;
+Situação financeira negativa ou outras informações detalhadas relacionadas às finanças de um indivíduo, indicando que o usuário tem baixa avaliação de crédito ou dívidas altas;
+Origens raciais ou étnicas, como informações de sites ou aplicativos que coletam dados de identificação por raça ou etnia dos visitantes;
+Crenças religiosas ou outras crenças de natureza semelhante, como informações de sites ou aplicativos que coletam informações sobre a religião ou as crenças religiosas das pessoas;
+O cometimento ou suposto cometimento de um crime, como informações que indicam que um usuário possui ficha criminal;
+Filiação política, como informações que indicam a opinião ou ideologia política de um usuário;
+Associação a sindicatos, como informações sobre a visita de um usuário ao app ou site de um sindicato;
+Comportamento ou orientação sexual, como informações sobre a orientação sexual inferidas pela visita do usuário a um determinado site.
+Nos EUA e no Canadá, não é permitido segmentar as seguintes categorias de produtos ou serviços para públicos-alvo com base em sexo, idade, status parental, estado civil ou CEP:
+
+Habitação, como imóveis para venda ou aluguel, e serviços imobiliários.
+Emprego, como anúncios de vagas, sites de recrutamento e sites com listas de vagas. Um subconjunto de anunciantes predeterminados do governo dos EUA que promovem empregos pode segmentar públicos-alvo restritos em condições específicas. Se a segmentação for feita com base em uma qualificação profissional legítima para uma vaga no governo, que é definida pela legislação dos EUA como uma qualificação necessária para o andamento normal do trabalho, esses anunciantes identificados do governo dos EUA poderão segmentar públicos-alvo restritos.
+Ofertas referentes a crédito, produtos e serviços bancários ou determinados serviços de planejamento e gestão financeira. Exemplos: cartões de crédito e empréstimos, contas bancárias e correntes, produtos de gerenciamento de dívida.
+Ao usar produtos de plataformas do Google ou o código de anúncio do Google para publicidade personalizada:
+
+Você precisa ter todos os direitos necessários para usar dados do público-alvo, como listas de cookies;
+Os anunciantes precisam anexar avisos aos anúncios para deixar claro que eles foram selecionados com base em interesses (por exemplo, usar o ícone "Opções de anúncios"); e
+Todas as partes precisam obedecer às diretrizes do setor de publicidade na Internet aplicáveis, por exemplo, os princípios de autorregulação da publicidade comportamental on-line da Digital Advertising Alliance ou a Estrutura da UE para publicidade comportamental on-line da IAB Europe.
+ Saiba mais sobre a publicidade personalizada
+
+Divulgações de privacidade
+Os publishers precisam:
+
+Ter e obedecer a uma Política de Privacidade que divulgue claramente qualquer coleta, compartilhamento e uso de dados que ocorra como consequência do uso de produtos e serviços do Google, incluindo informações sobre as tecnologias utilizadas, como cookies, beacons da Web, endereços IP e outros identificadores. Essa divulgação se aplica à coleta, ao compartilhamento e ao uso de dados em qualquer plataforma ou propriedade (por exemplo, Web, app, smart TV, console de jogos ou publicação por e-mail). É necessário informar na Política de Privacidade que terceiros podem inserir cookies nos navegadores dos usuários para análise ou utilizar beacons da Web e endereços IP para coletar informações como resultado da veiculação de anúncios no seu site.
+
+Para cumprir os critérios de divulgação quanto ao uso de dados pelo Google, você pode mostrar um link em destaque que leva ao documento Como o Google usa informações de sites ou apps que utilizam nossos serviços.
+           Saiba mais sobre declarações de privacidade
+
+Cookies nos domínios do Google
+Os editores precisam:
+
+incluir, modificar, interceptar ou excluir cookies definidos nos domínios do Google.
+           Saiba mais sobre cookies nos domínios do Google
+
+Identificação de usuários
+Os editores:
+
+Não podem transmitir ao Google dados que possam ser usados ou reconhecidos como informações de identificação pessoal.
+Não podem utilizar nossos serviços para identificar usuários ou facilitar a combinação de informações de identificação pessoal com dados coletados anteriormente como informações de identificação não pessoais sem um aviso explícito e sem o consentimento prévio do usuário (isto é, permissão). Mesmo que o usuário tenha autorizado essa combinação, os editores não poderão separar dados que o Google informa de maneira agregada.
+Para mais informações, consulte a Orientação para manter a conformidade com a política de identificação de usuários.
+
+Precisam obedecer à Política de consentimento de usuários da União Europeia.
+           Saiba mais sobre como identificar usuários
+
+Uso de dados de dispositivo e local
+Se os editores coletarem, processarem ou divulgarem informações que identifiquem ou possam ser usadas para inferir a localização geográfica exata de um usuário final, como dados de GPS, Wi-Fi ou torre de celular,
+
+eles precisarão:
+
+divulgar ao usuário, por meio de uma notificação intersticial ou pontual, para quê os dados dele podem ser usados (incluindo Personalização de anúncios, análise e atribuição, conforme aplicável) e se eles serão compartilhados com parceiros;
+receber o consentimento expresso dos usuários finais (isto é, "permissão") antes de coletar, processar ou divulgar essas informações;
+enviar esses dados ao Google em um estado criptografado ou por meio de um canal criptografado; e
+informar sobre tal coleta, processamento ou divulgação de informações em todas as Políticas de Privacidade aplicáveis.
+            Saiba mais sobre o uso de dados de dispositivo e local
+
+Lei de Proteção da Privacidade On-line das Crianças (COPPA)
+Se você implementar qualquer serviço de publicidade do Google em um app, site ou seção de um site que seja coberto pela Lei de Proteção da Privacidade On-line das Crianças (COPPA), vai precisar cumprir os seguintes requisitos:
+
+Será necessário notificar o Google sobre esses sites ou seções de sites cobertos pela COPPA no Google Search Console, incluir tags na solicitação de anúncio usando o SDK da AdMob ou codificar seu site, app ou solicitação de anúncio para tratamento para direcionamento a crianças.
+ Os editores não poderão usar publicidade com base em interesses (incluindo remarketing) para segmentar:
+atividades anteriores ou atuais de usuários com menos de 13 anos; ou
+atividades anteriores ou atuais em sites direcionados a usuários com menos de 13 anos.
+               Saiba mais sobre a Lei de Proteção da Privacidade On-line das Crianças (COPPA).
+
+Requisitos e outros padrões
+Políticas de spam da Pesquisa Google na Web
+Não é permitido:
+
+Inserir anúncios veiculados pelo Google em telas que violam as políticas contra spam da Pesquisa Google na Web.
+               Saiba mais sobre as políticas de spam da Pesquisa Google na Web
+
+Experiências abusivas
+Não é permitido:
+
+exibir anúncios veiculados pelo Google em telas que contêm experiências abusivas.
+               Saiba mais sobre experiências abusivas
+
+Malware ou software indesejado
+Não é permitido:
+
+posicionar anúncios veiculados pelo Google em telas com software malicioso ou "malware" que pode causar danos ou conseguir acesso não autorizado a um computador, dispositivo ou rede.
+Exemplos: vírus de computador, ransomware, worms, cavalos de troia, rootkits, keyloggers, discadores, spyware, software de segurança invasor e outros programas ou apps nocivos
+
+posicionar anúncios veiculados pelo Google em telas que violam a política de software indesejado do Google.
+Exemplos: não ser transparente sobre a funcionalidade que o software oferece ou sobre todas as implicações da instalação dele, não incluir os Termos de Serviço ou o Contrato de Licença de Usuário Final, agrupar softwares ou aplicativos sem o conhecimento do usuário, fazer alterações no sistema sem o consentimento do usuário, dificultar a desativação ou desinstalação do software ou não usar de maneira adequada as APIs públicas do Google ao interagir com serviços ou produtos do Google
+
+   Saiba mais sobre malware ou software indesejado
+
+Better Ads Standards
+Não é permitido:
+
+exibir anúncios veiculados pelo Google em telas que não estão em conformidade com os Better Ads Standards. Para mais informações sobre os tipos de experiência de publicidade não permitidos, acesse o site do Coalition for Better Ads.
+               Saiba mais sobre os Better Ads Standards
+
+Inventário autorizado
+Não é permitido:
+
+exibir anúncios veiculados pelo Google em um domínio que usa um ads.txt em que você não está incluído como um vendedor autorizado do inventário no arquivo ads.txt.
+Para parceiros de distribuição, os pais precisam garantir que os filhos adicionem imediatamente um arquivo ads.txt aos domínios filhos, com pais como vendedores autorizados do inventário filho.
+
+               Saiba mais sobre o inventário autorizado
+
+Compliance com sanções
+O Google precisa respeitar sanções e controles de exportação mantidos pelo Escritório de Controle de Ativos Estrangeiros (OFAC) do Departamento do Tesouro dos EUA, pelo Gabinete de Indústria e Segurança do Departamento de Comércio dos Estados Unidos e outras sanções aplicáveis. Como resultado, os produtos para editores do Google não estão disponíveis nos seguintes países ou territórios:
+
+Crimeia
+Cuba
+Chamada República Popular de Donetsk (DNR) e República Popular de Luhansk (LNR)
+Irã
+Coreia do Norte
+Os produtos para editores do Google também não podem ser usados para partes localizadas nos países ou regiões sujeitos a sanções mencionados acima nem em nome delas.
+
+Além disso, os produtos para editores do Google não estão qualificados para nenhuma entidade ou indivíduo que esteja restrito por sanções comerciais aplicáveis e leis de conformidade de exportação. Os produtos para editores do Google não estão qualificados para entidades ou indivíduos de propriedade ou controlados por tais entidades ou indivíduos restritos ou que estejam agindo em nome deles ou para eles.
+
+Os editores também precisam cumprir as sanções e os regulamentos de exportação aplicáveis, incluindo sanções do OFAC, além de concordar em não fazer com que o Google viole esses regulamentos. Não é permitido usar produtos para editores do Google para entidades ou indivíduos restritos nem em nome deles. Não é permitido usar produtos para editores do Google para entidades ou indivíduos localizados em regiões ou países sujeitos a sanções nem em nome deles.
+
+               Saiba mais sobre compliance com sanções
+
+Esta página pode ter conteúdo que foi traduzido com tecnologia de IA. As traduções de IA podem conter erros.
+
+Envie feedback sobre este artigo
+Próximo: Restrições para editores do Google
+Isso foi útil?SimNão
+Precisa de mais ajuda?
+Siga as próximas etapas:
+Postar na Comunidade de Ajuda
+Receba respostas dos membros da comunidade
+Fale conosco
+Conte mais sobre o problema para podermos ajudar você
+Políticas
+Corrigir problemas com a política
+Guia para principiantes
+Regulamentos do programa
+Políticas e restrições para publishers
+Políticas para editores do Google
+Restrições para editores do Google
+Entenda as Políticas e Restrições do Google para publishers
+Imposições da política
+Políticas específicas sobre o formato do anúncio
+Registro de alterações das políticas do Google AdSense
+
+Aumente sua receita com dicas personalizadas hoje mesmo.
+Acesse a página "Dicas de otimização para o Google AdSense" e confira sugestões personalizadas para maximizar sua receita.
+
+Aumentar agora
+
+©2026 Google  Política de Privacidade  Termos de Serviço
+Idioma
+
+
+
+
+
+Pular para o conteúdo principal
+Central de Ajuda
+Comunidade
+Comunicados
+Google AdSense
+Visite A sua página do AdSense, onde pode encontrar informações acerca da sua conta para ajudar a ter sucesso com o AdSense.
+
+
+Políticas
+Restrições para editores do Google
+Próximo: Entenda as Políticas e Restrições do Google para publishers
+Estamos migrando e consolidando todas as Políticas para editores do Google e as Restrições para editores do Google na nova Central de Ajuda das políticas para editores. Por enquanto, você pode ver todas as políticas nas Centrais de Ajuda da AdMob, do Google AdSense e do Ad Manager.
+O Google viabiliza uma Internet gratuita e aberta, possibilitando que os editores gerem receita com o conteúdo e que os anunciantes alcancem clientes em potencial usando serviços e produtos úteis e relevantes.
+
+As Restrições para editores identificam conteúdo que não pode receber determinadas origens de publicidade. Se o seu conteúdo tiver uma restrição de inventário, menos origens de publicidade poderão dar lances nele. Em alguns casos, isso significa que nenhuma origem definirá lances para o inventário, e nenhum anúncio será exibido nesse conteúdo. Os anúncios do Google Ads (antigo Google AdWords) não serão veiculados em conteúdos classificados com essas restrições. Portanto, embora você possa gerar receita com conteúdo incluído nessas Restrições para editores do Google, ele provavelmente receberá menos anúncios do que outros materiais sem restrições.
+
+As Restrições para editores do Google são organizadas nas seguintes categorias:
+
+Restrições de conteúdo
+Restrições comportamentais
+Restrições do inventário de vídeo
+Essas restrições se aplicam a todas as outras políticas que regem o uso de produtos para publishers do Google.
+
+Saiba mais sobre os termos de políticas usados com frequência e o que eles significam no glossário.
+Restrições de conteúdo
+Conteúdo sexual
+Refere-se a conteúdo que:
+
+contenha nudez;
+seja sexualmente gratificante, tenha conotação sexual e/ou o objetivo de causar excitação sexual;
+Exemplos: closes de seios, glúteos ou genitais, roupas com transparência parcial ou completa, partes sensuais em evidência que estejam embaçadas ou imagens censuradas de homens ou mulheres posando e/ou despindo-se de maneira provocante
+
+retrate fetiches sexuais;
+Exemplos: voyeurismo, encenações, servidão, dominação e submissão, sadomasoquismo
+
+esteja relacionado a entretenimento sexual;
+Exemplos: festivais de filmes pornográficos, serviços de conversas por webcam para adultos, clubes de strip-tease
+
+promova produtos sexuais;
+Exemplos: brinquedos sexuais, lubrificantes pessoais, produtos para melhorar o desempenho sexual
+
+facilite casos amorosos e/ou encontros sexuais;
+Exemplos: encontros amorosos, de swing, casuais ou sem compromisso
+
+forneça conselhos sobre o desempenho sexual;
+Exemplos: dicas sobre sexo
+
+promova medicamentos ou suplementos sexuais.
+Exemplos: pílulas para disfunção erétil, suplementos para aumentar a libido
+
+  Saiba mais sobre conteúdo sexual
+
+Conteúdo chocante
+Refere-se a conteúdo que:
+
+contenha imagens ou relatos nojentos, explícitos ou repugnantes;
+Exemplos: sangue, vísceras, cortes, fluidos sexuais, resíduos humanos ou animais, cenas de crimes ou fotos de acidentes
+
+retrate atos de violência;
+Exemplos: relatos ou imagens de tiroteios, explosões ou bombardeios; vídeos de execução
+
+contenha uma quantidade significativa de linguagem obscena ou ofensiva ou dê destaque a ela.
+Exemplos: xingamentos ou palavrões, variações de linguagem obscena ou palavras desse tipo com erros ortográficos
+
+Exceção para imagens de jogabilidade: no contexto das imagens de jogabilidade, só se considera que o conteúdo "apresenta imagens ou relatos nojentos, explícitos ou repugnantes" ou "retrata atos de violência" se ele mostra:
+
+tortura.
+Exemplos: atos de violência que causam dor intensa ou sofrimento em indivíduos presos
+
+violência sexual.
+violência contra menores.
+violência contra pessoas reais conhecidas.
+Exemplos: qualquer tipo de violência contra presidentes, administradores públicos, celebridades ou jogadores esportivos
+
+violência contra um indivíduo ou um grupo com base em uma característica associada à discriminação ou marginalização sistêmica.
+Exemplos: violência contra uma pessoa com base em raça ou origem étnica, religião, deficiência, idade, nacionalidade, condição de veterano de guerra, orientação sexual, gênero ou identidade de gênero.
+
+  Saiba mais sobre conteúdo chocante
+
+Explosivos
+Refere-se a conteúdo que:
+
+promova a venda de produtos criados para explodir e que poderiam causar danos a pessoas ou propriedades próximas;
+Exemplos: bombas com pregos, bombas químicas, granadas, traques ou fogos de artifício que explodem
+
+contenha instruções sobre a montagem, melhoria ou aquisição de itens explosivos.
+Exemplos: guias para fabricação de bombas, softwares ou equipamentos destinados à impressão 3D de peças de granadas, bombas ou outros dispositivos explosivos
+
+  Saiba mais sobre explosivos
+
+Armas de fogo, peças de armas e produtos relacionados
+Refere-se a conteúdo que:
+
+promova a venda de armas de fogo ou armas esportivas ou recreativas que podem causar danos sérios se usadas incorretamente ou que parecem ser armas verdadeiras;
+Exemplos: revólveres, rifles, escopetas, espingardas, armas antigas que ainda funcionam, armas de airsoft, armas de paintball, espingardas de ar comprimido, armas impressas em 3D
+
+promova a venda de qualquer peça, componente ou equipamento relacionado a armas de fogo, acabado ou não acabado, que seja essencial para uma arma de fogo ou aprimore a funcionalidade dela;
+Exemplos: munições, pentes para munição, silenciadores, tripés e bipés, coronhas, kits de conversão, culatras, lunetas e miras, "bump stocks"
+
+contenha instruções sobre a montagem ou o aprimoramento da funcionalidade de armas de fogo.
+  Saiba mais sobre armas, peças de armas e produtos relacionados
+
+Outras armas
+Refere-se a conteúdo que:
+
+promova a venda de outras armas projetadas ou promovidas como produtos que podem ser usados para ferir um oponente no esporte, em autodefesa ou em combate;
+Exemplos: estrelas ninja, pistolas elétricas, socos ingleses, sprays de pimenta
+
+promova a venda de facas criadas para proporcionar uma vantagem no confronto (incluindo aparência disfarçada ou mecanismo de abertura automática);
+Exemplos: canivetes, facas de combate, bengalas espadas, canivetes borboleta, facas militares, adagas e machadinhas
+
+contenha instruções sobre a montagem, melhoria ou aquisição de qualquer produto coberto por esta seção "Outras armas".
+  Saiba mais sobre outras armas
+
+Tabaco
+Refere-se a conteúdo que:
+
+promova a venda de tabaco e produtos relacionados a ele.
+Exemplos: cigarros, charutos, cachimbos, papéis de fumo, tabaco mastigável, cigarros eletrônicos
+
+   Saiba mais sobre tabaco
+
+Drogas recreativas
+Refere-se a conteúdo que:
+
+promova substâncias que alteram o estado mental para fins de recreação ou que induzem estados alucinógenos;
+Exemplos: cocaína, metanfetamina em cristais, maconha, substitutos da cocaína, mefedrona, drogas sintéticas legalizadas
+
+promova produtos ou serviços comercializados como facilitadores para uso de drogas recreativas;
+Exemplos: cachimbos, bongs, cafeterias que vendem maconha
+
+forneça instruções sobre como produzir, comprar ou usar drogas recreativas.
+Exemplos: fóruns de troca de dicas ou recomendações sobre o uso de drogas
+
+  Saiba mais sobre drogas recreativas
+
+Venda ou uso indevido de bebidas alcoólicas
+Refere-se a conteúdo que:
+
+facilite a venda on-line de bebidas alcoólicas;
+promova o consumo irresponsável de álcool.
+Exemplos: representação favorável do consumo excessivo de bebidas alcoólicas ou de competições relacionadas
+
+  Saiba mais sobre venda ou uso indevido de bebidas alcoólicas
+
+Jogos de azar on-line
+Refere-se a conteúdo que:
+
+permite que os usuários participem de jogos de azar on-line envolvendo dinheiro real ou quaisquer outros jogos da Internet que realizem pagamentos ou apostas em dinheiro ou com outro item de valor em troca da oportunidade de ganhar dinheiro real ou prêmios com base no resultado do jogo.
+Exclusões: quando o conteúdo relevante é entregue a um usuário localizado na Austrália, Brasil, Canadá, Colômbia, Coreia do Sul, Espanha, Estados Unidos, França, Grécia, Irlanda, Itália, Japão, México, Países Baixos, Filipinas, Reino Unido ou Turquia.
+
+Exemplos: cassinos on-line ou agenciadores de apostas, compra on-line de bilhetes de loteria ou raspadinhas, apostas esportivas on-line, agregadores ou sites afiliados que promovem páginas de jogos de azar on-line
+
+   Saiba mais sobre jogos de azar on-line
+
+Medicamentos controlados
+Refere-se a conteúdo que:
+
+promove a venda on-line de medicamentos controlados.
+Exemplos: venda de medicamentos controlados, farmácias on-line
+
+   Saiba mais sobre medicamentos controlados
+
+Produtos farmacêuticos e suplementos reprovados
+Refere-se a conteúdo que:
+
+promove a venda de produtos farmacêuticos e suplementos reprovados.
+Exemplos: todos os itens desta lista ilimitada de produtos farmacêuticos e suplementos reprovados, produtos que contêm efedra, suplementos herbáceos e dietéticos com ingredientes farmacêuticos ativos ou perigosos, produtos com nomes muito semelhantes a uma substância farmacêutica, um suplemento ou uma substância controlada reprovada
+
+  Saiba mais sobre produtos farmacêuticos e suplementos reprovados
+
+App removido da Google Play Store
+Refere-se a um app que:
+
+foi removido da Google Play Store por violar as políticas do Google Play.
+ Saiba mais sobre apps removidos da Google Play Store
+
+Restrições comportamentais
+Interferência de anúncios
+Anúncios veiculados pelo Google que encobrem o conteúdo
+Não permitimos anúncios veiculados pelo Google que:
+
+encubram o conteúdo de forma completa ou parcial por um determinado período.
+  Saiba mais sobre anúncios veiculados pelo Google que encobrem o conteúdo 
+
+Conteúdo que encobre anúncios veiculados pelo Google
+Não permitimos conteúdo que:
+
+encubra de forma completa ou parcial os anúncios veiculados pelo Google.
+  Saiba mais sobre conteúdo que encobre anúncios veiculados pelo Google 
+
+Restrições do inventário de vídeo
+Definições
+In-stream se refere a um anúncio em vídeo ou áudio reproduzido no streaming de conteúdo em vídeo ou áudio, sendo que esse conteúdo é o foco da visita do usuário ou é solicitado de forma explícita pela pessoa.
+Exemplo: um anúncio em vídeo que é reproduzido antes, durante ou depois do streaming de um conteúdo em vídeo que o usuário pediu.
+
+Conteúdo complementar significa um anúncio em vídeo reproduzido no streaming que acompanha o conteúdo principal da visita do usuário, sendo que o vídeo não é o foco da visita da pessoa nem foi solicitado de forma explícita por ela. As posições de conteúdo complementar precisam ser carregadas no corpo da página e ficar silenciadas por padrão.
+Exemplo: um anúncio em vídeo reproduzido antes, durante ou depois do conteúdo em vídeo sem som que ocupa uma pequena parte de uma página considerada principalmente editorial.
+
+Intersticial se refere a um anúncio em vídeo ocupando a maior parte da janela de visualização e reproduzido como o foco da página em uma transição entre conteúdos, sem outros streamings de vídeo.
+Exemplo: um anúncio em vídeo independente de qualquer outro streaming de vídeo, colocado em visualização completa em uma pausa ou transição natural entre conteúdos.
+
+Independente significa um anúncio em vídeo reproduzido sem a presença de outro streaming de vídeo, em que a publicidade não é o foco da página.
+Exemplo: um anúncio em vídeo independente de qualquer outro streaming de vídeo, posicionado em um banner na coluna direita da página de uma matéria.
+
+Smart TV, Mídia digital out of home, Posição in-stream em smart TV e Posição que não é in-stream em smart TV têm os significados definidos nos Requisitos para inventários de smart TV e mídia digital out of home.
+
+Descrever o inventário com precisão
+O inventário de vídeo precisa ter declarações com indicadores precisos (para o Ad Manager, consulte os parâmetros de URL da tag de anúncio VAST), incluindo:
+Recursos de áudio na posição do anúncio: audível (volume > 0 no momento da solicitação de anúncio) por padrão ou silenciado (para o Ad Manager, consulte o parâmetro vpmute).
+Tipo de posição do anúncio:
+Para inventários de smart TV ou mídia digital out of home: as posições precisam ser declaradas corretamente de acordo com os Requisitos para inventários de smart TV e mídia digital out of home.
+Para inventários que não sejam de smart TV e mídia digital out of home: os anúncios em vídeo veiculados em players com conteúdo de vídeo precisam ser corretamente declarados como posições "In-stream" ou "Conteúdo complementar" (para o Ad Manager, consulte o parâmetro plcmt). Os anúncios em vídeo mostrados em lugares que não têm player de vídeo não precisam de declarações e são determinados de forma automática pelo Google com base no formato do inventário, como "Intersticial" ou "Independente".
+Observação: no Ad Manager, os termos "instream" ou "in-stream" nas páginas da Central de Ajuda e nos controles do produto se referem tanto a "in-stream" quanto a "conteúdo complementar", conforme definido nessas políticas. O inventário de vídeo do Ad Manager que for "in-stream" ou "conteúdo complementar" terá que atender aos requisitos delas.
+Usar implementações compatíveis
+As posições in-stream ou de conteúdo complementar precisam usar o SDK do Interactive Media Ads do Google ou a biblioteca de acesso programático do Google em plataformas compatíveis, a menos que você participe de um programa Beta oficial do Google.
+Parceiros e editores não podem usar produtos do Interactive Media Ads para gerar receita no YouTube. Em conteúdo do YouTube, os parceiros e editores precisam gerar receita com o Programa de Parcerias do YouTube.
+As posições intersticiais ou independentes precisam usar as soluções do Google: na Web, Tags do editor do Google; no app, o SDK dos anúncios para dispositivos móveis do Google (para o Ad Manager; para a AdMob).
+O SDK do Interactive Media Ads e a biblioteca de acesso programático do Google não podem ser usados em posições intersticiais ou independentes, a menos que você participe de um programa Beta oficial do Google ou para uso em inventários de smart TVs.
+Proteger o valor do anunciante
+Os controles de inventário de vídeo (por exemplo, reproduzir, pausar, desativar som, pular ou dispensar) e o conteúdo ou os controles do anúncio, quando fornecidos, não podem estar obstruídos/ocultos e precisam funcionar.
+Para fins de esclarecimento, os controles de inventário de vídeo ou de anúncios que são ativados ou mostrados apenas como resultado de uma única ação do usuário (por exemplo, rolar, passar o cursor, tocar ou deslizar a tela) não são considerados obstruídos, ocultos ou não funcionais.
+Nas posições in-stream, os anúncios em áudio não podem ser solicitados nem veiculados em posições com o som desativado.
+Respeitar o usuário
+O inventário de vídeo pode ter reprodução automática, desde que as seguintes condições sejam atendidas:
+Só é possível reproduzir automaticamente com som um inventário de vídeo por vez em todos os tipos de posições.
+Além disso, para posições in-stream ou de conteúdo complementar, somente um player de vídeo pode ter reprodução automática por vez.
+O anúncio não pode ser reproduzido automaticamente até que pelo menos 50% do bloco de anúncios apareça.
+Exceto em inventários de smart TV e mídia digital out of home, em que as posições fixas não são compatíveis, outros tipos de inventário de vídeo podem ser fixos, desde que:
+Uma opção para dispensar seja apresentada durante o vídeo ou o anúncio. Ela não pode ficar oculta nem obstruída e precisa funcionar.
+Para posições in-stream ou de conteúdo complementar que fazem a transição para uma posição fixa, o player de vídeo precisa começar no conteúdo principal e só fará a transição quando a pessoa rolar a página, passando do player.
+Requisitos adicionais para inventários de smart TV e mídia digital out of home
+Além do mencionado acima, eles precisam obedecer aos Requisitos para inventários de smart TV e mídia digital out of home.
+  Saiba mais sobre as restrições de inventário de vídeo 
+
+Esta página pode ter conteúdo que foi traduzido com tecnologia de IA. As traduções de IA podem conter erros.
+
+Envie feedback sobre este artigo
+Próximo: Entenda as Políticas e Restrições do Google para publishers
+Isso foi útil?SimNão
+Precisa de mais ajuda?
+Siga as próximas etapas:
+Postar na Comunidade de Ajuda
+Receba respostas dos membros da comunidade
+Fale conosco
+Conte mais sobre o problema para podermos ajudar você
+Políticas
+Corrigir problemas com a política
+Guia para principiantes
+Regulamentos do programa
+Políticas e restrições para publishers
+Políticas para editores do Google
+Restrições para editores do Google
+Entenda as Políticas e Restrições do Google para publishers
+Imposições da política
+Políticas específicas sobre o formato do anúncio
+Registro de alterações das políticas do Google AdSense
+
+Aumente sua receita com dicas personalizadas hoje mesmo.
+Acesse a página "Dicas de otimização para o Google AdSense" e confira sugestões personalizadas para maximizar sua receita.
+
+Aumentar agora
+
+©2026 Google  Política de Privacidade  Termos de Serviço
+Idioma
+
+
+Pular para o conteúdo principal
+Central de Ajuda
+Comunidade
+Comunicados
+Google AdSense
+Visite A sua página do AdSense, onde pode encontrar informações acerca da sua conta para ajudar a ter sucesso com o AdSense.
+
+
+Políticas
+Entenda as Políticas e Restrições do Google para publishers
+Próximo: Notificação sobre políticas solicitando mudanças no seu site
+O Google viabiliza uma Web acessível e aberta. Com ela, os publishers monetizam o conteúdo produzido e os anunciantes atingem os clientes em potencial usando produtos e serviços úteis e relevantes. Para manter a confiança no ecossistema de anúncios, é necessário estabelecer limites sobre o que pode gerar receita.
+
+Todos os publishers precisam aderir às políticas a seguir. Portanto, leia com atenção. Se você não estiver em conformidade com essas políticas, reservamo-nos o direito de desabilitar a veiculação de anúncios no seu site ou encerrar sua conta a qualquer momento. Se a sua conta for encerrada, você não poderá mais participar do programa AdSense.
+
+Podemos alterar nossas políticas a qualquer momento e, de acordo com os Termos e Condições, é sua responsabilidade cumpri-las.
+
+
+
+Ative as legendas do YouTube no seu idioma. Clique no ícone Configurações Imagem do ícone de configurações do YouTube no player de vídeo, selecione Legendas/CC e escolha o idioma.
+
+Neste artigo:
+
+O que são as Políticas do Google para publishers?
+O que são as Restrições do Google para publishers?
+Qual é a diferença entre as Políticas e as Restrições do Google para publishers?
+Onde posso ver os problemas que afetam a veiculação de anúncios?
+Como resolver uma violação da Política do Google para publishers?
+Como resolver Restrições do Google para publishers?
+Perguntas frequentes sobre as Políticas e as Restrições do Google para publishers
+O que são as Políticas do Google para publishers?
+Ao gerar receita com seu conteúdo usando o código de anúncio do Google, você precisa aderir às Políticas do Google para publishers. "Conteúdo" significa tudo que estiver presente na sua página ou no seu app, incluindo conteúdo gerado pelo usuário, como seções de comentários, além de anúncios e links para outros sites ou apps. Tentar monetizar conteúdo que viola as políticas e não obedecer a elas pode fazer com que o Google bloqueie a exibição de anúncios no seu conteúdo. Além disso, sua conta pode ser suspensa ou encerrada.
+
+Essas políticas são aplicadas junto com as outras políticas que regem o uso de produtos para publishers do Google.
+
+O que são as Restrições do Google para publishers?
+As Restrições do Google para publishers identificam conteúdo que não pode receber determinadas origens de publicidade. "Conteúdo" significa tudo que estiver presente na sua página ou app, incluindo anúncios e links para outros sites ou apps.
+
+Gerar receita com conteúdo enquadrado nas Restrições do Google para publishers não é uma violação da política. Apenas restringimos a veiculação de anúncios nesse conteúdo, com base nas preferências de cada produto e/ou nas preferências dos anunciantes. Em alguns casos, isso significa que nenhuma origem de publicidade definirá lances para seu inventário, e nenhum anúncio será exibido nesse conteúdo restrito.
+
+Temos compradores de várias origens, que incluem o Google Ads, Authorized Buyers, DV360, reservas, entre outros. Talvez você receba anúncios limitados de algumas outras origens, mas os anúncios do Google Ads (antigo Google AdWords) não serão veiculados em conteúdo classificado com essas restrições.
+
+Assim, embora você possa gerar receita com conteúdo incluído nas Restrições do Google para publishers, provavelmente receberá menos publicidade nesse conteúdo do que receberia em outros tipos sem restrições.
+
+Essas restrições são aplicadas junto com as outras políticas que regem o uso de produtos para publishers do Google.
+
+Qual é a diferença entre as Políticas e as Restrições do Google para publishers?
+As Políticas do Google para publishers descrevem os tipos de conteúdo que não podem gerar receita com nenhum dos nossos produtos para publishers. Isso inclui políticas contra conteúdo ilegal, perigoso, depreciativo, sexualmente explícito, entre outros. Esse tipo de conteúdo nunca será autorizado a exibir anúncios.
+
+As Restrições do Google para publishers, por outro lado, descrevem os tipos de conteúdo, como tabaco ou drogas recreativas, que não violam necessariamente a política, mas podem não ser atrativos para todos os anunciantes. Isso significa que os publishers não receberão violações da política. Em vez disso, o conteúdo será marcado com uma restrição de inventário e provavelmente receberá menos publicidade (ou às vezes, nenhuma), porque os anunciantes determinam a demanda.
+
+Onde posso ver os problemas que afetam a veiculação de anúncios?
+A Central de políticas mostra todas as restrições atuais nos seus sites. Elas podem bloquear toda a publicidade (por exemplo, "Veiculação de anúncios desativada") ou definir os anunciantes que podem dar lances no seu inventário (por exemplo, "Veiculação de anúncios restrita").
+
+Se houver vários problemas com seu conteúdo, poderemos aplicar restrições:
+
+A Política do Google para publishers precisa ser corrigida. As violações recebem a restrição "Veiculação de anúncios desativada" ou "Veiculação de anúncios restrita".
+As Restrições do Google para publishers não são violações. Por isso, você não precisa alterar seu conteúdo nem as solicitações de anúncios. No entanto, o conteúdo com esse tipo de limitação recebe o status "Veiculação de anúncios restrita".
+Dica: para descobrir se você precisa tomar alguma medida quanto a uma restrição, confira a coluna "Problemas". O rótulo Problema com a política aparecerá se a restrição for devido a uma violação. Já o rótulo Preferência do anunciante será mostrado se for uma restrição do publisher.
+Como resolver uma violação da Política do Google para publishers?
+Acesse a Central de políticas, que dá informações detalhadas sobre o que pode restringir a veiculação de anúncios nos seus sites, seções, páginas ou apps. Ela também mostra as etapas para resolver problemas de veiculação e pedir revisões depois que você fizer as mudanças. A página principal da Central de políticas mostra todos os sites afetados.
+Se o rótulo for "Problema com a política", um dos seus sites, páginas ou seções do site não obedece às políticas do programa e, neste caso, às Políticas do Google para publishers. Sendo assim, uma restrição foi aplicada. Restrições em uma página são individuais e não se aplicam a outras páginas. Quando isso acontece no nível do site ou da seção, é porque existem violações em várias páginas. Nesse caso, você precisa verificar todo o site ou a seção inteira e fazer as devidas alterações para ficar em conformidade com nossas políticas.
+Depois de solucionar as violações no site, na página ou na seção, você poderá solicitar uma revisão.
+Como alternativa, é possível interromper a veiculação de anúncios no site, na página ou na seção relevante. Basta remover o código de anúncio do AdSense. As violações serão removidas automaticamente da Central de políticas em um prazo de 7 a 10 dias.
+
+Como resolver Restrições do Google para publishers?
+Acesse a Central de políticas para conferir detalhes sobre os problemas que podem restringir a veiculação de anúncios nos seus sites, seções ou páginas. Você vai saber como resolver problemas de veiculação e pedir revisões depois que fizer as mudanças.
+Se o rótulo do problema for "Preferência do anunciante", o site tem conteúdo que se enquadra nas Restrições do Google para publishers. Você pode gerar receita com esse tipo de conteúdo, mas provavelmente receberá menos publicidade, já que nem todas as origens de anúncios poderão dar lances nele.
+Se você resolver alguma das restrições do publisher no seu site, página ou seção, será possível pedir uma revisão. Se preferir interromper a veiculação de anúncios nessas páginas, remova o código de anúncio do Google AdSense, e as restrições serão removidas automaticamente da Central de políticas no prazo de 7 a 10 dias.
+Perguntas frequentes sobre as Políticas e Restrições do Google para publishers
+Veja abaixo as respostas para algumas perguntas frequentes sobre as Políticas e as Restrições do Google para publishers:
+
+O rótulo "Preferência do anunciante" apareceu para mim. O que isso significa?
+Nesse caso, seu site tem conteúdo que se enquadra nas Restrições do Google para Publishers. Temos compradores de várias origens, como o Google Ads, Authorized Buyers, DV360, reservas etc. Sendo assim, embora você possa gerar receita com esse tipo de conteúdo, talvez receba anúncios limitados de algumas outras origens. Porém, os anúncios do Google Ads (antes chamado de Google AdWords) não serão veiculados em conteúdo com essas restrições.
+
+Se eu quiser continuar mostrando anúncios na página restrita (ou seja, de acordo com as Restrições do Google para publishers), minha conta poderá ser suspensa ou encerrada?
+A monetização de conteúdo que se enquadra nas Restrições do Google para publishers não é uma violação da política. Apenas restringiremos a publicidade nele, conforme descrito acima. Assim, embora você possa gerar receita com conteúdo enquadrado nas Restrições do Google para publishers, provavelmente receberá menos receita de publicidade nele do que em outros tipos de conteúdo sem limitações.
+
+Por que os anunciantes optam por não anunciar na minha página com conteúdo que viola as Restrições do Google para publishers?
+Os anunciantes podem não gostar dos tipos de conteúdo listados nas Restrições do Google para publishers e podem não querer associá-los às suas marcas. Por isso, deixamos a decisão com eles. Nossos anunciantes têm várias categorias que podem escolher, e nem todas são sensíveis. Portanto, o conteúdo marcado como restrito pode gerar pouca ou nenhuma receita, mas ele não será considerado uma violação da política.
+
+Removi meu conteúdo depois de receber a restrição no nível da página e solicitei uma revisão. Agora, recebi uma nova violação da política ("sem conteúdo"). Quais são as ações recomendadas para corrigir as violações?
+Tudo o que fazemos é para proteger nossos publishers, usuários e anunciantes. Quando você opta por remover conteúdo que viola as políticas, também precisa remover qualquer código de anúncio relacionado da página para que os anúncios não sejam exibidos ao lado de um espaço em branco.
+
+Entendemos que pode ser trabalhoso para você determinar se alguma página do seu site viola as políticas, mas também somos responsáveis perante nossos anunciantes e usuários e, para manter a confiança no ecossistema, precisamos aplicar nossas políticas.
+
+Para esclarecer, não censuramos o conteúdo dos publishers por meio da remoção de qualquer conteúdo nos sites. Apenas solicitamos a remoção do nosso código de anúncio em páginas que não estão em conformidade.
+
+Posso ocultar/remover as restrições que não quero corrigir? Não quero continuar vendo restrições novas ou antigas em algumas páginas.
+Você pode usar as opções de filtro e download na Central de políticas para encontrar e gerenciar violações e restrições dos publishers:
+
+Clique no filtro  para ver somente alguns sites, os status deles ou as datas das restrições.
+Clique no botão de download Download para salvar um arquivo CSV contendo todas as páginas ou seções com violações de todos os sites ou de sites específicos.
+Esta página pode ter conteúdo que foi traduzido com tecnologia de IA. As traduções de IA podem conter erros.
+
+Envie feedback sobre este artigo
+Próximo: Notificação sobre políticas solicitando mudanças no seu site
+Isso foi útil?SimNão
+Precisa de mais ajuda?
+Siga as próximas etapas:
+Postar na Comunidade de Ajuda
+Receba respostas dos membros da comunidade
+Fale conosco
+Conte mais sobre o problema para podermos ajudar você
+Políticas
+Corrigir problemas com a política
+Guia para principiantes
+Regulamentos do programa
+Políticas e restrições para publishers
+Políticas para editores do Google
+Restrições para editores do Google
+Entenda as Políticas e Restrições do Google para publishers
+Imposições da política
+Políticas específicas sobre o formato do anúncio
+Registro de alterações das políticas do Google AdSense
+
+Aumente sua receita com dicas personalizadas hoje mesmo.
+Acesse a página "Dicas de otimização para o Google AdSense" e confira sugestões personalizadas para maximizar sua receita.
+
+Aumentar agora
+
+©2026 Google  Política de Privacidade  Termos de Serviço
+Idioma
+
+
+Pular para o conteúdo principal
+Central de Ajuda
+Comunidade
+Comunicados
+Google AdSense
+Visite A sua página do AdSense, onde pode encontrar informações acerca da sua conta para ajudar a ter sucesso com o AdSense.
+
+
+Políticas
+Entenda as Políticas e Restrições do Google para publishers
+Próximo: Notificação sobre políticas solicitando mudanças no seu site
+O Google viabiliza uma Web acessível e aberta. Com ela, os publishers monetizam o conteúdo produzido e os anunciantes atingem os clientes em potencial usando produtos e serviços úteis e relevantes. Para manter a confiança no ecossistema de anúncios, é necessário estabelecer limites sobre o que pode gerar receita.
+
+Todos os publishers precisam aderir às políticas a seguir. Portanto, leia com atenção. Se você não estiver em conformidade com essas políticas, reservamo-nos o direito de desabilitar a veiculação de anúncios no seu site ou encerrar sua conta a qualquer momento. Se a sua conta for encerrada, você não poderá mais participar do programa AdSense.
+
+Podemos alterar nossas políticas a qualquer momento e, de acordo com os Termos e Condições, é sua responsabilidade cumpri-las.
+
+
+
+Ative as legendas do YouTube no seu idioma. Clique no ícone Configurações Imagem do ícone de configurações do YouTube no player de vídeo, selecione Legendas/CC e escolha o idioma.
+
+Neste artigo:
+
+O que são as Políticas do Google para publishers?
+O que são as Restrições do Google para publishers?
+Qual é a diferença entre as Políticas e as Restrições do Google para publishers?
+Onde posso ver os problemas que afetam a veiculação de anúncios?
+Como resolver uma violação da Política do Google para publishers?
+Como resolver Restrições do Google para publishers?
+Perguntas frequentes sobre as Políticas e as Restrições do Google para publishers
+O que são as Políticas do Google para publishers?
+Ao gerar receita com seu conteúdo usando o código de anúncio do Google, você precisa aderir às Políticas do Google para publishers. "Conteúdo" significa tudo que estiver presente na sua página ou no seu app, incluindo conteúdo gerado pelo usuário, como seções de comentários, além de anúncios e links para outros sites ou apps. Tentar monetizar conteúdo que viola as políticas e não obedecer a elas pode fazer com que o Google bloqueie a exibição de anúncios no seu conteúdo. Além disso, sua conta pode ser suspensa ou encerrada.
+
+Essas políticas são aplicadas junto com as outras políticas que regem o uso de produtos para publishers do Google.
+
+O que são as Restrições do Google para publishers?
+As Restrições do Google para publishers identificam conteúdo que não pode receber determinadas origens de publicidade. "Conteúdo" significa tudo que estiver presente na sua página ou app, incluindo anúncios e links para outros sites ou apps.
+
+Gerar receita com conteúdo enquadrado nas Restrições do Google para publishers não é uma violação da política. Apenas restringimos a veiculação de anúncios nesse conteúdo, com base nas preferências de cada produto e/ou nas preferências dos anunciantes. Em alguns casos, isso significa que nenhuma origem de publicidade definirá lances para seu inventário, e nenhum anúncio será exibido nesse conteúdo restrito.
+
+Temos compradores de várias origens, que incluem o Google Ads, Authorized Buyers, DV360, reservas, entre outros. Talvez você receba anúncios limitados de algumas outras origens, mas os anúncios do Google Ads (antigo Google AdWords) não serão veiculados em conteúdo classificado com essas restrições.
+
+Assim, embora você possa gerar receita com conteúdo incluído nas Restrições do Google para publishers, provavelmente receberá menos publicidade nesse conteúdo do que receberia em outros tipos sem restrições.
+
+Essas restrições são aplicadas junto com as outras políticas que regem o uso de produtos para publishers do Google.
+
+Qual é a diferença entre as Políticas e as Restrições do Google para publishers?
+As Políticas do Google para publishers descrevem os tipos de conteúdo que não podem gerar receita com nenhum dos nossos produtos para publishers. Isso inclui políticas contra conteúdo ilegal, perigoso, depreciativo, sexualmente explícito, entre outros. Esse tipo de conteúdo nunca será autorizado a exibir anúncios.
+
+As Restrições do Google para publishers, por outro lado, descrevem os tipos de conteúdo, como tabaco ou drogas recreativas, que não violam necessariamente a política, mas podem não ser atrativos para todos os anunciantes. Isso significa que os publishers não receberão violações da política. Em vez disso, o conteúdo será marcado com uma restrição de inventário e provavelmente receberá menos publicidade (ou às vezes, nenhuma), porque os anunciantes determinam a demanda.
+
+Onde posso ver os problemas que afetam a veiculação de anúncios?
+A Central de políticas mostra todas as restrições atuais nos seus sites. Elas podem bloquear toda a publicidade (por exemplo, "Veiculação de anúncios desativada") ou definir os anunciantes que podem dar lances no seu inventário (por exemplo, "Veiculação de anúncios restrita").
+
+Se houver vários problemas com seu conteúdo, poderemos aplicar restrições:
+
+A Política do Google para publishers precisa ser corrigida. As violações recebem a restrição "Veiculação de anúncios desativada" ou "Veiculação de anúncios restrita".
+As Restrições do Google para publishers não são violações. Por isso, você não precisa alterar seu conteúdo nem as solicitações de anúncios. No entanto, o conteúdo com esse tipo de limitação recebe o status "Veiculação de anúncios restrita".
+Dica: para descobrir se você precisa tomar alguma medida quanto a uma restrição, confira a coluna "Problemas". O rótulo Problema com a política aparecerá se a restrição for devido a uma violação. Já o rótulo Preferência do anunciante será mostrado se for uma restrição do publisher.
+Como resolver uma violação da Política do Google para publishers?
+Acesse a Central de políticas, que dá informações detalhadas sobre o que pode restringir a veiculação de anúncios nos seus sites, seções, páginas ou apps. Ela também mostra as etapas para resolver problemas de veiculação e pedir revisões depois que você fizer as mudanças. A página principal da Central de políticas mostra todos os sites afetados.
+Se o rótulo for "Problema com a política", um dos seus sites, páginas ou seções do site não obedece às políticas do programa e, neste caso, às Políticas do Google para publishers. Sendo assim, uma restrição foi aplicada. Restrições em uma página são individuais e não se aplicam a outras páginas. Quando isso acontece no nível do site ou da seção, é porque existem violações em várias páginas. Nesse caso, você precisa verificar todo o site ou a seção inteira e fazer as devidas alterações para ficar em conformidade com nossas políticas.
+Depois de solucionar as violações no site, na página ou na seção, você poderá solicitar uma revisão.
+Como alternativa, é possível interromper a veiculação de anúncios no site, na página ou na seção relevante. Basta remover o código de anúncio do AdSense. As violações serão removidas automaticamente da Central de políticas em um prazo de 7 a 10 dias.
+
+Como resolver Restrições do Google para publishers?
+Acesse a Central de políticas para conferir detalhes sobre os problemas que podem restringir a veiculação de anúncios nos seus sites, seções ou páginas. Você vai saber como resolver problemas de veiculação e pedir revisões depois que fizer as mudanças.
+Se o rótulo do problema for "Preferência do anunciante", o site tem conteúdo que se enquadra nas Restrições do Google para publishers. Você pode gerar receita com esse tipo de conteúdo, mas provavelmente receberá menos publicidade, já que nem todas as origens de anúncios poderão dar lances nele.
+Se você resolver alguma das restrições do publisher no seu site, página ou seção, será possível pedir uma revisão. Se preferir interromper a veiculação de anúncios nessas páginas, remova o código de anúncio do Google AdSense, e as restrições serão removidas automaticamente da Central de políticas no prazo de 7 a 10 dias.
+Perguntas frequentes sobre as Políticas e Restrições do Google para publishers
+Veja abaixo as respostas para algumas perguntas frequentes sobre as Políticas e as Restrições do Google para publishers:
+
+O rótulo "Preferência do anunciante" apareceu para mim. O que isso significa?
+Nesse caso, seu site tem conteúdo que se enquadra nas Restrições do Google para Publishers. Temos compradores de várias origens, como o Google Ads, Authorized Buyers, DV360, reservas etc. Sendo assim, embora você possa gerar receita com esse tipo de conteúdo, talvez receba anúncios limitados de algumas outras origens. Porém, os anúncios do Google Ads (antes chamado de Google AdWords) não serão veiculados em conteúdo com essas restrições.
+
+Se eu quiser continuar mostrando anúncios na página restrita (ou seja, de acordo com as Restrições do Google para publishers), minha conta poderá ser suspensa ou encerrada?
+A monetização de conteúdo que se enquadra nas Restrições do Google para publishers não é uma violação da política. Apenas restringiremos a publicidade nele, conforme descrito acima. Assim, embora você possa gerar receita com conteúdo enquadrado nas Restrições do Google para publishers, provavelmente receberá menos receita de publicidade nele do que em outros tipos de conteúdo sem limitações.
+
+Por que os anunciantes optam por não anunciar na minha página com conteúdo que viola as Restrições do Google para publishers?
+Os anunciantes podem não gostar dos tipos de conteúdo listados nas Restrições do Google para publishers e podem não querer associá-los às suas marcas. Por isso, deixamos a decisão com eles. Nossos anunciantes têm várias categorias que podem escolher, e nem todas são sensíveis. Portanto, o conteúdo marcado como restrito pode gerar pouca ou nenhuma receita, mas ele não será considerado uma violação da política.
+
+Removi meu conteúdo depois de receber a restrição no nível da página e solicitei uma revisão. Agora, recebi uma nova violação da política ("sem conteúdo"). Quais são as ações recomendadas para corrigir as violações?
+Tudo o que fazemos é para proteger nossos publishers, usuários e anunciantes. Quando você opta por remover conteúdo que viola as políticas, também precisa remover qualquer código de anúncio relacionado da página para que os anúncios não sejam exibidos ao lado de um espaço em branco.
+
+Entendemos que pode ser trabalhoso para você determinar se alguma página do seu site viola as políticas, mas também somos responsáveis perante nossos anunciantes e usuários e, para manter a confiança no ecossistema, precisamos aplicar nossas políticas.
+
+Para esclarecer, não censuramos o conteúdo dos publishers por meio da remoção de qualquer conteúdo nos sites. Apenas solicitamos a remoção do nosso código de anúncio em páginas que não estão em conformidade.
+
+Posso ocultar/remover as restrições que não quero corrigir? Não quero continuar vendo restrições novas ou antigas em algumas páginas.
+Você pode usar as opções de filtro e download na Central de políticas para encontrar e gerenciar violações e restrições dos publishers:
+
+Clique no filtro  para ver somente alguns sites, os status deles ou as datas das restrições.
+Clique no botão de download Download para salvar um arquivo CSV contendo todas as páginas ou seções com violações de todos os sites ou de sites específicos.
+Esta página pode ter conteúdo que foi traduzido com tecnologia de IA. As traduções de IA podem conter erros.
+
+Envie feedback sobre este artigo
+Próximo: Notificação sobre políticas solicitando mudanças no seu site
+Isso foi útil?SimNão
+Precisa de mais ajuda?
+Siga as próximas etapas:
+Postar na Comunidade de Ajuda
+Receba respostas dos membros da comunidade
+Fale conosco
+Conte mais sobre o problema para podermos ajudar você
+Políticas
+Corrigir problemas com a política
+Guia para principiantes
+Regulamentos do programa
+Políticas e restrições para publishers
+Políticas para editores do Google
+Restrições para editores do Google
+Entenda as Políticas e Restrições do Google para publishers
+Imposições da política
+Políticas específicas sobre o formato do anúncio
+Registro de alterações das políticas do Google AdSense
+
+Aumente sua receita com dicas personalizadas hoje mesmo.
+Acesse a página "Dicas de otimização para o Google AdSense" e confira sugestões personalizadas para maximizar sua receita.
+
+Aumentar agora
+
+©2026 Google  Política de Privacidade  Termos de Serviço
+Idioma
+
+
+Pular para o conteúdo principal
+Central de Ajuda
+Comunidade
+Comunicados
+Google AdSense
+Visite A sua página do AdSense, onde pode encontrar informações acerca da sua conta para ajudar a ter sucesso com o AdSense.
+
+
+Políticas
+Notificação sobre políticas solicitando mudanças no seu site
+Próximo: Limites de veiculação de anúncios
+Se detectarmos que seus sites têm problemas relacionados às políticas, você vai receber uma notificação na Central de políticas e por e-mail.
+
+Nesta página:
+Recebi uma notificação. O que preciso fazer agora?
+O que acontecerá se eu não fizer mudanças?
+Quero saber qual política meu site viola. O que devo fazer?
+Recebi uma notificação. O que preciso fazer agora?
+A notificação contém detalhes sobre o problema com a política e um URL de exemplo em que encontramos o problema. Alguns problemas também podem ter capturas de tela associadas na Central de Políticas. Leia a notificação com atenção e faça as mudanças necessárias no seu site para resolver o problema.
+
+Às vezes, é possível resolver um problema excluindo o conteúdo da violação ou os anúncios do Google dessas páginas. Em outros casos, é necessário mudar a implementação dos anúncios. O URL é apenas um exemplo. Analise todo o site para garantir que o mesmo problema não exista em outras páginas.
+
+Depois de corrigir o problema, você poderá solicitar uma revisão do seu site.
+
+
+Ative as legendas do YouTube no seu idioma. Clique no ícone Configurações Imagem do ícone de configurações do YouTube no player de vídeo, selecione Legendas/CC e escolha o idioma.
+
+O que acontecerá se eu não fizer mudanças?
+Se você não fizer mudanças para deixar seu site em conformidade, a veiculação de anúncios será desativada.
+
+Se você não cumpriu o prazo e a veiculação de anúncios já foi desativada no site, faça as mudanças necessárias e solicite uma revisão.
+
+Preciso de mais informações sobre a política que meu site viola. O que devo fazer?
+Para saber mais sobre um problema com a política, acesse a Central de políticas, encontre o problema na tabela e clique em Corrigir na coluna "Ação". Você vai acessar a Página de Detalhes do Problema com um link para a política, uma descrição do problema e instruções para resolvê-lo.
+
+Se precisar de mais explicações ou quiser ver exemplos das nossas políticas, acesse nossos recursos:
+
+Termos e Condições do Google AdSense
+Políticas do programa AdSense
+Central de Ajuda das políticas para publishers
+Playlist de vídeos sobre as Políticas do Google para Publishers
+Comunidade de Ajuda do AdSense
+Fundamentos da Pesquisa Google
+Esta página pode ter conteúdo que foi traduzido com tecnologia de IA. As traduções de IA podem conter erros.
+
+Envie feedback sobre este artigo
+Próximo: Limites de veiculação de anúncios
+Isso foi útil?SimNão
+Precisa de mais ajuda?
+Siga as próximas etapas:
+Postar na Comunidade de Ajuda
+Receba respostas dos membros da comunidade
+Fale conosco
+Conte mais sobre o problema para podermos ajudar você
+Políticas
+Corrigir problemas com a política
+Guia para principiantes
+Regulamentos do programa
+Políticas e restrições para publishers
+Imposições da política
+Notificação sobre políticas solicitando mudanças no seu site
+Limites de veiculação de anúncios
+Veiculação de anúncios limitada x anúncios limitados
+Conta suspensa por tráfego inválido ou por violação das políticas do programa
+Principais violações da política e problemas de tráfego inválido que levam ao encerramento da conta
+Sua conta do Google AdSense corre o risco de ser encerrada por violação da política
+A veiculação de anúncios foi desativada na sua página ou no seu site
+Conta do Google AdSense encerrada pelo Google por tráfego inválido
+Conta do Google AdSense encerrada pelo Google por violação das políticas do programa
+Políticas específicas sobre o formato do anúncio
+Registro de alterações das políticas do Google AdSense
+
+Aumente sua receita com dicas personalizadas hoje mesmo.
+Acesse a página "Dicas de otimização para o Google AdSense" e confira sugestões personalizadas para maximizar sua receita.
+
+Aumentar agora
+
+©2026 Google  Política de Privacidade  Termos de Serviço
+Idioma
+
+
+Pular para o conteúdo principal
+Central de Ajuda
+Comunidade
+Comunicados
+Google AdSense
+Visite A sua página do AdSense, onde pode encontrar informações acerca da sua conta para ajudar a ter sucesso com o AdSense.
+
+
+Políticas
+Limites de veiculação de anúncios
+Próximo: Veiculação de anúncios limitada x anúncios limitados
+O Google se esforça para manter um ecossistema de publicidade que protege os anunciantes, editores e usuários contra fraudes e experiências ruins com anúncios. Como resultado, às vezes, acabamos limitando o número de anúncios que sua conta do Google AdSense pode exibir. Isso pode ser uma ação temporária enquanto conhecemos você melhor e avaliamos a qualidade do tráfego que você gera, ou poderá acontecer se identificarmos tráfego inválido na sua conta do Google AdSense.
+
+Se a restrição tiver sido aplicada, leia abaixo para saber mais sobre o que ela significa e o que você pode fazer. Consulte nosso guia de limites de veiculação de anúncios se tiver dúvidas sobre o processo.
+
+Observação: embora esse limite de veiculação de anúncios normalmente afete os editores por menos de 30 dias, esse tempo pode ser maior em alguns casos.
+Conta em avaliação
+Durante o processo de avaliação da qualidade do tráfego, a veiculação de anúncios na sua conta fica temporariamente limitada. No entanto, enquanto monitoramos o tráfego, analisamos e atualizamos essa restrição automaticamente. Infelizmente, não sabemos quanto tempo esse processo levará.
+
+O que você pode fazer
+Continue criando o conteúdo e o público-alvo enquanto avaliamos o tráfego do seu site. Verifique também se você está em conformidade com as políticas do programa AdSense.
+
+Nesse meio-tempo, você não perde o acesso à sua conta e encontra os detalhes sobre essa restrição na Central de políticas. É importante que você garanta a conformidade da conta com as políticas do programa.
+
+Problemas de tráfego inválido
+Devido a problemas de tráfego inválido, a veiculação de anúncios na sua conta está limitada. Analisaremos e atualizaremos essa restrição automaticamente enquanto monitoramos seu tráfego.
+
+O que você pode fazer
+Você não perde o acesso à sua conta e encontra os detalhes sobre essa restrição na Central de políticas. Garanta a conformidade do tráfego do anúncio com as políticas do programa AdSense.
+
+Enquanto isso, leia estes tópicos sobre tráfego inválido:
+
+Como o Google evita tráfego inválido
+Como você pode ajudar a evitar tráfego inválido
+Saiba como segmentar seu tráfego
+Saiba mais sobre como adquirir tráfego
+Observação: se detectarmos atividades inválidas ou outros problemas na sua conta, ela poderá sofrer medidas de restrição ou ser encerrada permanentemente.
+Esta página pode ter conteúdo que foi traduzido com tecnologia de IA. As traduções de IA podem conter erros.
+
+Envie feedback sobre este artigo
+Próximo: Veiculação de anúncios limitada x anúncios limitados
+Isso foi útil?SimNão
+Precisa de mais ajuda?
+Siga as próximas etapas:
+Postar na Comunidade de Ajuda
+Receba respostas dos membros da comunidade
+Fale conosco
+Conte mais sobre o problema para podermos ajudar você
+Políticas
+Corrigir problemas com a política
+Guia para principiantes
+Regulamentos do programa
+Políticas e restrições para publishers
+Imposições da política
+Notificação sobre políticas solicitando mudanças no seu site
+Limites de veiculação de anúncios
+Veiculação de anúncios limitada x anúncios limitados
+Conta suspensa por tráfego inválido ou por violação das políticas do programa
+Principais violações da política e problemas de tráfego inválido que levam ao encerramento da conta
+Sua conta do Google AdSense corre o risco de ser encerrada por violação da política
+A veiculação de anúncios foi desativada na sua página ou no seu site
+Conta do Google AdSense encerrada pelo Google por tráfego inválido
+Conta do Google AdSense encerrada pelo Google por violação das políticas do programa
+Políticas específicas sobre o formato do anúncio
+Registro de alterações das políticas do Google AdSense
+
+Aumente sua receita com dicas personalizadas hoje mesmo.
+Acesse a página "Dicas de otimização para o Google AdSense" e confira sugestões personalizadas para maximizar sua receita.
+
+Aumentar agora
+
+©2026 Google  Política de Privacidade  Termos de Serviço
+Idioma
+
+
+Pular para o conteúdo principal
+Central de Ajuda
+Comunidade
+Comunicados
+Google AdSense
+Visite A sua página do AdSense, onde pode encontrar informações acerca da sua conta para ajudar a ter sucesso com o AdSense.
+
+
+Políticas
+Limites de veiculação de anúncios
+Próximo: Veiculação de anúncios limitada x anúncios limitados
+O Google se esforça para manter um ecossistema de publicidade que protege os anunciantes, editores e usuários contra fraudes e experiências ruins com anúncios. Como resultado, às vezes, acabamos limitando o número de anúncios que sua conta do Google AdSense pode exibir. Isso pode ser uma ação temporária enquanto conhecemos você melhor e avaliamos a qualidade do tráfego que você gera, ou poderá acontecer se identificarmos tráfego inválido na sua conta do Google AdSense.
+
+Se a restrição tiver sido aplicada, leia abaixo para saber mais sobre o que ela significa e o que você pode fazer. Consulte nosso guia de limites de veiculação de anúncios se tiver dúvidas sobre o processo.
+
+Observação: embora esse limite de veiculação de anúncios normalmente afete os editores por menos de 30 dias, esse tempo pode ser maior em alguns casos.
+Conta em avaliação
+Durante o processo de avaliação da qualidade do tráfego, a veiculação de anúncios na sua conta fica temporariamente limitada. No entanto, enquanto monitoramos o tráfego, analisamos e atualizamos essa restrição automaticamente. Infelizmente, não sabemos quanto tempo esse processo levará.
+
+O que você pode fazer
+Continue criando o conteúdo e o público-alvo enquanto avaliamos o tráfego do seu site. Verifique também se você está em conformidade com as políticas do programa AdSense.
+
+Nesse meio-tempo, você não perde o acesso à sua conta e encontra os detalhes sobre essa restrição na Central de políticas. É importante que você garanta a conformidade da conta com as políticas do programa.
+
+Problemas de tráfego inválido
+Devido a problemas de tráfego inválido, a veiculação de anúncios na sua conta está limitada. Analisaremos e atualizaremos essa restrição automaticamente enquanto monitoramos seu tráfego.
+
+O que você pode fazer
+Você não perde o acesso à sua conta e encontra os detalhes sobre essa restrição na Central de políticas. Garanta a conformidade do tráfego do anúncio com as políticas do programa AdSense.
+
+Enquanto isso, leia estes tópicos sobre tráfego inválido:
+
+Como o Google evita tráfego inválido
+Como você pode ajudar a evitar tráfego inválido
+Saiba como segmentar seu tráfego
+Saiba mais sobre como adquirir tráfego
+Observação: se detectarmos atividades inválidas ou outros problemas na sua conta, ela poderá sofrer medidas de restrição ou ser encerrada permanentemente.
+Esta página pode ter conteúdo que foi traduzido com tecnologia de IA. As traduções de IA podem conter erros.
+
+Envie feedback sobre este artigo
+Próximo: Veiculação de anúncios limitada x anúncios limitados
+Isso foi útil?SimNão
+Precisa de mais ajuda?
+Siga as próximas etapas:
+Postar na Comunidade de Ajuda
+Receba respostas dos membros da comunidade
+Fale conosco
+Conte mais sobre o problema para podermos ajudar você
+Políticas
+Corrigir problemas com a política
+Guia para principiantes
+Regulamentos do programa
+Políticas e restrições para publishers
+Imposições da política
+Notificação sobre políticas solicitando mudanças no seu site
+Limites de veiculação de anúncios
+Veiculação de anúncios limitada x anúncios limitados
+Conta suspensa por tráfego inválido ou por violação das políticas do programa
+Principais violações da política e problemas de tráfego inválido que levam ao encerramento da conta
+Sua conta do Google AdSense corre o risco de ser encerrada por violação da política
+A veiculação de anúncios foi desativada na sua página ou no seu site
+Conta do Google AdSense encerrada pelo Google por tráfego inválido
+Conta do Google AdSense encerrada pelo Google por violação das políticas do programa
+Políticas específicas sobre o formato do anúncio
+Registro de alterações das políticas do Google AdSense
+
+Aumente sua receita com dicas personalizadas hoje mesmo.
+Acesse a página "Dicas de otimização para o Google AdSense" e confira sugestões personalizadas para maximizar sua receita.
+
+Aumentar agora
+
+©2026 Google  Política de Privacidade  Termos de Serviço
+Idioma
+
+
+Pular para o conteúdo principal
+Central de Ajuda
+Comunidade
+Comunicados
+Google AdSense
+Visite A sua página do AdSense, onde pode encontrar informações acerca da sua conta para ajudar a ter sucesso com o AdSense.
+
+
+Políticas
+Veiculação de anúncios limitada x anúncios limitados
+Próximo: Conta suspensa por tráfego inválido ou por violação das políticas do programa
+Você encontra "veiculação de anúncios limitada" ou "anúncios limitados" em alguns lugares da sua conta. Embora pareçam semelhantes, eles afetam você de maneira diferente: um restringe o número de anúncios veiculados nos seus sites ou apps, enquanto o outro limita quais dados podem ser usados para veicular anúncios. Este artigo explica as diferenças entre esses dois termos.
+
+Veiculação de anúncios limitada
+Às vezes, o Google limita o número de anúncios que sua conta pode mostrar. Isso pode ser uma ação temporária enquanto conhecemos você melhor e avaliamos a qualidade do tráfego que você gera, ou poderá acontecer se identificarmos tráfego inválido na sua conta.
+
+Você vai receber uma notificação na Central de políticas da sua conta se a veiculação de anúncios for limitada. O status "Veiculação de anúncios limitada" vai aparecer.
+
+Dica: caso sua veiculação de anúncios tenha sido limitada, entenda melhor o que isso significa e o que você pode fazer. Descubra o que restringiu a veiculação de anúncios, acesse nosso guia de limites de veiculação de anúncios.
+Anúncios limitados
+Os anúncios limitados (LTDs) permitem veicular publicidade de maneira limitada. Os anúncios limitados desativam a coleta, o compartilhamento e o uso de dados pessoais para a personalização de anúncios. Saiba mais sobre anúncios limitados.
+
+Esta página pode ter conteúdo que foi traduzido com tecnologia de IA. As traduções de IA podem conter erros.
+
+Envie feedback sobre este artigo
+Próximo: Conta suspensa por tráfego inválido ou por violação das políticas do programa
+Isso foi útil?SimNão
+Precisa de mais ajuda?
+Siga as próximas etapas:
+Postar na Comunidade de Ajuda
+Receba respostas dos membros da comunidade
+Fale conosco
+Conte mais sobre o problema para podermos ajudar você
+Políticas
+Corrigir problemas com a política
+Guia para principiantes
+Regulamentos do programa
+Políticas e restrições para publishers
+Imposições da política
+Notificação sobre políticas solicitando mudanças no seu site
+Limites de veiculação de anúncios
+Veiculação de anúncios limitada x anúncios limitados
+Conta suspensa por tráfego inválido ou por violação das políticas do programa
+Principais violações da política e problemas de tráfego inválido que levam ao encerramento da conta
+Sua conta do Google AdSense corre o risco de ser encerrada por violação da política
+A veiculação de anúncios foi desativada na sua página ou no seu site
+Conta do Google AdSense encerrada pelo Google por tráfego inválido
+Conta do Google AdSense encerrada pelo Google por violação das políticas do programa
+Políticas específicas sobre o formato do anúncio
+Registro de alterações das políticas do Google AdSense
+
+Aumente sua receita com dicas personalizadas hoje mesmo.
+Acesse a página "Dicas de otimização para o Google AdSense" e confira sugestões personalizadas para maximizar sua receita.
+
+Aumentar agora
+
+©2026 Google  Política de Privacidade  Termos de Serviço
+Idioma
+
+
+Pular para o conteúdo principal
+Central de Ajuda
+Comunidade
+Comunicados
+Google AdSense
+Visite A sua página do AdSense, onde pode encontrar informações acerca da sua conta para ajudar a ter sucesso com o AdSense.
+
+
+Políticas
+Conta suspensa por tráfego inválido ou por violação das políticas do programa
+Por que minha conta foi suspensa?
+Próximo: Principais violações da política e problemas de tráfego inválido que levam ao encerramento da conta
+O Google trata com seriedade as violações das políticas e o tráfego inválido para proteger os usuários, publishers e anunciantes que compõem nosso ecossistema de publicidade. Além da restrição no site e na página, em alguns casos, é necessário suspender ou encerrar contas devido a violações das políticas ou a tráfego inválido. Não é possível abrir uma contestação em caso de suspensão.
+
+Com a suspensão da conta, você tem tempo para fazer as mudanças relevantes no seu site. As suspensões podem ter durações diferentes, e o período é informado no e-mail de notificação. Em caso de suspensão, você ainda pode fazer login na sua conta do Google AdSense. No entanto, nenhum anúncio vai ser exibido durante esse período. As revisões do site e os upgrades da conta vão ser pausados até que a suspensão seja retirada. Você também vai notar que uma retenção de pagamento foi adicionada automaticamente à sua conta.
+
+No fim desse período de suspensão, a menos que sua conta tenha sido encerrada, vamos reativar a veiculação de anúncios, liberar o pagamento e monitorar sua conta para garantir a conformidade. Se outros problemas relacionados a violações das políticas ou a tráfego inválido continuarem acontecendo, o encerramento dela poderá ser permanente.
+Quando a conta é suspensa, você recebe um e-mail informando o motivo dessa medida: violações das políticas ou tráfego inválido. Localize a mensagem do Google AdSense no seu e-mail e leia a seção relevante abaixo:
+
+Suspensão da conta por violações das políticas
+Suspensão da conta por tráfego inválido
+Motivos comuns para a suspensão de contas do Google AdSense por tráfego inválido
+Observação: sua conta do AdSense também poderá ser suspensa se todas as Contas do Google associadas a ela forem desativadas. Caso isso aconteça, a conta do AdSense será reativada se alguma dessas Contas do Google for restaurada. Para mais informações, acesse: Sua conta foi desativada.
+Suspensão da conta por violações das políticas
+As políticas do programa ajudam a garantir uma experiência positiva para todos no nosso ecossistema de publicidade. Quando nos deparamos com um site que viola as políticas, nós a) enviamos uma mensagem de aviso para que o publisher o corrija ou b) desativamos imediatamente a veiculação de anúncios no caso de uma violação grave.
+
+Se nossas políticas forem violadas gravemente ou repetidas vezes, vamos adotar medidas não só para o site, mas para toda a conta. Podemos suspender a conta temporariamente para que você revise todo o conteúdo, corrija as violações e implemente medidas para garantir a conformidade com as políticas.
+
+Para dicas sobre como monitorar seus sites com relação a violações das políticas e esclarecimentos sobre nossas políticas, consulte os seguintes recursos:
+
+Filtragem de conteúdo
+Como usar o site: pesquisar violações
+Principais violações das políticas e problemas de tráfego inválido que levam ao encerramento da conta
+Recomendamos que você use esse tempo para revisar nossas políticas e resolver os problemas da sua conta. Se você continuar violando nossas políticas após o período de suspensão, sua conta será encerrada. Caso isso aconteça, vamos reter os ganhos associados às violações, até o valor total, para reembolsar os anunciantes afetados (quando apropriado e possível).
+
+Dica: para mais informações sobre suspensões de conta por violações das políticas, consulte Como interpretar os avisos e as suspensões de conta por violações das políticas
+Suspensão da conta por tráfego inválido
+Além de monitorar as violações das políticas, analisamos todos os cliques e impressões para identificar padrões de uso que possam aumentar artificialmente os custos dos anunciantes ou os ganhos dos publishers. Se determinarmos que sua conta tem tráfego inválido, ela será suspensa ou encerrada. Caso isso aconteça, vamos reter os ganhos associados às violações, até o valor total, para reembolsar os anunciantes afetados (quando apropriado e possível).
+
+Com a suspensão da conta, você tem tempo para investigar as fontes de tráfego inválido, identificar e bloquear o tráfego suspeito e implementar medidas para garantir um tráfego íntegro. Recomendamos aprender como segmentar seu tráfego. Com isso, você é capaz de entender, monitorar e avaliar melhor o tráfego do seu site. Isso também pode ajudar você a identificar origens de tráfego inválido. Para mais informações, acesse a Central de recursos para o controle de qualidade do tráfego de anúncios (link em inglês).
+
+Se houver outros problemas na sua conta do Google AdSense durante o período de suspensão provisória, ela poderá ser encerrada permanentemente, mesmo antes do fim dele. Se o tráfego inválido persistir e continuar enviando tráfego de baixa qualidade para nosso ecossistema de anúncios após a suspensão, poderemos tomar outras medidas na sua conta. Por exemplo, podemos limitar ou desativar a veiculação de anúncios, suspender novamente ou encerrar sua conta para proteger nossos anunciantes e usuários.
+
+Para ajudar você a entender os possíveis motivos de suspensão das contas de publishers por tráfego inválido, descrevemos as situações mais comuns abaixo. Esta lista não é completa, mas contém as principais causas.
+
+Motivos comuns para a suspensão de contas do Google AdSense por tráfego inválido
+Cliques em anúncios no seu próprio conteúdo
+Um ou mais usuários clicam repetidamente nos anúncios do seu conteúdo
+Dica: acesse a Central de Ajuda da AdMob para mais detalhes sobre as suspensões de contas da AdMob.
+Esta página pode ter conteúdo que foi traduzido com tecnologia de IA. As traduções de IA podem conter erros.
+
+Envie feedback sobre este artigo
+Próximo: Principais violações da política e problemas de tráfego inválido que levam ao encerramento da conta
+Isso foi útil?SimNão
+Precisa de mais ajuda?
+Siga as próximas etapas:
+Postar na Comunidade de Ajuda
+Receba respostas dos membros da comunidade
+Fale conosco
+Conte mais sobre o problema para podermos ajudar você
+Políticas
+Corrigir problemas com a política
+Guia para principiantes
+Regulamentos do programa
+Políticas e restrições para publishers
+Imposições da política
+Notificação sobre políticas solicitando mudanças no seu site
+Limites de veiculação de anúncios
+Veiculação de anúncios limitada x anúncios limitados
+Conta suspensa por tráfego inválido ou por violação das políticas do programa
+Principais violações da política e problemas de tráfego inválido que levam ao encerramento da conta
+Sua conta do Google AdSense corre o risco de ser encerrada por violação da política
+A veiculação de anúncios foi desativada na sua página ou no seu site
+Conta do Google AdSense encerrada pelo Google por tráfego inválido
+Conta do Google AdSense encerrada pelo Google por violação das políticas do programa
+Políticas específicas sobre o formato do anúncio
+Registro de alterações das políticas do Google AdSense
+
+Aumente sua receita com dicas personalizadas hoje mesmo.
+Acesse a página "Dicas de otimização para o Google AdSense" e confira sugestões personalizadas para maximizar sua receita.
+
+Aumentar agora
+
+©2026 Google  Política de Privacidade  Termos de Serviço
+Idioma
+
+
+Pular para o conteúdo principal
+Central de Ajuda
+Comunidade
+Comunicados
+Google AdSense
+Visite A sua página do AdSense, onde pode encontrar informações acerca da sua conta para ajudar a ter sucesso com o AdSense.
+
+
+Políticas
+Principais violações da política e problemas de tráfego inválido que levam ao encerramento da conta
+Próximo: Sua conta do Google AdSense corre o risco de ser encerrada por violação da política
+Confira abaixo os motivos mais comuns para encerramento de contas por tráfego inválido ou violações da política. O objetivo dessas informações é ajudar você a manter sua conta (incluindo sites, canais do YouTube e/ou apps) em conformidade com as políticas do programa AdSense. Esta lista não inclui todas as causas possíveis, somente as mais comuns.
+
+O Google se esforça para manter um ecossistema de publicidade saudável para anunciantes e publishers. Como publisher, você é responsável por garantir que seu inventário e tráfego sejam de alta qualidade. Se determinarmos que sua conta viola nossas políticas e/ou gera tráfego inválido, sua qualificação para participar do Google AdSense ou de outros produtos para publishers será afetada, podendo resultar no encerramento da sua conta.
+
+Nesta página:
+Motivos comuns para a suspensão de contas do Google AdSense por tráfego inválido
+Motivos comuns para o encerramento de contas do Google AdSense por violações da política
+Outros recursos
+Abrir tudo  Fechar tudo
+Motivos comuns para a suspensão de contas do Google AdSense por tráfego inválido
+Clicar nos anúncios veiculados no seu próprio site, canal do YouTube ou aplicativo
+Um ou mais usuários clicaram repetidamente nos anúncios no seu site, canal do YouTube ou app
+Gerar ou receber tráfego automatizado ou de bots
+Usar uma origem de tráfego incentivado
+Manipular a veiculação de anúncios
+Incentivar os usuários a apoiar seu site, canal do YouTube ou app por meio de interação com os anúncios
+Posicionar anúncios de forma enganosa para os usuários ou gerar cliques acidentais
+Anúncios incorporados em aplicativos
+Observação: se a sua conta já foi encerrada por tráfego inválido, consulte mais detalhes no artigo Conta do Google AdSense encerrada pelo Google por tráfego inválido.
+Motivos comuns para o encerramento de contas do Google AdSense por violações da política
+Conteúdo sexualmente explícito
+Conteúdo gerado pelo usuário
+Há mais anúncios do que conteúdo
+Posição enganosa do anúncio
+Violação de direitos autorais
+Conteúdo ilegal
+Observação: se a sua conta já foi encerrada por motivos de política, confira mais informações acessando Conta do Google AdSense encerrada pelo Google por motivos de política.
+Outros recursos
+Um guia para dúvidas comuns sobre a política do Google AdSense
+Central de Ajuda das políticas para publishers
+Playlist de vídeos sobre as Políticas do Google para Publishers
+Comunidade de Ajuda do AdSense
+Esta página pode ter conteúdo que foi traduzido com tecnologia de IA. As traduções de IA podem conter erros.
+
+Envie feedback sobre este artigo
+Próximo: Sua conta do Google AdSense corre o risco de ser encerrada por violação da política
+Isso foi útil?SimNão
+Precisa de mais ajuda?
+Siga as próximas etapas:
+Postar na Comunidade de Ajuda
+Receba respostas dos membros da comunidade
+Fale conosco
+Conte mais sobre o problema para podermos ajudar você
+Políticas
+Corrigir problemas com a política
+Guia para principiantes
+Regulamentos do programa
+Políticas e restrições para publishers
+Imposições da política
+Notificação sobre políticas solicitando mudanças no seu site
+Limites de veiculação de anúncios
+Veiculação de anúncios limitada x anúncios limitados
+Conta suspensa por tráfego inválido ou por violação das políticas do programa
+Principais violações da política e problemas de tráfego inválido que levam ao encerramento da conta
+Sua conta do Google AdSense corre o risco de ser encerrada por violação da política
+A veiculação de anúncios foi desativada na sua página ou no seu site
+Conta do Google AdSense encerrada pelo Google por tráfego inválido
+Conta do Google AdSense encerrada pelo Google por violação das políticas do programa
+Políticas específicas sobre o formato do anúncio
+Registro de alterações das políticas do Google AdSense
+
+Aumente sua receita com dicas personalizadas hoje mesmo.
+Acesse a página "Dicas de otimização para o Google AdSense" e confira sugestões personalizadas para maximizar sua receita.
+
+Aumentar agora
+
+©2026 Google  Política de Privacidade  Termos de Serviço
+Idioma
+
+
+Pular para o conteúdo principal
+Central de Ajuda
+Comunidade
+Comunicados
+Google AdSense
+Visite A sua página do AdSense, onde pode encontrar informações acerca da sua conta para ajudar a ter sucesso com o AdSense.
+
+
+Políticas
+Sua conta do Google AdSense corre o risco de ser encerrada por violação da política
+Próximo: A veiculação de anúncios foi desativada na sua página ou no seu site
+Neste artigo, respondemos a perguntas frequentes sobre avisos relacionados à conta do AdSense.
+
+Minha conta foi encerrada?
+Por que recebi esse aviso?
+O que preciso fazer para evitar que minha conta seja encerrada?
+O que posso fazer para voltar a ficar em conformidade com as políticas?
+O que acontecerá se eu realizar as alterações necessárias?
+É necessário notificar o Google depois de realizar as alterações?
+O que acontecerá se eu não realizar as alterações necessárias e continuar a violar as políticas?
+Preciso de esclarecimentos sobre a política que meu site está violando. O que devo fazer?
+Minha conta foi encerrada?
+Não. Sua conta ainda está ativa. No entanto, ela poderá ser encerrada se você não fizer mudanças para obedecer às políticas do programa AdSense.
+
+Por que recebi esse aviso?
+Recentemente, descobrimos que sua conta não está em conformidade com nossas políticas. Os avisos relacionados à conta podem ser emitidos por vários motivos, incluindo, entre outros:
+Sua conta tem um amplo histórico de violações das políticas e/ou de violações recorrentes das políticas.
+Lembre-se de que os publishers são responsáveis pelo conteúdo de todas as páginas que exibem seus anúncios. A mesma exigência vale se as contribuições e criações forem feitas por outras pessoas, como sites com conteúdo gerado pelo usuário.
+Detectamos um comportamento fraudulento na sua conta.
+Nossos especialistas monitoram cliques e impressões em anúncios do Google usando sistemas automatizados e revisão humana. O objetivo é proteger os interesses dos publishers e dos anunciantes. Conforme descrito nos nossos Termos e Condições, o Google usa os próprios critérios para determinar casos de atividade de cliques inválidos. O Google não analisa nem valida dados de terceiros durante investigações de tráfego inválido.
+Há violações de conteúdo hediondo associadas à sua conta.
+Isso pode incluir, entre outros, conteúdo adulto, violação de direitos autorais e casos de extrema violência e imagens sangrentas.
+Saiba mais sobre as principais violações da política e problemas de tráfego inválido que levam ao encerramento da conta.
+
+O que preciso fazer para evitar que minha conta seja encerrada?
+É importante agir imediatamente. A mensagem de aviso contém exemplos de violações no seu site. Contudo, pedimos que você analise com atenção o conteúdo e a posição do anúncio na sua rede para garantir que tudo esteja em conformidade com nossas políticas do programa.
+
+O que posso fazer para voltar a ficar em conformidade com as políticas?
+Confira algumas dicas para monitorar a ocorrência de violações de políticas na sua rede:
+
+Realize uma avaliação humana de cada site antes de colocar um código de anúncio nas páginas do site.
+Analise de modo proativo as páginas com grande quantidade de visualizações pelo menos uma vez por semana.
+Instale filtros de palavras-chave (como conteúdo adulto, serviços pagos, conteúdo relacionado a hackers, conteúdo relacionado a jogos de azar etc.), especialmente em páginas que incluam conteúdo gerado pelo usuário. Embora não possamos fornecer informações sobre tópicos como "filtragem de palavras-chave" ou "filtragem de conteúdo", é recomendável pesquisar essas informações no Google.
+Adicione um link "Denunciar uma violação" a todas as páginas com conteúdo gerado pelo usuário e tome medidas para manter a conformidade.
+O que acontecerá se eu realizar as alterações necessárias?
+Se você corrigir os problemas, sua conta continuará ativa. No entanto, se continuarmos encontrando violações, possivelmente encerraremos sua conta.
+
+É necessário notificar o Google depois de realizar as alterações?
+Não. Vamos monitorar sua conta para garantir a conformidade com nossas políticas.
+
+O que acontecerá se eu não realizar as alterações necessárias e continuar a violar as políticas?
+Sua conta do Google AdSense será encerrada.
+
+Preciso de esclarecimentos sobre a política que meu site está violando. O que devo fazer?
+Se precisar de mais explicações ou quiser ver exemplos das nossas políticas, acesse nossos recursos:
+
+Termos e Condições do Google AdSense
+Políticas do Programa AdSense
+Central de Ajuda das políticas para publishers
+Playlist de vídeos sobre as Políticas do Google para Publishers
+Comunidade de Ajuda do AdSense
+Fundamentos da Pesquisa Google
+Esta página pode ter conteúdo que foi traduzido com tecnologia de IA. As traduções de IA podem conter erros.
+
+Envie feedback sobre este artigo
+Próximo: A veiculação de anúncios foi desativada na sua página ou no seu site
+Isso foi útil?SimNão
+Precisa de mais ajuda?
+Siga as próximas etapas:
+Postar na Comunidade de Ajuda
+Receba respostas dos membros da comunidade
+Fale conosco
+Conte mais sobre o problema para podermos ajudar você
+Políticas
+Corrigir problemas com a política
+Guia para principiantes
+Regulamentos do programa
+Políticas e restrições para publishers
+Imposições da política
+Notificação sobre políticas solicitando mudanças no seu site
+Limites de veiculação de anúncios
+Veiculação de anúncios limitada x anúncios limitados
+Conta suspensa por tráfego inválido ou por violação das políticas do programa
+Principais violações da política e problemas de tráfego inválido que levam ao encerramento da conta
+Sua conta do Google AdSense corre o risco de ser encerrada por violação da política
+A veiculação de anúncios foi desativada na sua página ou no seu site
+Conta do Google AdSense encerrada pelo Google por tráfego inválido
+Conta do Google AdSense encerrada pelo Google por violação das políticas do programa
+Políticas específicas sobre o formato do anúncio
+Registro de alterações das políticas do Google AdSense
+
+Aumente sua receita com dicas personalizadas hoje mesmo.
+Acesse a página "Dicas de otimização para o Google AdSense" e confira sugestões personalizadas para maximizar sua receita.
+
+Aumentar agora
+
+©2026 Google  Política de Privacidade  Termos de Serviço
+Idioma
+
+
+Pular para o conteúdo principal
+Central de Ajuda
+Comunidade
+Comunicados
+Google AdSense
+Visite A sua página do AdSense, onde pode encontrar informações acerca da sua conta para ajudar a ter sucesso com o AdSense.
+
+
+Políticas
+A veiculação de anúncios foi desativada na sua página ou no seu site
+Próximo: Conta do Google AdSense encerrada pelo Google por tráfego inválido
+Se quiser reativar a veiculação de anúncios na sua página ou no seu site ou garantir a continuidade dela, você precisará fazer alterações para cumprir as políticas do programa. Confira abaixo algumas perguntas frequentes sobre a desativação da veiculação de anúncios.
+
+Nesta página:
+Por que a veiculação de anúncios foi desativada?
+Onde encontro a notificação?
+O que tem na notificação?
+Encontrei a notificação. O que devo fazer agora?
+A veiculação de anúncios sempre será reativada após a solicitação de uma revisão?
+Preciso de esclarecimentos sobre a política que foi violada. O que devo fazer?
+Meu site foi rotulado incorretamente com um problema. O que devo fazer?
+Ative as legendas do YouTube no seu idioma. Clique no ícone Configurações Imagem do ícone de configurações do YouTube no player de vídeo, selecione Legendas/CC e escolha o idioma.
+
+Por que a veiculação de anúncios foi desativada?
+Seu site não está veiculando anúncios porque violou as políticas do programa. Leia as notificações na Central de Políticas para saber mais sobre os problemas encontrados no seu site ou app.
+
+Onde encontro a notificação?
+Para ver sua notificação sobre políticas:
+
+Faça login na sua conta do Google AdSense.
+Clique em Conta.
+Clique em Central de Políticas.
+Para mais detalhes, acesse Visão geral da Central de Políticas. Além disso, as notificações são enviadas para o endereço de e-mail associado à sua conta do Google AdSense.
+
+O que tem na notificação?
+A notificação contém detalhes importantes, inclusive se a desativação da veiculação de anúncios ocorreu na página, no site ou na conta. No caso de desativação da veiculação na página, vamos identificar a violação e a página específica. Se a veiculação for desativada em todo o site, vamos informar a violação e fornecer uma página de exemplo. Caso a desativação ocorra na conta, consulte Sua conta do Google AdSense corre o risco de ser encerrada por violação da política.
+
+Encontrei a notificação. O que devo fazer agora?
+Leia a notificação com atenção, faça as mudanças para resolver os problemas e, depois de aplicar as alterações, peça uma revisão.
+
+Práticas recomendadas para pedir uma revisão
+Entenda a violação: todas as notificações sobre políticas incluem uma breve explicação da política que foi violada. Leia o texto com atenção para entender como ele se aplica ao seu site ou à sua página. Se você ainda precisar de esclarecimentos ou não souber como resolver o problema, consulte a seção relevante das Políticas do Programa.
+Verifique todo o site: quando os anúncios são desativados no seu site, você recebe uma notificação com um URL de exemplo. Antes de pedir uma revisão, resolva as violações em todo o site, não considere apenas o exemplo fornecido. Os operadores de pesquisa do Google podem ser úteis para encontrar essas violações.
+Peça uma revisão: depois de concluir as etapas necessárias para resolver as violações na página ou no site, incluindo a especificação das ações realizadas e das medidas preventivas para evitar problemas no site, envie seu pedido de revisão pela Central de Políticas na sua conta do Google AdSense. Você pode incluir URLs de exemplo onde alguma medida foi tomada.
+Observação: antes de pedir a revisão, verifique se o código de anúncio do Google AdSense está presente no seu site. Se não houver um código, seu pedido poderá ser rejeitado.
+Seja paciente: normalmente, respondemos aos pedidos de revisão em uma semana, mas às vezes esse processo pode levar mais tempo.
+A veiculação de anúncios sempre será reativada após um pedido de revisão?
+Em muitos casos, se você conseguir fazer as alterações necessárias na sua página ou site, reativaremos a veiculação de anúncios. Mas isso nem sempre será possível. Se você recebeu uma notificação sobre aviso de violação de política ou se a veiculação de anúncios foi desativada no seu site, lembre-se de que o URL mencionado na notificação pode ser apenas um exemplo. Faça as alterações apropriadas em todo o site para que possamos considerar a reativação da veiculação.
+
+Preciso de esclarecimentos sobre a política que foi violada. O que devo fazer?
+Se precisar de mais explicações ou quiser ver exemplos das nossas políticas, acesse nossos recursos:
+
+Termos e Condições do Google AdSense
+Políticas do Programa AdSense
+Central de Ajuda das políticas para publishers
+Playlist de vídeos sobre as Políticas do Google para Publishers
+Comunidade de Ajuda do AdSense
+Fundamentos da Pesquisa Google
+Meu site foi rotulado incorretamente com um problema. O que devo fazer?
+Se você acreditar que seu site foi rotulado incorretamente com um problema, peça uma revisão. Acesse a Central de políticas na sua conta do Google AdSense para solicitar uma revisão e explicar por que você acredita que o site não apresenta problemas. Antes de solicitar uma revisão, verifique se o código de anúncio do Google AdSense está presente no seu site. Caso contrário, não poderemos analisar a conformidade. Saiba como corrigir problemas com a política que afetam a veiculação de anúncios.
+
+Esta página pode ter conteúdo que foi traduzido com tecnologia de IA. As traduções de IA podem conter erros.
+
+Envie feedback sobre este artigo
+Próximo: Conta do Google AdSense encerrada pelo Google por tráfego inválido
+Isso foi útil?SimNão
+Precisa de mais ajuda?
+Siga as próximas etapas:
+Postar na Comunidade de Ajuda
+Receba respostas dos membros da comunidade
+Fale conosco
+Conte mais sobre o problema para podermos ajudar você
+Políticas
+Corrigir problemas com a política
+Guia para principiantes
+Regulamentos do programa
+Políticas e restrições para publishers
+Imposições da política
+Notificação sobre políticas solicitando mudanças no seu site
+Limites de veiculação de anúncios
+Veiculação de anúncios limitada x anúncios limitados
+Conta suspensa por tráfego inválido ou por violação das políticas do programa
+Principais violações da política e problemas de tráfego inválido que levam ao encerramento da conta
+Sua conta do Google AdSense corre o risco de ser encerrada por violação da política
+A veiculação de anúncios foi desativada na sua página ou no seu site
+Conta do Google AdSense encerrada pelo Google por tráfego inválido
+Conta do Google AdSense encerrada pelo Google por violação das políticas do programa
+Políticas específicas sobre o formato do anúncio
+Registro de alterações das políticas do Google AdSense
+
+Aumente sua receita com dicas personalizadas hoje mesmo.
+Acesse a página "Dicas de otimização para o Google AdSense" e confira sugestões personalizadas para maximizar sua receita.
+
+Aumentar agora
+
+©2026 Google  Política de Privacidade  Termos de Serviço
+Idioma
+
+
+Pular para o conteúdo principal
+Central de Ajuda
+Comunidade
+Comunicados
+Google AdSense
+Visite A sua página do AdSense, onde pode encontrar informações acerca da sua conta para ajudar a ter sucesso com o AdSense.
+
+
+Políticas
+Conta do Google AdSense encerrada pelo Google por tráfego inválido
+Próximo: Conta do Google AdSense encerrada pelo Google por violação das políticas do programa
+Confira abaixo as respostas para algumas das perguntas mais frequentes sobre contas encerradas por tráfego inválido.
+
+Nesta página:
+Encerramento da conta
+Restabelecimento da conta e contestações
+Pagamento final
+Contas de outros publishers do Google AdSense
+Encerramento da conta
+Por que minha conta foi encerrada?
+Para proteger nossos usuários, anunciantes e publishers, não podemos compartilhar informações que possam ser usadas para burlar nossas defesas contra tráfego inválido, incluindo informações específicas sobre as contas dos publishers. Saiba mais sobre os motivos comuns para o encerramento de contas do AdSense por tráfego inválido.
+
+O Google trata o tráfego inválido com muita seriedade, analisando todos os cliques e impressões para identificar padrões de uso que possam aumentar artificialmente os custos dos anunciantes ou os ganhos dos publishers. Se determinarmos que uma conta do Google AdSense representa um risco para a integridade das nossas defesas contra tráfego inválido e para os anunciantes do Google Ads, ela será desativada para proteger os interesses deles.
+
+Conforme descrito nos nossos Termos e Condições, o Google usará seus próprios critérios para determinar casos de tráfego inválido. O Google não analisa nem valida dados de terceiros durante investigações de tráfego inválido.
+
+Minha conta foi encerrada por estar relacionada a outra conta encerrada. Por que isso aconteceu?
+Assim como em casos de tráfego inválido, não fornecemos informações sobre as relações encontradas entre contas de publishers. Tomamos essa precaução com todos os nossos publishers para proteger nossas defesas contra tráfego inválido.
+
+Restabelecimento da conta e contestações
+Minha conta poderá ser restabelecida após ter sido encerrada por tráfego inválido?
+Se você acredita que essa decisão foi tomada por engano, envie uma contestação usando nosso formulário de contestação de atividade inválida. Para que possamos analisar cada caso adequadamente, forneça o máximo de informações sobre a atividade relevante. Você também precisa confirmar e garantir que o tráfego inválido não foi causado por ações nem negligência da sua parte ou da parte de terceiros sob sua responsabilidade.
+
+Observação: não garantimos que a conta será restabelecida. Depois que decidirmos, as contestações subsequentes serão ignoradas.
+O que considerar ao escrever uma contestação eficiente sobre tráfego inválido?
+Analise os motivos comuns para o encerramento de contas do Google AdSense por tráfego inválido. Algum deles se aplica a você ou ao conteúdo? Seus amigos clicaram muitas vezes nos anúncios? Você comprou tráfego que levou a um aumento no tráfego inválido? É possível fazer alterações de conteúdo e/ou de comportamento para impedir que o tráfego inválido ocorra novamente?
+Analise as implementações de anúncios no seu app, site para computador e/ou site para dispositivos móveis. Pense no caminho que o usuário costuma fazer e verifique se essas implementações podem causar cliques acidentais nos seus anúncios.
+No formulário de contestação, informe o endereço de e-mail associado à sua conta encerrada do Google AdSense. Isso nos ajudará a localizar a conta e reduzirá atrasos no tempo de processamento.
+Informe quais alterações você fará no futuro. Quais sistemas ou comportamentos foram implementados para garantir que isso não acontecerá novamente? Por exemplo, conte como você ajustou suas implementações de anúncios, avaliou as origens de tráfego etc.
+Minha conta foi restabelecida. Por que meus sites, aplicativos ou vídeos não estão exibindo anúncios?
+Depois que a conta do Google AdSense for restabelecida, pode levar até 48 horas para que nossos servidores sejam atualizados e a veiculação de anúncios seja retomada. Agradecemos sua paciência enquanto nossos sistemas são atualizados.
+
+Se você for publisher do YouTube, talvez precise associar novamente o canal do YouTube à sua conta do Google AdSense. Para instruções, consulte o artigo Configurar uma conta para pagamentos do Google AdSense.
+
+Minha contestação foi negada. Posso voltar a participar do programa ou abrir uma nova conta?
+Não. Os publishers com contas encerradas por tráfego inválido não podem mais participar do Google AdSense. Por isso, não é possível abrir uma nova conta.
+
+O Google reserva-se o direito de desativar uma conta a critério exclusivo, inclusive tráfego inválido de qualquer origem.
+
+Pagamento final
+Ainda receberei meus ganhos do Google AdSense?
+Os publishers com contas encerradas por tráfego inválido e/ou violações das nossas políticas podem se qualificar para um pagamento final da parte da receita que não foi identificada como inválida. Após o encerramento da conta, vamos aplicar uma retenção de pagamento de 30 dias para calcularmos o pagamento final (quando aplicável). Depois desse período, faça login no Google AdSense para ver o saldo restante qualificado (se houver) e organizar o pagamento. As deduções do seu saldo final por tráfego inválido e/ou violações das políticas para publishers serão reembolsadas para os anunciantes afetados, quando apropriado e possível.
+
+Acabei de receber meu PIN. O que devo fazer com ele?
+Para receber qualquer pagamento final, suas informações pessoais precisam ser verificadas. Insira seu PIN para confirmar o endereço de pagamento, caso ainda não tenha feito isso.
+
+Ainda receberei as declarações fiscais referentes aos meus pagamentos?
+Se você já tiver recebido um pagamento ou ainda tiver saldo pendente na sua conta, receberá uma declaração fiscal, se necessário. Saiba mais sobre como será a feita a tributação dos seus ganhos do Google AdSense.
+
+Contas de outros publishers do Google AdSense
+Quero dar permissão para outro publisher do Google AdSense colocar anúncios no meu site. Isso criará um problema para a conta dele? Meu site também será encerrado?
+Os publishers do Google AdSense têm permissão para exibir os anúncios em qualquer site que obedeça às políticas do programa AdSense e aos Termos e Condições. O status da conta de um publisher nem sempre está associado à conformidade de um site específico com nossas políticas. Se determinarmos que a conta do outro publisher representa um risco para os anunciantes do Google Ads, poderemos encerrá-la para proteger os interesses deles.
+
+Se um amigo ou parente criar uma conta do Google AdSense, a conta da pessoa também será encerrada?
+Quando determinamos que a conta de um publisher relacionado a você representa um risco para a integridade das nossas defesas contra tráfego inválido e para os anunciantes do Google Ads, nós a encerramos para proteger os interesses deles.
+
+Esta página pode ter conteúdo que foi traduzido com tecnologia de IA. As traduções de IA podem conter erros.
+
+Envie feedback sobre este artigo
+Próximo: Conta do Google AdSense encerrada pelo Google por violação das políticas do programa
+Isso foi útil?SimNão
+Precisa de mais ajuda?
+Siga as próximas etapas:
+Postar na Comunidade de Ajuda
+Receba respostas dos membros da comunidade
+Fale conosco
+Conte mais sobre o problema para podermos ajudar você
+Políticas
+Corrigir problemas com a política
+Guia para principiantes
+Regulamentos do programa
+Políticas e restrições para publishers
+Imposições da política
+Notificação sobre políticas solicitando mudanças no seu site
+Limites de veiculação de anúncios
+Veiculação de anúncios limitada x anúncios limitados
+Conta suspensa por tráfego inválido ou por violação das políticas do programa
+Principais violações da política e problemas de tráfego inválido que levam ao encerramento da conta
+Sua conta do Google AdSense corre o risco de ser encerrada por violação da política
+A veiculação de anúncios foi desativada na sua página ou no seu site
+Conta do Google AdSense encerrada pelo Google por tráfego inválido
+Conta do Google AdSense encerrada pelo Google por violação das políticas do programa
+Políticas específicas sobre o formato do anúncio
+Registro de alterações das políticas do Google AdSense
+
+Aumente sua receita com dicas personalizadas hoje mesmo.
+Acesse a página "Dicas de otimização para o Google AdSense" e confira sugestões personalizadas para maximizar sua receita.
+
+Aumentar agora
+
+©2026 Google  Política de Privacidade  Termos de Serviço
+Idioma
+
+
+Pular para o conteúdo principal
+Central de Ajuda
+Comunidade
+Comunicados
+Google AdSense
+Visite A sua página do AdSense, onde pode encontrar informações acerca da sua conta para ajudar a ter sucesso com o AdSense.
+
+
+Políticas
+Conta do Google AdSense encerrada pelo Google por violação das políticas do programa
+Próximo: Políticas para blocos de anúncios que oferecem prêmios
+Veja a seguir algumas perguntas frequentes relacionadas ao encerramento de contas.
+
+Nesta página:
+A veiculação de anúncios foi desativada na minha conta?
+Por que minha conta foi encerrada? Posso saber mais detalhes sobre as violações encontradas?
+Minha conta poderá ser restabelecida depois de ter sido encerrada por violação das políticas do programa?
+Minha conta foi encerrada, e minha contestação recusada. Posso voltar a participar do programa abrindo uma nova conta?
+Ainda receberei meus ganhos do Google AdSense?
+Ainda receberei as declarações fiscais referentes aos meus pagamentos?
+A veiculação de anúncios foi desativada na minha conta?
+Sua conta não está veiculando anúncios porque viola as políticas do programa.
+
+Por que minha conta foi encerrada? Posso saber mais detalhes sobre as violações encontradas?
+Você deve ter recebido uma notificação explicando a razão do encerramento da sua conta por violação das políticas do programa. As contas podem ser encerradas por diversos motivos, incluindo, mas não se limitando a:
+
+Sua conta tem um amplo histórico de violações das políticas e/ou de violações recorrentes. Vale lembrar que você é responsável pelo conteúdo de todas as páginas que monetiza com o código de anúncio do Google, mesmo que o conteúdo tenha sido criado por outra pessoa (como sites com conteúdo gerado pelo usuário).
+Detectamos um comportamento fraudulento na sua conta.
+Há violações de conteúdo hediondo associadas à sua conta. Isso pode incluir, sem limitação, conteúdo sexualmente explícito, violação de direitos autorais e casos de extrema violência e imagens sangrentas.
+Para saber mais, confira os principais motivos para o encerramento de contas.
+
+Minha conta poderá ser restabelecida depois de ter sido encerrada por violação das políticas do programa?
+O Google trata seriamente a conformidade com as políticas do programa, que estão disponíveis para garantir uma experiência positiva aos nossos publishers, aos visitantes dos sites e aos nossos anunciantes. Portanto, geralmente nossas decisões são finais.
+
+Se você acredita que essa decisão foi tomada por engano, envie uma contestação usando nosso formulário de contestação de conta encerrada. Para que possamos analisar cada caso adequadamente, envie o máximo de informações sobre as violações das políticas. Você também precisa demonstrar que as violações não foram causadas por ações nem negligência da sua parte ou de terceiros sob sua responsabilidade.
+
+Observações:
+Devido ao volume de contestações que recebemos, é necessário aguardar 90 dias entre uma contestação de encerramento e outra. Não analisaremos nenhuma contestação de conta encerrada que for enviada até 90 dias após a resolução de outra contestação. Por isso, é importante verificar se a sua conta obedece às políticas antes de enviar uma contestação.
+Reservamos o direito de desativar uma conta por violações das políticas do programa, sem garantia de que sua conta será restabelecida.
+Se a sua conta foi encerrada por atividades inválidas, consulte as perguntas frequentes sobre contas encerradas.
+
+Minha conta foi encerrada, e minha contestação recusada. Posso voltar a participar do programa abrindo uma nova conta?
+Não. Publishers cujas contas foram encerradas por violação das políticas do programa não poderão mais participar do Google AdSense. Por isso, não é possível abrir uma nova conta. Além disso, os Termos e Condições do AdSense só permitem uma conta por publisher.
+
+Ainda receberei meus ganhos do Google AdSense?
+Os publishers com contas encerradas por violações das políticas do programa podem ter direito a um pagamento final de parte da receita que não tenha sido identificada como inválida nem associada a violações. Após o encerramento da conta, vamos aplicar uma retenção de pagamento de 30 dias para calcularmos o pagamento final (quando aplicável). Depois desse período, faça login no Google AdSense para ver o saldo restante qualificado (se houver) e organizar o pagamento. Use o solucionador de problemas de pagamento final, caso necessário. As deduções do seu saldo final por tráfego inválido e/ou violações das políticas para publishers serão reembolsadas para os anunciantes afetados, quando apropriado e possível.
+
+Ainda receberei as declarações fiscais referentes aos meus pagamentos?
+Se você já tiver recebido um pagamento ou ainda tiver saldo pendente na sua conta, receberá uma declaração fiscal, se necessário. Saiba mais sobre como será a feita a tributação dos seus ganhos do Google AdSense.
+
+Esta página pode ter conteúdo que foi traduzido com tecnologia de IA. As traduções de IA podem conter erros.
+
+Envie feedback sobre este artigo
+Próximo: Políticas para blocos de anúncios que oferecem prêmios
+Isso foi útil?SimNão
+Precisa de mais ajuda?
+Siga as próximas etapas:
+Postar na Comunidade de Ajuda
+Receba respostas dos membros da comunidade
+Fale conosco
+Conte mais sobre o problema para podermos ajudar você
+Políticas
+Corrigir problemas com a política
+Guia para principiantes
+Regulamentos do programa
+Políticas e restrições para publishers
+Imposições da política
+Notificação sobre políticas solicitando mudanças no seu site
+Limites de veiculação de anúncios
+Veiculação de anúncios limitada x anúncios limitados
+Conta suspensa por tráfego inválido ou por violação das políticas do programa
+Principais violações da política e problemas de tráfego inválido que levam ao encerramento da conta
+Sua conta do Google AdSense corre o risco de ser encerrada por violação da política
+A veiculação de anúncios foi desativada na sua página ou no seu site
+Conta do Google AdSense encerrada pelo Google por tráfego inválido
+Conta do Google AdSense encerrada pelo Google por violação das políticas do programa
+Políticas específicas sobre o formato do anúncio
+Registro de alterações das políticas do Google AdSense
+
+Aumente sua receita com dicas personalizadas hoje mesmo.
+Acesse a página "Dicas de otimização para o Google AdSense" e confira sugestões personalizadas para maximizar sua receita.
+
+Aumentar agora
+
+©2026 Google  Política de Privacidade  Termos de Serviço
+Idioma
+
+
+Pular para o conteúdo principal
+Central de Ajuda
+Comunidade
+Comunicados
+Google AdSense
+Visite A sua página do AdSense, onde pode encontrar informações acerca da sua conta para ajudar a ter sucesso com o AdSense.
+
+
+Políticas
+Políticas para blocos de anúncios que oferecem prêmios
+Próximo: Registro de alterações das políticas do Google AdSense
+Os blocos de anúncios que oferecem prêmios são um mecanismo para fortalecer o relacionamento entre editores e usuários que beneficiam ambos. Para garantir uma experiência positiva para editores, usuários e anunciantes, definimos os requisitos abaixo sobre a natureza e a implementação de blocos de anúncios que oferecem prêmios por meio de anúncios veiculados pelo Google ("Anúncios premiados").
+
+Para os fins destas políticas:
+
+"Itens monetários diretos" significa tipos de pagamento reconhecidos pela legislação ou outras formas de pagamento que podem ser usadas diretamente para a aquisição de bens ou serviços no mundo real.
+Exemplos: dinheiro, criptomoeda, vale-presente
+
+"Itens indiretos ou não monetários" significa algo que tem valor monetário, mas não é um modo direto de pagamento no mundo real, ou algo que não tem valor monetário no mundo real.
+Exemplos: descontos, recompensas ou pontos por fidelidade, frete grátis de produtos, teste gratuito de produtos ou serviços, vida extra e skin de personagens em jogos
+
+"Intransferível" significa um prêmio que só pode ser resgatado e usado pela mesma pessoa que o recebeu. Ele não pode ser convertido em itens monetários diretos ou que possam ser transferidos a terceiros.
+Exemplos: um código de desconto, pontos de fidelidade ou um item de jogo que só pode ser resgatado e usado por um usuário específico (pela conta de login) e que não pode ser diretamente convertido em dinheiro ou usado para comprar qualquer item que possa ser transferido para outra pessoa
+
+
+Requisitos dos prêmios
+Itens monetários diretos não podem ser oferecidos como prêmios em nenhuma circunstância.
+Itens indiretos ou não monetários podem ser oferecidos como prêmios, desde que:
+O prêmio só seja resgatado e usado para um item ou serviço na plataforma, no site ou no app do editor.
+O prêmio seja intransferível (por exemplo, itens físicos ou pontos de fidelidade que podem ser transferidos para outra pessoa não são permitidos); e
+As recompensas que são um desconto ou cupom para itens físicos não excedam 25% do valor total do item.
+Prêmio aleatórios são permitidos, desde que:
+A chance de um prêmio aleatório seja divulgada ao usuário antes da apresentação dos anúncios premiados. Por exemplo, indicar "Assista este anúncio agora e concorra a um prêmio aleatório";
+Os detalhes sobre todos os possíveis prêmios fiquem facilmente acessíveis ao usuário. Por exemplo, indicar possíveis prêmios na declaração, ao passar o cursor ou incluir um link para uma página com detalhes. Isso inclui declarar se um possível resultado é não receber nenhum prêmio; e
+A chance de receber um prêmio precisa ser maior que zero.
+Requisitos de implementação
+Os editores precisam apresentar uma declaração clara, precisa e evidente sobre as ações necessárias e os prêmios oferecidos antes de mostrar cada anúncio premiado.
+É possível usar ícones para descrever as ações ou os prêmios, desde que eles sejam compreensíveis pelos usuários de maneira clara e inequívoca.
+Se os anúncios premiados forem apresentados em um pacote ou exigirem que os usuários assistam um número fixo de anúncios premiados para ganhar um prêmio, esses detalhes precisam ser claramente divulgados ao usuário. Por exemplo, indicar "Assista 3 anúncios agora para receber 100 moedas de ouro".
+Os anúncios premiados, exceto aqueles implementados com o formato intersticial premiado, só podem ser veiculados depois que o usuário aceitar de forma afirmativa e inequívoca, como tocar em um botão que representa "sim" ou "aceitar". Além disso:
+Os anúncios premiados não podem obrigar os usuários a interagir com eles. Por exemplo, eles precisam ter a opção de ser ignorados ou dispensados.
+Os anúncios premiados implementados com o formato intersticial premiado precisam apresentar uma tela inicial com uma opção representando "não" ou "não aceito", com tempo suficiente para o usuário recusar. Essa opção não pode ficar oculta, obstruída ou não funcional.
+Ignorar o anúncio premiado ou selecionar a opção "Não" ou "Não aceitar" não pode impedir nem interferir no uso normal da plataforma, site ou app.
+Os editores não podem incluir textos nem ícones, exceto para descrever os prêmios oferecidos, com o objetivo de enganar ou incentivar os usuários a escolher uma opção específica. Por exemplo, indicar "Assista este anúncio para apoiar nossa empresa".
+Os editores precisam entregar os prêmios prometidos ao usuário após a conclusão das ações necessárias.
+Os editores são total e exclusivamente responsáveis pela concessão dos prêmios e não podem declarar ou implicar que os prêmios são verificados ou endossados pelo Google.
+Esta página pode ter conteúdo que foi traduzido com tecnologia de IA. As traduções de IA podem conter erros.
+
+Envie feedback sobre este artigo
+Próximo: Registro de alterações das políticas do Google AdSense
+Isso foi útil?SimNão
+Precisa de mais ajuda?
+Siga as próximas etapas:
+Postar na Comunidade de Ajuda
+Receba respostas dos membros da comunidade
+Fale conosco
+Conte mais sobre o problema para podermos ajudar você
+Políticas
+Corrigir problemas com a política
+Guia para principiantes
+Regulamentos do programa
+Políticas e restrições para publishers
+Imposições da política
+Políticas específicas sobre o formato do anúncio
+Políticas para blocos de anúncios que oferecem prêmios
+Registro de alterações das políticas do Google AdSense
+
+Aumente sua receita com dicas personalizadas hoje mesmo.
+Acesse a página "Dicas de otimização para o Google AdSense" e confira sugestões personalizadas para maximizar sua receita.
+
+Aumentar agora
+
+©2026 Google  Política de Privacidade  Termos de Serviço
+Idioma
+
+
+Pular para o conteúdo principal
+Central de Ajuda
+Comunidade
+Comunicados
+Google AdSense
+Visite A sua página do AdSense, onde pode encontrar informações acerca da sua conta para ajudar a ter sucesso com o AdSense.
+
+
+Políticas
+Registro de alterações das políticas do Google AdSense
+É neste registro de alterações que o Google informa atualizações das políticas e restrições do Google AdSense. Os publishers precisam acompanhar as mudanças e obedecer às políticas sempre.
+
+Atualizações na política do AdSense para pesquisas sobre o criativo do anúncio do referenciador (RAC, na sigla em inglês) (novembro de 2025)
+Para garantir a precisão e a eficácia dos nossos sistemas, em breve todos os publishers vão precisar fornecer o parâmetro referrerAdCreative quando o tráfego chegar a uma página relacionada de pesquisa por conteúdo de uma origem sob seu controle. Isso inclui redes, serviços ou afiliados de terceiros com quem você tem parceria.
+
+Nesses casos, é necessário definir o parâmetro com o texto exato e completo do criativo do anúncio ou da origem do link. Para esclarecer, "texto exato e completo do criativo" indica que precisa ser uma transcrição literal.
+
+Por exemplo, em uma origem de vídeo upstream com um influenciador caminhando por uma rua, falando com a câmera e com música de fundo, a transcrição completa da fala, a letra da música e qualquer texto visível em placas de rua, entre outros elementos que podem aparecer em qualquer lugar na tela do usuário, precisam ser fornecidos na íntegra e sem alterações. A omissão será considerada uma violação da política. Para mais detalhes, consulte as práticas recomendadas para usar a pesquisa relacionada.
+
+Lembrete: além do RAC, todo uso da pesquisa relacionada para conteúdo precisa obedecer aos requisitos e fornecer declarações precisas para parâmetros de acordo com o guia de implementação.
+
+Essa mudança entra em vigor em 1º de novembro de 2025.
+
+Postado em outubro de 2025
+
+Atualização da lista de sanções da Agência de Controle de Ativos Estrangeiros dos EUA em agosto de 2025
+Em agosto de 2025, a página Como funcionam as restrições de país do Google AdSense será atualizada para refletir a remoção da Síria da lista de sanções da Agência de Controle de Ativos Estrangeiros dos EUA.
+
+Postado em agosto de 2025
+
+Atualizações nas políticas do AdSense para pesquisas (abril de 2025)
+Em 22 de abril de 2025, o Google vai remover a seção "Políticas específicas de apps para dispositivos móveis" das políticas de anúncios de pesquisa, já que o AdSense para pesquisas não oferece mais suporte a apps para dispositivos móveis.
+
+As políticas a seguir também serão atualizadas para remover as referências a "apps".
+
+Políticas do AdSense para pesquisas (AFS)
+Política sobre os Anúncios de pesquisa do Google: consultas de pesquisa alternativas
+Políticas do recurso integrado de produtos do AdSense para pesquisas
+(Postado em abril de 2025)
+
+Atualização das Restrições do Google para publishers relacionadas a jogos de azar on-line (março de 2025)
+Em março de 2025, vamos atualizar as Restrições do Google para publishers referentes a jogos de azar on-line. Elas serão aplicadas quando esse tipo de conteúdo for exibido para usuários localizados fora dos países permitidos. São eles: Alemanha, Austrália, Brasil, Canadá, Colômbia, Coreia do Sul, Espanha, Estados Unidos, Filipinas, França, Grécia, Irlanda, Itália, Japão, México, Países Baixos, Reino Unido e Turquia.
+
+Postado em fevereiro de 2025
+Atualização das Políticas do Google para publishers para unificar as políticas de divulgação atuais (fevereiro de 2025)
+Em 16 de fevereiro de 2025, o Google removeu desta política a cláusula sobre divulgação, que foi unificada com a política de declaração de privacidade.
+
+O Google também vai remover a cláusula sobre o uso de dados para se alinhar à cláusula de atividades proibidas nas nossas políticas de plataformas.
+
+Postado em fevereiro de 2025
+
+Atualização das Políticas do Google para publishers (fevereiro de 2025)
+As políticas para publishers serão alteradas em 16 de fevereiro de 2025. As mudanças refletem a maior variedade de plataformas onde os anúncios aparecem, como smart TVs e consoles de jogos, e os avanços nas tecnologias para aumentar a privacidade (como o processamento no dispositivo, os ambientes de execução confiáveis e a computação segura entre várias partes). Elas também mantêm a exigência de que os parceiros sejam transparentes com os usuários.
+Postado em 18 de dezembro de 2024
+
+Atualizações nas políticas de Intenções de anúncio, Pesquisa relacionada para anúncios automáticos e Pesquisa relacionada para páginas de conteúdo (novembro de 2024)
+Em 15 de novembro de 2024, o Google vai atualizar os seguintes recursos do AdSense para pesquisas (AFS):
+
+A Pesquisa relacionada para anúncios automáticos, que atualmente é um formato dos anúncios automáticos, passará a ser um Recurso integrado ao produto (PIF, na sigla em inglês) do AFS.
+A Pesquisa relacionada para páginas de conteúdo, que atualmente é uma Consulta de pesquisa alternativa do AFS, vai se tornar um PIF do AFS.
+Após essas atualizações, os seguintes tipos de PIFs do AFS estarão disponíveis: Intenções de anúncio, Pesquisa relacionada para anúncios automáticos e Pesquisa relacionada para páginas de conteúdo.
+Consequentemente, as seguintes políticas do AFS serão alteradas para incluir as atualizações:
+
+As políticas da Pesquisa relacionada para páginas que não são de resultados de pesquisa com conteúdo exclusivo ou original serão removidas da Política de Anúncios personalizados de pesquisa do Google: consultas de pesquisa alternativas.
+As políticas que se referem à Pesquisa relacionada para páginas de resultados da pesquisa não vão mudar e serão renomeadas como "Pesquisa relacionada para páginas de resultados da pesquisa".
+As políticas de Anúncios personalizados de pesquisa vão ser atualizadas para esclarecer que os CSAs só podem ser usados em páginas de resultados da pesquisa retornadas de uma clara intenção da pesquisa do usuário proveniente de uma destas três fontes:
+Uma consulta de pesquisa inserida e enviada diretamente por um usuário em uma caixa de pesquisa sem edição, modificação ou filtragem. A caixa de pesquisa não pode ser preenchida previamente com termos de pesquisa, e os editores não podem criar links contendo termos de pesquisa preenchidos da mesma forma.
+Um Recurso integrado ao produto do AdSense para pesquisas, conforme definido e em conformidade com as políticas relacionadas do Google.
+Uma Consulta de pesquisa alternativa, conforme definida e em conformidade com as políticas relacionadas do Google.
+As Políticas de Recursos integrados ao produto do AdSense para pesquisas serão atualizadas para incluir novos requisitos de Intenções de anúncio, Pesquisa relacionada para anúncios automáticos e Pesquisa relacionada para páginas de conteúdo:
+Políticas comuns de PIF
+O uso de PIFs do AFS está sujeito a estas condições:
+
+Não é permitido inserir PIFs do AFS em propriedades com conteúdo que não obedece às Políticas do Google para publishers. Além disso, o Google não veicula anúncios em propriedades com conteúdo restrito nas Restrições do Google para publishers. Para fins de esclarecimento:
+As Políticas do Google para publishers e as Restrições do Google para publishers se aplicam a todo o conteúdo em propriedades que veiculam PIFs, independentemente de serem "Anúncios veiculados pelo Google" (conforme referenciado e definido nas Políticas do Google para publishers e nas Restrições do Google para publishers) presentes no conteúdo.
+As Políticas do Google para publishers se aplicam a toda monetização de conteúdo com código de anúncio do Google, incluindo PIFs.
+As "Origens de publicidade" nas Restrições do Google para publishers incluem os "anúncios" definidos nessas políticas.
+Para fins de esclarecimento, o uso de PIFs do AFS precisa obedecer a todas as políticas aplicáveis ao seu uso do AFS, como as políticas do programa AdSense, as políticas do AdSense para pesquisas (AFS), as Diretrizes dos programas do Google ou qualquer outra política aplicável.
+Não edite, modifique nem filtre elementos de PIF, exceto nas configurações de anúncios automáticos e de pesquisa relacionada disponíveis na sua conta do Google AdSense.
+Não é permitido inserir PIFs do AFS de forma que incentive cliques acidentais ou de qualquer maneira dependa de métodos de implementação enganosos ou atraia atenção exagerada para incentivar os usuários a interagir, (por exemplo, com texto enganoso ou elementos que encorajam a interação com o PIF, como "clique aqui para ver a melhor oferta" ou designs que tornem os PIFs o ponto focal do conteúdo).
+Além dessas políticas comuns, PIFs específicos têm políticas adicionais, conforme descrito abaixo.
+
+Pesquisa relacionada para páginas de conteúdo
+Além das políticas comuns de PIF, o uso da Pesquisa relacionada para páginas de conteúdo precisa obedecer às políticas a seguir. Para fins de esclarecimento, a "Pesquisa relacionada" mencionada abaixo se refere à Pesquisa relacionada para páginas de conteúdo.
+
+Geral
+Se o uso do AFS for regido pelos Termos de Serviço on-line do Google AdSense, a Pesquisa relacionada somente pode ser incluída em sites ou apps compatíveis com anúncios de pesquisa.
+Cada clique do usuário em termos de Pesquisa relacionada deve direcionar a uma página de resultados da pesquisa no seu site com resultados relevantes para o termo.
+Os termos de Pesquisa relacionada enviados na solicitação de anúncio precisam ser exatamente aqueles usados pelo usuário. Quando um usuário clica em um termo apresentado em um bloco de Pesquisa relacionada (como "buquê de flores"), a solicitação resultante enviada ao Google deve ser o termo exato em que o usuário clicou. Neste exemplo, seria "buquê de flores", não "flores", nem "entrega de buquê de flores".
+Termos fornecidos pelo parceiro
+Os "Termos fornecidos pelo parceiro" são suas sugestões para complementar os termos de pesquisa gerados pelo Google para o bloco de Pesquisa relacionada, fornecidos pelo parâmetro terms na solicitação da Pesquisa relacionada. O Google pode ou não usar esses termos, a critério próprio e exclusivo. Os Termos fornecidos pelo parceiro precisam obedecer às seguintes políticas:
+
+As sugestões não podem apresentar conteúdo proibido pelas Políticas do Google para publishers. Além disso, o Google não vai retornar anúncios se as sugestões tiverem conteúdo restrito nas Restrições do Google para publishers.
+As sugestões devem ser criadas para sugerir as consultas de pesquisa mais relevantes, não para gerar anúncios específicos (por exemplo, anúncios com um alto custo por clique) ou aumentar artificialmente impressões, cliques e/ou conversões.
+As sugestões não podem ser criadas para segmentar usuários específicos, nem um grupo de usuários com base em afinidade ou outros atributos compartilhados (por exemplo, informações demográficas). Para fins de esclarecimento, as sugestões podem:
+Incluir informações relacionadas a afinidade ou outros atributos que sejam exclusiva e evidentemente derivados do conteúdo da página; ou
+Conter termos no mesmo idioma que a consulta de pesquisa original do usuário.
+Além disso, os Termos fornecidos pelo parceiro não serão considerados pelo Google nas seguintes circunstâncias:
+
+Se os indicadores de conteúdo em cache não estiverem disponíveis para uma página (por exemplo, uma página não é rastreada e registrada pelos sistemas do Google), exceto quando ela tiver sido enviada pelo ignoredPageParams.
+Se você estiver adquirindo tráfego para uma página que veicula um bloco de Pesquisa relacionada e não enviou o "texto do criativo do anúncio" exatamente como está com o parâmetro referrerAdCreative na solicitação da Pesquisa relacionada.
+Adquirir tráfego
+Se você estiver adquirindo tráfego para uma página que veicula um bloco de Pesquisa relacionada, ou seja, um usuário acessa uma página de destino que mostra um bloco de Pesquisa relacionada após clicar em um anúncio ou link de outro site (sendo uma "Origem de tráfego" cada um), vai precisar obedecer às seguintes políticas:
+
+As Origens de tráfego precisam ser relevantes e descrever com precisão o que o usuário vai encontrar na página de destino.
+As Origens de tráfego não podem prometer produtos, serviços ou ofertas promocionais que estejam indisponíveis ou sejam difíceis de encontrar na página de destino (por exemplo, exige muita navegação para ver a oferta) nem apresentar informações ou afirmações enganosas sobre produtos, serviços ou ofertas promocionais.
+Você deve garantir que cada página de destino seja substancialmente igual a uma página que apareceria para um usuário que a acessou de maneira orgânica, ou seja, quando ele não acessa a página por uma Origem de tráfego.
+Você é responsável por quaisquer Origens de tráfego, incluindo rede de publicidade ou afiliado com quem trabalha.
+
+Além disso, vamos atualizar o nome dos "Anúncios personalizados de pesquisa" para "Anúncios de pesquisa" nas seguintes políticas:
+
+Políticas do AdSense para pesquisas (AFS)
+Políticas de Anúncios personalizados de pesquisa
+Política dos Anúncios personalizados de pesquisa do Google: consultas de pesquisa alternativas
+Postado em outubro de 2024
+
+Mudança das Políticas para inventário de vídeo para as Restrições para editores do Google (setembro de 2024)
+Em 23 de setembro de 2024, o Google vai mover as Políticas para inventário de vídeo das Políticas para editores do Google para as Restrições para editores do Google como Restrições de inventário de vídeo. O inventário de vídeo com conteúdo restrito nas Restrições de inventário de vídeo pode receber menos publicidade do que outro conteúdo não restrito.
+
+O Google Ads e as transações não diretas do Ad Manager (por exemplo, leilão privado e leilão aberto) vão continuar sem veiculação em inventários de vídeo com conteúdo restrito nas Restrições de inventário de vídeo, mas esse inventário poderá receber anúncios de outros produtos de publicidade ou por negócios diretos do Ad Manager entre publishers e anunciantes (por exemplo, reservas tradicionais, transações preferenciais e programática garantida).
+
+Além disso, também faremos atualizações editoriais nas seguintes seções das Restrições de inventário de vídeo para melhorar a clareza e a leitura. Esse tipo de mudança não altera o escopo dos requisitos.
+
+Os controles de inventário de vídeo (por exemplo, reproduzir, pausar, desativar som, pular ou dispensar) e o conteúdo ou os controles do anúncio, quando fornecidos, não podem estar obstruídos/ocultos e precisam funcionar.
+Para fins de esclarecimento, os controles de inventário de vídeo ou de anúncios que são ativados ou mostrados apenas como resultado de uma única ação do usuário (por exemplo, rolar, passar o cursor, tocar ou deslizar a tela) não são considerados obstruídos, ocultos ou não funcionais.
+Para posições in-stream ou de conteúdo complementar que fazem a transição para uma posição fixa, o player de vídeo precisa começar no conteúdo principal e só fará a transição quando a pessoa rolar a página, passando do player.
+Postado em agosto de 2024
+
+Atualização da monetização na Rússia (agosto de 2024)
+Devido aos acontecimentos atuais na Rússia, estamos pausando a monetização de publishers nesse país com o AdSense, a AdMob e o Ad Manager.
+
+Postado em agosto de 2024
+
+Atualização das políticas do programa AdSense (agosto de 2024)
+Em agosto de 2024, o Google vai substituir a política de anúncios em conteúdo dinâmico por uma nova política de "Anúncios em comunicações privadas". Essa mudança vai esclarecer para os publishers que os anúncios são proibidos em telas em que o foco principal é uma comunicação particular, como mensagens diretas, chats ao vivo, chats por vídeo e salas de chat particulares. Fazemos atualizações frequentes com o objetivo de aprimorar a clareza e a transparência das políticas.
+
+Postado em julho de 2024
+
+Atualizações na Política de consentimento de usuários da União Europeia (julho de 2024)
+A partir de 31 de julho de 2024, o Google vai ampliar o escopo da Política de consentimento de usuários da União Europeia para a Suíça. Os clientes que usam produtos de publicidade do Google vão precisar do consentimento dos usuários na Suíça para utilizar cookies ou outro armazenamento local (de acordo com os requisitos legais) e coletar, compartilhar e usar dados pessoais para a personalização de anúncios. Além disso, também existem requisitos para usuários do Espaço Econômico Europeu (EEE) e do Reino Unido.
+
+Postado em abril de 2024
+
+Atualizações nas políticas do AdSense para pesquisas (março de 2024)
+Em 27 de março de 2024, o Google vai fazer as seguintes atualizações nas políticas do AdSense para pesquisas (AFS):
+
+Esclarecer que as consultas podem ter uma intenção clara de pesquisa do usuário proveniente de uma destas três fontes:
+Uma consulta de pesquisa inserida e enviada diretamente por um usuário em uma caixa de pesquisa sem edição, modificação ou filtragem. A caixa de pesquisa não pode ser preenchida previamente com termos de pesquisa, e os editores não podem criar links contendo termos de pesquisa preenchidos da mesma forma.
+Um recurso integrado ao produto AdSense para pesquisas, conforme definido e em conformidade com as políticas relacionadas do Google.
+Uma consulta de pesquisa alternativa nos seus sites ou apps que ativaram os anúncios personalizados de pesquisa, conforme definido e compatível com as políticas de consulta de pesquisa alternativa do Google.
+Atualizações editoriais para melhorar a clareza e o entendimento. Esse tipo de mudança não altera o escopo das políticas.
+Também apresentaremos novas políticas dos recursos integrados ao produto AdSense para pesquisas do Google para esclarecer que:
+
+No momento, o seguinte tipo de recurso integrado ao produto AFS está disponível: intenções de anúncios
+O uso dos recursos integrados ao produto AFS precisa obedecer às políticas do AdSense para pesquisas (AFS).
+Não é permitido inserir recursos integrados ao produto AFS em conteúdo que não obedece as políticas do programa Google AdSense, incluindo, mas não se limitando às Políticas para editores do Google.
+(Postado em março de 2024)
+
+Atualizações nas políticas do programa Google AdSense (fevereiro de 2024)
+Em 9 de fevereiro de 2024, o Google vai incluir uma nova política sobre eventos sensíveis nas políticas do programa Google AdSense.
+
+Um "Evento sensível" é uma circunstância ou evento imprevisto que gera um risco considerável à capacidade do Google de reduzir conteúdo insensível ou abusivo em recursos importantes/monetizados e oferecer informações relevantes, empíricas e de alta qualidade. Durante um evento sensível, podemos tomar várias medidas para lidar com esses riscos.
+
+Postado em janeiro de 2024
+
+Atualização: a política para editores de vídeo vai passar a fazer parte das Políticas para editores do Google (abril de 2024)
+Em 1º de abril de 2024, o Google vai atualizar a política para editores de vídeo. Atualmente, ela é válida para o Google AdSense e o Ad Manager e, com a atualização, vai ser usada em todo o inventário de vídeo, incluindo a AdMob, nas Políticas para editores do Google. Os objetivos desse aumento na cobertura são simplificar as políticas dos produtos do Google e acompanhar os padrões atuais do setor (por exemplo, o OpenRTB da IAB).
+
+Saiba mais sobre os motivos por trás das novas políticas para editores de vídeo e confira um resumo das principais mudanças no artigo Atualizações das políticas para editores de vídeo em 2024.
+Estas são as políticas atualizadas que serão aplicadas aos inventários de vídeo do Google AdSense, do Ad Manager e da AdMob que geram receita com o código de anúncio do Google ("Inventário de vídeo"):
+
+Descrever o inventário com precisão
+O inventário de vídeo precisa ter declarações com indicadores precisos (para o Ad Manager, consulte os parâmetros de URL da tag de anúncio VAST), incluindo:
+Recursos de áudio na posição do anúncio: audível por padrão ou silenciado (para o Ad Manager, consulte o parâmetro "vpmute").
+Tipo de posição do anúncio: os anúncios em vídeo que aparecem em players com conteúdo de vídeo precisam ser corretamente declarados como "In-stream" ou "Conteúdo complementar" (para o Ad Manager, consulte parâmetro "plcmt"). Os anúncios em vídeo mostrados em posições que não têm player de vídeo não precisam de declarações e são determinados pelo Google com base no formato do inventário, como "Intersticial" ou "Independente".
+In-stream se refere a um anúncio em vídeo ou áudio reproduzido no streaming de conteúdo em vídeo ou áudio, sendo que esse conteúdo é o foco da visita do usuário ou é solicitado de forma explícita pela pessoa.
+Exemplo: um anúncio em vídeo que é reproduzido antes, durante ou depois do streaming de um conteúdo em vídeo que o usuário pediu.
+
+Conteúdo complementar significa um anúncio em vídeo reproduzido no streaming que acompanha o conteúdo principal da visita do usuário, sendo que o vídeo não é o foco da visita da pessoa nem foi solicitado de forma explícita por ela. As posições de conteúdo complementar precisam ser carregadas no corpo da página e ficar silenciadas por padrão.
+Exemplo: um anúncio em vídeo reproduzido antes, durante ou depois do conteúdo em vídeo sem som que ocupa uma pequena parte de uma página considerada principalmente editorial.
+
+Intersticial se refere a um anúncio em vídeo reproduzido sem a presença de outro streaming de vídeo em uma transição entre materiais, em que o anúncio em vídeo é o foco da página e ocupa a maior parte da janela de visualização.
+Exemplo: um anúncio em vídeo independente de qualquer outro streaming de vídeo, colocado em visualização completa em uma pausa ou transição natural entre o conteúdo.
+
+Independente significa um anúncio em vídeo reproduzido sem a presença de outro streaming de vídeo, em que a publicidade não é o foco da página.
+Exemplo: um anúncio em vídeo independente de qualquer outro streaming de vídeo, posicionado em um banner na coluna direita da página de uma matéria.
+
+Usar implementações compatíveis
+As posições in-stream ou de conteúdo complementar precisam usar o SDK do Interactive Media Ads do Google ou a biblioteca de acesso programático do Google em plataformas compatíveis, a menos que você participe de um programa Beta oficial do Google.
+Parceiros e editores não podem usar produtos do Interactive Media Ads para gerar receita no YouTube. Em conteúdo do YouTube, os editores precisam gerar receita com o Programa de Parcerias do YouTube.
+As posições intersticiais ou independentes precisam usar as soluções do Google: na Web, Tags do editor do Google; no app, o SDK dos anúncios para dispositivos móveis do Google (para o Ad Manager; para a AdMob).
+Não é permitido usar o SDK do Interactive Media Ads do Google em posições intersticiais ou independentes, exceto em jogos.
+Proteger o valor do anunciante
+O conteúdo ou os controles do inventário de vídeo (por exemplo, reproduzir, pausar, desativar som, pular ou dispensar), incluindo o conteúdo ou os controles do anúncio, quando fornecidos, não podem estar obstruídos/ocultos e precisam funcionar.
+Nas posições in-stream, os anúncios em áudio não podem ser solicitados nem veiculados em posições com o som desativado.
+Respeitar o usuário
+O inventário de vídeo pode ter reprodução automática, desde que as seguintes condições sejam atendidas:
+Só é possível reproduzir automaticamente com som um inventário de vídeo por vez em todos os tipos de posições.
+Além disso, para posições in-stream ou de conteúdo complementar, somente um player de vídeo pode ter reprodução automática por vez.
+O anúncio não pode ser reproduzido automaticamente até que pelo menos 50% do bloco de anúncios apareça.
+O inventário de vídeo pode ser fixo, desde que:
+Uma opção para dispensar seja apresentada durante o vídeo ou o anúncio. Ela não pode ficar oculta nem obstruída e precisa funcionar.
+Para posições in-stream ou de conteúdo complementar, o player de vídeo precisa começar no conteúdo principal e virar fixo somente quando a pessoa rolar a página, passando do player.
+No Ad Manager, os termos "instream" ou "in-stream" nas páginas da Central de Ajuda e nos controles do produto se referem tanto a "in-stream" quanto a "conteúdo complementar", conforme definido nas políticas atualizadas. Nesse sentido, o inventário de vídeo do Ad Manager que for "in-stream" ou "conteúdo complementar" terá que obedecer às diretrizes relevantes nas políticas.
+
+A vigência das políticas atualizadas começa em 1º de abril de 2024. Confira as políticas atualizadas para determinar se elas afetam seu inventário de vídeo. Se o seu inventário de vídeo já foi reprovado, mas você acha que agora ele seria aprovado com base nas mudanças recentes, peça uma revisão ou envie uma contestação a partir de 1º de abril de 2024.
+
+Confira abaixo mais informações sobre como fazer isso:
+
+Google AdSense – Solicitar uma revisão
+AdMob – Violação da política da AdMob: conta ou apps desativados
+Ad Manager – Solicitar uma revisão
+Publicado em novembro de 2023.
+
+Atualização da política para editores de vídeo (novembro de 2023)
+Em 7 de novembro de 2023, o Google vai atualizar a política para editores de vídeo permitindo a veiculação de anúncios que não são in-stream em implementações fixas, ou seja, eles permanecem em um ponto fixo da tela.
+
+Postado em outubro de 2023
+
+Atualização da política sobre inventário premiado (outubro de 2023)
+Em 31 de outubro de 2023, o Google vai atualizar a política de inventário premiado para que se torne políticas sobre blocos de anúncios que oferecem recompensas. De acordo com as políticas atualizadas, será permitido que itens indiretos ou não monetários sejam oferecidos como prêmios, desde que:
+
+O prêmio só seja resgatado e usado para um item ou serviço na plataforma, no site ou no app do editor.
+O prêmio seja intransferível.
+As recompensas que são um desconto ou cupom para itens físicos não excedam 25% do valor total do item.
+Continua proibido oferecer itens monetários diretos como prêmios em qualquer circunstância.
+
+Nas políticas atualizadas:
+
+"Itens monetários diretos" significa tipos de pagamento reconhecidos pela legislação ou outras formas de pagamento que podem ser usadas diretamente para a aquisição de bens ou serviços no mundo real.
+Exemplos: dinheiro, criptomoeda, vale-presente
+
+"Itens indiretos ou não monetários" significa algo que tem valor monetário, mas não é um modo direto de pagamento no mundo real, ou algo que não tem valor monetário no mundo real.
+Exemplos: descontos, recompensas ou pontos por fidelidade, frete grátis de produtos, teste gratuito de produtos ou serviços, vida extra e skin de personagens em jogos
+
+"Intransferível" significa um prêmio que só pode ser resgatado e usado pela mesma pessoa que o recebeu. Ele não pode ser convertido em itens monetários diretos ou que possam ser transferidos a terceiros.
+Exemplos: um código de desconto, pontos de fidelidade ou um item de jogo que só pode ser resgatado e usado por um usuário específico (pela conta de login) e que não pode ser diretamente convertido em dinheiro ou usado para comprar qualquer item que possa ser transferido para outra pessoa
+
+Além disso, também faremos atualizações editoriais nas políticas para melhorar a clareza e a leitura. Essas atualizações não alteram o escopo das políticas.
+
+Consulte as políticas atualizadas para determinar se elas afetam os blocos de anúncios que oferecem prêmios. Se esses blocos de anúncios foram reprovados anteriormente, mas você acha que agora seriam aprovados de acordo com a atualização, solicite uma revisão ou envie uma contestação a partir de 31 de outubro de 2023.
+
+Saiba mais sobre como solicitar uma revisão ou contestação.
+
+Postado em outubro de 2023
+
+Atualização da abordagem do Google em relação a transferências de dados (setembro de 2023)
+O Google é certificado de acordo com a Estrutura de Privacidade de Dados da UE e dos EUA ("DPF da UE-EUA") e, em 1º de setembro de 2023, adotou essa abordagem como uma solução de transferência alternativa para enviar dados pessoais do EEE para os EUA.
+
+Postado em setembro de 2023
+
+Atualização das Restrições para editores do Google sobre conteúdo chocante (agosto de 2023)
+Em 30 de agosto de 2023, o Google vai atualizar o conteúdo chocante nas Restrições para editores do Google e incluir uma exceção para as imagens de gameplay. No contexto de imagens de gameplay, o conteúdo só é considerado "contendo contas ou imagens macabras, explícitas ou repugnantes" ou "mostrando atos de violência" se retratar atos de tortura, violência sexual, violência contra menores, violência contra pessoas reais de destaque ou violência contra um indivíduo ou um grupo com base em uma característica associada à discriminação sistêmica ou à marginalização.
+
+Conheça a atualização e analise se ela afeta seu site ou app. Caso seu site ou app tenha recebido uma veiculação de anúncios restrita devido a conteúdo chocante, mas você acredite que a veiculação de anúncios não pode ficar restrita após a atualização, solicite uma revisão ou contestação a partir de 30 de agosto de 2023.
+
+Confira abaixo mais informações sobre como solicitar uma revisão ou uma contestação:
+
+Para o Google AdSense: Solicite uma revisão
+Para a AdMob: Violação da política da AdMob: contas ou apps desativados
+Para o Ad Manager: Solicitar uma revisão
+Postado em julho de 2023
+
+Atualizações das políticas do AdSense para pesquisas e de Anúncios personalizados de pesquisa (março de 2023)
+O Google vai atualizar as seguintes políticas em março de 2023 para esclarecer: (a) a aplicação das políticas para serviços fornecidos pelo Google e por terceiros; e (b) as ações corretivas nos serviços fornecidos pelo Google em caso de não compliance com as políticas.
+
+Políticas do AdSense para pesquisas (AFS)
+Políticas de Anúncios personalizados de pesquisa
+Política dos Anúncios personalizados de pesquisa do Google: consultas de pesquisa alternativas
+Essas atualizações fazem parte dos nossos esforços contínuos para esclarecer as políticas de legibilidade e transparência. Não há mudanças no escopo das políticas nem na maneira como elas são aplicadas. Os editores não precisam fazer nada como resultado dessas atualizações.
+
+Publicado em março de 2023
+
+Políticas para editores do Google (janeiro de 2023)
+Em janeiro de 2023, o Google vai atualizar as Políticas para editores do Google e incluir nossa política de malware e software indesejado nas Políticas para editores do Google: requisitos e outros padrões, como parte dos esforços contínuos para simplificar e otimizar as políticas.
+
+Nos últimos meses, o Google também fez estas duas atualizações nas Políticas para editores do Google:
+
+As políticas do programa Google AdSense e as políticas do programa AdMob foram atualizadas para incluir informações sobre a nova API WebView para anúncios, que permite o suporte adequado de anúncios de display da Web em apps.
+As diretrizes para webmasters foram substituídas pelas políticas de spam da Pesquisa Google na Web. Como resultado, as referências às diretrizes para webmasters foram atualizadas. Os editores precisam analisar as políticas de spam da Pesquisa Google na Web.
+Publicado em dezembro de 2022
+
+Atualização dos requisitos técnicos para frames de visualização de conteúdo da Web para apps (maio de 2022)
+Em maio de 2022, os requisitos técnicos para a visualização de frames de conteúdo da Web para apps foram atualizados (política do Google AdSense e política do Ad Manager). Os desenvolvedores de apps que querem gerar receita publicando anúncios de display do Google AdSense e do Ad Manager podem usar qualquer uma das opções atuais ou a nova API WebView para anúncios. Saiba mais na documentação do desenvolvedor para Android e iOS.
+
+Postado em maio de 2022
+
+Atualização sobre a Ucrânia (março de 2022)
+Devido à guerra na Ucrânia, vamos pausar a monetização de conteúdo que explora, menospreza ou aprova a guerra. 
+
+Publicado em 23 de março de 2022
+
+Atualização da monetização de mídia financiada pela Federação Russa (fevereiro de 2022)
+Em função da guerra na Ucrânia, o Google está pausando a monetização da mídia financiada pelo Estado da Rússia. 
+
+Continuaremos monitorando a situação ativamente e fazendo ajustes conforme necessário.
+
+Esta medida tem efeito imediato. 
+
+Postado em fevereiro de 2022
+
+Atualização da lista de sanções do Escritório de Controle de Ativos Estrangeiros dos EUA (fevereiro de 2022)
+A lista de conformidade com sanções das Políticas para editores do Google foi atualizada para refletir a adição das chamadas República Popular da Donetsk (DNR) e República Popular de Luhansk (LNR), de acordo com as determinações do Escritório de Controle de Ativos Estrangeiros (OFAC, na sigla em inglês) do Departamento do Tesouro dos EUA. Essa adição entra em vigor imediatamente.
+
+As páginas de restrição de país da AdMob, do Google AdSense e do Ad Manager também foram atualizadas para refletir essa mudança.
+
+Postado em fevereiro de 2022
+
+Atualização da política de conteúdo enganoso para declarações não confiáveis e prejudiciais (outubro de 2021)
+Em novembro de 2021, vamos atualizar a seção "Declarações não confiáveis e prejudiciais" da Política para editores do Google sobre conteúdo enganoso e incluir uma nova política, proibindo conteúdo que apresenta declarações sobre mudança climática que são contrárias ao consenso científico oficial. A atualização da política entrará em vigor a partir de 8 de novembro de 2021.
+
+Postado em outubro de 2021
+
+Simplificação e padronização das nossas políticas (setembro de 2021)
+Como parte dos esforços contínuos para simplificar e otimizar nossas políticas para editores e de acordo com as mudanças nas políticas comportamentais em setembro de 2021, vamos lançar uma nova Central de Ajuda das políticas para editores. Com essa nova Central de Ajuda, os editores poderão acessar nossas políticas com facilidade e entender como elas afetam você, independentemente dos produtos usados.
+
+Você ainda poderá ver as Políticas e Restrições para editores do Google nas Centrais de Ajuda da AdMob, do Google AdSense e do Ad Manager. Com o tempo, vamos migrar e reunir as políticas e restrições na nova Central de Ajuda das políticas para editores.
+
+Além das políticas e restrições, a nova Central de Ajuda inclui um glossário que define os termos mais comuns usados no texto da política e páginas especiais para cada política e restrição, com materiais explicativos que ajudam a esclarecer o conteúdo.
+
+Postado em setembro de 2021
+
+Atualização das cláusulas contratuais padrão (SCCs) - outubro de 2021
+Em outubro de 2021, a Política para editores do Google relacionada às cláusulas contratuais padrão (SCCs) será atualizada devido à implementação das SCCs atualizadas da Comissão Europeia feita pelo Google.
+
+Postado em setembro de 2021
+
+Simplificação e padronização das nossas políticas comportamentais (agosto de 2021)
+Em setembro de 2021, como parte dos nossos esforços contínuos para simplificar e otimizar as diretrizes para editores, as Políticas e Restrições para editores do Google serão atualizadas e terão versões alinhadas de algumas das políticas comportamentais atuais, ou seja, as políticas/restrições que determinam como os anúncios são implementados. Essas versões consolidam nossas políticas no Google AdSense, na AdMob e no Ad Manager e incluem: anúncios que interferem, valor de inventário e padrões do setor (que nossos editores precisam obedecer).
+
+Em setembro de 2019, lançamos mudanças nas políticas de conteúdo de todos os produtos para editores que introduziram as Políticas para editores do Google e as Restrições para editores do Google. Essa atualização é uma continuação desse esforço contínuo.
+
+Como parte dessa atualização, também lançaremos duas novas políticas: a conformidade com os Better Ads Standards da Coalition for Better Ads e uma política para declarações desonestas.
+
+Queremos oferecer aos editores uma maneira fácil de acessar nossas políticas e entender como elas afetam você, independentemente de quais produtos usa. Por isso, também estamos lançando uma versão reformulada da nossa Central de Ajuda de políticas.
+
+Essas políticas e restrições serão aplicadas além de outras políticas que regem o uso de produtos para editores do Google.
+
+Postado em agosto de 2021
+
+Atualização nas Políticas para editores do Google sobre crueldade contra animais (agosto de 2021)
+Em agosto de 2021, a Política para editores do Google sobre espécies ameaçadas ou em risco de extinção será atualizada com o objetivo de esclarecer a proibição de conteúdo que promove crueldade ou violência gratuita contra animais. A atualização consolidará as espécies ameaçadas ou em risco de extinção e a política de crueldade contra animais em um novo tópico "Crueldade contra animais".
+
+(Postado em julho de 2021)
+
+Atualização da política de conteúdo enganoso (maio de 2021)
+Em maio de 2021, a Política para editores do Google sobre conteúdo enganoso será atualizada, melhorando a organização dos tópicos. Além disso, duas políticas que faziam parte de "Conteúdo perigoso ou depreciativo" serão movidas para "Conteúdo enganoso". As duas políticas, que proíbem (1) conteúdo que promove alegações prejudiciais sobre saúde e (2) conteúdo relacionado a uma grande crise sanitária atual e que seja contra o consenso científico oficial, serão movidas da seção de "Conteúdo perigoso ou depreciativo" para a nova seção de declarações não confiáveis de "Conteúdo enganoso".
+
+Essas mudanças serão feitas para melhorar a fluência e o entendimento, e não afetam o conteúdo atualmente restrito ou proibido de acordo com nossas políticas.
+
+Postado em abril de 2021
+
+Atualização da lista de sanções do Escritório de Controle de Ativos Estrangeiros dos EUA (fevereiro de 2021)
+Em fevereiro de 2021, a página Como funcionam as restrições de país do Google AdSense será atualizada para refletir a remoção do Sudão da lista de sanções do Escritório de Controle de Ativos Estrangeiros dos EUA. Essa atualização entrará em vigor em 24 de fevereiro de 2021.
+
+Devido a essa mudança, o Google AdSense estará disponível para editores no Sudão. 
+
+Postado em fevereiro de 2021
+
+Atualização da Política para editores do Google relacionada a conteúdo sexualmente explícito (fevereiro de 2021)
+As Políticas para editores do Google serão atualizadas em fevereiro de 2021. Conteúdo que possa ser interpretado como promoção de um ato sexual em troca de pagamento será classificado em uma categoria própria, chamada "Atos sexuais remunerados". Além disso, atualizaremos os exemplos listados (prostituição, serviços de acompanhantes, massagens íntimas e sites de carícias) para proibir claramente anúncios de serviços de namoro ou encontros sexuais compensados em que um participante precise dar dinheiro, presentes, apoio financeiro, orientação ou outros benefícios valiosos para outro participante, como "sugar dating".
+
+Postado em dezembro de 2020
+
+Atualização das Políticas para editores do Google (setembro de 2020)
+Em setembro de 2020, as Políticas para editores do Google serão atualizadas para proibir a monetização de páginas da Web, sites ou apps que não estiverem principalmente em um dos idiomas compatíveis ou que não tiverem conteúdo. A partir de 15 de setembro de 2020, será proibido gerar receita com novos sites usando o Google AdSense, o Ad Manager ou a AdMob em idiomas incompatíveis ou que não tiverem conteúdo.
+
+Postado em agosto de 2020
+
+Atualização das Cláusulas Contratuais Padrão (SCCs, na sigla em inglês) - agosto de 2020
+A partir de 12 de agosto de 2020, o Google usará as Cláusulas Contratuais padrão (SCCs, na sigla em inglês) da Comissão Europeia para fazer transferências de dados pessoais de publicidade on-line e avaliação fora do Espaço Econômico Europeu, do Reino Unido ou da Suíça. No caso dos serviços de operador, o Google está atualizando os Termos de Processamento de Dados do Google Ads para incluir as SCCs para transferências de dados pessoais a operadores estabelecidos em países terceiros. Quanto aos serviços de controlador, o Google está atualizando os Termos de proteção de dados entre controladores do Google Ads para incluir as SCCs para transferências de dados pessoais a controladores estabelecidos em países terceiros. Quando houver uma transferência relevante de dados pessoais, as SCCs incorporadas ao contrato do parceiro com o Google serão aplicáveis.
+Postado em agosto de 2020
+
+Atualização das Políticas para editores do Google sobre conteúdo enganoso (setembro de 2020)
+Em setembro de 2020, as Políticas para editores do Google sobre conteúdo enganoso serão atualizadas, proibindo a coordenação com outros sites ou contas, bem como declarações falsas ou a ocultação de informações sobre sua identidade ou outros detalhes materiais, caso o conteúdo seja relacionado a política, problemas sociais ou questões de interesse público. Começaremos a aplicá-las em 1º de setembro de 2020 nos Estados Unidos e em 1º de outubro de 2020 em todos os outros países.
+
+Levamos as violações dessas políticas muito a sério e as consideramos gravíssimas. Se encontrarmos violações, suspenderemos suas contas sem aviso prévio.
+
+Postado em julho de 2020
+
+Atualização de conteúdo perigoso ou depreciativo (agosto de 2020)
+Em agosto de 2020, as Políticas para editores do Google sobre conteúdo perigoso ou depreciativo serão atualizadas para proibir conteúdo relacionado a uma grande crise sanitária que seja contra o consenso científico e oficial.
+
+Postado em julho de 2020
+
+Atualização da Política para editores do Google sobre a permissão de comportamento desonesto (agosto de 2020)
+Em agosto de 2020, a Política para editores do Google sobre a permissão de comportamento desonesto será atualizada para esclarecer as restrições envolvendo publicidade ou monetização de conteúdo que promove spyware e tecnologia de vigilância. Com a atualização, a política passará a proibir a divulgação ou monetização de conteúdo ou de produtos e serviços que possibilitem a um usuário rastrear ou monitorar outra pessoa ou as atividades dela sem autorização.O alcance da política será global.
+
+Exemplos de produtos e serviços que serão proibidos (lista não exaustiva)
+Spyware e tecnologia usados para vigilância de parceiros íntimos, incluindo, entre outros, spyware/malware para monitoramento de mensagens de texto, histórico de chamadas telefônicas ou de navegação; rastreadores por GPS vendidos especificamente para espionar ou monitorar alguém sem consentimento; promoção de equipamentos de vigilância (câmeras, gravadores de áudio, câmeras veiculares e babás eletrônicas) comercializados com o objetivo explícito de espionagem.
+
+Isso não inclui (a) serviços de investigação particular ou (b) produtos ou serviços criados para que pais monitorem ou rastreiem os filhos menores de idade.
+
+Postado em julho de 2020
+
+Atualização das Políticas para editores do Google (agosto de 2020)
+Em agosto de 2020, as Políticas para editores do Google serão atualizadas para padronizar as diretrizes relacionadas a abuso e exploração sexual infantil dos nossos produtos para editores.
+
+Também faremos algumas mudanças editoriais no texto. Todas as referências a "publicidade com base em interesses" serão substituídas por "publicidade personalizada", e atualizaremos nossa Política de Privacidade para obedecer à Lei de Proteção da Privacidade On-line das Crianças (COPPA, na sigla em inglês).
+
+Postado em julho de 2020
+
+Atualização da Política para editores do Google relacionada a conteúdo enganoso (março de 2020)
+Em março de 2020, a Política para editores do Google relacionada a conteúdo enganoso será atualizada. A atualização é para esclarecer que não permitimos conteúdo com afirmações comprovadamente falsas e que possam prejudicar de forma significativa a participação ou a confiança no processo eleitoral ou democrático.
+
+A atualização também deixa claro que não permitimos a exibição de conteúdo enganoso para os usuários por meio de mídias manipuladas relacionadas a política, questões sociais ou assuntos de interesse público.
+
+Postado em fevereiro de 2020
+
+Atualização das Políticas para editores do Google (abril de 2020)
+Em abril de 2020, as Políticas para editores do Google serão atualizadas de modo a padronizar as políticas existentes nos nossos produtos para editores referentes a informações de identificação pessoal, divulgação, coleta de dados e consentimento do usuário. Desse modo, atualizaremos nossa política de modo a exigir formulários de aviso mais explícitos antes que os usuários concedam permissão para compartilhar a localização do dispositivo para fins de publicidade.
+
+Postado em fevereiro de 2020
+
+Atualização das Restrições para editores do Google: jogos de azar on-line (janeiro de 2020)
+Em janeiro de 2020, a Restrição para editores do Google referente ajogos de azar será atualizada para esclarecer o que consideramos "jogos de azar on-line".
+
+Postado em dezembro de 2019
+
+Atualização das políticas de posicionamento de anúncio: anúncios em páginas protegidas por login (novembro de 2019)
+Em dezembro de 2019, as políticas do programa Google AdSense sobre anúncios em páginas protegidas por login serão atualizadas para explicar como tratamos as solicitações de monetização de conteúdo que não podemos avaliar.
+
+Postado em novembro de 2019
+
+Atualização das Políticas para editores do Google: conteúdo perigoso ou depreciativo (novembro de 2019)
+Em dezembro de 2019, a Política para editores do Google relacionada a conteúdo perigoso ou depreciativo será atualizada.
+
+Ela passará a englobar material produzido por organizações de tráfico transnacional de drogas ou em apoio a elas.
+
+Postado em novembro de 2019
+
+Simplificação e padronização das nossas políticas de conteúdo (setembro de 2019)
+Em setembro de 2019, faremos alterações em algumas das políticas de conteúdo dos nossos produtos para editores (Google AdSense, AdMob e Ad Manager).
+
+A partir de agora, o Google vai informar as atualizações das políticas e restrições do Google AdSense neste registro de alterações. Os publishers precisam acompanhar as mudanças e obedecer às políticas sempre.
+Por que estamos fazendo essas alterações?
+Uma das principais solicitações dos editores é que eles querem políticas mais simples e otimizadas. Sabemos que muitas pessoas usam vários dos nossos produtos para editores. Por isso, queremos mostrar de maneira clara e fácil como lidar com as políticas e como elas afetam você, independentemente dos produtos utilizados.
+
+Veja o que você pode esperar:
+
+Políticas de editores do Google, que descrevem os tipos de conteúdo que não podem gerar receita com nenhum dos nossos produtos para editores. Elas incluem: conteúdo ilegal, material de abuso sexual e pedofilia, conteúdo sexualmente explícito, temas adultos em conteúdo para a família, abuso de propriedade intelectual, espécies ameaçadas ou com risco de extinção, conteúdo perigoso ou depreciativo, permissão de comportamento desonesto, conteúdo enganoso, software malicioso ou indesejado e serviços de noivas estrangeiras.
+Restrições de editores do Google, que descrevem os tipos de conteúdo que receberão fontes de publicidade restritas. Eles incluem: conteúdo sexual, conteúdo chocante, explosivos, armas, peças de armas e produtos relacionados, outras armas, tabaco, drogas recreativas, venda e uso indevido de bebidas alcoólicas, jogos de azar on-line, medicamentos controlados e produtos e suplementos farmacêuticos não aprovados. O Google Ads (antigo Google AdWords) continuará a não exibir anúncios em nenhum conteúdo restrito. Ele só receberá anúncios de outros produtos de publicidade ou por meio de ofertas diretas entre editores e anunciantes.
+Alinhamento entre nossos produtos para editores, trazendo simplicidade, consistência e facilidade de compreensão, independentemente dos produtos que você escolher usar.
+O que isso significa para você como um publisher do Google AdSense
+A monetização de conteúdos que se enquadram nas restrições de editores do Google não será mais considerada uma violação da política. Em vez disso, restringiremos a exibição de publicidade nesse conteúdo conforme apropriado, com base nas preferências de cada produto de publicidade e/ou nas preferências individuais dos anunciantes. Em alguns casos, isso significa que nenhuma fonte de publicidade definirá lances para seu inventário, e nenhum anúncio será exibido nesse conteúdo restrito. Assim, embora você possa optar por gerar receita com conteúdo incluído nas restrições de editores do Google, você provavelmente receberá menos publicidade nesse conteúdo do que receberia em outro sem restrições.
+
+Não é permitido gerar receita com conteúdo que se enquadre nas políticas de editores do Google, por isso, não tente exibir anúncios nesse conteúdo. Essa atitude pode fazer com que sua conta seja suspensa ou encerrada.
+
+Essas políticas e restrições serão aplicadas além de outras políticas que regem o uso de produtos para editores do Google.
+
+O que você precisa fazer
+Por enquanto, nada. A Central de Ajuda e a Central de políticas serão atualizadas em setembro de 2019, quando as alterações entrarem em vigor, com informações detalhadas das políticas e restrições. Agora, recomendamos que você leia as políticas e restrições atualizadas e verifique se seu conteúdo está em conformidade.
+
+Postado em agosto de 2019
+
+Esta página pode ter conteúdo que foi traduzido com tecnologia de IA. As traduções de IA podem conter erros.
+
+Envie feedback sobre este artigo
+Isso foi útil?SimNão
+Precisa de mais ajuda?
+Siga as próximas etapas:
+Postar na Comunidade de Ajuda
+Receba respostas dos membros da comunidade
+Fale conosco
+Conte mais sobre o problema para podermos ajudar você
+Políticas
+Corrigir problemas com a política
+Guia para principiantes
+Regulamentos do programa
+Políticas e restrições para publishers
+Imposições da política
+Políticas específicas sobre o formato do anúncio
+Registro de alterações das políticas do Google AdSense
+
+Aumente sua receita com dicas personalizadas hoje mesmo.
+Acesse a página "Dicas de otimização para o Google AdSense" e confira sugestões personalizadas para maximizar sua receita.
+
+Aumentar agora
+
+©2026 Google  Política de Privacidade  Termos de Serviço
+Idioma
+
+

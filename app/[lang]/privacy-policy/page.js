@@ -60,6 +60,14 @@ const translations = {
       title: "Retenção de Dados",
       desc: "Nós retemos os seus dados apenas pelo tempo necessário para os fins descritos nesta política. Dados de analytics são normalmente retidos por até 26 meses."
     },
+    adsense: {
+      title: "Publicidade e Google AdSense",
+      list: [
+        "Fornecedores de terceiros, incluindo o Google, usam cookies para veicular anúncios com base nas visitas anteriores do usuário a este site ou a outros sites.",
+        "O uso de cookies de publicidade pelo Google permite que ele e seus parceiros veiculem anúncios para os nossos usuários com base na visita a nossos sites e/ou a outros sites na Internet.",
+        "Os usuários podem desativar a publicidade personalizada acessando as Configurações de Anúncios (https://www.google.com/settings/ads)."
+      ]
+    },
     contact: {
       title: "Fale Conosco",
       desc: "Se você tem dúvidas sobre esta Política de Privacidade ou quer exercer os seus direitos, por favor, entre em contato através da nossa página oficial.",
@@ -118,6 +126,14 @@ const translations = {
       title: "Data Retention",
       desc: "We retain your data only as long as necessary for the purposes outlined in this policy. Analytics data is typically retained for up to 26 months."
     },
+    adsense: {
+      title: "Advertising and Google AdSense",
+      list: [
+        "Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website or other websites.",
+        "Google's use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.",
+        "Users may opt out of personalized advertising by visiting Ads Settings (https://www.google.com/settings/ads)."
+      ]
+    },
     contact: {
       title: "Contact Us",
       desc: "If you have questions about this Privacy Policy or want to exercise your rights, please contact us through our official page.",
@@ -175,6 +191,14 @@ const translations = {
     retention: {
       title: "Retención de Datos",
       desc: "Retenemos sus datos solo el tiempo necesario para los fines descritos en esta política."
+    },
+    adsense: {
+      title: "Publicidad y Google AdSense",
+      list: [
+        "Los proveedores de terceros, incluido Google, utilizan cookies para mostrar anuncios en función de las visitas anteriores de un usuario a este sitio web u otros sitios web.",
+        "El uso de cookies de publicidad por parte de Google le permite a este y a sus socios mostrar anuncios a nuestros usuarios en función de su visita a nuestros sitios y/u otros sitios de Internet.",
+        "Los usuarios pueden inhabilitar la publicidad personalizada visitando la Configuración de anuncios (https://www.google.com/settings/ads)."
+      ]
     },
     contact: {
       title: "Contáctenos",
@@ -251,6 +275,30 @@ export default async function PrivacyPolicyPage({ params }) {
           <h2 className="policy-card-title">{t.retention.title}</h2>
         </div>
         <p style={{ color: 'var(--text-secondary)' }}>{t.retention.desc}</p>
+      </div>
+
+      <div className="policy-card">
+        <div className="policy-card-header">
+          <span className="policy-card-icon">📢</span>
+          <h2 className="policy-card-title">{t.adsense.title}</h2>
+        </div>
+        <ul className="policy-list">
+          {t.adsense.list.map((item, i) => {
+            if (item.includes("https://www.google.com/settings/ads")) {
+              const parts = item.split("https://www.google.com/settings/ads");
+              return (
+                <li key={i}>
+                  {parts[0]}
+                  <a href="https://www.google.com/settings/ads" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--accent)' }}>
+                    https://www.google.com/settings/ads
+                  </a>
+                  {parts[1] && parts[1].replace(')', '')}
+                </li>
+              );
+            }
+            return <li key={i}>{item}</li>;
+          })}
+        </ul>
       </div>
 
       <div className="policy-card" style={{ textAlign: 'center' }}>

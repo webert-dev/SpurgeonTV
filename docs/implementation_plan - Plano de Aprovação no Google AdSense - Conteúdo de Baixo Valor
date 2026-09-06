@@ -1,0 +1,38 @@
+# Plano de Aprovação no Google AdSense: "Conteúdo de Baixo Valor"
+
+Com base na documentação oficial do Google AdSense, a rejeição por **"Conteúdo de Baixo Valor"** (Low Value Content) em um site de sermões em Domínio Público ocorre porque os robôs do Google encontram o mesmo texto em centenas de outros sites e assumem que o site não tem valor exclusivo, ou porque a experiência do usuário está sendo afetada.
+
+Para sermos aprovados com sucesso desta vez, elaborei um plano de ataque focado em **Experiência do Usuário (UX)**, **Políticas Obrigatórias** e **Demonstração de Valor Único (E-E-A-T)**.
+
+## User Review Required
+
+> [!WARNING]
+> **Aprovação do Plano**
+> Leia os passos abaixo. Se estiver de acordo, clique em **Proceed** para que eu comece a alterar os códigos.
+
+## Proposed Changes
+
+### 1. Limpeza de Experiência (Remoção Temporária do Infolinks)
+O Google AdSense avalia a "Experiência do Usuário". Ter outra rede de anúncios (Infolinks) inserindo links nos textos e banners flutuantes *antes* de você ser aprovado no AdSense é uma das maiores causas de rejeição imediata, pois o avaliador considera a página poluída.
+#### [MODIFY] `app/[lang]/layout.js`
+- Remover os scripts do Infolinks (`infolinks_pid`, `infolinks_wsid` e o script principal).
+- *(Eles poderão ser recolocados após a aprovação do AdSense).*
+
+### 2. Adequação Obrigatória da Política de Privacidade
+O Google AdSense exige legalmente que o seu site tenha um texto *específico* na Política de Privacidade explicando o uso de cookies de publicidade (DoubleClick) e como o usuário pode desativá-los no "Ads Settings". Atualmente, nosso texto genérico da LGPD/GDPR não possui essa cláusula exata.
+#### [MODIFY] `app/[lang]/privacy-policy/page.js`
+- Adicionar uma seção "Publicidade e Google AdSense" (traduzida para PT, EN e ES).
+- Inserir as menções obrigatórias aos cookies de terceiros e o link de *opt-out* exigido pelo Google.
+
+### 3. Declaração de "Valor Único" na Página Inicial (E-E-A-T)
+Para combater a alegação de "Conteúdo de baixo valor/superficial", precisamos dizer ao avaliador (e ao robô) logo na página inicial que o nosso site **não é apenas uma cópia de sermões**, mas sim uma plataforma avançada de estudos.
+#### [MODIFY] `app/[lang]/page.js`
+- Adicionar um bloco curto e elegante (Manifesto) na Home, abaixo do cabeçalho, explicando: *"Mais do que um arquivo, o SpurgeonTV é uma plataforma de estudo teológico avançada. Oferecemos cruzamento de referências bíblicas, um dicionário integrado e traduções exclusivas para mais de 3.500 sermões."*
+- Isso resolve diretamente o critério de "Verifique se seu site tem conteúdo exclusivo e oferece uma boa experiência".
+
+## Verification Plan
+
+### Manual Verification
+1. Faremos o deploy das alterações para a Cloudflare (`npm run deploy:cf`).
+2. Você acessará o site para confirmar que não há mais anúncios do Infolinks poluindo o texto.
+3. Você irá ao painel do Google AdSense, na aba Sites, marcará a caixa **"Confirmo que corrigi os problemas"** e clicará no botão azul **"Pedir revisão"**.

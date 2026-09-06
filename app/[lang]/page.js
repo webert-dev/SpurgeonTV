@@ -106,6 +106,13 @@ export default async function HomePage({ params }) {
               {dict.home.readAbout}
             </Link>
           </div>
+
+          <div style={{ marginTop: '3rem', maxWidth: '600px', margin: '3rem auto 0 auto', padding: '1.5rem', backgroundColor: 'rgba(255,255,255,0.03)', borderRadius: '12px', border: '1px solid rgba(212, 175, 55, 0.2)' }}>
+            <p style={{ color: 'var(--text-secondary)', fontSize: '0.95rem', lineHeight: '1.6' }}>
+              <span style={{ display: 'block', color: 'var(--accent)', marginBottom: '0.5rem', fontWeight: 'bold' }}>✦ Valor Único / Unique Value</span>
+              {dict.home.eeatManifesto}
+            </p>
+          </div>
         </div>
       </section>
 
