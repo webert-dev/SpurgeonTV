@@ -68,7 +68,7 @@ export default function SermonsListClient({ initialData, lang, dict }) {
           const sermonTitleText = titleParts.length > 1 ? titleParts.slice(1).join(' | ') : sermon.title;
 
           return (
-            <Link href={`/${lang}/volume/${sermon.volume}/${sermon.slug}`} key={sermon.slug}>
+            <Link href={`/${lang}/volume/${sermon.volume}/${sermon.slug}`} key={sermon.slug} prefetch={false}>
               <div className="card" style={{ height: '100%', padding: '1.5rem', justifyContent: 'flex-start' }}>
                 <div style={{ display: 'flex', flexDirection: 'column', flexGrow: 1 }}>
                   <div style={{ fontSize: '0.75rem', letterSpacing: '0.15em', textTransform: 'uppercase', color: 'var(--accent)', fontWeight: 700, marginBottom: '0.75rem' }}>

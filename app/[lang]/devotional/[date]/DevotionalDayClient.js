@@ -189,6 +189,7 @@ export default function DevotionalDayClient({ lang, dict, dateStr, morningEntry,
                   <Link
                     key={day}
                     href={dayLink}
+                    prefetch={false}
                     className="dev-day-btn"
                     onClick={() => setShowCalendar(false)}
                     style={{
@@ -244,13 +245,13 @@ export default function DevotionalDayClient({ lang, dict, dateStr, morningEntry,
         )}
 
         <div className="dev-nav-arrows">
-          <Link href={`/${lang}/devotional/${getPrevDate()}`} className="dev-nav-btn">
+          <Link href={`/${lang}/devotional/${getPrevDate()}`} prefetch={false} className="dev-nav-btn">
             ← {lang === 'pt' ? 'Dia anterior' : lang === 'es' ? 'Día anterior' : 'Previous day'}
           </Link>
-          <Link href={`/${lang}/devotional`} className="dev-nav-btn" style={{ maxWidth: '3rem', fontSize: '1.2rem' }} title={todayLabel}>
+          <Link href={`/${lang}/devotional`} prefetch={false} className="dev-nav-btn" style={{ maxWidth: '3rem', fontSize: '1.2rem' }} title={todayLabel}>
             ✦
           </Link>
-          <Link href={`/${lang}/devotional/${getNextDate()}`} className="dev-nav-btn">
+          <Link href={`/${lang}/devotional/${getNextDate()}`} prefetch={false} className="dev-nav-btn">
             {lang === 'pt' ? 'Próximo dia' : lang === 'es' ? 'Día siguiente' : 'Next day'} →
           </Link>
         </div>

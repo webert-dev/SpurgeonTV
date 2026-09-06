@@ -515,7 +515,8 @@ h1, h2, h3, h4, h5, h6 {
   gap: 1.5rem;
 }
 .sermons-flex-grid > * {
-  flex: 1 1 240px;
+  flex: 0 1 280px;
+  min-width: 240px;
   max-width: 280px;
 }
 

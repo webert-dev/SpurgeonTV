@@ -86,12 +86,12 @@ export default async function RootLayout({ children, params }) {
                 SPURGEON<span>TV</span>
               </Link>
               <nav className="site-nav">
-                <Link href={`/${lang}/sermons`} className="nav-link">{dict.navigation.sermons}</Link>
-                <Link href={`/${lang}/bible`} className="nav-link">{dict.navigation.bible}</Link>
-                <Link href={`/${lang}/dictionary`} className="nav-link">{dict.navigation.dictionary}</Link>
-                <Link href={`/${lang}/devotional`} className="nav-link">{dict.navigation.devotional}</Link>
-                <Link href={`/${lang}/about`} className="nav-link">{dict.navigation.about}</Link>
-                <Link href={`/${lang}/support`} className="nav-link support-nav-link" style={{ fontWeight: 600, color: 'var(--brand-purple)' }}>{dict.navigation.support}</Link>
+                <Link href={`/${lang}/sermons`} prefetch={false} className="nav-link">{dict.navigation.sermons}</Link>
+                <Link href={`/${lang}/bible`} prefetch={false} className="nav-link">{dict.navigation.bible}</Link>
+                <Link href={`/${lang}/dictionary`} prefetch={false} className="nav-link">{dict.navigation.dictionary}</Link>
+                <Link href={`/${lang}/devotional`} prefetch={false} className="nav-link">{dict.navigation.devotional}</Link>
+                <Link href={`/${lang}/about`} prefetch={false} className="nav-link">{dict.navigation.about}</Link>
+                <Link href={`/${lang}/support`} prefetch={false} className="nav-link support-nav-link" style={{ fontWeight: 600, color: 'var(--brand-purple)' }}>{dict.navigation.support}</Link>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '1rem', marginLeft: '1rem' }}>
                   <LanguageSwitcher currentLang={lang} />
                   <ThemeSelector dict={dict} />
@@ -106,10 +106,10 @@ export default async function RootLayout({ children, params }) {
             <div className="container footer-inner">
               <div className="footer-links">
                 <ul>
-                  <li><Link href={`/${lang}/about-us`}>{dict.footer.links.aboutUs}</Link></li>
-                  <li><Link href={`/${lang}/transparency`}>{dict.footer.links.transparency}</Link></li>
-                  <li><Link href={`/${lang}/contact`}>{dict.footer.links.contact}</Link></li>
-                  <li><Link href={`/${lang}/support`} style={{ color: 'var(--brand-purple)' }}>{dict.footer.links.support}</Link></li>
+                  <li><Link href={`/${lang}/about-us`} prefetch={false}>{dict.footer.links.aboutUs}</Link></li>
+                  <li><Link href={`/${lang}/transparency`} prefetch={false}>{dict.footer.links.transparency}</Link></li>
+                  <li><Link href={`/${lang}/contact`} prefetch={false}>{dict.footer.links.contact}</Link></li>
+                  <li><Link href={`/${lang}/support`} prefetch={false} style={{ color: 'var(--brand-purple)' }}>{dict.footer.links.support}</Link></li>
                 </ul>
               </div>
               <div className="footer-brand">
@@ -126,10 +126,10 @@ export default async function RootLayout({ children, params }) {
               </div>
               <div className="footer-links">
                 <ul>
-                  <li><Link href={`/${lang}/privacy-policy`}>{dict.footer.links.privacyPolicy}</Link></li>
-                  <li><Link href={`/${lang}/terms-of-service`}>{dict.footer.links.termsOfService}</Link></li>
-                  <li><Link href={`/${lang}/cookie-policy`}>{dict.footer.links.cookiePolicy}</Link></li>
-                  <li><Link href={`/${lang}`}>{dict.footer.links.home}</Link></li>
+                  <li><Link href={`/${lang}/privacy-policy`} prefetch={false}>{dict.footer.links.privacyPolicy}</Link></li>
+                  <li><Link href={`/${lang}/terms-of-service`} prefetch={false}>{dict.footer.links.termsOfService}</Link></li>
+                  <li><Link href={`/${lang}/cookie-policy`} prefetch={false}>{dict.footer.links.cookiePolicy}</Link></li>
+                  <li><Link href={`/${lang}`} prefetch={false}>{dict.footer.links.home}</Link></li>
                   <li><a href="https://sovrn.co/25fnhu8" target="_blank" rel="noopener noreferrer">Classic Devotional</a></li>
                 </ul>
               </div>
