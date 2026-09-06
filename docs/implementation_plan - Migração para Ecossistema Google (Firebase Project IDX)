@@ -1,0 +1,78 @@
+# Migração para Ecossistema Google (Firebase / Project IDX)
+
+Como você decidiu migrar para a infraestrutura do Google (provavelmente Firebase App Hosting ou Project IDX), podemos remover todas as amarras e limitações impostas pela Cloudflare (como o limite de 20 mil arquivos e o tempo de CPU de 10ms). 
+
+O Next.js roda nativamente de forma muito poderosa no Google Firebase e na Vercel, permitindo o uso de SSR (Renderização no Servidor) fluida. Isso significa que podemos devolver os seus vídeos e deixar a plataforma robusta novamente!
+
+## User Review Required
+
+Com essa mudança, o projeto deixará de ser um site puramente estático limitante e voltará a ser uma aplicação Next.js Completa (SSR + Static). 
+⚠️ **Atenção:** O comando `npm run deploy:cf` que está rodando no seu terminal há mais de 1 hora deve ser cancelado manualmente por você clicando no terminal e apertando `Ctrl + C`.
+
+## Proposed Changes
+
+---
+
+### Configurações Globais (Removendo amarras estáticas)
+
+#### [MODIFY] next.config.mjs
+- Remover a trava estática `output: 'export'`.
+- Adicionar suporte a domínios de imagem e fallbacks para fs e path (caso o Webpack precise).
+
+#### [NEW] middleware.js
+- Interceptar acessos à raiz `/` e redirecionar automaticamente via status `307` para `/[lang]` baseado no cabeçalho `Accept-Language`. (Substituindo o antigo `redirects` do `next.config.mjs`).
+
+#### [DELETE] public/index.html
+- Remover o redirecionamento estático em HTML.
+
+#### [NEW] jsconfig.json
+- Configurar `"baseUrl": "."` e `"paths": { "@/*": ["./*"] }` para suportar eventuais absolute imports de forma nativa e evitar erros de resolução.
+
+#### [NEW] .eslintrc.json
+- Configurar o Next Core Web Vitals e desabilitar o erro de aspas literais `react/no-unescaped-entities`, para proteger as renderizações dos sermões.
+
+#### [MODIFY] package.json
+- Remover `opennextjs-cloudflare` e ajustar scripts de build.
+- Adicionar o script `"lint": "next lint"`.
+- Alterar as portas de `dev` e `start` para escutarem em `0.0.0.0:3000` (otimizado para ambientes containerizados como Project IDX e Cloud Run).
+- Adicionar `eslint` e `eslint-config-next` em devDependencies.
+
+---
+
+### Devolvendo os Vídeos à Vida
+
+#### [RENAME] app/[lang]/_videos → app/[lang]/videos
+- Remover o "underline" da pasta de vídeos para que o Next.js volte a reconhecê-la na compilação.
+
+#### [MODIFY] app/[lang]/videos/watch/[videoId]/page.js
+- Mudar `dynamicParams = false` para `true`.
+- Adicionar `export const dynamic = 'auto';`.
+
+#### [MODIFY] app/[lang]/videos/[channelId]/page.js
+- Mudar `dynamicParams = false` para `true`.
+- Adicionar `export const dynamic = 'auto';`.
+
+#### [MODIFY] app/[lang]/videos/page.js
+- Remover as travas estáticas de `dynamicParams` e `generateStaticParams`.
+
+---
+
+### Liberando outras Rotas Dinâmicas
+
+#### [MODIFY] app/[lang]/devotional/[date]/page.js
+- Voltar `dynamicParams = true`.
+- Adicionar `export const dynamic = 'auto';`.
+
+#### [MODIFY] app/[lang]/about/[category]/[slug]/page.js
+- Voltar `dynamicParams = true`.
+- Adicionar `export const dynamic = 'auto';`.
+
+---
+
+## Verification Plan
+
+### Automated Tests
+- Executar `npm run build` após as alterações para garantir que a aplicação Next.js compila sem erros no modo padrão, confirmando que está 100% pronta para ser subida no Project IDX / Firebase Hosting do Google.
+
+### Manual Verification
+- Ao subir o projeto no Google/Firebase, verificar se a home e a página de vídeos abrem normalmente.

@@ -10,6 +10,28 @@ function DownloadContent({ lang, dict, downloads }) {
   const sermonParam = searchParams.get('sermon');
   const titleParam = searchParams.get('title') || sermonParam;
 
+  // Transform object into array for filtering and pagination
+  const allDownloads = useMemo(() => {
+    return Object.entries(downloads).map(([key, links]) => {
+      const [vol, serm] = key.split('::');
+      return {
+        key,
+        volume: vol,
+        sermon: serm,
+        volNum: parseInt(vol.replace('volume-', ''), 10),
+        sermonNum: parseInt(serm.replace('sermon-', ''), 10),
+        links
+      };
+    }).sort((a, b) => {
+      if (a.volNum !== b.volNum) return a.volNum - b.volNum;
+      return a.sermonNum - b.sermonNum;
+    });
+  }, [downloads]);
+
+  const [searchTerm, setSearchTerm] = useState('');
+  const [itemsPerPage, setItemsPerPage] = useState(20);
+  const [currentPage, setCurrentPage] = useState(1);
+
   // Se tem parâmetros específicos, mostra o layout de 1 sermão (como era antes)
   if (volumeParam && sermonParam) {
     const key = `${volumeParam}::${sermonParam}`;
