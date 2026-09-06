@@ -1,11 +1,16 @@
 import Link from 'next/link';
 
+export const dynamic = 'force-static';
 export const revalidate = false;
+
 import { getPaginatedSermons } from '../../lib/sermons';
 import SearchClient from './search-client';
 import { getDictionary } from '../../lib/dictionaries';
 import { getAllArticles } from '../../lib/articles';
 
+export async function generateStaticParams() {
+  return [{ lang: 'en' }, { lang: 'pt' }, { lang: 'es' }];
+}
 
 
 export async function generateMetadata({ params }) {
@@ -109,8 +114,11 @@ export default async function HomePage({ params }) {
 
           <div style={{ marginTop: '3rem', maxWidth: '600px', margin: '3rem auto 0 auto', padding: '1.5rem', backgroundColor: 'rgba(255,255,255,0.03)', borderRadius: '12px', border: '1px solid rgba(212, 175, 55, 0.2)' }}>
             <p style={{ color: 'var(--text-secondary)', fontSize: '0.95rem', lineHeight: '1.6' }}>
-              <span style={{ display: 'block', color: 'var(--accent)', marginBottom: '0.5rem', fontWeight: 'bold' }}>✦ {dict.home.eeatTitle}</span>
-              {dict.home.eeatManifesto}
+              <span style={{ display: 'block', color: 'var(--accent)', marginBottom: '0.5rem', fontWeight: 'bold' }}>{dict.home.eeatTitle}</span>
+              {dict.home.eeatManifesto}{' '}
+              <Link href={`/${lang}/about-us`} style={{ textDecoration: 'underline', color: 'var(--accent)' }}>
+                {dict.home.eeatLinkText || 'Leia mais'}
+              </Link>
             </p>
           </div>
         </div>

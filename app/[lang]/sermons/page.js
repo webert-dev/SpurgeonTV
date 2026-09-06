@@ -1,11 +1,18 @@
 import Link from 'next/link';
 
-export const revalidate = 86400;
+export const dynamic = 'force-static';
+export const revalidate = false;
+
 import { getPaginatedSermons } from '../../../lib/sermons';
 import SearchClient from '../search-client';
 import { getDictionary } from '../../../lib/dictionaries';
 import { Suspense } from 'react';
 import SermonsListClient from '../../components/SermonsListClient';
+
+export async function generateStaticParams() {
+  return [{ lang: 'en' }, { lang: 'pt' }, { lang: 'es' }];
+}
+
 
 export const metadata = {
   title: 'All Sermons | SPURGEON TV',

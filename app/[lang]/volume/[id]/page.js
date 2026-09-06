@@ -1,15 +1,24 @@
 import Link from 'next/link';
 
+export const dynamic = 'force-static';
 export const revalidate = false;
 import { getVolumes, getSermonsInVolume } from '../../../../lib/sermons';
 import { getMetadata } from '../../../../lib/sermon-metadata';
 import SermonInfoPanel from './SermonInfoPanel';
 import { getDictionary } from '../../../../lib/dictionaries';
 
-export const dynamicParams = true;
+export const dynamicParams = false;
 
 export async function generateStaticParams() {
-  return [];
+  const langs = ['en', 'pt', 'es'];
+  const volumes = await getVolumes('en');
+  const params = [];
+  for (const lang of langs) {
+    for (const vol of volumes) {
+      params.push({ lang, id: vol });
+    }
+  }
+  return params;
 }
 
 export async function generateMetadata({ params }) {

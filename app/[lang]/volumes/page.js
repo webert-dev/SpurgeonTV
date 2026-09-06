@@ -1,8 +1,13 @@
 import Link from 'next/link';
-
-export const revalidate = false;
 import { getVolumes } from '../../../lib/sermons';
 import SearchClient from '../search-client';
+
+export const dynamic = 'force-static';
+export const revalidate = false;
+
+export async function generateStaticParams() {
+  return [{ lang: 'en' }, { lang: 'pt' }, { lang: 'es' }];
+}
 
 export const metadata = {
   title: 'Volumes | SPURGEON TV',
@@ -95,7 +100,7 @@ export default async function Home({ params }) {
           {volumes.map((volume) => {
             const volNum = parseInt(volume.replace('volume-', ''), 10);
             return (
-              <Link href={`/${lang}/volume/${volume}`} key={volume}>
+              <Link href={`/${lang}/volume/${volume}`} prefetch={false} key={volume}>
                 <div className="card">
                   <div className="card-vol-number">{volNum}</div>
                   <h2>Volume {volNum}</h2>
