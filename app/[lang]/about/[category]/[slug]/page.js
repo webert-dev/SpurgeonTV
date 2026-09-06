@@ -5,7 +5,7 @@ import ShareButton from '../../../../components/ShareButton';
 import { loadStaticJson } from '../../../../../lib/data-loader';
 
 export const revalidate = false;
-export const dynamicParams = true;
+export const dynamicParams = false;
 
 export function generateStaticParams() {
   const langs = ['en', 'es', 'pt'];

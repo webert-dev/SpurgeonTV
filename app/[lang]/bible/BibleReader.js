@@ -5,10 +5,11 @@ import { useSearchParams } from 'next/navigation';
 import { BIBLE_BOOKS } from '../../../lib/bible-books';
 import ShareButton from '../../components/ShareButton';
 
-export default function BibleReader({ lang, sermons = [], dict }) {
+export default function BibleReader({ lang, dict }) {
   const searchParams = useSearchParams();
   const defaultTranslation = lang === 'pt' ? 'acf' : (lang === 'es' ? 'rvr' : 'kjv');
   const [translation, setTranslation] = useState(defaultTranslation);
+  const [sermons, setSermons] = useState([]);
   
   const urlBook = searchParams.get('book');
   const urlChapter = searchParams.get('chapter');
@@ -24,6 +25,21 @@ export default function BibleReader({ lang, sermons = [], dict }) {
   const [bibleCache, setBibleCache] = useState({});
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
+
+  useEffect(() => {
+    async function loadSermons() {
+      try {
+        const res = await fetch('/search-index.json');
+        if (res.ok) {
+          const data = await res.json();
+          setSermons(data);
+        }
+      } catch (err) {
+        console.error('Failed to load sermons index', err);
+      }
+    }
+    loadSermons();
+  }, []);
 
   useEffect(() => {
     async function loadBible() {

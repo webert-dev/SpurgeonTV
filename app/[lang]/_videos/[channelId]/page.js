@@ -11,17 +11,7 @@ export const revalidate = false;
 export const dynamicParams = false;
 
 export function generateStaticParams() {
-  const langs = ['en', 'es', 'pt'];
-  const channels = ['pt', 'en', 'es', 'es-devocional'];
-  const params = [];
-  
-  for (const lang of langs) {
-    for (const channelId of channels) {
-      params.push({ lang, channelId });
-    }
-  }
-  
-  return params;
+  return [];
 }
 
 export async function generateMetadata({ params }) {

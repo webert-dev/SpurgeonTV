@@ -26,7 +26,6 @@ export async function generateMetadata({ params }) {
 
 export default async function BiblePage({ params }) {
   const { lang } = await params;
-  const sermonsIndex = await getSearchIndex();
   const dict = await getDictionary(lang);
 
   return (
@@ -76,9 +75,8 @@ export default async function BiblePage({ params }) {
           {dict.bible.pageSubtitle}
         </p>
       </div>
-      
       <Suspense fallback={<div>Loading Bible...</div>}>
-        <BibleReader lang={lang} sermons={sermonsIndex} dict={dict} />
+        <BibleReader lang={lang} dict={dict} />
       </Suspense>
       <CitationBox
         type="bible"

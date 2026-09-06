@@ -84,7 +84,7 @@ Este projeto é uma aplicação web moderna dedicada a preservar e apresentar a 
 
 ## 🚀 Deployment (Cloudflare Workers)
 
-This project has been fully migrated from Vercel to **Cloudflare Workers** using [OpenNext](https://opennext.js.org/cloudflare).
+This project is deployed to **Cloudflare Workers** using [OpenNext](https://opennext.js.org/cloudflare).
 
 To deploy the application to your Cloudflare account, follow these steps:
 
