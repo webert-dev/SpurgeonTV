@@ -1,0 +1,65 @@
+# Melhoria da Apresentação e da Página Sobre Nós
+
+Este plano visa atualizar a mensagem de apresentação na página inicial para refletir um alcance global (removendo a limitação de idioma específico já que as traduções estão em andamento), além de expandir a página "Sobre Nós" com Valores, Missão e uma Declaração de Fé ("Em que Cremos") baseados em princípios bíblicos. 
+
+**Novidade nesta versão:** Inclusão de rodapé exegético na página "Sobre Nós" exibindo os textos bíblicos literais mencionados na página, e direcionando o usuário para a leitura completa do capítulo no leitor da Bíblia integrado do site.
+
+## User Review Required
+
+> [!IMPORTANT]  
+> Por favor, confira a versão final revisada do **Manifesto (Apresentação)** e a proposta de construção do **Rodapé Bíblico**. Se estiver 100% de acordo, basta Aprovar e iniciaremos a codificação!
+
+## Proposed Changes
+
+### 1. Dicionários (Internacionalização e Manifesto)
+Atualizar a frase de apresentação (Manifesto) aplicando as melhorias:
+- Substituir "um dicionário puritano integrado" por "dicionários bíblicos integrados".
+- Adicionar "gradualmente" para refletir o andamento do projeto.
+
+#### [MODIFY] `dictionaries/pt.json`
+- Alterar `home.eeatManifesto` para: *"O SpurgeonTV é muito mais do que um arquivo digital — é uma plataforma de estudo teológico abrangente dedicada ao legado de Charles Spurgeon. Organizamos os 3.563 sermões em 63 volumes, além de disponibilizarmos a sua clássica obra de devocionais diários, estruturada por datas e turnos (Manhã e Noite). Todo o acervo é enriquecido com referências bíblicas cruzadas, dicionários bíblicos integrados e um projeto em andamento de traduções exclusivas. Cada texto é totalmente pesquisável, profundamente enraizado em seu contexto bíblico e gradualmente disponível em múltiplos idiomas — um tesouro gratuito, para a edificação de todos, para sempre."*
+- Adicionar `home.eeatLinkText`: *"Leia mais sobre nossa história, nossos valores e no que cremos."*
+
+#### [MODIFY] `dictionaries/en.json`
+- Alterar `home.eeatManifesto` para a tradução correspondente em inglês, incorporando "integrated biblical dictionaries" e "gradually available in multiple languages".
+- Adicionar `home.eeatLinkText`: *"Read more about our history, values, and what we believe."*
+
+#### [MODIFY] `dictionaries/es.json`
+- Alterar `home.eeatManifesto` para a tradução correspondente em espanhol.
+- Adicionar `home.eeatLinkText`: *"Lea más sobre nuestra historia, nuestros valores y en qué creemos."*
+
+---
+
+### 2. Homepage (`app/[lang]/page.js`)
+- Remover o símbolo `✦` do título `Nosso Diferencial` na apresentação.
+- Adicionar, no final do parágrafo do manifesto, um link sutil apontando para `/[lang]/about-us`, utilizando a nova chave `eeatLinkText` do dicionário, destacando sutilmente a cor e com sublinhado (`textDecoration: 'underline'`).
+
+---
+
+### 3. Página "Sobre Nós" (`app/[lang]/about-us/page.js`)
+Expandir o conteúdo da página com novas seções teológicas e um rodapé bíblico funcional.
+
+- **Atualizar o objeto de Traduções (`translations`):**
+  - **Missão:** Focar na proclamação do Evangelho fiel e na edificação da Igreja (*Marcos 16:15* e *Efésios 4:12*).
+  - **Valores:**
+    1. **Autoridade Bíblica (Sola Scriptura):** Todo o conteúdo visa apontar para a inerrância e suficiência das Escrituras (*2 Timóteo 3:16-17*).
+    2. **Centralidade de Cristo nas Escrituras:** Anunciar que toda promessa messiânica do Antigo Testamento se cumpriu perfeitamente em Jesus, o Cristo (*Lucas 24:27*).
+    3. **Fidelidade ao Evangelho:** Compromisso inegociável com a sã doutrina e o evangelho da graça (*Gálatas 1:8-9*).
+    4. **Acessibilidade e Gratuidade:** O Evangelho é de graça, e este material também deve ser (*Mateus 10:8*).
+    5. **Excelência para a Glória de Deus:** Fazer o melhor trabalho técnico possível (*Colossenses 3:23*).
+  - **Em que Cremos (Declaração de Fé):** Adicionar um credo confessional claro:
+    1. **As Escrituras Sagradas** (*Salmos 119:105*).
+    2. **A Trindade** (*Mateus 28:19; 2 Coríntios 13:14*).
+    3. **A Obra de Cristo** (*João 1:1, 14; 1 Pedro 2:24*).
+    4. **Salvação Exclusiva pela Graça** (*Efésios 2:8-9; Romanos 3:24*).
+    5. **A Igreja e a Grande Comissão** (*Mateus 28:19-20*).
+
+- **O Novo Rodapé Bíblico (Footnotes):**
+  - Ao final da página, será criado um bloco de rodapé (design discreto) que listará o **texto literal de cada versículo citado** acima (em PT usando ACF/NVI, em EN usando KJV, em ES usando RVR1960).
+  - Ao lado ou abaixo de cada texto literal, haverá um link como "Ler capítulo completo", apontando diretamente para o leitor de Bíblia do site (ex: `/[lang]/bible?book=2Timothy&chapter=3`).
+
+## Verification Plan
+### Manual Verification
+1. Acessar a página inicial para verificar a redação final do manifesto ("dicionários bíblicos integrados", "gradualmente disponível").
+2. Acessar a página `/pt/about-us` e rolar até o final da página.
+3. Testar se todos os textos bíblicos mencionados nas seções aparecem transcritos na íntegra no rodapé e se os links direcionam corretamente para as passagens completas no módulo da Bíblia do próprio SpurgeonTV.
