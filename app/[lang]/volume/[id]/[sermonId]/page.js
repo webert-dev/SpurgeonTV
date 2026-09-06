@@ -34,7 +34,8 @@ export async function generateMetadata({ params }) {
 
   // Extract a clean text excerpt from the HTML content
   const stripHtml = (html) => html ? html.replace(/<[^>]*>?/gm, '').trim() : '';
-  const fullText = stripHtml(sermon.content);
+  // Optimize CPU: only run the expensive stripHtml regex on the first 1000 characters, not the full 50,000+ char string
+  const fullText = stripHtml(sermon.content.substring(0, 1000));
   // Get first 160 chars, ensuring we don't cut in the middle of a word if possible
   let excerpt = fullText.substring(0, 160);
   if (fullText.length > 160) {
