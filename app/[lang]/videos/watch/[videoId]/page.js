@@ -5,10 +5,10 @@ import { getDictionary } from '../../../../../lib/dictionaries';
 import ShareButton from '../../../../components/ShareButton';
 import CitationBox from '../../../../components/CitationBox';
 import { loadStaticJson } from '../../../../../lib/data-loader';
-
 export const revalidate = false;
 
-export const dynamicParams = false;
+export const dynamic = 'auto';
+export const dynamicParams = true;
 
 export function generateStaticParams() {
   // Retorna array vazio para não pré-renderizar nenhum vídeo e evitar estourar o limite de 20k arquivos da Cloudflare.

@@ -5,11 +5,6 @@ import SpanishVideosTabs from '../../components/SpanishVideosTabs';
 import { loadStaticJson } from '../../../lib/data-loader';
 
 export const revalidate = false;
-export const dynamicParams = false;
-
-export function generateStaticParams() {
-  return [];
-}
 
 export async function generateMetadata({ params }) {
   const { lang } = await params;

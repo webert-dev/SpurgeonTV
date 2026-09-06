@@ -8,7 +8,8 @@ import VideosListClient from '../../../components/VideosListClient';
 
 export const revalidate = false;
 
-export const dynamicParams = false;
+export const dynamic = 'auto';
+export const dynamicParams = true;
 
 export function generateStaticParams() {
   return [];

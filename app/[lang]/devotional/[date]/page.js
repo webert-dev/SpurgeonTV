@@ -3,7 +3,8 @@ import DevotionalDayClient from './DevotionalDayClient';
 import { loadStaticJson } from '../../../../lib/data-loader';
 
 export const revalidate = 86400;
-export const dynamicParams = false;
+export const dynamic = 'auto';
+export const dynamicParams = true;
 
 function daysInMonth(m) {
   const d30 = [4, 6, 9, 11];

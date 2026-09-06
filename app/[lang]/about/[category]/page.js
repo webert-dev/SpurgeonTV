@@ -4,7 +4,8 @@ export const revalidate = false;
 import path from 'path';
 import { notFound } from 'next/navigation';
 
-export const dynamicParams = false;
+export const dynamic = 'auto';
+export const dynamicParams = true;
 
 export async function generateStaticParams() {
   const langs = ['en', 'es', 'pt'];
