@@ -1,7 +1,6 @@
 import Link from 'next/link';
 
-export const dynamic = 'force-static';
-export const revalidate = false;
+export const dynamic = 'force-dynamic';
 import { notFound } from 'next/navigation';
 import { getVolumes, getSermonsInVolume, getSermonContent, getSermonNeighbors } from '../../../../../lib/sermons';
 import { loadStaticJson } from '../../../../../lib/data-loader';
@@ -17,22 +16,7 @@ import TTSPlayer from '../../../../components/TTSPlayer';
 import CitationBox from '../../../../components/CitationBox';
 import ShareButton from '../../../../components/ShareButton';
 
-export const dynamicParams = false;
-
-export async function generateStaticParams() {
-  const langs = ['en', 'pt', 'es'];
-  const volumes = await getVolumes('en');
-  const params = [];
-  for (const lang of langs) {
-    for (const vol of volumes) {
-      const sermons = await getSermonsInVolume(vol, lang);
-      for (const sermon of sermons) {
-        params.push({ lang, id: vol, sermonId: sermon.slug });
-      }
-    }
-  }
-  return params;
-}
+export const dynamicParams = true;
 
 
 
