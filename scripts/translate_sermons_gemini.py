@@ -1,7 +1,8 @@
 import os
 import glob
 import time
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -11,17 +12,14 @@ if not GEMINI_API_KEY:
     print("GEMINI_API_KEY not found in .env")
     exit(1)
 
-genai.configure(api_key=GEMINI_API_KEY)
+client = genai.Client(api_key=GEMINI_API_KEY)
 
-model = genai.GenerativeModel(
-    model_name="gemini-2.5-flash",
-    system_instruction=(
-        "Você é um tradutor teológico profissional. Seu trabalho é traduzir "
-        "sermões de Charles Spurgeon do inglês para o português do Brasil. "
-        "Preserve absolutamente toda a formatação original do Markdown (títulos, listas, negritos, blockquotes). "
-        "O tom deve ser solene, poético, e fiel à teologia e ao estilo vitoriano de Spurgeon. "
-        "Devolva EXATAMENTE o texto em Markdown traduzido, sem adicionar blocos de código (```markdown) ao redor."
-    )
+SYSTEM_INSTRUCTION = (
+    "Você é um tradutor teológico profissional. Seu trabalho é traduzir "
+    "sermões de Charles Spurgeon do inglês para o português do Brasil. "
+    "Preserve absolutamente toda a formatação original do Markdown (títulos, listas, negritos, blockquotes). "
+    "O tom deve ser solene, poético, e fiel à teologia e ao estilo vitoriano de Spurgeon. "
+    "Devolva EXATAMENTE o texto em Markdown traduzido, sem adicionar blocos de código (```markdown) ao redor."
 )
 
 def translate_text(text):
@@ -31,9 +29,15 @@ def translate_text(text):
     retries = 4
     for attempt in range(retries):
         try:
-            # Sleep to respect 15 RPM free tier limit
-            time.sleep(4) 
-            response = model.generate_content(text)
+            # Sleep to respect rate limits
+            time.sleep(4)
+            response = client.models.generate_content(
+                model="gemini-3.6-flash",
+                contents=text,
+                config=types.GenerateContentConfig(
+                    system_instruction=SYSTEM_INSTRUCTION,
+                )
+            )
             return response.text
         except Exception as e:
             err_msg = str(e).lower()
@@ -49,7 +53,7 @@ def process_sermons():
     base_en_dir = "chspurgeon-sermons-main"
     base_pt_dir = "chspurgeon-sermons-pt"
     
-    en_files = glob.glob(os.path.join(base_en_dir, "volume-*", "sermon-*.md"))
+    en_files = glob.glob(os.path.join(base_en_dir, "volume-*", "sermon_*.md"))
     en_files.sort()
     
     translated_count = 0
@@ -59,13 +63,15 @@ def process_sermons():
     
     for en_file in en_files:
         rel_path = os.path.relpath(en_file, base_en_dir)
-        pt_file = os.path.join(base_pt_dir, rel_path)
+        # Normalize filename: English uses underscore (sermon_NNN), PT uses hyphen (sermon-NNN)
+        rel_path_pt = rel_path.replace("sermon_", "sermon-")
+        pt_file = os.path.join(base_pt_dir, rel_path_pt)
         
         if os.path.exists(pt_file):
             skipped_count += 1
             continue
             
-        print(f"Translating: {rel_path}...")
+        print(f"Translating: {rel_path_pt}...")
         
         try:
             with open(en_file, "r", encoding="utf-8") as f:
@@ -92,7 +98,7 @@ def process_sermons():
                 f.write(translated_body)
                 
             translated_count += 1
-            print(f"Successfully translated {rel_path}. Total this session: {translated_count}")
+            print(f"Successfully translated {rel_path_pt}. Total this session: {translated_count}")
             
         except Exception as e:
             print(f"Error processing {en_file}: {e}")

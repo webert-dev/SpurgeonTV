@@ -82,66 +82,36 @@ Este projeto é uma aplicação web moderna dedicada a preservar e apresentar a 
    ```
 4. Open [http://localhost:3000](http://localhost:3000) / Abre en tu navegador / Abra no seu navegador.
 
-## 🚀 Deployment (Cloudflare Workers)
+## 🚀 Deployment (Vercel + Cloudflare Proxy)
 
-This project is deployed to **Cloudflare Workers** using [OpenNext](https://opennext.js.org/cloudflare).
+This project has been migrated to a standard Next.js deployment architecture to avoid Cloudflare Workers' 10ms CPU limitations. The recommended hosting platform is **Vercel** with Cloudflare acting as a DNS proxy for caching.
 
-To deploy the application to your Cloudflare account, follow these steps:
+### Deploying to Vercel
 
-1. Build the Next.js application for Cloudflare:
-   ```bash
-   npm run build:cf
-   ```
-2. Deploy the generated worker using Wrangler:
-   ```bash
-   npx wrangler deploy
-   ```
-   
-> **Pro Tip:** You can run both commands together in a single line to build and deploy sequentially:
-> ```bash
-> npm run deploy:cf
-> ```
+Vercel provides native Next.js support with zero configuration required.
 
-   *(Note: This requires you to be logged into your Cloudflare account via `npx wrangler login` or by setting the `CLOUDFLARE_API_TOKEN` environment variable).*
+1. Push your code to a GitHub repository.
+2. Go to [Vercel](https://vercel.com/) and click **Add New Project**.
+3. Import your GitHub repository.
+4. Click **Deploy**. Vercel will automatically detect Next.js and build the project.
 
 ---
-**🇧🇷 Deploy na Cloudflare (Português):**
-1. Faça o build da aplicação Next.js para Cloudflare:
-   ```bash
-   npm run build:cf
-   ```
-2. Faça o deploy do worker gerado usando o Wrangler:
-   ```bash
-   npx wrangler deploy
-   ```
-   
-> **Dica:** Você pode rodar os dois comandos juntos em uma única linha para fazer o build e deploy na sequência:
-> ```bash
-> npm run deploy:cf
-> ```
-
-   *(Nota: Isso exige que você esteja logado na sua conta da Cloudflare via `npx wrangler login` ou configurando a variável de ambiente `CLOUDFLARE_API_TOKEN`).*
+**🇧🇷 Deploy na Vercel (Português):**
+O projeto foi migrado para Vercel para suportar renderização SSR em larga escala.
+1. Envie o seu código para o GitHub.
+2. Acesse a [Vercel](https://vercel.com/) e clique em **Add New Project**.
+3. Importe o seu repositório do GitHub e clique em **Deploy**. A Vercel cuida de todo o resto automaticamente.
 
 ---
-**🇪🇸 Despliegue en Cloudflare (Español):**
-1. Construye la aplicación Next.js para Cloudflare:
-   ```bash
-   npm run build:cf
-   ```
-2. Despliega el worker generado usando Wrangler:
-   ```bash
-   npx wrangler deploy
-   ```
-   
-> **Consejo:** Puedes ejecutar ambos comandos juntos en una sola línea para construir y desplegar secuencialmente:
-> ```bash
-> npm run deploy:cf
-> ```
+**🇪🇸 Despliegue en Vercel (Español):**
+El proyecto ha sido migrado a Vercel para soportar la renderización SSR a gran escala.
+1. Sube tu código a GitHub.
+2. Ve a [Vercel](https://vercel.com/) y haz clic en **Add New Project**.
+3. Importa tu repositorio de GitHub y haz clic en **Deploy**. Vercel hace el resto automáticamente.
 
-   *(Nota: Esto requiere que inicies sesión en tu cuenta de Cloudflare mediante `npx wrangler login` o configurando la variable de entorno `CLOUDFLARE_API_TOKEN`).*
-
-### Custom Domains
-If deploying to a custom domain (e.g. `spurgeon.tv`), ensure you have linked the domain in the **Cloudflare Dashboard**:
-1. Go to **Workers & Pages** -> **spurgeontv-app**
-2. Go to **Triggers** / **Custom Domains**
-3. Add your custom domains. Cloudflare will automatically route the traffic to the Worker.
+### Custom Domains (Cloudflare Proxy)
+To handle high traffic (100GB+ bandwidth) and avoid Vercel limits, we recommend configuring your domain `spurgeon.tv` on Cloudflare and proxying it to Vercel:
+1. Add your custom domain to your Vercel project settings.
+2. In your Cloudflare DNS dashboard, point the CNAME to Vercel (`cname.vercel-dns.com`).
+3. Keep the **Proxy status (Orange Cloud)** turned **ON** in Cloudflare.
+4. Go to SSL/TLS settings in Cloudflare and set it to **Full (Strict)** to avoid redirect loops.
