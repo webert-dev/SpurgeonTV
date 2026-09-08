@@ -2,5 +2,8 @@ User-agent: *
 Allow: /
 Disallow: /api/
 Disallow: /*?q=*
+Disallow: /*/volumes
+Disallow: /*/videos
+Disallow: /*/download
 
 Sitemap: https://spurgeon.tv/sitemap.xml

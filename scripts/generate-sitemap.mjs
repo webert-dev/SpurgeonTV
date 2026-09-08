@@ -29,13 +29,13 @@ const staticRoutes = [
   { path: '/cookie-policy',changeFreq: 'monthly', priority: 0.3 },
   { path: '/devotional',   changeFreq: 'daily',   priority: 0.9 },
   { path: '/dictionary',   changeFreq: 'weekly',  priority: 0.8 },
-  { path: '/download',     changeFreq: 'monthly', priority: 0.7 },
+
   { path: '/privacy-policy',changeFreq: 'monthly',priority: 0.3 },
   { path: '/sermons',      changeFreq: 'weekly',  priority: 0.9 },
   { path: '/support',      changeFreq: 'monthly', priority: 0.5 },
   { path: '/terms-of-service', changeFreq: 'monthly', priority: 0.3 },
   { path: '/transparency', changeFreq: 'monthly', priority: 0.5 },
-  { path: '/volumes',      changeFreq: 'weekly',  priority: 0.9 },
+
 ];
 
 for (const lang of langs) {
@@ -57,14 +57,7 @@ if (fs.existsSync(sermonDir)) {
   for (const vol of volumes) {
     const volId = vol.replace('volume-', '');
 
-    for (const lang of langs) {
-      sitemapUrls.push({
-        url: withTrailingSlash(`${baseUrl}/${lang}/volume/${volId}`),
-        lastModified: now,
-        changeFrequency: 'weekly',
-        priority: 0.7,
-      });
-    }
+
 
     const volPath = path.join(sermonDir, vol);
     if (fs.statSync(volPath).isDirectory()) {

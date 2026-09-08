@@ -1,7 +1,9 @@
 import Link from 'next/link';
 
-export const dynamic = 'force-dynamic';
+export const dynamic = 'force-static';
+export const revalidate = 86400;
 import { notFound } from 'next/navigation';
+import ClientTranslator from '../../../../components/ClientTranslator';
 import { getVolumes, getSermonsInVolume, getSermonContent, getSermonNeighbors } from '../../../../../lib/sermons';
 import { loadStaticJson } from '../../../../../lib/data-loader';
 import { linkifyBibleReferences } from '../../../../../lib/linkifyBible';
@@ -160,33 +162,12 @@ export default async function SermonPage({ params }) {
       </Link>
 
       <article>
+        {sermon.requiresClientTranslation && <ClientTranslator targetLang={lang} dict={dict} />}
         <header className="reader-header">
           <div className="meta">{dict.volume.title.replace('{num}', volNum)} · {dict.volume.table.sermon} {sermonNum}</div>
           <h1 className="title-gold">{sermon.title}</h1>
           <div style={{ display: 'flex', justifyContent: 'flex-end', alignItems: 'center', gap: '1rem', margin: '1rem 0', flexWrap: 'wrap' }}>
-            <Link 
-              href={`/${lang}/download?volume=${id}&sermon=${sermonId}&title=${encodeURIComponent(sermon.title)}`}
-              title={dict.download?.downloadPdf || "Download PDF"}
-              className="download-pdf-btn"
-              style={{
-                display: 'inline-flex',
-                alignItems: 'center',
-                gap: '0.6rem',
-                backgroundColor: 'rgba(255, 215, 0, 0.1)',
-                color: 'var(--gold)',
-                padding: '0.6rem 1.2rem',
-                borderRadius: '50px',
-                fontWeight: '500',
-                textDecoration: 'none',
-                fontSize: '0.9rem',
-                transition: 'all 0.2s',
-                border: '1px solid rgba(255, 215, 0, 0.2)',
-                cursor: 'pointer'
-              }}
-            >
-              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
-              {dict.download?.downloadPdf || "Download PDF"}
-            </Link>
+
             <TTSPlayer lang={lang} dict={dict} text={textToRead} />
             <ShareButton 
               title={sermon.title}

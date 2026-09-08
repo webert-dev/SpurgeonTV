@@ -12,6 +12,7 @@ export async function generateStaticParams() {
 export const metadata = {
   title: 'Volumes | SPURGEON TV',
   description: 'Explore over 3,500 sermons from Charles Spurgeon organized in 63 volumes.',
+  robots: { index: false, follow: false },
   alternates: {
     languages: {
       'en': '/en/volumes',

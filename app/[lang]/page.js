@@ -3,7 +3,7 @@ import Link from 'next/link';
 export const dynamic = 'force-static';
 export const revalidate = false;
 
-import { getPaginatedSermons } from '../../lib/sermons';
+import { getPaginatedSermons, getSearchIndex } from '../../lib/sermons';
 import SearchClient from './search-client';
 import { getDictionary } from '../../lib/dictionaries';
 import { getAllArticles } from '../../lib/articles';
@@ -27,8 +27,23 @@ export default async function HomePage({ params }) {
   const { lang } = await params;
   const dict = await getDictionary(lang);
 
-  // Fetch first 4 sermons for the featured section
-  const { sermons: featuredSermons } = await getPaginatedSermons(lang, 1, 4);
+  // Fetch top 9 most famous/accessed sermons
+  const searchIndex = await getSearchIndex(lang);
+  const topSermonSlugs = [
+    'sermon-227',   // Compel Them to Come In
+    'sermon_573',   // Baptismal Regeneration
+    'sermon-1',     // The Immutability of God
+    'sermon-3',     // The Sin of Unbelief
+    'sermon_369',   // The First Sermon in the Tabernacle
+    'sermon-106',   // Turn or Burn
+    'sermon-15',    // The Bible
+    'sermon-68',    // Salvation to the Uttermost
+    'sermon_1699'   // Supposing Him to be the Gardener
+  ];
+  
+  const featuredSermons = topSermonSlugs
+    .map(slug => searchIndex.find(s => s.slug === slug))
+    .filter(Boolean);
 
   // Fetch all localized articles and pick the 4 featured ones
   const allArticles = await getAllArticles(lang);
@@ -112,17 +127,20 @@ export default async function HomePage({ params }) {
             </Link>
           </div>
 
-          <div style={{ marginTop: '3rem', maxWidth: '600px', margin: '3rem auto 0 auto', padding: '1.5rem', backgroundColor: 'rgba(255,255,255,0.03)', borderRadius: '12px', border: '1px solid rgba(212, 175, 55, 0.2)' }}>
-            <p style={{ color: 'var(--text-secondary)', fontSize: '0.95rem', lineHeight: '1.6' }}>
-              <span style={{ display: 'block', color: 'var(--accent)', marginBottom: '0.5rem', fontWeight: 'bold' }}>{dict.home.eeatTitle}</span>
-              {dict.home.eeatManifesto}{' '}
-              <Link href={`/${lang}/about-us`} style={{ textDecoration: 'underline', color: 'var(--accent)' }}>
-                {dict.home.eeatLinkText || 'Leia mais'}
-              </Link>
-            </p>
-          </div>
         </div>
       </section>
+
+      <div className="container">
+        <div style={{ width: '100%', maxWidth: '1200px', margin: '0 auto 4rem auto', padding: '2rem', backgroundColor: 'rgba(255,255,255,0.03)', borderRadius: '12px', border: '1px solid rgba(212, 175, 55, 0.2)' }}>
+          <p style={{ color: 'var(--text-secondary)', fontSize: '0.95rem', lineHeight: '1.7', textAlign: 'justify' }}>
+            <span style={{ display: 'block', color: 'var(--accent)', marginBottom: '0.5rem', fontWeight: 'bold', textAlign: 'center' }}>{dict.home.eeatTitle}</span>
+            {dict.home.eeatManifesto}{' '}
+            <Link href={`/${lang}/about-us`} style={{ textDecoration: 'underline', color: 'var(--accent)' }}>
+              {dict.home.eeatLinkText || 'Leia mais'}
+            </Link>
+          </p>
+        </div>
+      </div>
 
       {/* ══════════════════════════════════════════
           STATS BAR
@@ -144,42 +162,7 @@ export default async function HomePage({ params }) {
         </div>
       </section>
 
-      {/* ══════════════════════════════════════════
-          FEATURED SERMONS
-      ══════════════════════════════════════════ */}
-      <section className="home-section container">
-        <div className="home-section-header">
-          <div>
-            <p className="home-section-eyebrow">{dict.home.featured.eyebrow}</p>
-            <h2 className="home-section-title">{dict.home.featured.title}</h2>
-            <p className="home-section-subtitle">{dict.home.featured.subtitle}</p>
-          </div>
-          <Link href={`/${lang}/sermons`} className="home-see-all">
-            {dict.home.featured.browseAll} <span>→</span>
-          </Link>
-        </div>
 
-        <div className="home-sermons-grid">
-          {featuredSermons.map((sermon) => {
-            const titleParts = sermon.title.split(' | ');
-            const label = titleParts[0];
-            const title = titleParts.length > 1 ? titleParts.slice(1).join(' | ') : sermon.title;
-            return (
-              <Link href={`/${lang}/volume/${sermon.volume}/${sermon.slug}`} key={sermon.slug} className="home-sermon-card">
-                <div className="home-sermon-label">{label}</div>
-                <h3 className="home-sermon-title">{title}</h3>
-                {sermon.scripture?.verse && (
-                  <p className="home-sermon-verse">&ldquo;{sermon.scripture.verse}&rdquo;</p>
-                )}
-                <div className="home-sermon-footer">
-                  <span className="home-sermon-vol">{dict.home.featured.vol} {sermon.volumeNum}</span>
-                  <span className="home-sermon-ref">{sermon.scripture?.reference || dict.home.featured.topical}</span>
-                </div>
-              </Link>
-            );
-          })}
-        </div>
-      </section>
 
       {/* ══════════════════════════════════════════
           RECENT ARTICLES
@@ -250,6 +233,43 @@ export default async function HomePage({ params }) {
               <span className="home-tool-cta">{dict.home.tools.dictCta} →</span>
             </div>
           </Link>
+        </div>
+      </section>
+
+      {/* ══════════════════════════════════════════
+          FEATURED SERMONS
+      ══════════════════════════════════════════ */}
+      <section className="home-section container">
+        <div className="home-section-header">
+          <div>
+            <p className="home-section-eyebrow">{dict.home.featured.eyebrow}</p>
+            <h2 className="home-section-title">{dict.home.featured.title}</h2>
+            <p className="home-section-subtitle">{dict.home.featured.subtitle}</p>
+          </div>
+          <Link href={`/${lang}/sermons`} className="home-see-all">
+            {dict.home.featured.browseAll} <span>→</span>
+          </Link>
+        </div>
+
+        <div className="home-sermons-grid">
+          {featuredSermons.map((sermon) => {
+            const titleParts = sermon.title.split(' | ');
+            const label = titleParts[0];
+            const title = titleParts.length > 1 ? titleParts.slice(1).join(' | ') : sermon.title;
+            return (
+              <Link href={`/${lang}/volume/${sermon.volume}/${sermon.slug}`} key={sermon.slug} className="home-sermon-card">
+                <div className="home-sermon-label">{label}</div>
+                <h3 className="home-sermon-title">{title}</h3>
+                {sermon.scripture?.verse && (
+                  <p className="home-sermon-verse">&ldquo;{sermon.scripture.verse}&rdquo;</p>
+                )}
+                <div className="home-sermon-footer">
+                  <span className="home-sermon-vol">{dict.home.featured.vol} {sermon.volume.replace('volume-', '').replace(/^0+/, '')}</span>
+                  <span className="home-sermon-ref">{sermon.scripture?.reference || dict.home.featured.topical}</span>
+                </div>
+              </Link>
+            );
+          })}
         </div>
       </section>
 

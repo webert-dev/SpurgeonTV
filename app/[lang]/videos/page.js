@@ -12,6 +12,7 @@ export async function generateMetadata({ params }) {
   return {
     title: dict.videosHub?.pageTitle + " | Charles Spurgeon" || "Charles Spurgeon Videos | Sermons & Documentaries",
     description: dict.videosHub?.pageSubtitle || "Watch the largest collection of Charles Spurgeon sermons, documentaries, and teachings in English, Portuguese, and Spanish.",
+    robots: { index: false, follow: false }
   };
 }
 

@@ -15,9 +15,7 @@ if (fs.existsSync(publicSermonsDir)) {
 fs.mkdirSync(publicSermonsDir, { recursive: true });
 
 const langs = [
-  { lang: 'en', src: 'chspurgeon-sermons-main' },
-  { lang: 'pt', src: 'chspurgeon-sermons-pt' },
-  { lang: 'es', src: 'chspurgeon-sermons-es' },
+  { lang: 'en', src: 'chspurgeon-sermons-main' }
 ];
 
 for (const { lang, src } of langs) {
