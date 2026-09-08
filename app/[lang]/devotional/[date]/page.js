@@ -3,7 +3,7 @@ import DevotionalDayClient from './DevotionalDayClient';
 import { loadStaticJson } from '../../../../lib/data-loader';
 
 export const revalidate = 86400;
-export const dynamic = 'auto';
+export const dynamic = 'force-static';
 export const dynamicParams = true;
 
 function daysInMonth(m) {
@@ -27,18 +27,13 @@ function getNextDateStr(month, day) {
 
 export async function generateStaticParams() {
   const params = [];
-  const langs = ['en', 'pt', 'es'];
-  
-  for (const lang of langs) {
-    for (let month = 1; month <= 12; month++) {
-      const days = daysInMonth(month);
-      for (let day = 1; day <= days; day++) {
-        const dateStr = `${month.toString().padStart(2, '0')}-${day.toString().padStart(2, '0')}`;
-        params.push({ lang, date: dateStr });
-      }
+  for (let month = 1; month <= 12; month++) {
+    const days = daysInMonth(month);
+    for (let day = 1; day <= days; day++) {
+      const dateStr = `${month.toString().padStart(2, '0')}-${day.toString().padStart(2, '0')}`;
+      params.push({ date: dateStr });
     }
   }
-  
   return params;
 }
 
