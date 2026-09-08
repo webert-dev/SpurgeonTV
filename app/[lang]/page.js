@@ -28,7 +28,8 @@ export default async function HomePage({ params }) {
   const dict = await getDictionary(lang);
 
   // Fetch top 9 most famous/accessed sermons
-  const searchIndex = await getSearchIndex(lang);
+  // Always use English index — these sermons only exist in EN
+  const enSearchIndex = await getSearchIndex('en');
   const topSermonSlugs = [
     'sermon-227',   // Compel Them to Come In
     'sermon_573',   // Baptismal Regeneration
@@ -42,7 +43,7 @@ export default async function HomePage({ params }) {
   ];
   
   const featuredSermons = topSermonSlugs
-    .map(slug => searchIndex.find(s => s.slug === slug))
+    .map(slug => enSearchIndex.find(s => s.slug === slug))
     .filter(Boolean);
 
   // Fetch all localized articles and pick the 4 featured ones
@@ -257,7 +258,7 @@ export default async function HomePage({ params }) {
             const label = titleParts[0];
             const title = titleParts.length > 1 ? titleParts.slice(1).join(' | ') : sermon.title;
             return (
-              <Link href={`/${lang}/volume/${sermon.volume}/${sermon.slug}`} key={sermon.slug} className="home-sermon-card">
+              <Link href={`/en/volume/${sermon.volume}/${sermon.slug}`} key={sermon.slug} className="home-sermon-card">
                 <div className="home-sermon-label">{label}</div>
                 <h3 className="home-sermon-title">{title}</h3>
                 {sermon.scripture?.verse && (
