@@ -32,14 +32,15 @@ export default function BibleReader({ lang, dict }) {
         const res = await fetch('/search-index.json');
         if (res.ok) {
           const data = await res.json();
-          setSermons(data);
+          const localizedSermons = data[lang] || data['en'] || [];
+          setSermons(localizedSermons);
         }
       } catch (err) {
         console.error('Failed to load sermons index', err);
       }
     }
     loadSermons();
-  }, []);
+  }, [lang]);
 
   useEffect(() => {
     async function loadBible() {
