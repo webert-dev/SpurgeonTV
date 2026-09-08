@@ -1,0 +1,118 @@
+# 🔍 SpurgeonTV — Auditoria Técnica & Roadmap SEO/AdSense
+
+## ✅ Status dos Arquivos Críticos
+
+### ads.txt — **ATIVO e CORRETO**
+```
+google.com, pub-9583030006144403, DIRECT, f08c47fec0942fa0
+```
+Arquivo presente em `public/ads.txt`. O AdSense já o detectou como **"Autorizado"**, conforme seu print. Nenhuma ação necessária.
+
+---
+
+### robots.txt — **ATIVO e BEM CONFIGURADO**
+```
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /*?q=*
+Disallow: /*/volumes
+Disallow: /*/videos
+Disallow: /*/download
+
+Sitemap: https://spurgeon.tv/sitemap.xml
+```
+As três rotas de baixo valor (`/volumes`, `/videos`, `/download`) estão bloqueadas. Ponto forte.
+
+> [!WARNING]
+> O arquivo está em `app/robots.txt` (servido pelo Next.js como rota), mas **não existe** em `public/robots.txt`. Isso está correto para Next.js 14+, mas vale confirmar que `https://spurgeon.tv/robots.txt` responde em produção.
+
+---
+
+### Sitemap — **1.296 URLs ATIVAS**
+
+| Componente | URLs (por idioma) | Status |
+|---|---|---|
+| Rotas estáticas (home, sermons, bible, etc.) | ~14 × 3 idiomas | ✅ Ativo |
+| Devocional (366 dias × 3) | 1.098 | ✅ Ativo |
+| Artigos individuais | ~50+ × 3 | ✅ Ativo |
+| Sermões individuais (`/volume/X/sermon-Y`) | **0** | ⚠️ Ausentes |
+| `/volumes`, `/download`, `/videos` | 0 | ✅ Bloqueados corretamente |
+
+> [!IMPORTANT]
+> Os sermões individuais **não estão no sitemap**. O gerador tenta ler `content/sermons/en/` mas essa pasta não existe — os arquivos ficam em `chspurgeon-sermons-main/`. Isso significa que os **3.563 sermões não são enviados ao Google**. Isso é a maior oportunidade de tráfego orgânico perdida no momento.
+
+---
+
+## 🚨 Problema Principal: Sermões Ausentes do Sitemap
+
+**O que acontece hoje:** O Google não sabe que existem 3.563 URLs de sermões.
+
+**Impacto:** Zero tráfego orgânico para "Spurgeon sermon [título]" — as buscas mais valiosas para AdSense de nicho religioso.
+
+**Fix:** Corrigir o caminho no `generate-sitemap.mjs`:
+```diff
+- const sermonDir = path.join(ROOT, 'content', 'sermons', 'en');
++ const sermonDir = path.join(ROOT, 'chspurgeon-sermons-main');
+```
+Isso adicionaria ~3.563 × 3 idiomas = ~10.000 URLs indexáveis.
+
+---
+
+## 📈 Roadmap Priorizado: SEO + Retenção + AdSense
+
+### 🔴 PRIORIDADE CRÍTICA
+
+| # | Ação | Impacto SEO | Impacto AdSense |
+|---|---|---|---|
+| 1 | **Corrigir caminho dos sermões no sitemap** | Altíssimo | Altíssimo |
+| 2 | **Adicionar `<title>` e `<meta description>` únicos em cada sermão** | Altíssimo | Alto |
+| 3 | **Adicionar Schema.org `Article` ou `CreativeWork` em cada sermão** | Alto | Médio |
+
+### 🟡 PRIORIDADE ALTA
+
+| # | Ação | Impacto SEO | Impacto Retenção |
+|---|---|---|---|
+| 4 | **Links "Próximo Sermão / Anterior" no rodapé de cada sermão** | Médio | Altíssimo (reduz bounce rate) |
+| 5 | **Seção "Sermões Relacionados" por versículo bíblico** | Alto | Alto |
+| 6 | **Breadcrumbs com Schema.org em todas as páginas** | Alto | Baixo |
+| 7 | **Open Graph tags completos** (og:title, og:description, og:image) para compartilhamento | Médio | Alto (tráfego social) |
+| 8 | **Tempo de leitura estimado nos cards de sermão** | Baixo | Alto (CTR de clique) |
+
+### 🟢 PRIORIDADE MÉDIA
+
+| # | Ação | Impacto SEO | Impacto AdSense |
+|---|---|---|---|
+| 9 | **Página `/sitemap` humana** — lista navegável de todos os sermões | Médio | Médio |
+| 10 | **Tags de categoria nos sermões** (ex: Evangelismo, Conforto, Doutrina) | Médio | Alto (relevância contextual do ad) |
+| 11 | **Busca por referência bíblica** na página de sermões | Baixo SEO | Alto Retenção |
+| 12 | **Botão "Compartilhar" nos sermões** (WhatsApp, Twitter, Email) | Baixo SEO | Alto Retenção |
+| 13 | **`hreflang` tags** para os 3 idiomas (já tem alternates, verificar formato) | Médio | Baixo |
+
+---
+
+## 💡 Estratégias Específicas para AdSense
+
+> [!TIP]
+> O AdSense avalia **relevância temática** e **volume de conteúdo único**. Estas são as ações de maior retorno financeiro:
+
+1. **Indexar os sermões** — É o conteúdo mais longo e temático do site. Mais páginas indexadas = mais pageviews = mais impressões de anúncio.
+2. **Categorizar o conteúdo** — Páginas com temas claros (ex: "Fé", "Batismo", "Graça") recebem anúncios mais relevantes e com CPM mais alto.
+3. **Devocional diário** — Já está no sitemap (1.098 URLs). É excelente para AdSense por ter recorrência diária natural.
+4. **Artigos de qualidade** — O Google avalia EEAT (Expertise, Experience, Authoritativeness, Trustworthiness) para liberar anúncios Premium. Os artigos sobre Spurgeon já contribuem muito.
+5. **Evitar thin content** — Garantir que cada página de sermão tenha pelo menos 500 palavras (os sermões originais têm muito mais, então está ótimo).
+
+---
+
+## ✅ Resumo Executivo
+
+| Item | Status |
+|---|---|
+| ads.txt presente e autorizado | ✅ |
+| robots.txt bloqueia rotas corretas | ✅ |
+| Rotas /volumes, /videos, /download fora do sitemap | ✅ |
+| Páginas estáticas indexáveis | ✅ |
+| Devocional diário indexável | ✅ |
+| **Sermões individuais no sitemap** | ❌ |
+| Meta descriptions únicas por sermão | ⚠️ A verificar |
+| Schema.org estruturado | ⚠️ A verificar |

@@ -49,29 +49,25 @@ for (const lang of langs) {
   }
 }
 
-// ── 2. Sermons (Volumes and individual) ──────────────────────────────────────
-const sermonDir = path.join(ROOT, 'content', 'sermons', 'en');
+// ── 2. Sermons (individual, English only) ────────────────────────────────────
+const sermonDir = path.join(ROOT, 'chspurgeon-sermons-main');
 if (fs.existsSync(sermonDir)) {
   const volumes = fs.readdirSync(sermonDir).filter(f => f.startsWith('volume-'));
 
   for (const vol of volumes) {
     const volId = vol.replace('volume-', '');
-
-
-
     const volPath = path.join(sermonDir, vol);
+
     if (fs.statSync(volPath).isDirectory()) {
-      const sermons = fs.readdirSync(volPath).filter(f => f.endsWith('.json'));
+      const sermons = fs.readdirSync(volPath).filter(f => f.endsWith('.md'));
       for (const sermon of sermons) {
-        const sermonSlug = sermon.replace('.json', '');
-        for (const lang of langs) {
-          sitemapUrls.push({
-            url: withTrailingSlash(`${baseUrl}/${lang}/volume/${volId}/${sermonSlug}`),
-            lastModified: now,
-            changeFrequency: 'monthly',
-            priority: 0.6,
-          });
-        }
+        const sermonSlug = sermon.replace('.md', '');
+        sitemapUrls.push({
+          url: withTrailingSlash(`${baseUrl}/en/volume/${volId}/${sermonSlug}`),
+          lastModified: now,
+          changeFrequency: 'monthly',
+          priority: 0.6,
+        });
       }
     }
   }

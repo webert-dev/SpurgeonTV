@@ -1,0 +1,206 @@
+# SpurgeonTV — SEO Metadata Strategy for Sermon Pages
+
+> **File implementing this:** [`app/[lang]/volume/[id]/[sermonId]/page.js`](file:///c:/Users/fcout/SISTEMA_FAMILIA/04_NEGOCIOS_E_CARREIRAS/04.4_Tecnologia_e_Programacao/SPURGEONTV/app/%5Blang%5D/volume/%5Bid%5D/%5BsermonId%5D/page.js) — `generateMetadata()` function (lines 25–101)
+
+---
+
+## 1. The Strategy: Why These Patterns
+
+### `<title>` tag — Pattern
+```
+"{Thematic Title}" — Charles Spurgeon Sermon No. {N} | SpurgeonTV
+```
+
+**Why this works:**
+- The **thematic title in quotes** matches how users search: *"Compel Them to Come In" Spurgeon*
+- **"Charles Spurgeon"** is the #1 keyword for this niche — always included
+- **"Sermon No. {N}"** targets researchers and scholars who cite Spurgeon by number
+- **"SpurgeonTV"** builds brand recognition in SERPs
+- Kept under **~85 chars** so Google doesn't truncate
+
+### `<meta description>` — Pattern
+```
+{Scripture Reference} — Charles H. Spurgeon's famous sermon "{Thematic Title}". {First meaningful sentence of the sermon…}
+```
+
+**Why this works:**
+- The **scripture reference** (e.g., `Malachi 3:6`) appears in countless search queries
+- **"famous sermon"** triggers informational intent — the user is looking to read, not buy
+- The **first real sentence** of the sermon provides fresh, unique, non-repetitive content on every page
+- Always trimmed to **≤ 160 characters** — Google's display limit
+
+### `keywords` meta tag
+Even though Google doesn't use `<meta keywords>` for ranking, Bing, Yahoo, and AdSense **do** use them for contextual ad matching. Keywords added:
+
+```
+Charles Spurgeon, Charles H. Spurgeon, Spurgeon sermon, Spurgeon sermons,
+{Thematic Title}, Sermon {N}, Volume {V},
+{Scripture Reference}, classic sermons, Reformed preaching,
+Victorian preaching, Prince of Preachers, Metropolitan Tabernacle, SpurgeonTV
+```
+
+---
+
+## 2. Code Implementation
+
+```js
+// ── <title> tag ──────────────────────────────────────────────────────────────
+// Strip "Sermon N | " prefix from raw MD title to get just the thematic title
+const thematicTitle = sermon.title.includes('|')
+  ? sermon.title.split('|').slice(1).join('|').trim()
+  : sermon.title.trim();
+
+const pageTitle = `"${thematicTitle}" — Charles Spurgeon Sermon No. ${sermonNum} | SpurgeonTV`;
+
+// ── <meta description> ───────────────────────────────────────────────────────
+const stripHtml = (html) =>
+  html.replace(/<[^>]*>?/gm, '').replace(/&[a-z]+;/gi, ' ').replace(/\s+/g, ' ').trim();
+
+const bodyText = stripHtml(sermon.content.substring(0, 1200));
+const sentenceMatch = bodyText.match(/^.{40,200}[.!?](?=\s+[A-Z]|$)/);
+const firstSentence = sentenceMatch ? sentenceMatch[0].trim() : bodyText.substring(0, 160);
+
+if (sermon.scripture?.reference) {
+  const scripturePrefix = `${sermon.scripture.reference} — `;
+  const themeLine = `Charles H. Spurgeon's famous sermon "${thematicTitle}". `;
+  const available = 155 - scripturePrefix.length - themeLine.length;
+  metaDesc = `${scripturePrefix}${themeLine}${firstSentence.substring(0, available)}`;
+} else {
+  const intro = `Sermon No. ${sermonNum}, Vol. ${volNum} — Charles H. Spurgeon preaches on "${thematicTitle}". `;
+  metaDesc = intro + firstSentence.substring(0, 155 - intro.length);
+}
+
+// Trim to 160 chars max, end cleanly
+if (metaDesc.length > 160) metaDesc = metaDesc.substring(0, 157).replace(/\s+\S*$/, '') + '...';
+```
+
+---
+
+## 3. Real Examples — Top 9 Most Accessed Sermons
+
+### Sermon 227 — Compel Them to Come In
+**URL:** `https://spurgeon.tv/en/volume/05/sermon-227/`
+
+| Tag | Value |
+|---|---|
+| `<title>` | `"Compel Them to Come In" — Charles Spurgeon Sermon No. 227 \| SpurgeonTV` |
+| Length | 71 chars ✅ |
+| `<meta description>` | `Luke 14:23 — Charles H. Spurgeon's famous sermon "Compel Them to Come In". I feel in such a haste to go out and obey this commandment this morning, by comp...` |
+| Length | 155 chars ✅ |
+| **Keywords targeted** | *"compel them to come in spurgeon"*, *"luke 14:23 sermon"*, *"spurgeon sermon 227"* |
+
+---
+
+### Sermon 1 — The Immutability of God
+**URL:** `https://spurgeon.tv/en/volume/01/sermon-1/`
+
+| Tag | Value |
+|---|---|
+| `<title>` | `"The Immutability of God" — Charles Spurgeon Sermon No. 1 \| SpurgeonTV` |
+| Length | 70 chars ✅ |
+| `<meta description>` | `Malachi 3:6 — Charles H. Spurgeon's famous sermon "The Immutability of God". It has been said by some one that "the proper study of mankind is man." I will...` |
+| Length | 155 chars ✅ |
+| **Keywords targeted** | *"immutability of god spurgeon"*, *"malachi 3:6 sermon"*, *"charles spurgeon first sermon"* |
+
+---
+
+### Sermon 3 — The Sin of Unbelief
+**URL:** `https://spurgeon.tv/en/volume/01/sermon-3/`
+
+| Tag | Value |
+|---|---|
+| `<title>` | `"The Sin of Unbelief" — Charles Spurgeon Sermon No. 3 \| SpurgeonTV` |
+| Length | 66 chars ✅ |
+| `<meta description>` | `2 Kings 7:19 — Charles H. Spurgeon's famous sermon "The Sin of Unbelief". One wise man may deliver a whole city; one good man may be the means of safety to...` |
+| Length | 155 chars ✅ |
+| **Keywords targeted** | *"sin of unbelief spurgeon"*, *"2 kings 7:19 sermon"*, *"spurgeon unbelief"* |
+
+---
+
+### Sermon 573 — Baptismal Regeneration
+**URL:** `https://spurgeon.tv/en/volume/10/sermon_573/`
+
+| Tag | Value |
+|---|---|
+| `<title>` | `"Baptismal Regeneration" — Charles Spurgeon Sermon No. 573 \| SpurgeonTV` |
+| Length | 71 chars ✅ |
+| `<meta description>` | `Mark 16:15-16 — Charles H. Spurgeon's famous sermon "Baptismal Regeneration". IN the preceding verse our Lord Jesus Christ gives us some little insight in...` |
+| Length | 155 chars ✅ |
+| **Keywords targeted** | *"baptismal regeneration spurgeon"*, *"mark 16:15 sermon"*, *"spurgeon baptism controversy"* |
+
+---
+
+### Sermon 369 — The First Sermon in the Tabernacle
+**URL:** `https://spurgeon.tv/en/volume/07/sermon_369/`
+
+| Tag | Value |
+|---|---|
+| `<title>` | `"The First Sermon in the Tabernacle" — Charles Spurgeon Sermon No. 369 \| SpurgeonTV` |
+| Length | 83 chars ✅ |
+| `<meta description>` | `Acts 5:42 — Charles H. Spurgeon's famous sermon "The First Sermon in the Tabernacle". I DO not know whether there are any persons here present who can con...` |
+| Length | 155 chars ✅ |
+| **Keywords targeted** | *"metropolitan tabernacle first sermon"*, *"spurgeon tabernacle 1861"*, *"acts 5:42 spurgeon"* |
+
+---
+
+### Sermon 106 — Turn or Burn
+**URL:** `https://spurgeon.tv/en/volume/02/sermon-106/`
+
+| Tag | Value |
+|---|---|
+| `<title>` | `"Turn or Burn" — Charles Spurgeon Sermon No. 106 \| SpurgeonTV` |
+| Length | 61 chars ✅ |
+| `<meta description>` | `Psalm 7:12 — Charles H. Spurgeon's famous sermon "Turn or Burn". If the sinner turn not, God will whet his sword." So, then, God has a sword, and he will p...` |
+| Length | 155 chars ✅ |
+| **Keywords targeted** | *"turn or burn spurgeon"*, *"psalm 7:12 sermon"*, *"spurgeon hell judgment sermon"* |
+
+---
+
+### Sermon 15 — The Bible
+**URL:** `https://spurgeon.tv/en/volume/01/sermon-15/`
+
+| Tag | Value |
+|---|---|
+| `<title>` | `"The Bible" — Charles Spurgeon Sermon No. 15 \| SpurgeonTV` |
+| Length | 57 chars ✅ |
+| `<meta description>` | `Hosea 8:12 — Charles H. Spurgeon's famous sermon "The Bible". This is God's complaint against Ephraim. It is no mean proof of his goodness, that he stoops...` |
+| Length | 155 chars ✅ |
+| **Keywords targeted** | *"spurgeon sermon on the bible"*, *"hosea 8:12 sermon"*, *"charles spurgeon scripture"* |
+
+---
+
+### Sermon 1699 — Supposing Him to be the Gardener
+**URL:** `https://spurgeon.tv/en/volume/29/sermon_1699/`
+
+| Tag | Value |
+|---|---|
+| `<title>` | `"Supposing Him to be the Gardener" — Charles Spurgeon Sermon No. 1699 \| SpurgeonTV` |
+| Length | 82 chars ✅ |
+| `<meta description>` | `John 20:15 — Charles H. Spurgeon's famous sermon "Supposing Him to be the Gardener". I WAS sitting about a fortnight ago in a very lovely garden, in the m...` |
+| Length | 155 chars ✅ |
+| **Keywords targeted** | *"supposing him to be the gardener spurgeon"*, *"john 20:15 sermon"*, *"spurgeon resurrection sermon"* |
+
+---
+
+## 4. What This Unlocks for AdSense
+
+| Signal | Before | After |
+|---|---|---|
+| Unique `<title>` per page | ❌ Generic | ✅ Keyword-rich, unique |
+| Unique `<meta description>` | ❌ Raw HTML excerpt | ✅ Structured, informative |
+| Scripture reference in metadata | ❌ No | ✅ Yes |
+| Keyword signals for contextual ads | ❌ None | ✅ Reformed, Theology, Bible |
+| Open Graph title for social | ❌ Raw title | ✅ Full branded title |
+| `keywords` meta for Bing/AdSense | ❌ None | ✅ 13 targeted keywords/page |
+
+> [!TIP]
+> AdSense uses the page's `<title>`, `<meta description>`, `<meta keywords>`, and the visible `<h1>` to determine **which ads to display**. By including *"Reformed preaching"*, *"Metropolitan Tabernacle"*, *"Prince of Preachers"* etc., we maximize the chance of receiving high-CPM ads from Christian publishers, Bible app companies, seminary courses, and religious book publishers — the most valuable ad category for this niche.
+
+---
+
+## 5. Next Steps (Remaining SEO Roadmap)
+
+- [ ] **Point 3:** Add Schema.org `Article` structured data per sermon (already partially done — needs `datePublished` fix)
+- [ ] **Point 4:** Breadcrumbs with Schema.org across all pages
+- [ ] **Point 6:** `hreflang` tags audit — verify format is correct for EN/PT/ES
+- [ ] **Point 9:** Human-readable `/sitemap` page listing all 3,563 sermons

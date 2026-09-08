@@ -28,23 +28,53 @@ export async function generateMetadata({ params }) {
   if (!sermon) return {};
 
   const volNum = parseInt(id.replace('volume-', ''), 10);
-  const sermonNum = sermonId.replace('sermon-', '');
+  // Normalize "sermon-1" or "sermon_1" → "1"
+  const sermonNum = sermonId.replace(/^sermon[_-]/, '');
 
-  // Extract a clean text excerpt from the HTML content
-  const stripHtml = (html) => html ? html.replace(/<[^>]*>?/gm, '').trim() : '';
-  // Optimize CPU: only run the expensive stripHtml regex on the first 1000 characters, not the full 50,000+ char string
-  const fullText = stripHtml(sermon.content.substring(0, 1000));
-  // Get first 160 chars, ensuring we don't cut in the middle of a word if possible
-  let excerpt = fullText.substring(0, 160);
-  if (fullText.length > 160) {
-    excerpt = excerpt.substring(0, Math.min(excerpt.length, excerpt.lastIndexOf(' '))) + '...';
+  // ── Clean title: strip "Sermon N | " prefix if present ──────────────────────
+  // Raw title from MD is often "Sermon 1 | The Immutability of God"
+  // We want just the thematic title for SEO, e.g. "The Immutability of God"
+  const thematicTitle = sermon.title.includes('|')
+    ? sermon.title.split('|').slice(1).join('|').trim()
+    : sermon.title.trim();
+
+  // ── <title> tag: keyword-rich, under ~65 chars ──────────────────────────────
+  // Pattern: "{ThematicTitle}" — Charles Spurgeon Sermon No. {N} | SpurgeonTV
+  // This targets: "[sermon name] spurgeon", "spurgeon sermon [N]", "charles spurgeon sermons"
+  const pageTitle = `"${thematicTitle}" — Charles Spurgeon Sermon No. ${sermonNum} | SpurgeonTV`;
+
+  // ── <meta description>: informative, keyword-dense, 140-160 chars ───────────
+  // Build from: scripture reference + first meaningful sentence of the sermon body
+  const stripHtml = (html) => html ? html.replace(/<[^>]*>?/gm, '').replace(/&[a-z]+;/gi, ' ').replace(/\s+/g, ' ').trim() : '';
+
+  // Get a clean excerpt from the sermon body (skip the first 50 chars which are often a repeated title/intro phrase)
+  const bodyText = stripHtml(sermon.content.substring(0, 1200));
+
+  // Find the first complete sentence (ending in period + space + capital letter, or end of string)
+  const sentenceMatch = bodyText.match(/^.{40,200}[.!?](?=\s+[A-Z]|$)/);
+  const firstSentence = sentenceMatch ? sentenceMatch[0].trim() : bodyText.substring(0, 160).trim();
+
+  // Compose the description:
+  // If has scripture → "Malachi 3:6 | Spurgeon's classic sermon on the immutability of God. {first sentence…}"
+  // If no scripture  → "Charles Spurgeon's sermon No. N, Vol. {V}. {first sentence…}"
+  let metaDesc;
+  if (sermon.scripture?.reference) {
+    const scripturePrefix = `${sermon.scripture.reference} — `;
+    const themeLine = `Charles H. Spurgeon's famous sermon "${thematicTitle}". `;
+    const available = 155 - scripturePrefix.length - themeLine.length;
+    const bodySnippet = firstSentence.substring(0, available > 20 ? available : 60);
+    metaDesc = `${scripturePrefix}${themeLine}${bodySnippet}`;
+  } else {
+    const intro = `Sermon No. ${sermonNum}, Vol. ${volNum} — Charles H. Spurgeon preaches on "${thematicTitle}". `;
+    const available = 155 - intro.length;
+    const bodySnippet = firstSentence.substring(0, available > 20 ? available : 80);
+    metaDesc = `${intro}${bodySnippet}`;
   }
-  
-  // Use verse if requested, but user wanted "um trecho da mensagem", so let's prioritize the excerpt.
-  // We can include the verse reference in the description if it exists.
-  const desc = sermon.scripture?.reference 
-    ? `${sermon.scripture.reference} — ${excerpt}`
-    : excerpt || `Read Sermon ${sermonNum} from Volume ${volNum} by Charles H. Spurgeon.`;
+
+  // Trim to 160 chars max and end cleanly
+  if (metaDesc.length > 160) {
+    metaDesc = metaDesc.substring(0, 157).replace(/\s+\S*$/, '') + '...';
+  }
 
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv';
   const url = `${siteUrl}/${lang}/volume/${id}/${sermonId}/`;
@@ -57,23 +87,29 @@ export async function generateMetadata({ params }) {
   }
 
   return {
-    title: `${sermon.title} | Spurgeon TV`,
-    description: desc,
+    title: pageTitle,
+    description: metaDesc,
+    keywords: [
+      'Charles Spurgeon', 'Charles H. Spurgeon', 'Spurgeon sermon', 'Spurgeon sermons',
+      thematicTitle, `Sermon ${sermonNum}`, `Volume ${volNum}`,
+      sermon.scripture?.reference || '', 'classic sermons', 'Reformed preaching',
+      'Victorian preaching', 'Prince of Preachers', 'Metropolitan Tabernacle', 'SpurgeonTV'
+    ].filter(Boolean),
     alternates: {
       canonical: url,
       languages: Object.keys(languages).length > 0 ? languages : undefined
     },
     openGraph: {
-      title: sermon.title,
-      description: desc,
+      title: pageTitle,
+      description: metaDesc,
       url,
-      siteName: 'Spurgeon TV',
+      siteName: 'SpurgeonTV',
       images: [
         {
-          url: `${siteUrl}/api/og?title=${encodeURIComponent(sermon.title)}&vol=${volNum}&num=${sermonNum}&subtitle=${encodeURIComponent(excerpt)}&ext=.png`,
+          url: `${siteUrl}/api/og?title=${encodeURIComponent(thematicTitle)}&vol=${volNum}&num=${sermonNum}&subtitle=${encodeURIComponent(sermon.scripture?.reference || '')}&ext=.png`,
           width: 1200,
           height: 630,
-          alt: sermon.title,
+          alt: `${thematicTitle} — Charles Spurgeon Sermon No. ${sermonNum}`,
         },
       ],
       locale: lang,
@@ -81,8 +117,8 @@ export async function generateMetadata({ params }) {
     },
     twitter: {
       card: 'summary_large_image',
-      title: sermon.title,
-      description: desc,
+      title: pageTitle,
+      description: metaDesc,
     },
   };
 }
