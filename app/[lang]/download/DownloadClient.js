@@ -92,28 +92,6 @@ function DownloadContent({ lang, dict, downloads }) {
   }
 
   // --- MODO CENTRAL DE DOWNLOADS (Paginado) ---
-  
-  // Transform object into array for filtering and pagination
-  const allDownloads = useMemo(() => {
-    return Object.entries(downloads).map(([key, links]) => {
-      const [vol, serm] = key.split('::');
-      return {
-        key,
-        volume: vol,
-        sermon: serm,
-        volNum: parseInt(vol.replace('volume-', ''), 10),
-        sermonNum: parseInt(serm.replace('sermon-', ''), 10),
-        links
-      };
-    }).sort((a, b) => {
-      if (a.volNum !== b.volNum) return a.volNum - b.volNum;
-      return a.sermonNum - b.sermonNum;
-    });
-  }, [downloads]);
-
-  const [searchTerm, setSearchTerm] = useState('');
-  const [itemsPerPage, setItemsPerPage] = useState(20);
-  const [currentPage, setCurrentPage] = useState(1);
 
   // Filter
   const filteredDownloads = useMemo(() => {
