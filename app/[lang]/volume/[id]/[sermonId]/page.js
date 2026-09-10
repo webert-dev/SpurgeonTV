@@ -1,7 +1,5 @@
 import Link from 'next/link';
 
-export const dynamic = 'force-static';
-export const revalidate = 86400;
 import { notFound } from 'next/navigation';
 import ClientTranslator from '../../../../components/ClientTranslator';
 import { getVolumes, getSermonsInVolume, getSermonContent, getSermonNeighbors } from '../../../../../lib/sermons';
@@ -18,9 +16,10 @@ import TTSPlayer from '../../../../components/TTSPlayer';
 import CitationBox from '../../../../components/CitationBox';
 import ShareButton from '../../../../components/ShareButton';
 
+// force-dynamic: with 3,500+ sermons it is not feasible to pre-generate all
+// pages at build time. Each request is resolved at runtime by the server.
+export const dynamic = 'force-dynamic';
 export const dynamicParams = true;
-
-
 
 export async function generateMetadata({ params }) {
   const { id, sermonId, lang } = await params;

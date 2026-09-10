@@ -4,8 +4,7 @@ import CitationBox from '../../../../components/CitationBox';
 import ShareButton from '../../../../components/ShareButton';
 import { loadStaticJson } from '../../../../../lib/data-loader';
 
-export const revalidate = false;
-export const dynamic = 'auto';
+export const dynamic = 'force-static';
 export const dynamicParams = true;
 
 export function generateStaticParams() {
@@ -16,21 +15,32 @@ export function generateStaticParams() {
   const fsSync = typeof require !== 'undefined' ? require('fs') : null;
   if (!fsSync) return [];
 
-  const filePath = path.join(process.cwd(), 'lib', 'articles-index.json');
-  if (!fsSync.existsSync(filePath)) return [];
-  const fileContents = fsSync.readFileSync(filePath, 'utf8');
-  const data = JSON.parse(fileContents);
+  // Try public/articles-index.json first (canonical location), then lib/ as fallback
+  const filePaths = [
+    path.join(process.cwd(), 'public', 'articles-index.json'),
+    path.join(process.cwd(), 'lib', 'articles-index.json'),
+  ];
+
+  let data = null;
+  for (const filePath of filePaths) {
+    if (fsSync.existsSync(filePath)) {
+      try {
+        data = JSON.parse(fsSync.readFileSync(filePath, 'utf8'));
+        break;
+      } catch {}
+    }
+  }
+  if (!data) return [];
 
   for (const lang of langs) {
-    if (data[lang]) {
-      for (const article of data[lang]) {
-        // href is like "/about/category/slug"
-        const parts = article.href.split('/');
-        if (parts.length >= 4) {
-          const category = parts[2];
-          const slug = parts[3];
-          params.push({ lang, category, slug });
-        }
+    const articles = data[lang] || data['en'] || [];
+    for (const article of articles) {
+      // href is like "/about/category/slug"
+      const parts = (article.href || '').split('/').filter(Boolean);
+      if (parts.length >= 3) {
+        const category = parts[1];
+        const slug = parts[2];
+        params.push({ lang, category, slug });
       }
     }
   }
