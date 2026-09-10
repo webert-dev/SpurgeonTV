@@ -17,8 +17,8 @@ export function generateStaticParams() {
 
   // Try public/articles-index.json first (canonical location), then lib/ as fallback
   const filePaths = [
-    path.join(process.cwd(), 'public', 'articles-index.json'),
-    path.join(process.cwd(), 'lib', 'articles-index.json'),
+    path.join(/*turbopackIgnore: true*/ process.cwd(), 'public', 'articles-index.json'),
+    path.join(/*turbopackIgnore: true*/ process.cwd(), 'lib', 'articles-index.json'),
   ];
 
   let data = null;

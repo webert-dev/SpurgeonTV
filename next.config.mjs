@@ -7,10 +7,8 @@ const nextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
-  experimental: {
-    outputFileTracingIncludes: {
-      '/**/*': ['./content/**/*']
-    }
+  outputFileTracingIncludes: {
+    '/**/*': ['./content/**/*']
   }
 };
 
