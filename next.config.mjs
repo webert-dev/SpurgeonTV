@@ -9,7 +9,7 @@ const nextConfig = {
   },
   experimental: {
     outputFileTracingIncludes: {
-      '/**/*': ['./content/data/**/*']
+      '/**/*': ['./content/**/*']
     }
   }
 };

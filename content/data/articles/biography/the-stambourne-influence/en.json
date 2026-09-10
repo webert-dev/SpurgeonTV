@@ -1,0 +1,66 @@
+{
+  "title": "The Stambourne Influence: Formative Years with Grandfather James Spurgeon",
+  "seoTitle": "The Stambourne Influence: Formative Years with Grandfather James Spurgeon",
+  "description": "Explore Charles Spurgeon",
+  "keywords": [
+    "Charles Spurgeon",
+    "Stambourne",
+    "James Spurgeon",
+    "Puritan influence",
+    "John Foxe",
+    "John Bunyan",
+    "early life",
+    "biography"
+  ],
+  "date": "July 06, 2025",
+  "readTime": "2 min read",
+  "content": [
+    {
+      "type": "p",
+      "text": "In August 1835, when Charles Haddon Spurgeon was fourteen months old, his parents relocated to the town of Colchester, entrusting the young boy to the care of his paternal grandfather, James Spurgeon. James had assumed the pastorate of the Independent Congregationalist Church of Stambourne in 1804, leading a flock that remained dedicated to the non-conformist tradition. Charles lived in this quiet rural village with his grandparents and his aunt Ann until he was about five or six years old. His aunt Ann, who was seventeen at the time and possessed a fervently evangelical faith, became like a second mother to him during these highly formative years."
+    },
+    {
+      "type": "p",
+      "text": "The environment in Stambourne was profoundly shaped by a strong Puritan heritage, creating an ideal ecclesiastical and familial atmosphere for early spiritual development. It was within the walls of his grandfather's manse, and particularly in his expansive library, that the young boy’s intellectual and theological foundations were firmly laid. Charles voraciously explored the great Puritan classics, absorbing the dense theological works of undisputed giants such as Richard Baxter and John Owen."
+    },
+    {
+      "type": "p",
+      "text": "He was particularly captivated by John Bunyan's <em>The Pilgrim's Progress</em>, a majestic allegorical masterpiece that he would read more than a hundred times over the course of his lifetime. Furthermore, the young boy was deeply impacted by the historical accounts in John Foxe's <em>Book of Martyrs</em>. The vivid chronicles of Protestant suffering and martyrdom ignited his imagination, and those fearless Puritans and martyrs instantly became his lifelong heroes whose doctrinal values he internalized."
+    },
+    {
+      "type": "p",
+      "text": "The pious atmosphere of the manse, combined with this rich literary diet, fostered an unusual maturity and spiritual zeal in the young boy. This precocious dedication to the Gospel was remarkably demonstrated when the young Charles courageously entered a local tavern to personally reprimand a man whose worldly behavior, according to the boy, was \"breaking the heart\" of his beloved pastor grandfather."
+    },
+    {
+      "type": "p",
+      "text": "Although Charles returned to his parents' home in Colchester when he was six years old, the years spent in Stambourne left an indelible mark on his character. This early, uninterrupted immersion in Puritan literature and rigorous pastoral life provided the theological and historical bedrock for the man who would eventually be known to millions as the \"Prince of Preachers\"."
+    }
+  ],
+  "bibliography": [
+    "Matos, Alderi Souza de. \"Tesouro em vaso de barro: Charles Spurgeon e a palavra encarnada, escrita e proclamada.\" <em>Fides Reformata</em> 26, no. 2 (2021): 9-25. Accessed July 05, 2025. [PDF document from CPAJ].",
+    "Projeto Spurgeon. \"Quem Foi Charles Haddon Spurgeon?\" <em>Projeto Spurgeon: Proclamando a Cristo Crucificado</em>. Accessed July 05, 2025. <a href=\"https://www.projetospurgeon.com.br/quem-foi-spurgeon/quem-foi-charles-haddon-spurgeon/\" target=\"_blank\" rel=\"noopener noreferrer\" style={{ color: 'var(--accent)' }}>Link</a>.",
+    "Wikipedia, The Free Encyclopedia. \"Charles Spurgeon.\" <em>Wikipédia, a enciclopédia livre</em>. Accessed July 05, 2025. <a href=\"https://pt.wikipedia.org/wiki/Charles_Spurgeon\" target=\"_blank\" rel=\"noopener noreferrer\" style={{ color: 'var(--accent)' }}>Link</a>.",
+    "Kruppa, Patricia Stallings. \"The Life & Times of Charles H. Spurgeon.\" <em>Christian History Magazine</em>, Issue 29 (1991). Accessed July 05, 2025. <a href=\"https://christianhistoryinstitute.org/magazine/article/life-and-times-of-charles-haddon-spurgeon\" target=\"_blank\" rel=\"noopener noreferrer\" style={{ color: 'var(--accent)' }}>Link</a>.",
+    "Biblioteca Charles Spurgeon. \"Quem foi Charles Spurgeon?\" <em>SpurgeonLine</em>. Accessed July 05, 2025. <a href=\"https://spurgeonline.com.br/artigos/quem-foi-charles-spurgeon/\" target=\"_blank\" rel=\"noopener noreferrer\" style={{ color: 'var(--accent)' }}>Link</a>.",
+    "Redação Mundo Cristão. \"Quem foi Charles H. Spurgeon?\" <em>Blog Editora Mundo Cristão</em>. Accessed July 05, 2025. <a href=\"https://www.mundocristao.com.br/blog/quem-foi-charles-h-spurgeon/\" target=\"_blank\" rel=\"noopener noreferrer\" style={{ color: 'var(--accent)' }}>Link</a>."
+  ],
+  "tags": [
+    "Stambourne",
+    "James Spurgeon",
+    "Aunt Ann",
+    "Puritan Heritage",
+    "John Bunyan",
+    "John Foxe",
+    "Early Maturity"
+  ],
+  "prev": {
+    "title": "The Kelvedon Years",
+    "slug": "the-kelvedon-years",
+    "category": "biography"
+  },
+  "next": {
+    "title": "The Snowstorm Conversion",
+    "slug": "the-snowstorm-conversion",
+    "category": "biography"
+  }
+}
