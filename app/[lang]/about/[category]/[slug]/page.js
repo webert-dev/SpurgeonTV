@@ -15,21 +15,18 @@ export function generateStaticParams() {
   const fsSync = typeof require !== 'undefined' ? require('fs') : null;
   if (!fsSync) return [];
 
-  // Try public/articles-index.json first (canonical location), then lib/ as fallback
-  const filePaths = [
-    path.join(/*turbopackIgnore: true*/ process.cwd(), 'public', 'articles-index.json'),
-    path.join(/*turbopackIgnore: true*/ process.cwd(), 'lib', 'articles-index.json'),
-  ];
-
   let data = null;
-  for (const filePath of filePaths) {
-    if (fsSync.existsSync(filePath)) {
-      try {
-        data = JSON.parse(fsSync.readFileSync(filePath, 'utf8'));
-        break;
-      } catch {}
-    }
+  const publicPath = path.join(process.cwd(), 'public', 'articles-index.json');
+  const libPath = path.join(process.cwd(), 'lib', 'articles-index.json');
+  
+  if (fsSync.existsSync(publicPath)) {
+    try { data = JSON.parse(fsSync.readFileSync(publicPath, 'utf8')); } catch {}
+  } 
+  
+  if (!data && fsSync.existsSync(libPath)) {
+    try { data = JSON.parse(fsSync.readFileSync(libPath, 'utf8')); } catch {}
   }
+  
   if (!data) return [];
 
   for (const lang of langs) {
