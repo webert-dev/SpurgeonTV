@@ -7,6 +7,11 @@ const nextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
+  experimental: {
+    outputFileTracingIncludes: {
+      '/**/*': ['./content/data/**/*']
+    }
+  }
 };
 
 export default nextConfig;
