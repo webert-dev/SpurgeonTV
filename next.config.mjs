@@ -10,7 +10,7 @@ const nextConfig = {
   outputFileTracingIncludes: {
     '/**/*': ['./content/**/*']
   },
-  output: 'export',
+  output: 'standalone',
 };
 
 export default nextConfig;
