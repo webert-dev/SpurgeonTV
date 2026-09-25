@@ -16,9 +16,8 @@ import TTSPlayer from '../../../../components/TTSPlayer';
 import CitationBox from '../../../../components/CitationBox';
 import ShareButton from '../../../../components/ShareButton';
 
-// force-dynamic: with 3,500+ sermons it is not feasible to pre-generate all
-// pages at build time. Each request is resolved at runtime by the server.
-export const dynamic = 'force-dynamic';
+// Usando ISR para armazenar em cache por 24 horas (86400 segundos) e evitar estourar a cota de CPU
+export const revalidate = 86400;
 export const dynamicParams = true;
 
 export async function generateMetadata({ params }) {

@@ -1,6 +1,6 @@
 import Link from 'next/link';
 
-export const dynamic = 'force-dynamic';
+export const revalidate = 86400;
 import { getVolumes, getSermonsInVolume } from '../../../../lib/sermons';
 import { getMetadata } from '../../../../lib/sermon-metadata';
 import SermonInfoPanel from './SermonInfoPanel';

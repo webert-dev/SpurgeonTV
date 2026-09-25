@@ -2,10 +2,8 @@ import { getDictionary } from '../../../../lib/dictionaries';
 import DevotionalDayClient from './DevotionalDayClient';
 import { loadStaticJson } from '../../../../lib/data-loader';
 
-// force-dynamic: generateStaticParams would need to cover 366 dates × 3 langs
-// = 1,098 combinations. Using force-dynamic is simpler and equally fast via
-// Vercel's edge caching. Each request is resolved at runtime by the server.
-export const dynamic = 'force-dynamic';
+// Usando ISR para armazenar em cache por 24 horas (86400 segundos) e evitar estourar a cota de CPU
+export const revalidate = 86400;
 export const dynamicParams = true;
 
 function daysInMonth(m) {
