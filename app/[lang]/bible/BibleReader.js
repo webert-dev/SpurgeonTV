@@ -7,7 +7,7 @@ import ShareButton from '../../components/ShareButton';
 
 export default function BibleReader({ lang, dict }) {
   const searchParams = useSearchParams();
-  const defaultTranslation = lang === 'pt' ? 'acf' : (lang === 'es' ? 'rvr' : 'kjv');
+  const defaultTranslation = lang === 'pt' ? 'nvi' : (lang === 'es' ? 'rvr' : 'kjv');
   const [translation, setTranslation] = useState(defaultTranslation);
   const [sermons, setSermons] = useState([]);
   

@@ -44,3 +44,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Auto-generated data files during build
+/public/data/
+/content/data/
+/public/search-index.json
+/public/articles-index.json
+/content/search-index.json
+/content/articles-index.json
