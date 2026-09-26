@@ -29,7 +29,8 @@
       "termsOfService": "Termos de Serviço",
       "cookiePolicy": "Política de Cookies",
       "support": "Contribuições",
-      "home": "Página Inicial"
+      "home": "Página Inicial",
+      "recommendations": "Recomendados"
     }
   },
   "cookies": {
@@ -286,5 +287,13 @@
     "readOnline": "Ler PDF Online (Em Breve)",
     "readOnlineDesc": "Powered by Cloudflare R2 / Backblaze B2",
     "downloadPdf": "Baixar PDF"
+  },
+  "recommendations": {
+    "pageTitle": "Recomendados",
+    "pageSubtitle": "Descubra sites, redes de apoio, igrejas e parceiros focados em espalhar o Evangelho de Cristo e o legado de Charles Spurgeon.",
+    "channelsTitle": "Canais do YouTube em Destaque",
+    "visitChannel": "Visitar Canal",
+    "watchVideo": "Assistir Vídeo",
+    "viewPlaylist": "Ver Playlist"
   }
 }

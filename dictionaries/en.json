@@ -29,7 +29,8 @@
       "termsOfService": "Terms of Service",
       "cookiePolicy": "Cookie Policy",
       "support": "Support",
-      "home": "Home"
+      "home": "Home",
+      "recommendations": "Recommended"
     }
   },
   "cookies": {
@@ -286,5 +287,13 @@
     "readOnline": "Read PDF Online (Coming Soon)",
     "readOnlineDesc": "Powered by Cloudflare R2 / Backblaze B2",
     "downloadPdf": "Download PDF"
+  },
+  "recommendations": {
+    "pageTitle": "Recommended",
+    "pageSubtitle": "Discover sites, support networks, churches, and partners focused on spreading the Gospel of Christ and the legacy of Charles Spurgeon.",
+    "channelsTitle": "Featured YouTube Channels",
+    "visitChannel": "Visit Channel",
+    "watchVideo": "Watch Video",
+    "viewPlaylist": "View Playlist"
   }
 }

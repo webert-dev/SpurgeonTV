@@ -130,7 +130,7 @@ export default async function RootLayout({ children, params }) {
                   <li><Link href={`/${lang}/terms-of-service`} prefetch={false}>{dict.footer.links.termsOfService}</Link></li>
                   <li><Link href={`/${lang}/cookie-policy`} prefetch={false}>{dict.footer.links.cookiePolicy}</Link></li>
                   <li><Link href={`/${lang}`} prefetch={false}>{dict.footer.links.home}</Link></li>
-                  <li><a href="https://sovrn.co/25fnhu8" target="_blank" rel="noopener noreferrer">Classic Devotional</a></li>
+                  <li><Link href={`/${lang}/recommendations`} prefetch={false}>{dict.footer.links.recommendations}</Link></li>
                 </ul>
               </div>
             </div>
