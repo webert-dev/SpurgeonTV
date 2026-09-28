@@ -7,6 +7,9 @@ import { getPaginatedSermons, getSearchIndex } from '../../lib/sermons';
 import SearchClient from './search-client';
 import { getDictionary } from '../../lib/dictionaries';
 import { getAllArticles } from '../../lib/articles';
+import { Suspense } from 'react';
+import HomeBibleCard from '../components/HomeBibleCard';
+import HomeDevotionalCard from '../components/HomeDevotionalCard';
 
 export async function generateStaticParams() {
   return [{ lang: 'en' }, { lang: 'pt' }, { lang: 'es' }];
@@ -131,17 +134,34 @@ export default async function HomePage({ params }) {
         </div>
       </section>
 
-      <div className="container">
-        <div style={{ width: '100%', maxWidth: '1200px', margin: '0 auto 4rem auto', padding: '2rem', backgroundColor: 'rgba(255,255,255,0.03)', borderRadius: '12px', border: '1px solid rgba(212, 175, 55, 0.2)' }}>
-          <p style={{ color: 'var(--text-secondary)', fontSize: '0.95rem', lineHeight: '1.7', textAlign: 'justify' }}>
-            <span style={{ display: 'block', color: 'var(--accent)', marginBottom: '0.5rem', fontWeight: 'bold', textAlign: 'center' }}>{dict.home.eeatTitle}</span>
+      {/* ══════════════════════════════════════════
+          VALOR ÚNICO (EEAT Manifesto)
+      ══════════════════════════════════════════ */}
+      <section className="home-bible-card" style={{ marginTop: '1.5rem', marginBottom: '1.5rem' }}>
+        <div className="home-bible-card-inner" style={{ padding: '2rem', textAlign: 'justify' }}>
+          <p style={{ color: 'var(--text-secondary)', fontSize: '0.95rem', lineHeight: '1.7', margin: 0 }}>
+            <span style={{ display: 'block', color: 'var(--accent)', marginBottom: '0.5rem', fontWeight: 'bold', textAlign: 'center', fontSize: '1.1rem' }}>{dict.home.eeatTitle}</span>
             {dict.home.eeatManifesto}{' '}
             <Link href={`/${lang}/about-us`} style={{ textDecoration: 'underline', color: 'var(--accent)' }}>
               {dict.home.eeatLinkText || 'Leia mais'}
             </Link>
           </p>
         </div>
-      </div>
+      </section>
+
+      {/* ══════════════════════════════════════════
+          DEVOTIONAL CARD (Collapsible)
+      ══════════════════════════════════════════ */}
+      <Suspense fallback={null}>
+        <HomeDevotionalCard lang={lang} dict={dict} />
+      </Suspense>
+
+      {/* ══════════════════════════════════════════
+          BIBLE READER CARD (Collapsible)
+      ══════════════════════════════════════════ */}
+      <Suspense fallback={null}>
+        <HomeBibleCard lang={lang} dict={dict} />
+      </Suspense>
 
       {/* ══════════════════════════════════════════
           STATS BAR

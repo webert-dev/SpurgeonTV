@@ -92,11 +92,11 @@ export default async function RootLayout({ children, params }) {
                 <Link href={`/${lang}/devotional`} prefetch={false} className="nav-link">{dict.navigation.devotional}</Link>
                 <Link href={`/${lang}/about`} prefetch={false} className="nav-link">{dict.navigation.about}</Link>
                 <Link href={`/${lang}/support`} prefetch={false} className="nav-link support-nav-link" style={{ fontWeight: 600, color: 'var(--brand-purple)' }}>{dict.navigation.support}</Link>
-                <div style={{ display: 'flex', alignItems: 'center', gap: '1rem', marginLeft: '1rem' }}>
-                  <LanguageSwitcher currentLang={lang} />
-                  <ThemeSelector dict={dict} />
-                </div>
               </nav>
+              <div className="header-selectors">
+                <LanguageSwitcher currentLang={lang} />
+                <ThemeSelector dict={dict} />
+              </div>
             </div>
           </header>
           <main className="main-content">

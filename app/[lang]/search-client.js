@@ -123,6 +123,28 @@ export default function SearchClient({ lang = 'en', dict, isGlobal = false }) {
             }
           }
         }
+        else if (type === 'devotional') {
+          let count = 0;
+          for (let m = 1; m <= 12; m++) {
+            const mStr = m.toString().padStart(2, '0');
+            const data = await getIndex(`/data/devotional/${lang}/${mStr}.json`);
+            if (data) {
+              for (const entry of data) {
+                if (entry && (entry.title?.toLowerCase().includes(q) || entry.body?.toLowerCase().includes(q) || entry.verse?.toLowerCase().includes(q))) {
+                  const amPm = entry.time === 'am' ? (lang === 'pt' ? 'Manhã' : lang === 'es' ? 'Mañana' : 'Morning') : (lang === 'pt' ? 'Noite' : lang === 'es' ? 'Noche' : 'Evening');
+                  currentResults.push({
+                    title: `${dict?.navigation?.devotional || 'Devotional'} • ${entry.date} (${amPm})`,
+                    subtitle: entry.verse ? (entry.verse.length > 80 ? entry.verse.substring(0, 80) + '...' : entry.verse) : 'Devotional Entry',
+                    href: `/${lang}/devotional/${entry.date}`
+                  });
+                  count++;
+                  if (count >= 15) break;
+                }
+              }
+            }
+            if (count >= 15) break;
+          }
+        }
 
         setResults(currentResults);
         setIsOpen(currentResults.length > 0 || isGlobal);
@@ -144,6 +166,10 @@ export default function SearchClient({ lang = 'en', dict, isGlobal = false }) {
     else if (type === 'bible') {
        const biblesMap = { en: 'kjv.json', pt: 'acf.json', es: 'rvr.json' };
        getIndex(`/bibles/${biblesMap[lang] || 'kjv.json'}`);
+    }
+    else if (type === 'devotional') {
+      const mStr = (new Date().getMonth() + 1).toString().padStart(2, '0');
+      getIndex(`/data/devotional/${lang}/${mStr}.json`);
     }
   }
 
@@ -206,11 +232,11 @@ export default function SearchClient({ lang = 'en', dict, isGlobal = false }) {
       {isGlobal && (
         <div style={{ display: 'flex', gap: '1rem', marginTop: '1rem', justifyContent: 'center', flexWrap: 'wrap' }}>
           {[
-            { id: 'sermons', label: dict?.navigation?.sermons || 'Sermons' },
-            { id: 'articles', label: dict?.navigation?.about || 'Articles' },
-            { id: 'dictionary', label: dict?.navigation?.dictionary || 'Dictionary' },
-            { id: 'bible', label: dict?.navigation?.bible || 'Bible' },
-            { id: 'videos', label: dict?.navigation?.videos || 'Videos' },
+            { id: 'sermons', label: lang === 'pt' ? 'Sermões' : lang === 'es' ? 'Sermones' : 'Sermons' },
+            { id: 'devotional', label: lang === 'pt' ? 'Devocionais' : lang === 'es' ? 'Devocionales' : 'Devotionals' },
+            { id: 'articles', label: lang === 'pt' ? 'Artigos' : lang === 'es' ? 'Artículos' : 'Articles' },
+            { id: 'dictionary', label: lang === 'pt' ? 'Dicionário' : lang === 'es' ? 'Diccionario' : 'Dictionary' },
+            { id: 'bible', label: lang === 'pt' ? 'Bíblia' : lang === 'es' ? 'Biblia' : 'Bible' },
           ].map(type => (
             <label key={type.id} style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', cursor: 'pointer', fontSize: '0.9rem', color: searchType === type.id ? 'var(--accent)' : 'var(--text-secondary)' }}>
               <input

@@ -130,9 +130,28 @@ h1, h2, h3, h4, h5, h6 {
   gap: 1rem;
 }
 
-@media (max-width: 600px) {
+.header-selectors {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-shrink: 0;
+}
+
+@media (max-width: 1150px) {
   .header-container {
-    justify-content: center;
+    justify-content: space-between;
+  }
+  .logo {
+    order: 1;
+  }
+  .header-selectors {
+    order: 2;
+    gap: 0.5rem; /* Tighter gap on mobile */
+  }
+  .site-nav {
+    order: 3;
+    width: 100%;
+    margin-top: 0.5rem;
   }
 }
 
@@ -1867,7 +1886,7 @@ body.bible-links-enabled .bible-ref-marker:hover {
   justify-content: center;
   text-align: center;
   overflow: hidden;
-  padding: 0rem 2rem 6rem; /* Less top padding */
+  padding: 0rem 2rem 2.5rem; /* Less top and bottom padding */
 }
 
 .home-hero-glow {
@@ -1960,16 +1979,18 @@ body.bible-links-enabled .bible-ref-marker:hover {
 .home-cta-primary {
   display: inline-flex;
   align-items: center;
+  justify-content: center;
   gap: 0.5rem;
   background: var(--accent);
   color: #0d0d0d;
   font-weight: 700;
   font-size: 0.95rem;
-  padding: 0.85rem 2rem;
+  padding: 0.85rem 1.5rem;
   border-radius: 50px;
   text-decoration: none;
-  transition: all 0.25s ease;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   letter-spacing: 0.02em;
+  min-width: 260px;
 }
 
 .home-cta-primary:hover {
@@ -1981,19 +2002,22 @@ body.bible-links-enabled .bible-ref-marker:hover {
 .home-cta-secondary {
   display: inline-flex;
   align-items: center;
+  justify-content: center;
   gap: 0.5rem;
-  background: transparent;
+  background: rgba(255, 255, 255, 0.03);
   color: var(--text-primary);
   font-weight: 500;
   font-size: 0.95rem;
-  padding: 0.85rem 2rem;
+  padding: 0.85rem 1.5rem;
   border-radius: 50px;
   text-decoration: none;
-  border: 1px solid var(--border);
-  transition: all 0.25s ease;
+  border: 1px solid rgba(212, 175, 55, 0.25);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  min-width: 260px;
 }
 
 .home-cta-secondary:hover {
+  background: rgba(212, 175, 55, 0.08);
   border-color: var(--accent);
   color: var(--accent);
   transform: translateY(-2px);
@@ -2009,10 +2033,11 @@ body.bible-links-enabled .bible-ref-marker:hover {
 
 .home-stats-inner {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   gap: 0;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
+  width: 100%;
 }
 
 .home-stat-item {
@@ -2020,8 +2045,9 @@ body.bible-links-enabled .bible-ref-marker:hover {
   flex-direction: column;
   align-items: center;
   text-align: center;
-  padding: 0.75rem 3rem;
+  padding: 0.5rem 1vw;
   position: relative;
+  flex: 1;
 }
 
 .home-stat-divider {
@@ -2035,18 +2061,20 @@ body.bible-links-enabled .bible-ref-marker:hover {
 
 .home-stat-number {
   font-family: var(--font-serif);
-  font-size: 2.2rem;
+  font-size: clamp(1.3rem, 3.5vw, 2.2rem);
   font-weight: 700;
   color: var(--accent);
   line-height: 1;
+  white-space: nowrap;
 }
 
 .home-stat-label {
-  font-size: 0.75rem;
+  font-size: clamp(0.55rem, 1.2vw, 0.75rem);
   color: var(--text-muted);
   text-transform: uppercase;
-  letter-spacing: 0.1em;
+  letter-spacing: 0.05em;
   margin-top: 0.4rem;
+  white-space: nowrap;
 }
 
 /* ── Shared Section Styles ── */
@@ -2415,11 +2443,11 @@ body.bible-links-enabled .bible-ref-marker:hover {
 
 /* ── Responsive ── */
 @media (max-width: 600px) {
-  .home-stat-item { padding: 0.75rem 1.5rem; }
+  .home-stats { padding: 1.5rem 0.5rem; }
   .home-article-card { padding: 1.25rem; gap: 1rem; }
   .home-article-subtitle { display: none; }
   .home-section-header { flex-direction: column; align-items: flex-start; }
-  .home-hero { min-height: 0; padding: 1rem 1.5rem 4rem; }
+  .home-hero { min-height: 0; padding: 1rem 1.5rem 2rem; }
 }
 
 
@@ -2778,15 +2806,30 @@ details[open] .summary-chevron {
 
 .footer-inner {
   display: grid;
-  grid-template-columns: 1fr;
-  gap: 3rem;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas: 
+    "brand brand"
+    "links1 links2";
+  gap: 2rem 1rem;
   text-align: center;
 }
 
-@media (min-width: 768px) {
+.footer-inner > .footer-links:nth-child(1) {
+  grid-area: links1;
+}
+.footer-inner > .footer-brand {
+  grid-area: brand;
+}
+.footer-inner > .footer-links:nth-child(3) {
+  grid-area: links2;
+}
+
+@media (min-width: 900px) {
   .footer-inner {
     grid-template-columns: 1fr 2fr 1fr;
+    grid-template-areas: "links1 brand links2";
     align-items: center;
+    gap: 3rem;
   }
 }
 
@@ -3072,3 +3115,294 @@ details[open] .summary-chevron {
   }
 }
 
+/* ══════════════════════════════════════════
+   HOME BIBLE CARD — Collapsible Reader
+══════════════════════════════════════════ */
+.home-bible-card {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto 0;
+  padding: 0 1rem;
+}
+
+.home-bible-card-inner {
+  background: linear-gradient(135deg, rgba(212, 175, 55, 0.04) 0%, rgba(255, 255, 255, 0.02) 100%);
+  border: 1px solid rgba(212, 175, 55, 0.25);
+  border-radius: 16px;
+  overflow: hidden;
+  transition: box-shadow 0.3s ease;
+}
+
+.home-bible-card-inner:hover {
+  box-shadow: 0 4px 30px rgba(212, 175, 55, 0.08);
+}
+
+/* Header */
+.home-bible-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem 2rem;
+  cursor: pointer;
+  transition: background 0.2s;
+  gap: 1rem;
+}
+
+.home-bible-card-header:hover {
+  background: rgba(212, 175, 55, 0.04);
+}
+
+.home-bible-card-header-text {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+}
+
+.home-bible-card-icon {
+  font-size: 2.5rem;
+  flex-shrink: 0;
+  width: 56px;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(212, 175, 55, 0.1);
+  border-radius: 14px;
+  border: 1px solid rgba(212, 175, 55, 0.15);
+}
+
+.home-bible-card-title {
+  font-family: var(--font-serif);
+  font-size: 1.6rem;
+  color: var(--accent);
+  margin: 0 0 0.25rem 0;
+  line-height: 1.2;
+}
+
+.home-bible-card-subtitle {
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+  margin: 0;
+  line-height: 1.4;
+}
+
+/* Toggle button */
+.home-bible-toggle-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: rgba(212, 175, 55, 0.12);
+  border: 1px solid rgba(212, 175, 55, 0.3);
+  color: var(--accent);
+  padding: 0.6rem 1.2rem;
+  border-radius: 10px;
+  cursor: pointer;
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  font-weight: 600;
+  white-space: nowrap;
+  transition: all 0.25s ease;
+  flex-shrink: 0;
+}
+
+.home-bible-toggle-btn:hover {
+  background: rgba(212, 175, 55, 0.2);
+  border-color: var(--accent);
+}
+
+.home-bible-toggle-arrow {
+  width: 16px;
+  height: 16px;
+  transition: transform 0.3s ease;
+}
+
+.home-bible-toggle-btn.expanded .home-bible-toggle-arrow {
+  transform: rotate(180deg);
+}
+
+/* Controls wrapper */
+.home-bible-controls-wrapper {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.3s ease;
+  opacity: 0;
+  border-top: 1px solid transparent;
+}
+
+.home-bible-controls-wrapper.visible {
+  max-height: 120px;
+  opacity: 1;
+  border-top-color: rgba(212, 175, 55, 0.15);
+}
+
+.home-bible-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding: 1rem 2rem;
+  align-items: flex-end;
+  background: rgba(0, 0, 0, 0.15);
+  position: sticky;
+  top: 60px;
+  z-index: 10;
+}
+
+.home-bible-control-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  flex: 1;
+  min-width: 120px;
+}
+
+.home-bible-control-group label {
+  font-size: 0.7rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 600;
+}
+
+.home-bible-control-group .bible-select {
+  width: 100%;
+}
+
+/* Inline toggle button in controls bar */
+.home-bible-control-toggle {
+  flex: 0 0 auto;
+  min-width: auto;
+}
+
+.home-bible-inline-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(212, 175, 55, 0.12);
+  border: 1px solid rgba(212, 175, 55, 0.3);
+  color: var(--accent);
+  width: 38px;
+  height: 38px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.home-bible-inline-toggle:hover {
+  background: rgba(212, 175, 55, 0.25);
+  border-color: var(--accent);
+}
+
+/* Collapsible content */
+.home-bible-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.home-bible-content.expanded {
+  max-height: 8000px;
+}
+
+.home-bible-content-inner {
+  padding: 0 2rem 2rem;
+}
+
+.home-bible-content-inner .bible-chapter-title {
+  font-family: var(--font-serif);
+  font-size: 1.8rem;
+  color: var(--accent);
+}
+
+/* Chapter navigation inside home card */
+.home-bible-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  gap: 1rem;
+}
+
+.home-bible-fullpage-link {
+  font-size: 0.85rem;
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  border: 1px solid rgba(212, 175, 55, 0.3);
+  border-radius: 8px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.home-bible-fullpage-link:hover {
+  background: rgba(212, 175, 55, 0.12);
+  border-color: var(--accent);
+}
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+  .home-bible-card-header {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1.2rem 1.2rem;
+  }
+
+  .home-bible-card-title {
+    font-size: 1.3rem;
+  }
+
+  .home-bible-card-subtitle {
+    font-size: 0.85rem;
+  }
+
+  .home-bible-toggle-btn {
+    align-self: stretch;
+    justify-content: center;
+  }
+
+  .home-bible-controls {
+    padding: 0.8rem 1.2rem;
+    gap: 0.6rem;
+  }
+
+  .home-bible-control-group {
+    min-width: 100px;
+    flex: 1 1 calc(50% - 0.5rem);
+  }
+
+  .home-bible-content-inner {
+    padding: 0 1.2rem 1.5rem;
+  }
+
+  .home-bible-nav {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .home-bible-controls-wrapper.visible {
+    max-height: 200px;
+  }
+}
+
+@media (max-width: 480px) {
+  .home-bible-card-icon {
+    width: 44px;
+    height: 44px;
+    font-size: 1.8rem;
+    border-radius: 10px;
+  }
+
+  .home-bible-toggle-label {
+    display: none;
+  }
+
+  .home-bible-control-group {
+    flex: 1 1 100%;
+  }
+
+  .home-bible-controls-wrapper.visible {
+    max-height: 320px;
+  }
+}

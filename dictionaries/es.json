@@ -107,6 +107,13 @@
       "text": "Una Biblia que se cae a pedazos por lo general pertenece a alguien que no lo está.",
       "author": "Charles Haddon Spurgeon"
     },
+    "bibleCard": {
+      "title": "Lea la Biblia",
+      "subtitle": "Lea la Palabra de Dios directamente aquí en SpurgeonTV.",
+      "expand": "Abrir Lector",
+      "collapse": "Cerrar Lector",
+      "fullPage": "Página Completa de la Biblia"
+    },
     "seoTitle": "SPURGEON TV | La Colección Completa de Sermones",
     "seoDesc": "Explora más de 3.500 sermones de Charles Haddon Spurgeon — el predicador más prolífico de la historia de la Iglesia. Lee, busca y estudia la colección completa en 63 volúmenes.",
     "seoH1Addon": " Colección Completa de Sermones"

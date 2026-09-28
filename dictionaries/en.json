@@ -107,6 +107,13 @@
       "text": "A Bible that is falling apart usually belongs to someone who isn't.",
       "author": "Charles Haddon Spurgeon"
     },
+    "bibleCard": {
+      "title": "Read the Bible",
+      "subtitle": "Read the Word of God right here on SpurgeonTV.",
+      "expand": "Open Reader",
+      "collapse": "Close Reader",
+      "fullPage": "Full Bible Page"
+    },
     "seoTitle": "SPURGEON TV | The Complete Sermon Collection",
     "seoDesc": "Explore over 3,500 sermons by Charles Haddon Spurgeon — the most prolific preacher in Church history. Read, search, and study the complete collection across 63 volumes.",
     "seoH1Addon": " Complete Sermon Collection"

@@ -47,9 +47,11 @@ export default function DevotionalClient({ lang, dict, devotionalData }) {
     const now = new Date();
     const month = now.getMonth() + 1;
     const day = now.getDate();
+    const hour = now.getHours();
     setToday({ month, day });
     setSelectedMonth(month);
     setSelectedDay(day);
+    setActiveTab(hour >= 16 ? 'evening' : 'morning');
   }, []);
 
   useEffect(() => {
