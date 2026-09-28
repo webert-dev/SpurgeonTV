@@ -120,19 +120,23 @@ export default async function RootLayout({ children, params }) {
                 <p className="footer-text">
                   {dict.footer.copyrightText}
                 </p>
-                <div style={{ display: 'flex', justifyContent: 'center', marginTop: '1.5rem' }}>
-                  <ThemeSelector dict={dict} />
-                </div>
               </div>
               <div className="footer-links">
                 <ul>
                   <li><Link href={`/${lang}/privacy-policy`} prefetch={false}>{dict.footer.links.privacyPolicy}</Link></li>
                   <li><Link href={`/${lang}/terms-of-service`} prefetch={false}>{dict.footer.links.termsOfService}</Link></li>
                   <li><Link href={`/${lang}/cookie-policy`} prefetch={false}>{dict.footer.links.cookiePolicy}</Link></li>
-                  <li><Link href={`/${lang}`} prefetch={false}>{dict.footer.links.home}</Link></li>
                   <li><Link href={`/${lang}/recommendations`} prefetch={false}>{dict.footer.links.recommendations}</Link></li>
                 </ul>
               </div>
+            </div>
+            
+            {/* Footer Bottom: Home Link and Theme Selector */}
+            <div className="footer-bottom" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '1.2rem', marginTop: '4rem' }}>
+              <Link href={`/${lang}`} prefetch={false} className="footer-home-link" style={{ color: 'var(--text-secondary)', textDecoration: 'none', fontSize: '0.95rem' }}>
+                {dict.footer.links.home}
+              </Link>
+              <ThemeSelector dict={dict} />
             </div>
           </footer>
           <CookieBanner lang={lang} dict={dict} />
