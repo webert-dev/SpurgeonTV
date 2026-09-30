@@ -1,0 +1,2155 @@
+{
+  "anoint": {
+    "name": "Ungir",
+    "slug": "anoint",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La práctica de ungir con aceite perfumado era común entre los hebreos. (1) El acto de ungir era significativo de consagración a un uso santo o sagrado; de ahí la unción del sumo sacerdote (Éx. 29:29; Lev. 4:3) y de los vasos sagrados (Éx. 30:26). El sumo sacerdote y el rey son llamados así “los ungidos” (Lev. 4:3, 5, 16; 6:20; Sal. 132:10). Ungir a un rey era equivalente a coronarlo (1 Sam. 16:13; 2 Sam. 2:4, etc.). Los profetas también eran ungidos (1 Reyes 19:16; 1 Crón. 16:22; Sal. 105:15). La expresión “ungid el escudo” (Isa. 21:5) se refiere a la costumbre de frotar aceite sobre el cuero del escudo para hacerlo flexible y apto para su uso en la guerra. (2) La unción era también un acto de hospitalidad (Lucas 7:38, 46). Era costumbre de los judíos, de manera similar, ungirse con aceite como un medio para refrescar o vigorizar sus cuerpos (Deut. 28:40; Rut 3:3; 2 Sam. 14:2; Sal. 104:15, etc.). Esta costumbre continúa entre los árabes hasta el día de hoy. (3) El aceite se usaba también con fines medicinales. Se aplicaba a los enfermos y también a las heridas (Sal. 109:18; Isa. 1:6; Mar. 6:13; Sant. 5:14). (4) Los cuerpos de los muertos a veces eran ungidos (Mar. 14:8; Lucas 23:56). (5) El Libertador prometido es llamado dos veces el “Ungido” o Mesías (Sal. 2:2; Dan. 9:25, 26), porque fue ungido con el Espíritu Santo (Isa. 61:1), figurativamente denominado el “aceite de alegría” (Sal. 45:7; Heb. 1:9). Jesús de Nazaret es este Ungido (Juan 1:41; Hechos 9:22; 17:2, 3; 18:5, 28), el Mesías del Antiguo Testamento."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 29:29",
+        "original": "Ex. 29:29"
+      },
+      {
+        "reference": "Leviticus 4:3",
+        "original": "Lev. 4:3"
+      },
+      {
+        "reference": "Exodus 30:26",
+        "original": "Ex. 30:26"
+      },
+      {
+        "reference": "Leviticus 4:5",
+        "original": "Lev. 4:5"
+      },
+      {
+        "reference": "Leviticus 4:16",
+        "original": "Lev. 4:16"
+      },
+      {
+        "reference": "Psalms 132:10",
+        "original": "Ps. 132:10"
+      },
+      {
+        "reference": "1 Samuel 16:13",
+        "original": "1 Sam. 16:13"
+      },
+      {
+        "reference": "2 Samuel 2:4",
+        "original": "2 Sam. 2:4"
+      },
+      {
+        "reference": "1 Kings 19:16",
+        "original": "1 Kings 19:16"
+      },
+      {
+        "reference": "1 Chronicles 16:22",
+        "original": "1 Chr. 16:22"
+      },
+      {
+        "reference": "Psalms 105:15",
+        "original": "Ps. 105:15"
+      },
+      {
+        "reference": "Isaiah 21:5",
+        "original": "Isa. 21:5"
+      },
+      {
+        "reference": "Luke 7:38",
+        "original": "Luke 7:38"
+      },
+      {
+        "reference": "Luke 7:46",
+        "original": "Luke 7:46"
+      },
+      {
+        "reference": "Deuteronomy 28:40",
+        "original": "Deut. 28:40"
+      },
+      {
+        "reference": "Ruth 3:3",
+        "original": "Ruth 3:3"
+      },
+      {
+        "reference": "2 Samuel 14:2",
+        "original": "2 Sam. 14:2"
+      },
+      {
+        "reference": "Psalms 104:15",
+        "original": "Ps. 104:15"
+      },
+      {
+        "reference": "Psalms 109:18",
+        "original": "Ps. 109:18"
+      },
+      {
+        "reference": "Isaiah 1:6",
+        "original": "Isa. 1:6"
+      },
+      {
+        "reference": "Mark 6:13",
+        "original": "Mark 6:13"
+      },
+      {
+        "reference": "James 5:14",
+        "original": "James 5:14"
+      },
+      {
+        "reference": "Mark 14:8",
+        "original": "Mark 14:8"
+      },
+      {
+        "reference": "Luke 23:56",
+        "original": "Luke 23:56"
+      },
+      {
+        "reference": "Psalms 2:2",
+        "original": "Ps. 2:2"
+      },
+      {
+        "reference": "Daniel 9:25",
+        "original": "Dan. 9:25"
+      },
+      {
+        "reference": "Daniel 9:26",
+        "original": "Dan. 9:26"
+      },
+      {
+        "reference": "Isaiah 61:1",
+        "original": "Isa. 61:1"
+      },
+      {
+        "reference": "Psalms 45:7",
+        "original": "Ps. 45:7"
+      },
+      {
+        "reference": "Hebrews 1:9",
+        "original": "Heb. 1:9"
+      },
+      {
+        "reference": "John 1:41",
+        "original": "John 1:41"
+      },
+      {
+        "reference": "Acts 9:22",
+        "original": "Acts 9:22"
+      },
+      {
+        "reference": "Acts 17:2",
+        "original": "Acts 17:2"
+      },
+      {
+        "reference": "Acts 17:3",
+        "original": "Acts 17:3"
+      },
+      {
+        "reference": "Acts 18:5",
+        "original": "Acts 18:5"
+      },
+      {
+        "reference": "Acts 18:28",
+        "original": "Acts 18:28"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "u"
+  },
+  "anointing": {
+    "name": "Unción",
+    "slug": "anointing",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "en la Sagrada Escritura, es o bien, I. Material—con aceite—o II. Espiritual—con el Espíritu Santo. I. MATERIAL.—"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ruth 3:3",
+        "original": "Ruth 3:3"
+      },
+      {
+        "reference": "Micah 6:15",
+        "original": "Micah 6:15"
+      },
+      {
+        "reference": "Luke 7:46",
+        "original": "Luke 7:46"
+      },
+      {
+        "reference": "Psalms 23:5",
+        "original": "Psal 23:5"
+      },
+      {
+        "reference": "1 Kings 19:16",
+        "original": "1 Kings 19:16"
+      },
+      {
+        "reference": "1 Chronicles 16:22",
+        "original": "1 Chronicles 16:22"
+      },
+      {
+        "reference": "Psalms 105:15",
+        "original": "Psalms 105:15"
+      },
+      {
+        "reference": "Exodus 40:15",
+        "original": "Exodus 40:15"
+      },
+      {
+        "reference": "Numbers 3:3",
+        "original": "Numbers 3:3"
+      },
+      {
+        "reference": "Exodus 29:29",
+        "original": "Exodus 29:29"
+      },
+      {
+        "reference": "Leviticus 16:32",
+        "original": "Leviticus 16:32"
+      },
+      {
+        "reference": "Leviticus 4:3",
+        "original": "Leviticus 4:3"
+      },
+      {
+        "reference": "1 Samuel 9:16",
+        "original": "1 Samuel 9:16"
+      },
+      {
+        "reference": "1 Samuel 10:1",
+        "original": "1 Samuel 10:1"
+      },
+      {
+        "reference": "1 Kings 1:34",
+        "original": "1 Kings 1:34"
+      },
+      {
+        "reference": "1 Kings 1:39",
+        "original": "1 Kings 1:39"
+      },
+      {
+        "reference": "Genesis 31:13",
+        "original": "Genesis 31:13"
+      },
+      {
+        "reference": "Exodus 30:26-28",
+        "original": "Exodus 30:26-28"
+      },
+      {
+        "reference": "James 5:14",
+        "original": "James 5:14"
+      },
+      {
+        "reference": "Mark 6:13",
+        "original": "Mark 6:13"
+      },
+      {
+        "reference": "Psalms 2:2",
+        "original": "Psalms 2:2"
+      },
+      {
+        "reference": "Daniel 9:25",
+        "original": "Daniel 9:25"
+      },
+      {
+        "reference": "Daniel 9:26",
+        "original": "Daniel 9:26"
+      },
+      {
+        "reference": "Isaiah 61:1",
+        "original": "Isaiah 61:1"
+      },
+      {
+        "reference": "Luke 4:18",
+        "original": "Luke 4:18"
+      },
+      {
+        "reference": "John 1:41",
+        "original": "John 1:41"
+      },
+      {
+        "reference": "Acts 9:22",
+        "original": "Acts 9:22"
+      },
+      {
+        "reference": "Acts 17:2",
+        "original": "Acts 17:2"
+      },
+      {
+        "reference": "Acts 17:3",
+        "original": "Acts 17:3"
+      },
+      {
+        "reference": "Acts 18:4",
+        "original": "Acts 18:4"
+      },
+      {
+        "reference": "Acts 18:28",
+        "original": "Acts 18:28"
+      },
+      {
+        "reference": "John 1:32",
+        "original": "John 1:32"
+      },
+      {
+        "reference": "John 1:33",
+        "original": "John 1:33"
+      },
+      {
+        "reference": "Acts 4:27",
+        "original": "Acts 4:27"
+      },
+      {
+        "reference": "Acts 10:38",
+        "original": "Acts 10:38"
+      },
+      {
+        "reference": "2 Corinthians 1:21",
+        "original": "2 Corinthians 1:21"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "botch": {
+    "name": "Úlcera maligna",
+    "slug": "botch",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El nombre dado en Deut. 28:27, 35 a una de las plagas egipcias (Éx. 9:9). La palabra así traducida se traduce generalmente como “úlcera” (v. v.)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 28:27",
+        "original": "Deuteronomy 28:27"
+      },
+      {
+        "reference": "Deuteronomy 28:35",
+        "original": "Deuteronomy 28:35"
+      },
+      {
+        "reference": "Exodus 9:9",
+        "original": "Exodus 9:9"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "u"
+  },
+  "blains": {
+    "name": "Úlceras",
+    "slug": "blains",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ocurre solo en relación con la sexta plaga de Egipto (Éx. 9:9, 10). En Deut. 28:27, 35, se le llama «la sarna de Egipto» o «el tumor de Egipto». Parece haber sido la temible enfermedad de la lepra negra, una clase de elefantiasis que produce úlceras ardientes."
+      },
+      {
+        "source": "SMI",
+        "text": "inflamaciones ulcerosas violentas, la sexta plaga de Egipto (Éxodo 9:9, 10) y por lo tanto llamada en (28:27,35) «la sarna de Egipto». Parece haber sido la lepra negra, un temible tipo de elefantiasis."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 9:9",
+        "original": "Ex. 9:9"
+      },
+      {
+        "reference": "Exodus 9:10",
+        "original": "Ex 9:10"
+      },
+      {
+        "reference": "Deuteronomy 28:27",
+        "original": "Deut. 28:27"
+      },
+      {
+        "reference": "Deuteronomy 28:35",
+        "original": "Deut. 28:35"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "boil": {
+    "name": "Úlcera",
+    "slug": "boil",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(traducido como «sarna» o «llagas» en Deut. 28:27, 35), una úlcera grave, como en el caso de Ezequías (2 Reyes 20:7; Is. 38:21) o de los egipcios (Éx. 9:9, 10, 11; Deut. 28:27, 35). Designa la enfermedad de Job (2:7), que probablemente era la lepra negra."
+      },
+      {
+        "source": "SMI",
+        "text": "[Medicina]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 28:27",
+        "original": "Deut. 28:27"
+      },
+      {
+        "reference": "Deuteronomy 28:35",
+        "original": "Deut. 28:35"
+      },
+      {
+        "reference": "2 Kings 20:7",
+        "original": "2 Kings 20:7"
+      },
+      {
+        "reference": "Isaiah 38:21",
+        "original": "Isa. 38:21"
+      },
+      {
+        "reference": "Exodus 9:9",
+        "original": "Ex. 9:9"
+      },
+      {
+        "reference": "Exodus 9:10",
+        "original": "Ex. 9:10"
+      },
+      {
+        "reference": "Exodus 9:11",
+        "original": "Ex. 9:11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "grape": {
+    "name": "Uva",
+    "slug": "grape",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El fruto de la vid, que se cultivaba extensamente en Palestina. Se habla de las uvas como “tiernas” (Cant. 2:13, 15), “inmaduras” (Job 15:33), “agrias” (Isa. 18:5), “salvajes” (Isa. 5:2, 4). (Ver Apocalipsis 14:18; Miqueas 7:1; Jer. 6:9; Ezequiel 18:2, para el uso figurado de la palabra.) (Ver VINE.)"
+      },
+      {
+        "source": "SMI",
+        "text": "[Enredadera]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Song of Solomon 2:13",
+        "original": "Cant. 2:13"
+      },
+      {
+        "reference": "Song of Solomon 2:15",
+        "original": "Cant. 2:15"
+      },
+      {
+        "reference": "Job 15:33",
+        "original": "Job 15:33"
+      },
+      {
+        "reference": "Isaiah 18:5",
+        "original": "Isa. 18:5"
+      },
+      {
+        "reference": "Isaiah 5:2",
+        "original": "Isa. 5:2"
+      },
+      {
+        "reference": "Isaiah 5:4",
+        "original": "Isa. 5:4"
+      },
+      {
+        "reference": "Revelation 14:18",
+        "original": "Rev. 14:18"
+      },
+      {
+        "reference": "Micah 7:1",
+        "original": "Micah 7:1"
+      },
+      {
+        "reference": "Jeremiah 6:9",
+        "original": "Jer. 6:9"
+      },
+      {
+        "reference": "Ezekiel 18:2",
+        "original": "Ezek. 18:2"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "ointment": {
+    "name": "Ungüento",
+    "slug": "ointment",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Se llaman así varias preparaciones fragantes, también compuestos para fines médicos (Éxodo 30:25; Salmo 133:2; Isaías 1:6; Amós 6:6; Juan 12:3; Apocalipsis 18:13)."
+      },
+      {
+        "source": "SMI",
+        "text": "(Una sustancia aceitosa o untuosa, generalmente compuesta de aceite con diversas especias, resinas y aromáticos, y conservada en pequeñas cajas o vasijas de alabastro, en las que se conservaba mejor el delicioso aroma. Se sabe que algunos de los ungüentos conservan su fragancia durante varios cientos de años. Eran un lujo muy codiciado y, a menudo, muy caro.—ED.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 30:25",
+        "original": "Ex. 30:25"
+      },
+      {
+        "reference": "Psalms 133:2",
+        "original": "Ps. 133:2"
+      },
+      {
+        "reference": "Isaiah 1:6",
+        "original": "Isa. 1:6"
+      },
+      {
+        "reference": "Amos 6:6",
+        "original": "Amos 6:6"
+      },
+      {
+        "reference": "John 12:3",
+        "original": "John 12:3"
+      },
+      {
+        "reference": "Revelation 18:13",
+        "original": "Rev. 18:13"
+      },
+      {
+        "reference": "Ruth 3:2",
+        "original": "Ruth 3:2"
+      },
+      {
+        "reference": "Matthew 26:12",
+        "original": "Matthew 26:12"
+      },
+      {
+        "reference": "Jeremiah 8:22",
+        "original": "Jeremiah 8:22"
+      },
+      {
+        "reference": "John 9:6",
+        "original": "John 9:6"
+      },
+      {
+        "reference": "Revelation 3:18",
+        "original": "Revelation 3:18"
+      },
+      {
+        "reference": "Exodus 30:23",
+        "original": "Exodus 30:23"
+      },
+      {
+        "reference": "Exodus 30:33",
+        "original": "Exodus 30:33"
+      },
+      {
+        "reference": "Exodus 29:7",
+        "original": "Exodus 29:7"
+      },
+      {
+        "reference": "Exodus 37:29",
+        "original": "Exodus 37:29"
+      },
+      {
+        "reference": "Exodus 40:9",
+        "original": "Exodus 40:9"
+      },
+      {
+        "reference": "Exodus 40:15",
+        "original": "Exodus 40:15"
+      },
+      {
+        "reference": "Nehemiah 3:8",
+        "original": "Nehemiah 3:8"
+      },
+      {
+        "reference": "1 Samuel 8:13",
+        "original": "1 Samuel 8:13"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "thresholds-the": {
+    "name": "Umbrales, Los",
+    "slug": "thresholds-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Esta palabra, Asuppe, parece ser traducida incorrectamente en (Nehemías 12:25), aunque quizás aún no se haya descubierto su fuerza real. La “casa de Asuppim”, o simplemente “los Asuppim”, se menciona en (1 Crónicas 26:15,17) como parte, probablemente una puerta, del recinto de la “casa de Jehová”, aparentemente en su esquina suroeste. La alusión en (Nehemías 12:29) es sin duda al mismo lugar. [Puerta]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Nehemiah 12:25",
+        "original": "Nehemiah 12:25"
+      },
+      {
+        "reference": "1 Chronicles 26:15",
+        "original": "1 Chronicles 26:15"
+      },
+      {
+        "reference": "1 Chronicles 26:17",
+        "original": "1 Chronicles 26:17"
+      },
+      {
+        "reference": "Nehemiah 12:29",
+        "original": "Nehemiah 12:29"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "ucal": {
+    "name": "Ucal",
+    "slug": "ucal",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El nombre de una persona a quien se dirigen las palabras de Agur (Prov. 30:1)."
+      },
+      {
+        "source": "SMI",
+        "text": "(Soy fuerte). Según el texto recibido de (Proverbios 30:1), Ithiel y Ucal deben considerarse nombres propios; y si es así, deben ser nombres de discípulos o hijos de Agur el hijo de Jakeh, un sabio desconocido entre los hebreos. Pero hay una gran oscuridad en torno al pasaje. Ewald considera tanto a Ithiel como a Ucal como nombres simbólicos, empleados por el poeta para designar dos clases de pensadores a los que se dirige."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Proverbs 30:1",
+        "original": "Prov. 30:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uel": {
+    "name": "uel",
+    "slug": "uel",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(voluntad de Dios), uno de la familia de Bani, que durante el cautiverio se había casado con una esposa extranjera. (Esdras 10:34) (458 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezra 10:34",
+        "original": "Ezra 10:34"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uknaz": {
+    "name": "uknaz",
+    "slug": "uknaz",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "En el margen de (1 Crónicas 4:16), las palabras \"incluso Kenaz\" en el texto se traducen \"Uknaz\", como nombre propio."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 4:16",
+        "original": "1 Chronicles 4:16"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "ulai": {
+    "name": "Ulai",
+    "slug": "ulai",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El Eulaus de los griegos; un río de Susiana. Probablemente era el brazo oriental del Choasper (Kerkhan), que se dividía en dos brazos a unas 20 millas por encima de la ciudad de Susa. Por eso Daniel (8:2, 16) habla de estar “entre las orillas del Ulai”, es decir, entre las dos corrientes del río dividido."
+      },
+      {
+        "source": "SMI",
+        "text": "(agua pura) es mencionada por Daniel (Daniel 8:2,16) como un río cerca de Susa, donde tuvo su visión del carnero y el macho cabrío. Generalmente se ha identificado con el Eulaeus de los geógrafos griegos y romanos, un gran arroyo en las inmediaciones de esa ciudad. Muchos han identificado al Eulseus con el Choaspes, que es sin duda el moderno Kerkhah, un afluente del Tigris, que desemboca en él un poco por debajo de Kurnah. Estudios recientes muestran que el Choarspes alguna vez se dividió en dos corrientes a unas 20 millas sobre Susa. El oriental era el Ulai. Esta bifurcación explica (Daniel 8:16)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Daniel 8:2",
+        "original": "Daniel 8:2"
+      },
+      {
+        "reference": "Daniel 8:16",
+        "original": "Daniel 8:16"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "ulam": {
+    "name": "Ulam",
+    "slug": "ulam",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(porche)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:17",
+        "original": "1 Chronicles 7:17"
+      },
+      {
+        "reference": "1 Chronicles 8:39",
+        "original": "1 Chronicles 8:39"
+      },
+      {
+        "reference": "1 Chronicles 8:40",
+        "original": "1 Chronicles 8:40"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "ulla": {
+    "name": "Ulla",
+    "slug": "ulla",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(yugo), aserita, cabeza de familia de su tribu. (1 Crónicas 7:30) (a.C. alrededor del año 1014.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:30",
+        "original": "1 Chronicles 7:30"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "ummah": {
+    "name": "Ummá",
+    "slug": "ummah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Vecindades, un pueblo de Aser (Josué 19:30)."
+      },
+      {
+        "source": "SMI",
+        "text": "(unión), una de las ciudades de la parcela de Aser. (Josué 10:30) únicamente. Probablemente 'Alma, en las tierras altas de la costa, a unas cinco millas al este-noreste de Ras en-Nakhura."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 19:30",
+        "original": "Josh. 19:30"
+      },
+      {
+        "reference": "Joshua 10:30",
+        "original": "Joshua 10:30"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "unction": {
+    "name": "Unción",
+    "slug": "unction",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1 Juan 2:20, 27; R.V., “unción”). Se ungían reyes, profetas y sacerdotes en señal de recibir la gracia divina. Todos los creyentes son, en un sentido secundario, lo que Cristo fue en un sentido primario, \"el ungido del Señor\"."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 John 2:20",
+        "original": "1 John 2:20"
+      },
+      {
+        "reference": "1 John 2:27",
+        "original": "1 John 2:27"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "u"
+  },
+  "unicorn": {
+    "name": "Unicornio",
+    "slug": "unicorn",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Descrito como un animal de gran ferocidad y fuerza (Núm. 23:22, R.V., “buey montés”, marg., “buey-antílope”; 24:8; Isa. 34:7, R.V., “bueyes salvajes”), e indomable (Job 39:9). En realidad era un animal de dos cuernos; pero la referencia exacta de la palabra así traducida (reem) es dudosa. Algunos han supuesto que se trata del búfalo; otros, el antílope blanco, llamado por los árabes borde. Sin embargo, lo más probable es que la palabra denote al Bos primigenius (“buey primitivo”), que ahora está extinto en todo el mundo. Estos eran los auerochs de los alemanes y los urus descritos por César (Gal. Bel., vi. 28) como habitantes del bosque herciniano. La palabra así traducida se ha encontrado en una inscripción asiria escrita sobre el buey o el bisonte salvaje, que algunos también suponen que es el animal al que se destina (comp. Deut. 33:17; Sal. 22:21; 29:6; 92:10)."
+      },
+      {
+        "source": "SMI",
+        "text": "la traducción de la versión autorizada del hebreo reem, una palabra que aparece siete veces en el Antiguo Testamento como el nombre de algún animal salvaje grande. El reem de la Biblia hebrea, sin embargo, no tiene nada que ver con el animal de un solo cuerno de los escritores griegos y romanos, como se desprende de (33:17), donde en la bendición de José se dice; “Su gloria es como la primogénita de su novillo, y sus cuernos como los cuernos de un unicornio;” no, como lo expresa el texto de la Versión Autorizada, “los cuernos de unicornios”. Los dos cuernos del carnero son “los diez mil de Efraín y los millares de Manasés”. Este texto deja completamente fuera de discusión un animal con un solo cuerno. Considerando que se habla del reem como un animal de dos cuernos de gran fuerza y ​​ferocidad, que evidentemente era bien conocido y visto a menudo por los judíos, que se menciona como un animal apto para propósitos de sacrificio, y que frecuentemente se asocia con toros y bueyes, pensamos que no puede haber duda de que se trata de alguna especie de buey salvaje. La alusión en (Salmo 92:10) “Pero levantarás mi cuerno como un reeym” parece señalar el modo en que los bóvidos usan sus cuernos, bajando la cabeza y luego levantándola. Pero es imposible determinar a qué especie particular de buey salvaje se refiere, probablemente se trate de algún urus gigantesco. (Es probable que fueran los gigantescos Bos primigeniua, o uros, ahora extintos, pero de los cuales César dice: “Estos uri son apenas menores que los elefantes en tamaño, pero en su naturaleza, color y forma son toros. Grande es su fuerza y ​​grande su velocidad; no perdonan ni a hombres ni a bestias una sola vez; los han visto”—Bell. Gall. vi. 20.-ED.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 23:22",
+        "original": "Num. 23:22"
+      },
+      {
+        "reference": "Isaiah 34:7",
+        "original": "Isa. 34:7"
+      },
+      {
+        "reference": "Job 39:9",
+        "original": "Job 39:9"
+      },
+      {
+        "reference": "Deuteronomy 33:17",
+        "original": "Deut. 33:17"
+      },
+      {
+        "reference": "Psalms 22:21",
+        "original": "Ps. 22:21"
+      },
+      {
+        "reference": "Psalms 29:6",
+        "original": "Ps 29:6"
+      },
+      {
+        "reference": "Psalms 92:10",
+        "original": "Ps 92:10"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "unni": {
+    "name": "unni",
+    "slug": "unni",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Afectado. (1.) Un levita a quien David nombró para participar en el traslado del arca a Jerusalén desde la casa de Obed-edom tocando el salterio en esa ocasión (1 Crónicas 15:18, 20). (2.) Un levita que regresó con Zorobabel del cautiverio (Nehemías 12:9)."
+      },
+      {
+        "source": "SMI",
+        "text": "(deprimido)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 15:18",
+        "original": "1 Chr. 15:18"
+      },
+      {
+        "reference": "1 Chronicles 15:20",
+        "original": "1 Chr. 15:20"
+      },
+      {
+        "reference": "Nehemiah 12:9",
+        "original": "Neh. 12:9"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "upharsin": {
+    "name": "Upharsin",
+    "slug": "upharsin",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Y dividen, una de las palabras escritas por la mano misteriosa en el muro del palacio de Belsasar (Dan. 5:25). Es una palabra puramente caldea. \"Peres\" es sólo una forma simple de la misma palabra."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Daniel 5:25",
+        "original": "Dan. 5:25"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "u"
+  },
+  "uphaz": {
+    "name": "Ufaz",
+    "slug": "uphaz",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Probablemente otro nombre para Ofir (Jer. 10:9). Algunos, sin embargo, lo consideran el nombre de una colonia india en Yemen, en el sur de Arabia; otros como un lugar en o cerca del río Hyphasis (ahora Ghana), el límite sureste del Punjaub."
+      },
+      {
+        "source": "SMI",
+        "text": "(Jeremías 10:9; Daniel 10:5) [Ofir]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Jeremiah 10:9",
+        "original": "Jer. 10:9"
+      },
+      {
+        "reference": "Daniel 10:5",
+        "original": "Daniel 10:5"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "ur": {
+    "name": "Ur",
+    "slug": "ur",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La Luz, o ciudad de la luna, una ciudad “de los caldeos”, el lugar de nacimiento de Harán (Gén. 11:28, 31), la ciudad más grande de Sinar o Caldea del norte, y el principal centro comercial del país, así como el centro del poder político. Se encontraba cerca de la desembocadura del Éufrates, en su orilla occidental, y está representada por los montículos (de ladrillos cementados con betún) de el-Mugheir, es decir, “los bituminados” o “la ciudad del betún”, ahora a 150 millas del mar y a unas 6 millas del Éufrates, un poco por encima del punto donde recibe el Shat el-Hie, un afluente del Tigris. Antiguamente era una ciudad marítima, ya que las aguas del Golfo Pérsico llegaban hasta el interior. Ur era el puerto de Babilonia, desde donde se realizaba el comercio con los habitantes del golfo y con los países lejanos de la India, Etiopía y Egipto. Fue abandonado alrededor de B.C. 500, pero durante mucho tiempo siguió siendo, como Erech, una gran ciudad cementerio sagrada, como se desprende del número de tumbas encontradas allí. (Véase ABRAHAM.) El rey más antiguo de Ur que conocemos es Ur-Ba’u (sirviente de la diosa Ba’u), como lee Hommel el nombre, o Ur-Gur, como lo leen otros. Vivió unos dos ochocientos años a.C. y participó en la construcción del famoso templo del dios lunar Sin en la propia Ur. La ilustración que aquí se presenta representa su inscripción cuneiforme, escrita en lengua sumeria y estampada en cada ladrillo del templo de Ur. Dice: \"Ur-Ba'u, rey de Ur, que construyó el templo del dios de la luna\". \"Ur estaba consagrada a la adoración de Sin, el dios de la luna babilónico. Sin embargo, compartía este honor con otra ciudad, y esta ciudad era Harán, o Harran. Harran estaba en Mesopotamia, y tomó su nombre de la carretera que la atravesaba de este a oeste. El nombre es babilónico, y da testimonio de que fue fundado por un rey babilónico. El mismo testimonio lo da aún más decisivamente el culto que en ella se rinde al Dios de la luna babilónico y por su antiguo templo de Sin. De hecho, el templo del dios de la luna en Harran era quizás incluso más famoso en el mundo asirio y babilónico que el templo del dios de la luna en Ur. “En consecuencia, entre Ur y Harran debe haber habido una conexión estrecha, cuyo registro aún no se ha recuperado. Puede ser que Harrán debiera su fundación a un rey de Ur; en cualquier caso, las dos ciudades estaban unidas por el culto a la misma deidad, el vínculo de unión más estrecho y duradero que existía en el mundo antiguo. Por lo tanto, que Taré haya emigrado de Ur a Harán deja de ser extraordinario. Si abandonó Ur, era el lugar más natural al que ir. Era como pasar de un patio de un templo a otro. \"Una coincidencia tan notable entre la narrativa bíblica y la evidencia de la investigación arqueológica no puede ser el resultado de la casualidad. La narrativa debe ser histórica; ningún escritor de fecha tardía, incluso si fuera babilónico, podría haber inventado una historia tan exactamente de acuerdo con lo que ahora sabemos que fue la verdad. Que una historia de este tipo haya sido una invención de la tradición palestina es igualmente imposible. Para la mente sin prejuicios no hay escapatoria a la conclusión de que la historia de la migración de Taré de Ur a Harran está fundada de hecho” (Sayce)."
+      },
+      {
+        "source": "SMI",
+        "text": "Era la tierra de nacimiento de Harán (Génesis 11:28), el lugar desde donde Taré y Abraham partieron “para ir a la tierra de Canaán”. (Génesis 11:31.) En Génesis se la llama “Ur de los caldeos”, mientras que en Hechos San Esteban la sitúa, implícitamente, en Mesopotamia. (Hechos 7:2,4) Estas son todas las indicaciones que la Escritura proporciona en cuanto a su localidad. Ha sido identificada por las tradiciones más antiguas con la ciudad de Orfah en las tierras altas de Mesopotamia, que unen la meseta de Armenia con el valle del Éufrates. En épocas posteriores se llamó Edesa y fue celebrada como la capital de Abgarus o Acbarus, de quien se decía que recibió la carta y el retrato de nuestro Salvador. \"Dos, las características físicas deben haber asegurado a Orfah, desde los primeros tiempos, como un núcleo para la civilización de esas regiones. Uno es un peñasco de alta cresta, las fortificaciones naturales de la ciudadela de la cresta... El otro es un manantial abundante, que brota en un charco de claridad transparente, y encarnado en una masa de exuberante verdor, que, en medio del desierto marrón opaco que lo rodea, hace y siempre debe haber hecho, este lugar un oasis, un paraíso, en el desierto caldeo. Alrededor de este estanque sagrado, ‘el hermoso manantial Callirrhoe’, como lo llamaban los escritores griegos, se reúnen las tradiciones modernas del patriarca.”—Stanley, Jewish Church, parte i.p.7. Una segunda tradición, que aparece en el Talmud, sitúa a Ur en Warka, a 120 millas al sureste de Babilonia y cuatro al este del Éufrates. Fue la Orchoe de los griegos y probablemente la Ereck de las Sagradas Escrituras. Este lugar lleva el nombre de Huruk en las inscripciones nativas y estaba en los países conocidos por los judíos como la tierra de los caldeos. Pero en oposición a las tradiciones más antiguas, muchos escritores modernos han fijado el sitio de Ur en una posición muy diferente, a saber. en el extremo sur de Caldea, en Mugheir, no muy lejos de la cabecera del golfo Pérsico y probablemente en tiempos de Abraham. Entre las ruinas que ahora se ven en el lugar se encuentran los restos de uno de los grandes templos, de modelo similar al de Babel, dedicado a la luna, a quien la ciudad era sagrada. (Porter y Rawlinson favorecen este último lugar)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 11:28",
+        "original": "Gen. 11:28"
+      },
+      {
+        "reference": "Genesis 11:31",
+        "original": "Gen. 11:31"
+      },
+      {
+        "reference": "Acts 7:2",
+        "original": "Acts 7:2"
+      },
+      {
+        "reference": "Acts 7:4",
+        "original": "Acts 7:4"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "urbane-or-urbane": {
+    "name": "Urbano o urbano",
+    "slug": "urbane-or-urbane",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(de la ciudad; educado), la forma griega del latín Urbanus, tal como aparece en la versión revisada. Fue un discípulo cristiano que está en la larga lista de aquellos a quienes San Pablo saluda escribiendo a Roma. (Romanos 16:9) (55 d.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Romans 16:9",
+        "original": "Romans 16:9"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "urbanus": {
+    "name": "urbano",
+    "slug": "urbanus",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "la forma dada en la versión revisada de Urbane."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uri": {
+    "name": "uri",
+    "slug": "uri",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(ardiente)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 31:2",
+        "original": "Exodus 31:2"
+      },
+      {
+        "reference": "Exodus 35:30",
+        "original": "Exodus 35:30"
+      },
+      {
+        "reference": "Exodus 38:22",
+        "original": "Exodus 38:22"
+      },
+      {
+        "reference": "1 Chronicles 2:20",
+        "original": "1 Chronicles 2:20"
+      },
+      {
+        "reference": "2 Chronicles 1:5",
+        "original": "2 Chronicles 1:5"
+      },
+      {
+        "reference": "1 Kings 4:19",
+        "original": "1 Kings 4:19"
+      },
+      {
+        "reference": "Ezra 10:24",
+        "original": "Ezra 10:24"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uriah": {
+    "name": "Urías",
+    "slug": "uriah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El Señor es mi luz. (1.) Un hitita, el marido de Betsabé, a quien David primero sedujo y luego, después de la muerte de Urías, se casó. Era uno de los “valientes” de David. La triste historia de los males que David le infligió y de su triste muerte se cuentan simplemente en el registro sagrado (2 Sam. 11:2-12:26). (Ver BATESEBA; DAVID.) (2.) Un sacerdote de la casa de Acaz (Isaías 8:2). (3.) El padre de Meremoth, mencionado en Esdras 8:33."
+      },
+      {
+        "source": "SMI",
+        "text": "(luz de Jehová)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 11:2-12:26",
+        "original": "2 Sam. 11:2-12:26"
+      },
+      {
+        "reference": "Isaiah 8:2",
+        "original": "Isa. 8:2"
+      },
+      {
+        "reference": "Ezra 8:33",
+        "original": "Ezra 8:33"
+      },
+      {
+        "reference": "1 Chronicles 11:41",
+        "original": "1 Chronicles 11:41"
+      },
+      {
+        "reference": "2 Samuel 23:39",
+        "original": "2 Samuel 23:39"
+      },
+      {
+        "reference": "2 Samuel 11:11",
+        "original": "2 Samuel 11:11"
+      },
+      {
+        "reference": "2 Samuel 23:34",
+        "original": "2 Samuel 23:34"
+      },
+      {
+        "reference": "2 Samuel 12:3",
+        "original": "2 Samuel 12:3"
+      },
+      {
+        "reference": "2 Samuel 12:11",
+        "original": "2 Samuel 12:11"
+      },
+      {
+        "reference": "2 Kings 16:10-16",
+        "original": "2 Kings 16:10-16"
+      },
+      {
+        "reference": "2 Kings 16:10",
+        "original": "2 Kings 16:10"
+      },
+      {
+        "reference": "Nehemiah 3:4",
+        "original": "Nehemiah 3:4"
+      },
+      {
+        "reference": "Nehemiah 3:21",
+        "original": "Nehemiah 3:21"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "urias": {
+    "name": "Urías",
+    "slug": "urias",
+    "definitions": [],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 1:6",
+        "original": "Matthew 1:6"
+      },
+      {
+        "reference": "1Esd 9:43",
+        "original": "1 Esdr. 9:43"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uriel": {
+    "name": "uriel",
+    "slug": "uriel",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Dios es mi luz. (1.) Un levita de la familia de Coat (1 Crónicas 6:24). (2.) El jefe de los Coatitas en el momento en que el arca fue llevada a Jerusalén (1 Crónicas 15:5, 11). (3.) Padre de Micaías, una de las esposas de Roboam y madre de Abías (2 Crónicas 13:2)."
+      },
+      {
+        "source": "SMI",
+        "text": "(el fuego de Dios), un ángel nombrado sólo en 2 Esdr. 4:1,36; 5:20; 10:28."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 6:24",
+        "original": "1 Chr. 6:24"
+      },
+      {
+        "reference": "1 Chronicles 15:5",
+        "original": "1 Chr. 15:5"
+      },
+      {
+        "reference": "1 Chronicles 15:11",
+        "original": "1 Chr. 15:11"
+      },
+      {
+        "reference": "2 Chronicles 13:2",
+        "original": "2 Chr. 13:2"
+      },
+      {
+        "reference": "2 Chronicles 11:20",
+        "original": "2 Chronicles 11:20"
+      },
+      {
+        "reference": "2Esd 4:1",
+        "original": "2 Esdr. 4:1"
+      },
+      {
+        "reference": "2Esd 4:36",
+        "original": "2 Esdr. 4:36"
+      },
+      {
+        "reference": "2Esd 5:20",
+        "original": "2 Esdr. 5:20"
+      },
+      {
+        "reference": "2Esd 10:28",
+        "original": "2 Esdr. 10:28"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "urijah": {
+    "name": "Urías",
+    "slug": "urijah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El señor es mi luz. (1.) Un sumo sacerdote en la época de Acaz (2 Reyes 16:10-16), a cuya orden construyó un altar idólatra como uno que el rey había visto en Damasco, para ser instalado en lugar del altar de bronce. (2.) Uno de los sacerdotes que estaba a la derecha del púlpito de Esdras cuando éste leía y explicaba la ley (Nehemías 8:4). (3.) Profeta de Quiriat-jearim durante el reinado de Joacim, rey de Judá (Jer. 26:20-23). Huyó a Egipto de la crueldad del rey, pero cuando lo trajeron de regreso lo decapitaron y su cuerpo fue “arrojado a las tumbas del pueblo común”."
+      },
+      {
+        "source": "SMI",
+        "text": "(luz de Jehová)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 16:10-16",
+        "original": "2 Kings 16:10-16"
+      },
+      {
+        "reference": "Nehemiah 8:4",
+        "original": "Neh. 8:4"
+      },
+      {
+        "reference": "Jeremiah 26:20-23",
+        "original": "Jer. 26:20-23"
+      },
+      {
+        "reference": "2 Kings 16:10",
+        "original": "2 Kings 16:10"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "urim": {
+    "name": "Urim",
+    "slug": "urim",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Luces (Vulg. “doctrina”; LXX. “revelación”). Ver TUMIM."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "u"
+  },
+  "urim-and-thummim": {
+    "name": "Urim y Tumim",
+    "slug": "urim-and-thummim",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(luz y perfección). Cuando los judíos exiliados se encontraron a su regreso de Babilonia con una pregunta que no tenían datos para responder, acordaron posponer la solución de la dificultad hasta que se levantara \"un sacerdote con Urim y Tumim\". (Esdras 2:63; Nehemías 7:65.) La pregunta sobre qué eran esos Urim y Tumim probablemente tardará el mismo tiempo hasta obtener una respuesta final y satisfactoria. Por todas partes nos topamos con confesiones de ignorancia. Urim significa \"luz\" y Tumim \"perfección\". Declaraciones de las Escrituras — Las misteriosas palabras nos encontramos por primera vez, como si no necesitaran explicación, en la descripción de la vestimenta del sumo sacerdote. Sobre el efod habrá un “pectoral del juicio” de oro, escarlata, púrpura y lino fino, doblado en forma cuadrada y doblado, de un “largo” de largo y ancho. En él se colocarán cuatro hileras de piedras preciosas, cada piedra con el nombre de una tribu de Israel grabado, para que Aarón “las lleve en su corazón”. Luego viene otra orden. Al lado del pectoral, como se colocaron las tablas del pacto dentro del arca, (Éxodo 25:16; 28:30) se deben colocar “el Urim y el Tumim”, la luz y la perfección; y ellos también deben estar en el corazón de Aarón cuando entre ante el Señor. (Éxodo 28:15-30) Ni una palabra los describe. Se mencionan como cosas que ya eran familiares tanto para Moisés como para el pueblo, relacionadas naturalmente con las funciones del sumo sacerdote como mediador entre Jehová y su pueblo. La orden se cumple. (Levítico 8:8) Pasan de Aarón a Eleazar con el efod sagrado y otras pontificalia. (Números 20:28) Cuando Josué es designado solemnemente para suceder al gran héroe-legislador, se le pide que se presente ante Eleazar, el sacerdote, “quien le pedirá consejo después del juicio de Urim”, y este consejo debe determinar los movimientos del ejército de Israel. (Números 27:21) En las bendiciones de Moisés aparecen como la gloria suprema de la tribu de Leví: “tu Tumim y tu Urim están con tu Santo”. (33:8,9) No está claro de qué manera se consultaron el Urim y Tumim. Josefo y los rabinos supusieron que las piedras daban la respuesta oracular mediante una iluminación sobrenatural; pero parece ser mucho más simple y más de acuerdo con los diferentes relatos de las consultas hechas por Urim y Tumim (1 Samuel 14:3,18,19; 23:2,4,9,11,12; 28:6; Jueces 20:28; 2 Samuel 5:23), etc., suponer que la respuesta fue dada simplemente por la palabra del Señor al sumo sacerdote comp. (Juan 11:51) cuando, vestido con el efod y la coraza, había consultado al Señor. Esta visión concuerda con la verdadera noción de la coraza."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezra 2:63",
+        "original": "Ezra 2:63"
+      },
+      {
+        "reference": "Nehemiah 7:65",
+        "original": "Nehemiah 7:65"
+      },
+      {
+        "reference": "Exodus 25:16",
+        "original": "Exodus 25:16"
+      },
+      {
+        "reference": "Exodus 28:30",
+        "original": "Exodus 28:30"
+      },
+      {
+        "reference": "Exodus 28:15-30",
+        "original": "Exodus 28:15-30"
+      },
+      {
+        "reference": "Leviticus 8:8",
+        "original": "Leviticus 8:8"
+      },
+      {
+        "reference": "Numbers 20:28",
+        "original": "Numbers 20:28"
+      },
+      {
+        "reference": "Numbers 27:21",
+        "original": "Numbers 27:21"
+      },
+      {
+        "reference": "1 Samuel 14:3",
+        "original": "1 Samuel 14:3"
+      },
+      {
+        "reference": "1 Samuel 14:18",
+        "original": "1 Samuel 14:18"
+      },
+      {
+        "reference": "1 Samuel 14:19",
+        "original": "1 Samuel 14:19"
+      },
+      {
+        "reference": "1 Samuel 23:2",
+        "original": "1 Samuel 23:2"
+      },
+      {
+        "reference": "1 Samuel 23:4",
+        "original": "1 Samuel 23:4"
+      },
+      {
+        "reference": "1 Samuel 23:9",
+        "original": "1 Samuel 23:9"
+      },
+      {
+        "reference": "1 Samuel 23:11",
+        "original": "1 Samuel 23:11"
+      },
+      {
+        "reference": "1 Samuel 23:12",
+        "original": "1 Samuel 23:12"
+      },
+      {
+        "reference": "1 Samuel 28:6",
+        "original": "1 Samuel 28:6"
+      },
+      {
+        "reference": "Judges 20:28",
+        "original": "Judges 20:28"
+      },
+      {
+        "reference": "2 Samuel 5:23",
+        "original": "2 Samuel 5:23"
+      },
+      {
+        "reference": "John 11:51",
+        "original": "John 11:51"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "usury": {
+    "name": "Usura",
+    "slug": "usury",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "La suma pagada por el uso del dinero, de ahí el interés; no, como en el sentido moderno, un interés exorbitante. A los judíos se les prohibió exigir usura (Levítico 25:36, 37), pero sólo en sus tratos entre sí (Deuteronomio 23:19, 20). La violación de esta ley era vista como un gran crimen (Sal. 15:5; Prov. 28:8; Jer. 15:10). Después del Retorno, y más tarde, esta ley fue muy descuidada (Nehemías 5:7, 10)."
+      },
+      {
+        "source": "SMI",
+        "text": "(La palabra usura ha llegado en inglés moderno a significar interés excesivo sobre el dinero prestado, ya sea formalmente ilegal o al menos opresivo. Sin embargo, en las Escrituras la palabra no tenía este sentido, sino que significaba simplemente interés de cualquier tipo sobre el dinero. La ley de Moisés prohibía a los judíos cobrar intereses de sus hermanos, pero se les permitía tomarlos de extranjeros. La prohibición surgió de la condición agrícola del pueblo, en el que no se necesitaban préstamos comerciales ordinarios. y los préstamos que se requerían debían hacerse sólo a amigos y hermanos necesitados.—ED.) La práctica de hipotecar tierras, a veces a intereses exorbitantes, creció entre los judíos durante el cautiverio, en violación directa de la ley. (Levítico 25:36,37; Ezequiel 18:8,13,17.) Encontramos que la tasa llega a 1 entre 100 por mes, lo que corresponde a la centisimae usurae romana, o 12 por ciento. al año."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 25:36",
+        "original": "Lev. 25:36"
+      },
+      {
+        "reference": "Leviticus 25:37",
+        "original": "Lev. 25:37"
+      },
+      {
+        "reference": "Deuteronomy 23:19",
+        "original": "Deut. 23:19"
+      },
+      {
+        "reference": "Deuteronomy 23:20",
+        "original": "Deut. 23:20"
+      },
+      {
+        "reference": "Psalms 15:5",
+        "original": "Ps. 15:5"
+      },
+      {
+        "reference": "Proverbs 28:8",
+        "original": "Prov. 28:8"
+      },
+      {
+        "reference": "Jeremiah 15:10",
+        "original": "Jer. 15:10"
+      },
+      {
+        "reference": "Nehemiah 5:7",
+        "original": "Neh. 5:7"
+      },
+      {
+        "reference": "Nehemiah 5:10",
+        "original": "Neh. 5:10"
+      },
+      {
+        "reference": "Ezekiel 18:8",
+        "original": "Ezekiel 18:8"
+      },
+      {
+        "reference": "Ezekiel 18:13",
+        "original": "Ezekiel 18:13"
+      },
+      {
+        "reference": "Ezekiel 18:17",
+        "original": "Ezekiel 18:17"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "ut": {
+    "name": "Utah",
+    "slug": "ut",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(enselvado)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 10:23",
+        "original": "Genesis 10:23"
+      },
+      {
+        "reference": "1 Chronicles 1:17",
+        "original": "1 Chronicles 1:17"
+      },
+      {
+        "reference": "Genesis 22:21",
+        "original": "Genesis 22:21"
+      },
+      {
+        "reference": "Genesis 36:28",
+        "original": "Genesis 36:28"
+      },
+      {
+        "reference": "Job 1:1",
+        "original": "Job 1:1"
+      },
+      {
+        "reference": "Job 1:3",
+        "original": "Job 1:3"
+      },
+      {
+        "reference": "Job 1:15",
+        "original": "Job 1:15"
+      },
+      {
+        "reference": "Job 1:17",
+        "original": "Job 1:17"
+      },
+      {
+        "reference": "Lamentations 4:21",
+        "original": "Lamentations 4:21"
+      },
+      {
+        "reference": "Job 30:6",
+        "original": "Job 30:6"
+      },
+      {
+        "reference": "Job 30:7",
+        "original": "Job 30:7"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uta": {
+    "name": "uta",
+    "slug": "uta",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "1 Esdr. 5:30. Parece ser una corrupción de Akkub. (Esdras 2:45)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1Esd 5:30",
+        "original": "1 Esdr. 5:30"
+      },
+      {
+        "reference": "Ezra 2:45",
+        "original": "Ezra 2:45"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uthai": {
+    "name": "utai",
+    "slug": "uthai",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(útil),"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 9:4",
+        "original": "1 Chronicles 9:4"
+      },
+      {
+        "reference": "Ezra 8:14",
+        "original": "Ezra 8:14"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uthii": {
+    "name": "Uthii",
+    "slug": "uthii",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "1 Esdr. 8:40. [Utai,2]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1Esd 8:40",
+        "original": "1 Esdr. 8:40"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uz": {
+    "name": "uz",
+    "slug": "uz",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Tierra fértil. (1.) Hijo de Aram y nieto de Sem (Gén. 10:23; 1 Cr. 1:17). (2.) Uno de los “duques” horeos en la tierra de Edom (Génesis 36:28). (3.) El hijo mayor de Nacor, hermano de Abraham (Gén. 22:21, R.V.)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 10:23",
+        "original": "Gen. 10:23"
+      },
+      {
+        "reference": "1 Chronicles 1:17",
+        "original": "1 Chr. 1:17"
+      },
+      {
+        "reference": "Genesis 36:28",
+        "original": "Gen. 36:28"
+      },
+      {
+        "reference": "Genesis 22:21",
+        "original": "Gen. 22:21"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "u"
+  },
+  "uz-the-land-of": {
+    "name": "Uz, la tierra de",
+    "slug": "uz-the-land-of",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Donde vivía Job (1:1; Jer. 25:20; Lam. 4:21), probablemente en algún lugar al este o sureste de Palestina y al norte de Edom. Se menciona en las Escrituras sólo en estos tres pasajes."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Jeremiah 25:20",
+        "original": "Jer. 25:20"
+      },
+      {
+        "reference": "Lamentations 4:21",
+        "original": "Lam. 4:21"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "u"
+  },
+  "uzai": {
+    "name": "Uzai",
+    "slug": "uzai",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(fuerte), el padre de Palal que ayudó a Nehemías a reconstruir la ciudad. (Nehemías 3:25) (A.C. antes del 446.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Nehemiah 3:25",
+        "original": "Nehemiah 3:25"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uzal": {
+    "name": "uzal",
+    "slug": "uzal",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un vagabundo, descendiente de Joctán (Gén. 10:27; 1 Cr. 1:21), aparentemente fundador de una de las tribus árabes; el nombre también probablemente de la provincia que ocupaban y de su ciudad principal."
+      },
+      {
+        "source": "SMI",
+        "text": "(separado), el sexto hijo de Joctán, (Génesis 10:27; 1 Crónicas 1:21) cuyos asentamientos se rastrean claramente en el antiguo nombre de San'a, la ciudad capital del Yemen (un distrito de Arabia), que originalmente era Awzal. Por su posición en el centro de la mejor parte de ese reino, siempre debió haber sido una ciudad importante. (San'a está situada a unas 150 millas de Adén y a 100 millas de la costa del Mar Rojo. Es una de las ciudades más imponentes de Arabia -ED.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 10:27",
+        "original": "Gen. 10:27"
+      },
+      {
+        "reference": "1 Chronicles 1:21",
+        "original": "1 Chr. 1:21"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uzza": {
+    "name": "Uza",
+    "slug": "uzza",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Strengh, un jardín en el que fueron sepultados Manasés y Amón (2 Reyes 21:18, 26). Probablemente estaba cerca del palacio del rey en Jerusalén, o pudo haber formado parte de los terrenos del palacio. Es posible que Manasés lo haya adquirido de alguien con este nombre."
+      },
+      {
+        "source": "SMI",
+        "text": "(fortaleza)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 21:18",
+        "original": "2 Kings 21:18"
+      },
+      {
+        "reference": "2 Kings 21:26",
+        "original": "2 Kings 21:26"
+      },
+      {
+        "reference": "1 Chronicles 8:7",
+        "original": "1 Chronicles 8:7"
+      },
+      {
+        "reference": "1 Chronicles 13:7",
+        "original": "1 Chronicles 13:7"
+      },
+      {
+        "reference": "1 Chronicles 13:9",
+        "original": "1 Chronicles 13:9"
+      },
+      {
+        "reference": "1 Chronicles 13:10",
+        "original": "1 Chronicles 13:10"
+      },
+      {
+        "reference": "1 Chronicles 13:11",
+        "original": "1 Chronicles 13:11"
+      },
+      {
+        "reference": "Ezra 2:49",
+        "original": "Ezra 2:49"
+      },
+      {
+        "reference": "Nehemiah 7:51",
+        "original": "Nehemiah 7:51"
+      },
+      {
+        "reference": "1 Chronicles 6:29",
+        "original": "1 Chronicles 6:29"
+      },
+      {
+        "reference": "1 Chronicles 23:10",
+        "original": "1 Chronicles 23:10"
+      },
+      {
+        "reference": "1 Chronicles 23:11",
+        "original": "1 Chronicles 23:11"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uzza-or-uzzah": {
+    "name": "Uza o Uza",
+    "slug": "uzza-or-uzzah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(fuerza), uno de los hijos de Abinadab, en cuya casa en Quiriat-jearim reposó el arca durante veinte años. Uza probablemente fue el segundo y Ahio el tercero. Ambos acompañaron su traslado cuando David se comprometió por primera vez a llevarlo a Jerusalén. (1043 a. C.) Ahio aparentemente iba delante del carro nuevo (1 Crónicas 13:7) en el que estaba colocado, y Uza caminaba al lado. “En la era de Nachón” (2 Samuel 6:6) o Quidón (1 Crónicas 13:9) tal vez al resbalar sobre la suave roca tropezaron los bueyes. Uza sujetó el arca para evitar que cayera. La profanación fue castigada con su muerte instantánea, para gran dolor de David, quien llamó al lugar Pérez-uza (la irrupción sobre Uza). Pero el destino de Uza no fue simplemente el castigo de su propia temeridad. El modo inadecuado de transportar el arca, que debería haber sido llevado sobre los hombros de los levitas, fue la causa principal de su acto impío; y David lo reconoció claramente como un castigo para el pueblo en general \"porque no lo buscamos según el debido orden\"."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 13:7",
+        "original": "1 Chronicles 13:7"
+      },
+      {
+        "reference": "2 Samuel 6:6",
+        "original": "2 Samuel 6:6"
+      },
+      {
+        "reference": "1 Chronicles 13:9",
+        "original": "1 Chronicles 13:9"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uzza-the-garden-of": {
+    "name": "Uza, el jardín de",
+    "slug": "uzza-the-garden-of",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "El lugar donde fueron sepultados Manasés rey de Judá y su hijo Amón. (2 Reyes 21:18,26) Era el jardín adjunto al palacio de Manasés. ver. 18. El hecho de su mención demuestra que no era donde estaban los habituales sepulcros de los reyes. Sin embargo, no se proporciona ninguna pista sobre su posición."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 21:18",
+        "original": "2 Kings 21:18"
+      },
+      {
+        "reference": "2 Kings 21:26",
+        "original": "2 Kings 21:26"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uzzah": {
+    "name": "Uza",
+    "slug": "uzzah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Fortaleza, hijo de Abinadab, en cuya casa los hombres de Quiriat-jearim colocaron el arca cuando fue traída de la tierra de los filisteos (1 Sam. 7:1). Él y su hermano Ahio conducían el carro en el que estaba colocada el arca cuando David intentaba llevarla a Jerusalén. Cuando los bueyes tropezaron, Uza, en violación directa de la ley divina (Números 4:15), extendió su mano para sostener el arca y fue inmediatamente herido de muerte. El lugar donde esto ocurrió se llamó en adelante Pérez Uza (1 Crónicas 13:11). Ante esto, David temió seguir adelante y colocó el arca en la casa de Obed-edom el geteo (2 Sam. 6:2-11; 1 Cr. 13:6-13)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 7:1",
+        "original": "1 Sam. 7:1"
+      },
+      {
+        "reference": "Numbers 4:15",
+        "original": "Num. 4:15"
+      },
+      {
+        "reference": "1 Chronicles 13:11",
+        "original": "1 Chr. 13:11"
+      },
+      {
+        "reference": "2 Samuel 6:2-11",
+        "original": "2 Sam. 6:2-11"
+      },
+      {
+        "reference": "1 Chronicles 13:6-13",
+        "original": "1 Chr. 13:6-13"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "u"
+  },
+  "uzzen-sherah": {
+    "name": "Uzzen-sherah",
+    "slug": "uzzen-sherah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Un pueblo probablemente cerca de Bet-horón. Derivó su nombre de la hija de Efraín (1 Crónicas 7:24)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:24",
+        "original": "1 Chr. 7:24"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "u"
+  },
+  "uzzensherah": {
+    "name": "Uzzensherah",
+    "slug": "uzzensherah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(oreja (o punta) de Sherah) una ciudad fundada o reconstruida por Sherah, una mujer efrainita, hija del propio Efraín o de Beriá. Se nombra sólo en (1 Crónicas 7:24) en relación con las dos Bet-horón."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 7:24",
+        "original": "1 Chronicles 7:24"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uzzi": {
+    "name": "uzzi",
+    "slug": "uzzi",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El Señor es mi fortaleza. (1.) Hijo de Bukki y descendiente de Aarón (1 Crónicas 6:5, 51; Esdras 7:4). (2.) Un nieto de Isacar (1 Crónicas 7:2, 3). (3.) Hijo de Bela y nieto de Benjamín (1 Crónicas 7:7). (4.) Un benjamita, un jefe de la tribu (1 Crónicas 9:8). (5.) Un hijo de Bani. Tuvo la supervisión de los levitas después del regreso del cautiverio (Nehemías 11:22). (6.) El jefe de la casa de Jedaías, uno de “los principales de los sacerdotes” (Nehemías 12:19). (7.) Un sacerdote que ayudó en la dedicación de los muros de Jerusalén (Nehemías 12:42)."
+      },
+      {
+        "source": "SMI",
+        "text": "(fuerte)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 6:5",
+        "original": "1 Chr. 6:5"
+      },
+      {
+        "reference": "1 Chronicles 6:51",
+        "original": "1 Chr. 6:51"
+      },
+      {
+        "reference": "Ezra 7:4",
+        "original": "Ezra 7:4"
+      },
+      {
+        "reference": "1 Chronicles 7:2",
+        "original": "1 Chr. 7:2"
+      },
+      {
+        "reference": "1 Chronicles 7:3",
+        "original": "1 Chr. 7:3"
+      },
+      {
+        "reference": "1 Chronicles 7:7",
+        "original": "1 Chr. 7:7"
+      },
+      {
+        "reference": "1 Chronicles 9:8",
+        "original": "1 Chr. 9:8"
+      },
+      {
+        "reference": "Nehemiah 11:22",
+        "original": "Neh. 11:22"
+      },
+      {
+        "reference": "Nehemiah 12:19",
+        "original": "Neh. 12:19"
+      },
+      {
+        "reference": "Nehemiah 12:42",
+        "original": "Neh. 12:42"
+      },
+      {
+        "reference": "1 Chronicles 6:61",
+        "original": "1 Chronicles 6:61"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uzzia": {
+    "name": "Uzía",
+    "slug": "uzzia",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(fuerza de Jehová), miembro de la guardia de David y aparentemente natural de Astarot, más allá del Jordán. (1 Crónicas 11:44) (1053 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 11:44",
+        "original": "1 Chronicles 11:44"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uzziah": {
+    "name": "Uzías",
+    "slug": "uzziah",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una forma contraída de Azarías el Señor es mi fortaleza. (1.) Uno de los hijos de Amasías, a quien el pueblo hizo rey de Judá en lugar de su padre (2 Reyes 14:21; 2 Crónicas 26:1). Su largo reinado de unos cincuenta y dos años fue “el más próspero, excepto el de Josafat, desde los tiempos de Salomón”. Fue un gobernante vigoroso y capaz, y “su nombre se difundió hasta la entrada de Egipto” (2 Crónicas 26:8, 14). En la primera parte de su reinado, bajo la influencia de Zacarías, fue fiel a Jehová e “hizo lo recto ante los ojos del Señor” (2 Reyes 15:3; 2 Crónicas 26:4, 5); pero hacia el final de su larga vida “su corazón se enalteció hasta la destrucción”, e invadió sin motivo el oficio del sacerdote (2 Cr. 26:16), y entrando en el santuario procedió a ofrecer incienso sobre el altar de oro. Azarías, el sumo sacerdote, vio la tendencia de un acto tan atrevido por parte del rey, y con un grupo de ochenta sacerdotes lo resistió (2 Crónicas 26:17), diciendo: “A ti, Uzías, no te corresponde quemar incienso”. Uzías repentinamente fue atacado por lepra mientras estaba ofreciendo incienso (26:19-21), y fue expulsado del templo y obligado a residir en “una casa separada” hasta el día de su muerte (2 Reyes 15:5, 27; 2 Crónicas 26:3). Fue enterrado en una tumba separada “en el campo del sepulcro que pertenecía a los reyes” (2 Reyes 15:7; 2 Crónicas 26:23). “Esa tumba solitaria en la necrópolis real testificaría elocuentemente a las generaciones futuras de que toda monarquía terrenal debe inclinarse ante el orden inviolable de la voluntad divina, y que no se podría tolerar ninguna interferencia con el desarrollo de los propósitos de Dios, que, en la plenitud de los tiempos, revelarían al Cristo, el verdadero Sumo Sacerdote y Rey para siempre” (El Reino de Israel del Dr. Green, etc.). (2.) El padre de Jonatán, uno de los supervisores de David (1 Crónicas 27:25)."
+      },
+      {
+        "source": "SMI",
+        "text": "(fuerza de Jehová)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 14:21",
+        "original": "2 Kings 14:21"
+      },
+      {
+        "reference": "2 Chronicles 26:1",
+        "original": "2 Chr. 26:1"
+      },
+      {
+        "reference": "2 Chronicles 26:8",
+        "original": "2 Chr. 26:8"
+      },
+      {
+        "reference": "2 Chronicles 26:14",
+        "original": "2 Chr. 26:14"
+      },
+      {
+        "reference": "2 Kings 15:3",
+        "original": "2 Kings 15:3"
+      },
+      {
+        "reference": "2 Chronicles 26:4",
+        "original": "2 Chr. 26:4"
+      },
+      {
+        "reference": "2 Chronicles 26:5",
+        "original": "2 Chr. 26:5"
+      },
+      {
+        "reference": "2 Chronicles 26:16",
+        "original": "2 Chr. 26:16"
+      },
+      {
+        "reference": "2 Chronicles 26:17",
+        "original": "2 Chr. 26:17"
+      },
+      {
+        "reference": "2 Kings 15:5",
+        "original": "2 Kings 15:5"
+      },
+      {
+        "reference": "2 Kings 15:27",
+        "original": "2 Kings 15:27"
+      },
+      {
+        "reference": "2 Chronicles 26:3",
+        "original": "2 Chr. 26:3"
+      },
+      {
+        "reference": "2 Kings 15:7",
+        "original": "2 Kings 15:7"
+      },
+      {
+        "reference": "2 Chronicles 26:23",
+        "original": "2 Chr. 26:23"
+      },
+      {
+        "reference": "1 Chronicles 27:25",
+        "original": "1 Chr. 27:25"
+      },
+      {
+        "reference": "Exodus 30:7",
+        "original": "Exodus 30:7"
+      },
+      {
+        "reference": "Exodus 30:8",
+        "original": "Exodus 30:8"
+      },
+      {
+        "reference": "Numbers 16:40",
+        "original": "Numbers 16:40"
+      },
+      {
+        "reference": "Numbers 18:7",
+        "original": "Numbers 18:7"
+      },
+      {
+        "reference": "2 Chronicles 27:2",
+        "original": "2 Chronicles 27:2"
+      },
+      {
+        "reference": "Amos 1:1",
+        "original": "Amos 1:1"
+      },
+      {
+        "reference": "Zechariah 14:5",
+        "original": "Zechariah 14:5"
+      },
+      {
+        "reference": "1 Chronicles 6:24",
+        "original": "1 Chronicles 6:24"
+      },
+      {
+        "reference": "Ezra 10:21",
+        "original": "Ezra 10:21"
+      },
+      {
+        "reference": "Nehemiah 11:4",
+        "original": "Nehemiah 11:4"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uzziel": {
+    "name": "Uzziel",
+    "slug": "uzziel",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Fuerza de Dios. (1.) Uno de los hijos de Coat y tío de Aarón (Éxodo 6:18; Levítico 10:4). (2.) Un capitán simeonita (1 Crónicas 4:39-43). (3.) Hijo de Bela y nieto de Benjamín (1 Crónicas 7:7). (4.) Uno de los hijos de Hemán (1 Crónicas 25:4); llamado también Azareel (18). (5.) Un hijo de Jedután (2 Crónicas 29:14). (6.) El hijo de Harhaía (Nehemías 3:8)."
+      },
+      {
+        "source": "SMI",
+        "text": "(mi fuerza es Dios)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 6:18",
+        "original": "Ex. 6:18"
+      },
+      {
+        "reference": "Leviticus 10:4",
+        "original": "Lev. 10:4"
+      },
+      {
+        "reference": "1 Chronicles 4:39-43",
+        "original": "1 Chr. 4:39-43"
+      },
+      {
+        "reference": "1 Chronicles 7:7",
+        "original": "1 Chr. 7:7"
+      },
+      {
+        "reference": "1 Chronicles 25:4",
+        "original": "1 Chr. 25:4"
+      },
+      {
+        "reference": "2 Chronicles 29:14",
+        "original": "2 Chr. 29:14"
+      },
+      {
+        "reference": "Nehemiah 3:8",
+        "original": "Neh. 3:8"
+      },
+      {
+        "reference": "Exodus 6:22",
+        "original": "Exodus 6:22"
+      },
+      {
+        "reference": "1 Chronicles 4:42",
+        "original": "1 Chronicles 4:42"
+      },
+      {
+        "reference": "2 Chronicles 29:18",
+        "original": "2 Chronicles 29:18"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "u"
+  },
+  "uzzielites-the": {
+    "name": "Uzzielitas, los",
+    "slug": "uzzielites-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "los descendientes de Uziel, y una de las cuatro grandes familias de los Coatitas. (Números 3:27; 1 Crónicas 26:23)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 3:27",
+        "original": "Numbers 3:27"
+      },
+      {
+        "reference": "1 Chronicles 26:23",
+        "original": "1 Chronicles 26:23"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "u"
+  }
+}

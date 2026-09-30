@@ -1,0 +1,3419 @@
+{
+  "apparel": {
+    "name": "Vestimenta",
+    "slug": "apparel",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "En los tiempos del Antiguo Testamento, la distinción entre la vestimenta masculina y femenina no estaba muy marcada. El estatuto que prohibía a los hombres usar ropa femenina (Deuteronomio 22:5) se refería especialmente a los adornos y tocados. Tanto hombres como mujeres usaban (1) una prenda interior o túnica, que estaba ceñida por un cinturón. A quien solo llevaba esta túnica se le consideraba \"desnudo\" (1 Samuel 19:24; Job 24:10; Isaías 20:2). Los que ocupaban altos cargos a veces llevaban dos túnicas, siendo la exterior llamada \"manto\" (1 Samuel 15:27; 18:4; 24:5; Job 1:20). (2.) Llevaban en común una prenda exterior (\"manto\", Isaías 3:22; 1 Reyes 19:13; 2 Reyes 2:13), una túnica holgada y fluida. Los pliegues de esta prenda exterior podían formarse en un regazo (Rut 3:15; Salmos 79:12; Proverbios 17:23; Lucas 6:38). Los generales de los ejércitos solían llevar túnicas escarlata (Jueces 8:26; Nahum 2:3). Una forma de vestimenta llamativa se menciona en Lucas 20:46; comp. Mateo 23:5. Solo los sacerdotes usaban pantalones. Tanto hombres como mujeres usaban turbantes. Los reyes y los nobles solían tener una reserva de prendas costosas para ocasiones festivas (Isaías 3:22; Zacarías 3:4) y para regalos (Génesis 45:22; Ester 4:4; 6:8, 11; 1 Samuel 18:4; 2 Reyes 5:5; 10:22). Los profetas y ascetas usaban prendas toscas (Isaías 20:2; Zacarías 13:4; Mateo 3:4)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 22:5",
+        "original": "Deut. 22:5"
+      },
+      {
+        "reference": "1 Samuel 19:24",
+        "original": "1 Sam. 19:24"
+      },
+      {
+        "reference": "Job 24:10",
+        "original": "Job 24:10"
+      },
+      {
+        "reference": "Isaiah 20:2",
+        "original": "Isa. 20:2"
+      },
+      {
+        "reference": "1 Samuel 15:27",
+        "original": "1 Sam. 15:27"
+      },
+      {
+        "reference": "1 Samuel 18:4",
+        "original": "1 Sam. 18:4"
+      },
+      {
+        "reference": "1 Samuel 24:5",
+        "original": "1 Sam. 24:5"
+      },
+      {
+        "reference": "Job 1:20",
+        "original": "Job 1:20"
+      },
+      {
+        "reference": "Isaiah 3:22",
+        "original": "Isa. 3:22"
+      },
+      {
+        "reference": "1 Kings 19:13",
+        "original": "1 Kings 19:13"
+      },
+      {
+        "reference": "2 Kings 2:13",
+        "original": "2 Kings 2:13"
+      },
+      {
+        "reference": "Ruth 3:15",
+        "original": "Ruth 3:15"
+      },
+      {
+        "reference": "Psalms 79:12",
+        "original": "Ps. 79:12"
+      },
+      {
+        "reference": "Proverbs 17:23",
+        "original": "Prov. 17:23"
+      },
+      {
+        "reference": "Luke 6:38",
+        "original": "Luke 6:38"
+      },
+      {
+        "reference": "Judges 8:26",
+        "original": "Judg. 8:26"
+      },
+      {
+        "reference": "Nahum 2:3",
+        "original": "Nah. 2:3"
+      },
+      {
+        "reference": "Luke 20:46",
+        "original": "Luke 20:46"
+      },
+      {
+        "reference": "Matthew 23:5",
+        "original": "Matt. 23:5"
+      },
+      {
+        "reference": "Zechariah 3:4",
+        "original": "Zech. 3:4"
+      },
+      {
+        "reference": "Genesis 45:22",
+        "original": "Gen. 45:22"
+      },
+      {
+        "reference": "Esther 4:4",
+        "original": "Esther 4:4"
+      },
+      {
+        "reference": "Esther 6:8",
+        "original": "Esther 6:8"
+      },
+      {
+        "reference": "Esther 6:11",
+        "original": "Esther 6:11"
+      },
+      {
+        "reference": "2 Kings 5:5",
+        "original": "2 Kings 5:5"
+      },
+      {
+        "reference": "2 Kings 10:22",
+        "original": "2 Kings 10:22"
+      },
+      {
+        "reference": "Zechariah 13:4",
+        "original": "Zech. 13:4"
+      },
+      {
+        "reference": "Matthew 3:4",
+        "original": "Matt. 3:4"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "avenger-of-blood": {
+    "name": "Vengador de la sangre",
+    "slug": "avenger-of-blood",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(heb. goel, del verbo gaal, “ser pariente cercano”, “redimir”), el pariente más cercano de una persona asesinada. Era su derecho y deber matar al asesino (2 Sam. 14:7, 11) si lo encontraba fuera de una ciudad de refugio. Para que esta ley estuviera protegida contra abusos, Moisés designó seis ciudades de refugio (Éx. 21:13; Núm. 35:13; Deut. 19:1, 9). Estas estaban en diferentes partes del país, y se facilitaba al homicida que pudiera huir a la ciudad más cercana para ponerse a salvo. El vengador no podía seguirle dentro de la ciudad de refugio. Esta disposición se aplicaba solo a casos donde la muerte no era premeditada. El caso debía ser investigado por las autoridades de la ciudad, y el asesino voluntario de ninguna manera debía ser perdonado. Era considerado una persona impura y contaminada, y era entregado al goel (Deut. 19:11-13). Si el delito era simplemente homicidio involuntario, el fugitivo debía permanecer dentro de la ciudad hasta la muerte del sumo sacerdote (Núm. 35:25)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Samuel 14:7",
+        "original": "2 Sam. 14:7"
+      },
+      {
+        "reference": "2 Samuel 14:11",
+        "original": "2 Sam. 14:11"
+      },
+      {
+        "reference": "Exodus 21:13",
+        "original": "Ex. 21:13"
+      },
+      {
+        "reference": "Numbers 35:13",
+        "original": "Num. 35:13"
+      },
+      {
+        "reference": "Deuteronomy 19:1",
+        "original": "Deut. 19:1"
+      },
+      {
+        "reference": "Deuteronomy 19:9",
+        "original": "Deut. 19:9"
+      },
+      {
+        "reference": "Deuteronomy 19:11-13",
+        "original": "Deut. 19:11-13"
+      },
+      {
+        "reference": "Numbers 35:25",
+        "original": "Num. 35:25"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "basin": {
+    "name": "Vasija (o Tazón)",
+    "slug": "basin",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "O Bazón. (1.) Un abrevadero o fuente (Heb. aggan) para lavar (Ex. 24:6); traducido también como “copa” (Cant. 7:2) y “tazas” (Is. 22:24). (2.) Un plato cubierto o urna (Heb. k’for) entre los utensilios del templo (1 Cr. 28:17; Esd. 1:10; 8:27). (3.) Un jarrón (Heb. mizrak) desde el cual rociar algo. Un recipiente metálico; a veces traducido como “tazón” (Am. 6:6; Zac. 9:15). Los utensilios del tabernáculo eran de bronce (Ex. 27:3), mientras que los del templo eran de oro (2 Cr. 4:8). (4.) Un utensilio (Heb. saph) para contener la sangre de las víctimas (Ex. 12:22); también una vasija para propósitos domésticos (2 S. 17:28). Los diversos utensilios mencionados con los nombres “tazón, fuente, cargador, copa y plato”, no pueden distinguirse hoy con precisión. La vasija en la que nuestro Señor lavó los pies de los discípulos (Jn. 13:5) debe haber sido más grande y profunda que la palangana para las manos."
+      },
+      {
+        "source": "SMI",
+        "text": "Entre los utensilios más pequeños para el servicio del tabernáculo o del templo, se debieron requerir muchos para recibir de las víctimas sacrificadas la sangre que debía rociarse para la purificación. El “tazón” del cual nuestro Señor lavó los pies de los discípulos probablemente era más profundo y grande que la palangana para rociar."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 24:6",
+        "original": "Ex. 24:6"
+      },
+      {
+        "reference": "Song of Solomon 7:2",
+        "original": "Cant. 7:2"
+      },
+      {
+        "reference": "Isaiah 22:24",
+        "original": "Isa. 22:24"
+      },
+      {
+        "reference": "1 Chronicles 28:17",
+        "original": "1 Chr. 28:17"
+      },
+      {
+        "reference": "Ezra 1:10",
+        "original": "Ezra 1:10"
+      },
+      {
+        "reference": "Ezra 8:27",
+        "original": "Ezra 8:27"
+      },
+      {
+        "reference": "Amos 6:6",
+        "original": "Amos 6:6"
+      },
+      {
+        "reference": "Zechariah 9:15",
+        "original": "Zech. 9:15"
+      },
+      {
+        "reference": "Exodus 27:3",
+        "original": "Ex. 27:3"
+      },
+      {
+        "reference": "2 Chronicles 4:8",
+        "original": "2 Chr. 4:8"
+      },
+      {
+        "reference": "Exodus 12:22",
+        "original": "Ex. 12:22"
+      },
+      {
+        "reference": "2 Samuel 17:28",
+        "original": "2 Sam. 17:28"
+      },
+      {
+        "reference": "John 13:5",
+        "original": "John 13:5"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "beam": {
+    "name": "Viga",
+    "slug": "beam",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Aparece en la Versión Autorizada como traducción de varias palabras hebreas. En 1 Sam. 17:7, significa un marco de tejedor o viga principal; en Hab. 2:11, una viga transversal o vigueta; 2 Reyes 6:2, 5, una pieza transversal o viga de una casa; 1 Reyes 7:6, un adorno arquitectónico como un escalón saliente o moldura; Ezeq. 41:25, un tablón grueso. En el Nuevo Testamento, la palabra aparece solo en Mat. 7:3, 4, 5, y Luc. 6:41, 42, donde significa (Gr. dokos) una pieza grande de madera utilizada para fines de construcción, en contraste con \"paja\" (Gr. karphos), una pieza pequeña o simple astilla. \"Paja\" y \"viga\" se convirtieron en proverbiales para las faltas pequeñas y grandes."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 17:7",
+        "original": "1 Sam. 17:7"
+      },
+      {
+        "reference": "Habakkuk 2:11",
+        "original": "Hab. 2:11"
+      },
+      {
+        "reference": "2 Kings 6:2",
+        "original": "2 Kings 6:2"
+      },
+      {
+        "reference": "2 Kings 6:5",
+        "original": "2 Kings 6:5"
+      },
+      {
+        "reference": "1 Kings 7:6",
+        "original": "1 Kings 7:6"
+      },
+      {
+        "reference": "Ezekiel 41:25",
+        "original": "Ezek. 41:25"
+      },
+      {
+        "reference": "Matthew 7:3",
+        "original": "Matt. 7:3"
+      },
+      {
+        "reference": "Matthew 7:4",
+        "original": "Matt. 7:4"
+      },
+      {
+        "reference": "Matthew 7:5",
+        "original": "Matt. 7:5"
+      },
+      {
+        "reference": "Luke 6:41",
+        "original": "Luke 6:41"
+      },
+      {
+        "reference": "Luke 6:42",
+        "original": "Luke 6:42"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "beeves": {
+    "name": "Vacuno",
+    "slug": "beeves",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(antiguo plural inglés de la palabra beef), un nombre aplicable a todos los animales rumiantes excepto los camellos, y especialmente a los Bovidce, o ganado cornudo (Lev. 22:19, 21; Núm. 31:28, 30, 33, 38, 44)."
+      },
+      {
+        "source": "SMI",
+        "text": "Igual que ganado. (Levítico 22:19) [Ver Toro, Novillo]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 22:19",
+        "original": "Lev. 22:19"
+      },
+      {
+        "reference": "Leviticus 22:21",
+        "original": "Lev. 22:21"
+      },
+      {
+        "reference": "Numbers 31:28",
+        "original": "Num. 31:28"
+      },
+      {
+        "reference": "Numbers 31:30",
+        "original": "Num 31:30"
+      },
+      {
+        "reference": "Numbers 31:33",
+        "original": "Num 31:33"
+      },
+      {
+        "reference": "Numbers 31:38",
+        "original": "Num 31:38"
+      },
+      {
+        "reference": "Numbers 31:44",
+        "original": "Num 31:44"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "belly": {
+    "name": "Vientre",
+    "slug": "belly",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El asiento de los afectos carnales (Tito 1:12; Fil. 3:19; Rom. 16:18). La palabra se usa simbólicamente para el corazón (Prov. 18:8; 20:27; 22:18, nota al margen). El \"vientre del infierno\" significa la tumba o el inframundo (Jonás 2:2)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Titus 1:12",
+        "original": "Titus 1:12"
+      },
+      {
+        "reference": "Philippians 3:19",
+        "original": "Phil. 3:19"
+      },
+      {
+        "reference": "Romans 16:18",
+        "original": "Rom. 16:18"
+      },
+      {
+        "reference": "Proverbs 18:8",
+        "original": "Prov. 18:8"
+      },
+      {
+        "reference": "Proverbs 20:27",
+        "original": "Prov 20:27"
+      },
+      {
+        "reference": "Proverbs 22:18",
+        "original": "Prov 22:18"
+      },
+      {
+        "reference": "Jonah 2:2",
+        "original": "Jonah 2:2"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "blood-revenger-of": {
+    "name": "Vengador de la sangre",
+    "slug": "blood-revenger-of",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Aquel que vengaba la sangre de alguien que había sido asesinado. El pariente más cercano del difunto se convertía en el vengador autorizado de la sangre (Números 35:19). La ley del talión no debía extenderse más allá del ofensor inmediato (Deuteronomio 24:16; 2 Reyes 14:6; 2 Crónicas 25:4; Jeremías 31:29,30; Ezequiel 18:20)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 35:19",
+        "original": "Numbers 35:19"
+      },
+      {
+        "reference": "2 Kings 14:6",
+        "original": "2 Kings 14:6"
+      },
+      {
+        "reference": "2 Chronicles 25:4",
+        "original": "2 Chronicles 25:4"
+      },
+      {
+        "reference": "Jeremiah 31:29",
+        "original": "Jeremiah 31:29"
+      },
+      {
+        "reference": "Jeremiah 31:30",
+        "original": "Jeremiah 31:30"
+      },
+      {
+        "reference": "Ezekiel 18:20",
+        "original": "Ezekiel 18:20"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "bond": {
+    "name": "Vínculo",
+    "slug": "bond",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una obligación de cualquier tipo (Núm. 30:2, 4, 12). La palabra significa también opresión o aflicción (Sal. 116:16; Fil. 1:7). El amor cristiano es el «vínculo de la perfección» (Col. 3:14), y las influencias del Espíritu son el «vínculo de la paz» (Ef. 4:3)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 30:2",
+        "original": "Num. 30:2"
+      },
+      {
+        "reference": "Numbers 30:4",
+        "original": "Num. 30:4"
+      },
+      {
+        "reference": "Numbers 30:12",
+        "original": "Num. 30:12"
+      },
+      {
+        "reference": "Psalms 116:16",
+        "original": "Ps. 116:16"
+      },
+      {
+        "reference": "Philippians 1:7",
+        "original": "Phil. 1:7"
+      },
+      {
+        "reference": "Colossians 3:14",
+        "original": "Col. 3:14"
+      },
+      {
+        "reference": "Ephesians 4:3",
+        "original": "Eph. 4:3"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "candle": {
+    "name": "Vela",
+    "slug": "candle",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Heb. ner, Job 18:6; 29:3; Sal. 18:28; Prov. 24:20, en todos cuyos pasajes la Versión Revisada y el margen de la Versión Autorizada tienen «lámpara», término por el cual la palabra se traduce con frecuencia en otros lugares. La palabra hebrea denota propiamente cualquier tipo de vela, lámpara o antorcha. Se utiliza como figura de la conciencia (Prov. 20:27), de un ejemplo cristiano (Mt. 5:14, 15) y de la prosperidad (Job 21:17; Prov. 13:9)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 18:6",
+        "original": "Job 18:6"
+      },
+      {
+        "reference": "Job 29:3",
+        "original": "Job 29:3"
+      },
+      {
+        "reference": "Psalms 18:28",
+        "original": "Ps. 18:28"
+      },
+      {
+        "reference": "Proverbs 24:20",
+        "original": "Prov. 24:20"
+      },
+      {
+        "reference": "Proverbs 20:27",
+        "original": "Prov. 20:27"
+      },
+      {
+        "reference": "Matthew 5:14",
+        "original": "Matt. 5:14"
+      },
+      {
+        "reference": "Matthew 5:15",
+        "original": "Matt. 5:15"
+      },
+      {
+        "reference": "Job 21:17",
+        "original": "Job 21:17"
+      },
+      {
+        "reference": "Proverbs 13:9",
+        "original": "Prov. 13:9"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "coming-of-christ": {
+    "name": "venida de cristo",
+    "slug": "coming-of-christ",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1) con referencia a su primera venida “en el cumplimiento del tiempo” (1 Juan 5:20; 2 Juan 1:7), o (2) con referencia a su venida nuevamente por segunda vez en el último día (Hechos 1:11; 3:20, 21; 1 Tes. 4:15; 2 Tim. 4:1; Heb. 9:28). La expresión se usa metafóricamente para referirse a la introducción del evangelio en cualquier lugar (Juan 15:22; Ef. 2:17), el establecimiento visible de su reino en el mundo (Mat. 16:28), la concesión a su pueblo de las muestras peculiares de su amor (Juan 14:18, 23, 28) y su ejecución de juicio sobre los malvados (2 Tes. 2:8)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 John 5:20",
+        "original": "1 John 5:20"
+      },
+      {
+        "reference": "2 John 1:1",
+        "original": "2 John 1"
+      },
+      {
+        "reference": "Acts 1:11",
+        "original": "Acts 1:11"
+      },
+      {
+        "reference": "Acts 3:20",
+        "original": "Acts 3:20"
+      },
+      {
+        "reference": "Acts 3:21",
+        "original": "Acts 3:21"
+      },
+      {
+        "reference": "1 Thessalonians 4:15",
+        "original": "1 Thess. 4:15"
+      },
+      {
+        "reference": "2 Timothy 4:1",
+        "original": "2 Tim. 4:1"
+      },
+      {
+        "reference": "Hebrews 9:28",
+        "original": "Heb. 9:28"
+      },
+      {
+        "reference": "John 15:22",
+        "original": "John 15:22"
+      },
+      {
+        "reference": "Ephesians 2:17",
+        "original": "Eph. 2:17"
+      },
+      {
+        "reference": "Matthew 16:28",
+        "original": "Matt. 16:28"
+      },
+      {
+        "reference": "John 14:18",
+        "original": "John 14:18"
+      },
+      {
+        "reference": "John 14:23",
+        "original": "John 14:23"
+      },
+      {
+        "reference": "John 14:28",
+        "original": "John 14:28"
+      },
+      {
+        "reference": "2 Thessalonians 2:8",
+        "original": "2 Thess. 2:8"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "cow": {
+    "name": "Vaca",
+    "slug": "cow",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una vaca y su becerro no debían ser sacrificados en el mismo día (Levítico 22:28; Éxodo 23:19; Deuteronomio 22:6, 7). No se da el motivo de esta promulgación. Un estado de gran pobreza se describe en las palabras de Isa. 7:21-25, donde, en lugar de poseer grandes recursos, un hombre dependerá para su subsistencia y la de su familia de lo que una sola vaca y dos ovejas podrían producir."
+      },
+      {
+        "source": "SMI",
+        "text": "[Toro, toro]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 22:28",
+        "original": "Lev. 22:28"
+      },
+      {
+        "reference": "Exodus 23:19",
+        "original": "Ex. 23:19"
+      },
+      {
+        "reference": "Deuteronomy 22:6",
+        "original": "Deut. 22:6"
+      },
+      {
+        "reference": "Deuteronomy 22:7",
+        "original": "Deut. 22:7"
+      },
+      {
+        "reference": "Isaiah 7:21-25",
+        "original": "Isa. 7:21-25"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "dodo": {
+    "name": "Vejestorio",
+    "slug": "dodo",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Amatorio; cariñoso. (1.) Descendiente de Isacar (Jueces 10:1). (2.) Un Ahohita, padre de Eleazar, quien fue uno de los tres héroes de David (2 Sam. 23:9; 1 Cr. 11:12). Lo mismo ocurrió con Dodai mencionado en 1 Crón. 27:4. (3.) Belén y padre de Elhanán, quien fue uno de los treinta héroes de David (2 Sam. 23:24)."
+      },
+      {
+        "source": "SMI",
+        "text": "(cariñoso)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 10:1",
+        "original": "Judg. 10:1"
+      },
+      {
+        "reference": "2 Samuel 23:9",
+        "original": "2 Sam. 23:9"
+      },
+      {
+        "reference": "1 Chronicles 11:12",
+        "original": "1 Chr. 11:12"
+      },
+      {
+        "reference": "1 Chronicles 27:4",
+        "original": "1 Chr. 27:4"
+      },
+      {
+        "reference": "2 Samuel 23:24",
+        "original": "2 Sam. 23:24"
+      },
+      {
+        "reference": "1 Chronicles 11:26",
+        "original": "1 Chronicles 11:26"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "dress": {
+    "name": "Vestido",
+    "slug": "dress",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Materiales utilizados. El más antiguo y sencillo, un delantal de hojas de higuera cosidas (Génesis 3:7); luego pieles de animales (3:21). La vestimenta de Elías probablemente era la piel de una oveja (2 Reyes 1:8). Los hebreos conocieron desde muy temprano el arte de tejer cabellos para formar telas (Éxodo 26:7; 35:6), que formaban el cilicio de los dolientes. Este era el material del manto de Juan el Bautista (Mateo 3:4). La lana también se tejía en prendas de vestir (Levítico 13:47; Deuteronomio 22:11; Ezequiel 34:3; Job 31:20; Proverbios 27:26). Los israelitas probablemente aprendieron el arte de tejer lino cuando estaban en Egipto (1 Crónicas 4:21). El lino fino era usado en las vestiduras del sumo sacerdote (Éxodo 28:5), así como entre los ricos (Gén. 41:42; Prov. 31:22; Lucas 16:19). Estaba prohibido el uso de materiales mixtos, como lana y lino (Levítico 19:19; Deuteronomio 22:11). (2.) Color. El color predominante era el blanco natural del material utilizado, que a veces se hacía más puro mediante el arte del batanero (Sal. 104:1, 2; Isa. 63:3; Marcos 9:3). Los hebreos estaban familiarizados con el arte de teñir (Gén. 37:3, 23). Se adoptaron varios modos de ornamentación en el proceso de tejido (Éxodo 28:6; 26:1, 31; 35:25) y en la labor de costura (Jue. 5:30; Sal. 45:13). Se importaban túnicas teñidas de países extranjeros, particularmente de Fenicia (Sof. 1:8). Las túnicas púrpura y escarlata eran las marcas de los ricos (Lucas 16:19; 2 Sam. 1:24). (3.) Formulario. Las túnicas de hombres y mujeres no diferían mucho entre sí. (a) Ambos sexos usaban la “túnica” (ketoneth), de lana, algodón o lino. Era una prenda ajustada, parecida en uso y forma a nuestra camisa (Juan 19:23). Se mantenía cerca del cuerpo mediante un cinto (Juan 21:7). Una persona que llevaba únicamente esta “túnica” era descrita como desnuda (1 Sam. 19:24; Isa. 20:2; 2 Reyes 6:30; Juan 21:7); privado de él estaría absolutamente desnudo. (b) Un paño de lino o envoltura (sadin) de lino fino, usado un poco como camisón (Marcos 14:51). Se menciona en Jue. 14:12, 13, y allí se tradujo “sábanas”. (c) Una túnica superior (meil), más larga que la “túnica” (1 Sam. 2:19; 24:4; 28:14). En 1 Sam. 28:14 es el manto en que estaba envuelto Samuel; en 1 Sam. 24:4 es la “túnica” bajo la cual dormía Saúl. A los discípulos se les prohibió usar dos “túnicas” (Mateo 10:10; Lucas 9:3). (d) La prenda exterior habitual consistía en un trozo de tela de lana como una tela escocesa escocesa, ya sea envuelta alrededor del cuerpo o echada sobre los hombros como un chal, con los extremos colgando hacia adelante, o podía echarse sobre la cabeza para ocultar el rostro (2 Sam. 15:30; Ester 6:12). Estaba limitado a la cintura por un cinturón, y el pliegue formado por la superposición del manto servía como bolsillo (2 Reyes 4:39; Sal. 79:12; Hageo 2:12; Prov. 17:23; 21:14). Vestido femenino. La “túnica” era común a ambos sexos (Cant. 5:3). Pero era peculiar de las mujeres (1) el “velo” o “toca”, una especie de chal (Rut 3:15; traducido “manto”, R.V., Isa. 3:22); (2) el “manto”, también una especie de chal (Isaías 3:22); (3) un “velo”, probablemente un vestido ligero de verano (Génesis 24:65); (4) un “estómago”, un vestido de fiesta (Isaías 3:24). La prenda exterior terminaba en una amplia franja o borde que ocultaba los pies (Isaías 47:2; Jer. 13:22). La vestimenta de los persas se describe en Dan. 3:21. Las referencias al arte de coser son pocas, ya que las prendas generalmente salían del telar listas para ser usadas, y todo lo que se requería en la confección de la ropa recaía en las mujeres de una familia (Prov. 31:22; Hechos 9:39). En Jer. se hace referencia a la extravagancia en la vestimenta. 4:30; Ezeq. 16:10; Sofo. 1:8 (R.V., “vestimenta extranjera”); 1 Tim. 2:9; 1 mascota. 3:3. Rasgar las vestiduras expresaba dolor (Gén. 37:29, 34), miedo (1 Reyes 21:27), indignación (2 Reyes 5:7) o desesperación (Jue. 11:35; Ester 4:1). Sacudir las prendas, o sacudirles el polvo, era señal de renuncia (Hechos 18:6); envolviéndolos alrededor de la cabeza, de asombro (1 Reyes 19:13) o pena (2 Sam. 15:30; desechándolos, de excitación (Hechos 22:23); apoderándose de ellos, de súplica (1 Sam. 15:27). En el caso de viajar, las prendas exteriores estaban ceñidas (1 Reyes 18:46). También eran arrojadas a un lado cuando impedían la acción (Marcos 10:50; Juan 13:4; Hechos 7:58)."
+      },
+      {
+        "source": "SMI",
+        "text": "Este tema incluye los siguientes detalles:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 3:7",
+        "original": "Gen. 3:7"
+      },
+      {
+        "reference": "2 Kings 1:8",
+        "original": "2 Kings 1:8"
+      },
+      {
+        "reference": "Exodus 26:7",
+        "original": "Ex. 26:7"
+      },
+      {
+        "reference": "Exodus 35:6",
+        "original": "Ex 35:6"
+      },
+      {
+        "reference": "Matthew 3:4",
+        "original": "Matt. 3:4"
+      },
+      {
+        "reference": "Leviticus 13:47",
+        "original": "Lev. 13:47"
+      },
+      {
+        "reference": "Deuteronomy 22:11",
+        "original": "Deut. 22:11"
+      },
+      {
+        "reference": "Ezekiel 34:3",
+        "original": "Ezek. 34:3"
+      },
+      {
+        "reference": "Job 31:20",
+        "original": "Job 31:20"
+      },
+      {
+        "reference": "Proverbs 27:26",
+        "original": "Prov. 27:26"
+      },
+      {
+        "reference": "1 Chronicles 4:21",
+        "original": "1 Chr. 4:21"
+      },
+      {
+        "reference": "Exodus 28:5",
+        "original": "Ex. 28:5"
+      },
+      {
+        "reference": "Genesis 41:42",
+        "original": "Gen. 41:42"
+      },
+      {
+        "reference": "Proverbs 31:22",
+        "original": "Prov. 31:22"
+      },
+      {
+        "reference": "Luke 16:19",
+        "original": "Luke 16:19"
+      },
+      {
+        "reference": "Leviticus 19:19",
+        "original": "Lev. 19:19"
+      },
+      {
+        "reference": "Psalms 104:1",
+        "original": "Ps. 104:1"
+      },
+      {
+        "reference": "Psalms 104:2",
+        "original": "Ps 104:2"
+      },
+      {
+        "reference": "Isaiah 63:3",
+        "original": "Isa. 63:3"
+      },
+      {
+        "reference": "Mark 9:3",
+        "original": "Mark 9:3"
+      },
+      {
+        "reference": "Genesis 37:3",
+        "original": "Gen. 37:3"
+      },
+      {
+        "reference": "Genesis 37:23",
+        "original": "Gen. 37:23"
+      },
+      {
+        "reference": "Exodus 28:6",
+        "original": "Ex. 28:6"
+      },
+      {
+        "reference": "Exodus 26:1",
+        "original": "Ex 26:1"
+      },
+      {
+        "reference": "Exodus 26:31",
+        "original": "Ex 26:31"
+      },
+      {
+        "reference": "Exodus 35:25",
+        "original": "Ex 35:25"
+      },
+      {
+        "reference": "Judges 5:30",
+        "original": "Judg. 5:30"
+      },
+      {
+        "reference": "Psalms 45:13",
+        "original": "Ps. 45:13"
+      },
+      {
+        "reference": "Zephaniah 1:8",
+        "original": "Zeph. 1:8"
+      },
+      {
+        "reference": "2 Samuel 1:24",
+        "original": "2 Sam. 1:24"
+      },
+      {
+        "reference": "John 19:23",
+        "original": "John 19:23"
+      },
+      {
+        "reference": "John 21:7",
+        "original": "John 21:7"
+      },
+      {
+        "reference": "1 Samuel 19:24",
+        "original": "1 Sam. 19:24"
+      },
+      {
+        "reference": "Isaiah 20:2",
+        "original": "Isa. 20:2"
+      },
+      {
+        "reference": "2 Kings 6:30",
+        "original": "2 Kings 6:30"
+      },
+      {
+        "reference": "Mark 14:51",
+        "original": "Mark 14:51"
+      },
+      {
+        "reference": "Judges 14:12",
+        "original": "Judg. 14:12"
+      },
+      {
+        "reference": "Judges 14:13",
+        "original": "Judg 14:13"
+      },
+      {
+        "reference": "1 Samuel 2:19",
+        "original": "1 Sam. 2:19"
+      },
+      {
+        "reference": "1 Samuel 24:4",
+        "original": "1 Sam. 24:4"
+      },
+      {
+        "reference": "1 Samuel 28:14",
+        "original": "1 Sam. 28:14"
+      },
+      {
+        "reference": "Matthew 10:10",
+        "original": "Matt. 10:10"
+      },
+      {
+        "reference": "Luke 9:3",
+        "original": "Luke 9:3"
+      },
+      {
+        "reference": "2 Samuel 15:30",
+        "original": "2 Sam. 15:30"
+      },
+      {
+        "reference": "Esther 6:12",
+        "original": "Esther 6:12"
+      },
+      {
+        "reference": "2 Kings 4:39",
+        "original": "2 Kings 4:39"
+      },
+      {
+        "reference": "Psalms 79:12",
+        "original": "Ps. 79:12"
+      },
+      {
+        "reference": "Haggai 2:12",
+        "original": "Hag. 2:12"
+      },
+      {
+        "reference": "Proverbs 17:23",
+        "original": "Prov. 17:23"
+      },
+      {
+        "reference": "Proverbs 21:14",
+        "original": "Prov 21:14"
+      },
+      {
+        "reference": "Song of Solomon 5:3",
+        "original": "Cant. 5:3"
+      },
+      {
+        "reference": "Ruth 3:15",
+        "original": "Ruth 3:15"
+      },
+      {
+        "reference": "Isaiah 3:22",
+        "original": "Isa. 3:22"
+      },
+      {
+        "reference": "Genesis 24:65",
+        "original": "Gen. 24:65"
+      },
+      {
+        "reference": "Isaiah 3:24",
+        "original": "Isa. 3:24"
+      },
+      {
+        "reference": "Isaiah 47:2",
+        "original": "Isa. 47:2"
+      },
+      {
+        "reference": "Jeremiah 13:22",
+        "original": "Jer. 13:22"
+      },
+      {
+        "reference": "Daniel 3:21",
+        "original": "Dan. 3:21"
+      },
+      {
+        "reference": "Acts 9:39",
+        "original": "Acts 9:39"
+      },
+      {
+        "reference": "Jeremiah 4:30",
+        "original": "Jer. 4:30"
+      },
+      {
+        "reference": "Ezekiel 16:10",
+        "original": "Ezek. 16:10"
+      },
+      {
+        "reference": "1 Timothy 2:9",
+        "original": "1 Tim. 2:9"
+      },
+      {
+        "reference": "1 Peter 3:3",
+        "original": "1 Pet. 3:3"
+      },
+      {
+        "reference": "Genesis 37:29",
+        "original": "Gen. 37:29"
+      },
+      {
+        "reference": "Genesis 37:34",
+        "original": "Gen. 37:34"
+      },
+      {
+        "reference": "1 Kings 21:27",
+        "original": "1 Kings 21:27"
+      },
+      {
+        "reference": "2 Kings 5:7",
+        "original": "2 Kings 5:7"
+      },
+      {
+        "reference": "Judges 11:35",
+        "original": "Judg. 11:35"
+      },
+      {
+        "reference": "Esther 4:1",
+        "original": "Esther 4:1"
+      },
+      {
+        "reference": "Acts 18:6",
+        "original": "Acts 18:6"
+      },
+      {
+        "reference": "1 Kings 19:13",
+        "original": "1 Kings 19:13"
+      },
+      {
+        "reference": "Acts 22:23",
+        "original": "Acts 22:23"
+      },
+      {
+        "reference": "1 Samuel 15:27",
+        "original": "1 Sam. 15:27"
+      },
+      {
+        "reference": "1 Kings 18:46",
+        "original": "1 Kings 18:46"
+      },
+      {
+        "reference": "Mark 10:50",
+        "original": "Mark 10:50"
+      },
+      {
+        "reference": "John 13:4",
+        "original": "John 13:4"
+      },
+      {
+        "reference": "Acts 7:58",
+        "original": "Acts 7:58"
+      },
+      {
+        "reference": "Genesis 3:21",
+        "original": "Genesis 3:21"
+      },
+      {
+        "reference": "Exodus 25:4",
+        "original": "Exodus 25:4"
+      },
+      {
+        "reference": "Genesis 38:12",
+        "original": "Genesis 38:12"
+      },
+      {
+        "reference": "Revelation 18:12",
+        "original": "Revelation 18:12"
+      },
+      {
+        "reference": "Leviticus 22:11",
+        "original": "Leviticus 22:11"
+      },
+      {
+        "reference": "Genesis 38:28",
+        "original": "Genesis 38:28"
+      },
+      {
+        "reference": "Exodus 27:6",
+        "original": "Exodus 27:6"
+      },
+      {
+        "reference": "Acts 12:21",
+        "original": "Acts 12:21"
+      },
+      {
+        "reference": "Psalms 45:14",
+        "original": "Psalms 45:14"
+      },
+      {
+        "reference": "Ezekiel 16:13",
+        "original": "Ezekiel 16:13"
+      },
+      {
+        "reference": "Numbers 15:38",
+        "original": "Numbers 15:38"
+      },
+      {
+        "reference": "Exodus 22:26",
+        "original": "Exodus 22:26"
+      },
+      {
+        "reference": "Exodus 22:27",
+        "original": "Exodus 22:27"
+      },
+      {
+        "reference": "2 Timothy 4:13",
+        "original": "2 Timothy 4:13"
+      },
+      {
+        "reference": "Matthew 24:18",
+        "original": "Matthew 24:18"
+      },
+      {
+        "reference": "1 Peter 1:13",
+        "original": "1 Peter 1:13"
+      },
+      {
+        "reference": "Acts 12:8",
+        "original": "Acts 12:8"
+      },
+      {
+        "reference": "Isaiah 6:2",
+        "original": "Isaiah 6:2"
+      },
+      {
+        "reference": "Esther 8:15",
+        "original": "Esther 8:15"
+      },
+      {
+        "reference": "Isaiah 22:21",
+        "original": "Isaiah 22:21"
+      },
+      {
+        "reference": "2Macc 4:38",
+        "original": "2 Macc. 4:38"
+      },
+      {
+        "reference": "Luke 15:22",
+        "original": "Luke 15:22"
+      },
+      {
+        "reference": "Job 22:6",
+        "original": "Job 22:6"
+      },
+      {
+        "reference": "Matthew 6:19",
+        "original": "Matthew 6:19"
+      },
+      {
+        "reference": "James 5:2",
+        "original": "James 5:2"
+      },
+      {
+        "reference": "Isaiah 3:6",
+        "original": "Isaiah 3:6"
+      },
+      {
+        "reference": "Isaiah 3:7",
+        "original": "Isaiah 3:7"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "dwellings": {
+    "name": "Viviendas",
+    "slug": "dwellings",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Los materiales utilizados en las construcciones eran comúnmente ladrillos, a veces también piedras (Lev. 14:40, 42), que se mantenían unidos con cemento (Jer. 43:9) o betún (Gén. 11:3). El exterior generalmente estaba encalado (Levítico 14:41; Ezequiel 13:10; Mateo 23:27). Las vigas eran de sicómoro (Isaías 9:10), de madera de olivo o de cedro (1 Reyes 7:2; Isaías 9:10). La forma de las viviendas orientales difería en muchos aspectos de la de las viviendas de los países occidentales. Las casas más grandes se construyeron en un cuadrilátero que encerraba un patio (Lucas 5:19; 2 Sam. 17:18; Neh. 8:16) rodeado de galerías, que formaban la cámara de invitados o sala de recepción para los visitantes. El tejado plano, rodeado por un parapeto bajo, se utilizaba para numerosos fines domésticos y sociales. Se llegaba a ella por pasos desde el juzgado. En relación con él (2 Reyes 23:12) había un aposento alto, usado como cámara privada (2 Sam. 18:33; Dan. 6:11), también como dormitorio (2 Reyes 23:12), dormitorio para invitados (2 Reyes 4:10) y como cámara de enfermo (1 Reyes 17:19). Las puertas, a veces de piedra, giraban sobre pivotes embutidos y generalmente estaban sujetas con pernos de madera. Las casas de los más ricos tenían un portero o una portera (Juan 18:16; Hechos 12:13). Las ventanas generalmente daban al patio y estaban cerradas por una celosía (Jueces 5:28). Las habitaciones interiores estaban reservadas para la parte femenina de la casa. El mobiliario de la habitación (2 Reyes 4:10) consistía en un sofá amueblado con almohadas (Amós 6:4; Ezequiel 13:20); y además de esto, sillas, una mesa y faroles o candeleros (2 Reyes 4:10)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Leviticus 14:40",
+        "original": "Lev. 14:40"
+      },
+      {
+        "reference": "Leviticus 14:42",
+        "original": "Lev. 14:42"
+      },
+      {
+        "reference": "Jeremiah 43:9",
+        "original": "Jer. 43:9"
+      },
+      {
+        "reference": "Genesis 11:3",
+        "original": "Gen. 11:3"
+      },
+      {
+        "reference": "Leviticus 14:41",
+        "original": "Lev. 14:41"
+      },
+      {
+        "reference": "Ezekiel 13:10",
+        "original": "Ezek. 13:10"
+      },
+      {
+        "reference": "Matthew 23:27",
+        "original": "Matt. 23:27"
+      },
+      {
+        "reference": "Isaiah 9:10",
+        "original": "Isa. 9:10"
+      },
+      {
+        "reference": "1 Kings 7:2",
+        "original": "1 Kings 7:2"
+      },
+      {
+        "reference": "Luke 5:19",
+        "original": "Luke 5:19"
+      },
+      {
+        "reference": "2 Samuel 17:18",
+        "original": "2 Sam. 17:18"
+      },
+      {
+        "reference": "Nehemiah 8:16",
+        "original": "Neh. 8:16"
+      },
+      {
+        "reference": "2 Kings 23:12",
+        "original": "2 Kings 23:12"
+      },
+      {
+        "reference": "2 Samuel 18:33",
+        "original": "2 Sam 18:33"
+      },
+      {
+        "reference": "Daniel 6:11",
+        "original": "Dan. 6:11"
+      },
+      {
+        "reference": "2 Kings 4:10",
+        "original": "2 Kings 4:10"
+      },
+      {
+        "reference": "1 Kings 17:19",
+        "original": "1 Kings 17:19"
+      },
+      {
+        "reference": "John 18:16",
+        "original": "John 18:16"
+      },
+      {
+        "reference": "Acts 12:13",
+        "original": "Acts 12:13"
+      },
+      {
+        "reference": "Judges 5:28",
+        "original": "Judg. 5:28"
+      },
+      {
+        "reference": "Amos 6:4",
+        "original": "Amos 6:4"
+      },
+      {
+        "reference": "Ezekiel 13:20",
+        "original": "Ezek. 13:20"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "east-wind": {
+    "name": "viento del este",
+    "slug": "east-wind",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "El viento que viene del este (Job 27:21; Isaías 27:8, etc.). Ruina causada por este viento, “orejas finas” (Génesis 41:6); la “calabaza” seca (Jonás 4:8). Era la causa y también el emblema del mal (Ezequiel 17:10; 19:12; Oseas 13:15). En Palestina, este viento sopla desde un desierto ardiente y, por tanto, carece de la humedad necesaria para la vegetación."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 27:21",
+        "original": "Job 27:21"
+      },
+      {
+        "reference": "Isaiah 27:8",
+        "original": "Isa. 27:8"
+      },
+      {
+        "reference": "Genesis 41:6",
+        "original": "Gen. 41:6"
+      },
+      {
+        "reference": "Jonah 4",
+        "original": "Jonah 4"
+      },
+      {
+        "reference": "Ezekiel 17:10",
+        "original": "Ezek. 17:10"
+      },
+      {
+        "reference": "Ezekiel 19:12",
+        "original": "Ezek 19:12"
+      },
+      {
+        "reference": "Hosea 13:15",
+        "original": "Hos. 13:15"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "eternal-life": {
+    "name": "Vida eterna",
+    "slug": "eternal-life",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Esta expresión aparece en el Antiguo Testamento sólo en Dan. 12:2 (R.V., “vida eterna”). Ocurre con frecuencia en el Nuevo Testamento (Mateo 7:14; 18:8, 9; Lucas 10:28; comp. 18:18). Comprende todo el futuro de los redimidos (Lucas 16:9) y se opone al “castigo eterno” (Mat. 19:29; 25:46). Es la recompensa y la gloria final en la que entran los hijos de Dios (1 Tim. 6:12, 19; Rom. 6:22; Gá. 6:8; 1 Tim. 1:16; Rom. 5:21); su sábado de descanso (Heb. 4:9; comp. 12:22). La novedad de vida que el creyente deriva de Cristo (Ro. 6:4) es la esencia misma de la salvación y, por lo tanto, la vida de gloria o la vida eterna también debe ser suya (Ro. 6:8; 2 Tim. 2:11, 12; Rom. 5:17, 21; 8:30; Ef. 2:5, 6). Es el “don de Dios en Jesucristo nuestro Señor” (Romanos 6:23). La vida que los fieles tienen aquí en la tierra (Juan 3:36; 5:24; 6:47, 53-58) está inseparablemente conectada con la vida eterna más allá, la vida eterna del futuro, el futuro feliz de los santos en el cielo (Mat. 19:16, 29; 25:46)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Daniel 12:2",
+        "original": "Dan. 12:2"
+      },
+      {
+        "reference": "Matthew 7:14",
+        "original": "Matt. 7:14"
+      },
+      {
+        "reference": "Matthew 18:8",
+        "original": "Matt 18:8"
+      },
+      {
+        "reference": "Matthew 18:9",
+        "original": "Matt 18:9"
+      },
+      {
+        "reference": "Luke 10:28",
+        "original": "Luke 10:28"
+      },
+      {
+        "reference": "Luke 16:9",
+        "original": "Luke 16:9"
+      },
+      {
+        "reference": "Matthew 19:29",
+        "original": "Matt. 19:29"
+      },
+      {
+        "reference": "Matthew 25:46",
+        "original": "Matt 25:46"
+      },
+      {
+        "reference": "1 Timothy 6:12",
+        "original": "1 Tim. 6:12"
+      },
+      {
+        "reference": "1 Timothy 6:19",
+        "original": "1 Tim. 6:19"
+      },
+      {
+        "reference": "Romans 6:22",
+        "original": "Rom. 6:22"
+      },
+      {
+        "reference": "Galatians 6:8",
+        "original": "Gal. 6:8"
+      },
+      {
+        "reference": "1 Timothy 1:16",
+        "original": "1 Tim. 1:16"
+      },
+      {
+        "reference": "Romans 5:21",
+        "original": "Rom. 5:21"
+      },
+      {
+        "reference": "Hebrews 4:9",
+        "original": "Heb. 4:9"
+      },
+      {
+        "reference": "Romans 6:4",
+        "original": "Rom. 6:4"
+      },
+      {
+        "reference": "Romans 6:8",
+        "original": "Rom. 6:8"
+      },
+      {
+        "reference": "2 Timothy 2:11",
+        "original": "2 Tim. 2:11"
+      },
+      {
+        "reference": "2 Timothy 2:12",
+        "original": "2 Tim. 2:12"
+      },
+      {
+        "reference": "Romans 5:17",
+        "original": "Rom. 5:17"
+      },
+      {
+        "reference": "Ephesians 2:5",
+        "original": "Eph. 2:5"
+      },
+      {
+        "reference": "Ephesians 2:6",
+        "original": "Eph. 2:6"
+      },
+      {
+        "reference": "Romans 6:23",
+        "original": "Rom. 6:23"
+      },
+      {
+        "reference": "John 3:36",
+        "original": "John 3:36"
+      },
+      {
+        "reference": "John 5:24",
+        "original": "John 5:24"
+      },
+      {
+        "reference": "John 6:47",
+        "original": "John 6:47"
+      },
+      {
+        "reference": "John 6:53-58",
+        "original": "John 6:53-58"
+      },
+      {
+        "reference": "Matthew 19:16",
+        "original": "Matt. 19:16"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "eve": {
+    "name": "Víspera",
+    "slug": "eve",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Vida; vivo, el nombre dado por Adán a su esposa (Gén. 3:20; 4:1). El relato de su creación se da en Génesis 2:21, 22. El Creador, al declarar que no era bueno que el hombre estuviera solo y al crearle una compañía adecuada, sancionó la monogamia. El comentarista Matthew Henry dice: \"Esta compañera fue tomada de su costado para indicar que ella debía ser querida para él como su propia carne. No de su cabeza, para que ella no lo gobernara; ni de sus pies, para que no la tiranizara; sino de su costado, para denotar esa especie de igualdad que debe subsistir en el estado matrimonial\". Y nuevamente: “Esa esposa que Dios ha creado por gracia especial, y que Dios ha traído por providencia especial, probablemente resulte ser una ayuda idónea para su marido”. A través de la sutil tentación de la serpiente, ella violó el mandamiento de Dios al tomar del fruto prohibido, que también dio a su marido (1 Tim. 2:13-15; 2 Cor. 11:3). Cuando dio a luz a su primer hijo, dijo: “He adquirido un varón del Señor” (R.V., “He adquirido un varón con la ayuda del Señor”, Génesis 4:1). Así acogió a Caín, como algunos piensan, como si hubiera sido el Prometido, la “Simiente de la mujer”."
+      },
+      {
+        "source": "SMI",
+        "text": "(vida), el nombre dado en las Escrituras a la primera mujer. El relato de la creación de Eva se encuentra en (Génesis 2:21,22). Quizás lo que principalmente se pretende que aprendamos de la narración es el fundamento sobre el cual se construye la unión entre el hombre y la esposa, es decir, la identidad de naturaleza y la unidad de origen. Mediante la sutileza de la serpiente, Eva fue engañada para violar el único mandamiento que les había sido impuesto a ella y a Adán. El relato bíblico de Eva termina con el nacimiento de Set."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 3:20",
+        "original": "Gen. 3:20"
+      },
+      {
+        "reference": "Genesis 4:1",
+        "original": "Gen 4:1"
+      },
+      {
+        "reference": "Genesis 2:21",
+        "original": "Gen. 2:21"
+      },
+      {
+        "reference": "Genesis 2:22",
+        "original": "Gen. 2:22"
+      },
+      {
+        "reference": "1 Timothy 2:13-15",
+        "original": "1 Tim. 2:13-15"
+      },
+      {
+        "reference": "2 Corinthians 11:3",
+        "original": "2 Cor. 11:3"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "executioner": {
+    "name": "Verdugo",
+    "slug": "executioner",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Marcos 6:27). En lugar de la palabra griega, Marcos usa aquí una palabra latina, especulador, que literalmente significa “explorador”, “espía”, y que finalmente llegó a denotar a uno de los guardaespaldas armados del emperador. Herodes Antipas, a imitación del emperador, tenía a su lado una compañía de especuladores. A veces eran empleados como verdugos, pero esto era un mero accidente de su oficio. (Ver MARCOS, EVANGELIO DE.)"
+      },
+      {
+        "source": "SMI",
+        "text": "El puesto de verdugo era de gran dignidad. Potifar era \"capitán de los verdugos\". (Génesis 37:36) ver margen. Que el “capitán de la guardia” mismo desempeñaba ocasionalmente el deber de verdugo se desprende de (1 Reyes 2:25,34)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Mark 6:27",
+        "original": "Mark 6:27"
+      },
+      {
+        "reference": "Genesis 37:36",
+        "original": "Genesis 37:36"
+      },
+      {
+        "reference": "1 Kings 2:25",
+        "original": "1 Kings 2:25"
+      },
+      {
+        "reference": "1 Kings 2:34",
+        "original": "1 Kings 2:34"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "fly": {
+    "name": "Volar",
+    "slug": "fly",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "heb. cebú (Ecl. 10:1; Isa. 7:18). Esta mosca era una plaga tan grave que los fenicios invocaron contra ella la ayuda de su dios Baal-zebub (q.v.). El profeta Isaías (7:18) alude a una mosca venenosa que se creía encontrada en los confines de Egipto, y que sería llamada por el Señor. En muchas partes de África existen moscas venenosas, por ejemplo, las diferentes clases de moscas tsetsé. heb. ‘arob, nombre dado a los insectos enviados como plaga sobre la tierra de Egipto (Éxodo 8:21-31; Salmo 78:45; 105:31). La LXX. traducir esto con una palabra que significa \"mosca perro\", la cynomuia. Los comentaristas judíos consideraban que la palabra hebrea aquí estaba relacionada con la palabra 'árabe, que significa \"mezclado\"; y, en consecuencia, supusieron que la plaga consistía en una multitud mixta de animales, bestias, reptiles e insectos. Pero no hay duda de que “lo árabe” denota una única especie definida. Algunos intérpretes la consideran la Blatta orientalis, la cucaracha, una especie de escarabajo. Estos insectos “infligen picaduras muy dolorosas con sus mandíbulas; roen y destruyen ropa, muebles domésticos, cuero y artículos de todo tipo, y consumen o hacen inaccesibles todos los comestibles”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ecclesiastes 10:1",
+        "original": "Eccl. 10:1"
+      },
+      {
+        "reference": "Isaiah 7:18",
+        "original": "Isa. 7:18"
+      },
+      {
+        "reference": "Exodus 8:21-31",
+        "original": "Ex. 8:21-31"
+      },
+      {
+        "reference": "Psalms 78:45",
+        "original": "Ps. 78:45"
+      },
+      {
+        "reference": "Psalms 105:31",
+        "original": "Ps 105:31"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "fly-flies": {
+    "name": "Vuela, vuela",
+    "slug": "fly-flies",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Los dos términos hebreos siguientes denotan moscas de algún tipo:"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ecclesiastes 10:1",
+        "original": "Ecclesiastes 10:1"
+      },
+      {
+        "reference": "Isaiah 7:18",
+        "original": "Isai 7:18"
+      },
+      {
+        "reference": "Exodus 8:21-31",
+        "original": "Exodus 8:21-31"
+      },
+      {
+        "reference": "Psalms 78:45",
+        "original": "Psalms 78:45"
+      },
+      {
+        "reference": "Psalms 105:31",
+        "original": "Psalms 105:31"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "ford": {
+    "name": "Vado",
+    "slug": "ford",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Con frecuencia se hace mención de los vados del Jordán (Josué 2:7; Jue. 3:28; 12:5, 6), que debieron ser muy numerosos; unos cincuenta tal vez. La más notable fue la de Betabara. También se hace mención del vado del Jaboc (Gén. 32:22), de los vados de Arnón (Isa. 16:2) y del Éufrates (Jer. 51:32)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 2:7",
+        "original": "Josh. 2:7"
+      },
+      {
+        "reference": "Judges 3:28",
+        "original": "Judg. 3:28"
+      },
+      {
+        "reference": "Judges 12:5",
+        "original": "Judg 12:5"
+      },
+      {
+        "reference": "Judges 12:6",
+        "original": "Judg 12:6"
+      },
+      {
+        "reference": "Genesis 32:22",
+        "original": "Gen. 32:22"
+      },
+      {
+        "reference": "Isaiah 16:2",
+        "original": "Isa. 16:2"
+      },
+      {
+        "reference": "Jeremiah 51:32",
+        "original": "Jer. 51:32"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "glass": {
+    "name": "Vaso",
+    "slug": "glass",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Fue conocido por los egipcios en un período muy temprano de su historia nacional, al menos antes de Cristo. 1500. Con él se fabricaron diversos artículos, tanto útiles como ornamentales, como botellas, jarrones, etc. Entre las ruinas del palacio noroeste de Nimroud se encontró una botella de vidrio con el nombre de Sargón. La palabra hebrea zekukith (Job 28:17), traducida “cristal” en la versión autorizada, se traduce correctamente en la versión revisada “vidrio”. Ésta es la única alusión al vidrio que se encuentra en el Antiguo Testamento. Se hace referencia a él en el Nuevo Testamento en Apocalipsis 4:6; 15:2; 21:18, 21. En Job 37:18, la palabra traducida “espejo” en la versión revisada se traduce correctamente como “espejo”, formado, es decir, de algún metal. (Comp. Ex. 38:8: “espejos” son espejos de bronce, R.V.). También se hace referencia a un espejo en Santiago 1:23."
+      },
+      {
+        "source": "SMI",
+        "text": "La palabra hebrea aparece sólo en (Job 28:17), donde en la versión autorizada se traduce \"cristal\". A pesar de la ausencia de una alusión específica al vidrio en las escrituras sagradas, los hebreos debieron conocer el invento por pinturas que representan el proceso de soplado del vidrio, que han sido descubiertas en Beni-hassan, y en tumbas en otros lugares; sabemos que el invento fue conocido hace al menos 3500 años. También se han descubierto en Egipto fragmentos de vasijas de vino tan antiguas como el éxodo. El arte también era conocido por los antiguos asirios. En el Nuevo Testamento se alude al vidrio como emblema de brillo. (Apocalipsis 4:6; 15:2; 21:18)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 28:17",
+        "original": "Job 28:17"
+      },
+      {
+        "reference": "Revelation 4:6",
+        "original": "Rev. 4:6"
+      },
+      {
+        "reference": "Revelation 15:2",
+        "original": "Rev 15:2"
+      },
+      {
+        "reference": "Revelation 21:18",
+        "original": "Rev 21:18"
+      },
+      {
+        "reference": "Revelation 21:21",
+        "original": "Rev 21:21"
+      },
+      {
+        "reference": "Job 37:18",
+        "original": "Job 37:18"
+      },
+      {
+        "reference": "Exodus 38:8",
+        "original": "Ex. 38:8"
+      },
+      {
+        "reference": "James 1:23",
+        "original": "James 1:23"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "journey": {
+    "name": "Viaje",
+    "slug": "journey",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Un día de viaje en el Este es de 16 a 20 millas (Números 11:31). (2.) El camino de un día de reposo es de 2.000 pasos o yardas desde las murallas de la ciudad (Hechos 1:12). Según la tradición judía, era la distancia que uno podía recorrer sin violar la ley de Ex. 16:29. (Ver SÁBADO.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 11:31",
+        "original": "Num. 11:31"
+      },
+      {
+        "reference": "Acts 1:12",
+        "original": "Acts 1:12"
+      },
+      {
+        "reference": "Exodus 16:29",
+        "original": "Ex. 16:29"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "kine": {
+    "name": "Vacas",
+    "slug": "kine",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Heb. sing. parah, es decir, “fructífero”), mencionado en el sueño de Faraón (Gén. 41: 18). Aquí la palabra denota “búfalos”, que se alimentaban de juncos y juncos a la orilla del río."
+      },
+      {
+        "source": "SMI",
+        "text": "el plural de vaca. [Ver Toro, Buey]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 41",
+        "original": "Gen. 41"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "king-s-dale": {
+    "name": "Valle del Rey",
+    "slug": "king-s-dale",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Mencionado sólo en Génesis 14:17; 2 Sam. 18:18, nombre dado al “valle de Save”, donde el rey de Sodoma se encontró con Abram."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 14:17",
+        "original": "Gen. 14:17"
+      },
+      {
+        "reference": "2 Samuel 18:18",
+        "original": "2 Sam. 18:18"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "latin-versions": {
+    "name": "Versiones latinas",
+    "slug": "latin-versions",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Ver Vulgata, La, LA]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "life": {
+    "name": "Vida",
+    "slug": "life",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Generalmente de la vida física (Gén. 2:7; Lucas 16:25, etc.); también usado en sentido figurado (1) para inmortalidad (Heb. 7:16); (2) conducta o modo de vida (Romanos 6:4); (3) vida espiritual o salvación (Juan 3:16, 17, 18, 36); (4) vida eterna (Mateo 19:16, 17; Juan 3:15); de Dios y de Cristo como fuente absoluta y causa de toda vida (Juan 1:4; 5:26, 39; 11:25; 12:50)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 2:7",
+        "original": "Gen. 2:7"
+      },
+      {
+        "reference": "Luke 16:25",
+        "original": "Luke 16:25"
+      },
+      {
+        "reference": "Hebrews 7:16",
+        "original": "Heb. 7:16"
+      },
+      {
+        "reference": "Romans 6:4",
+        "original": "Rom. 6:4"
+      },
+      {
+        "reference": "John 3:16",
+        "original": "John 3:16"
+      },
+      {
+        "reference": "John 3:17",
+        "original": "John 3:17"
+      },
+      {
+        "reference": "John 3:18",
+        "original": "John 3:18"
+      },
+      {
+        "reference": "John 3:36",
+        "original": "John 3:36"
+      },
+      {
+        "reference": "Matthew 19:16",
+        "original": "Matt. 19:16"
+      },
+      {
+        "reference": "Matthew 19:17",
+        "original": "Matt. 19:17"
+      },
+      {
+        "reference": "John 3:15",
+        "original": "John 3:15"
+      },
+      {
+        "reference": "John 1:4",
+        "original": "John 1:4"
+      },
+      {
+        "reference": "John 5:26",
+        "original": "John 5:26"
+      },
+      {
+        "reference": "John 5:39",
+        "original": "John 5:39"
+      },
+      {
+        "reference": "John 11:25",
+        "original": "John 11:25"
+      },
+      {
+        "reference": "John 12:50",
+        "original": "John 12:50"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "main-sail": {
+    "name": "Vela mayor",
+    "slug": "main-sail",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Gr. artemon), respondiendo a la moderna “vela de mesana”, como algunos suponen. Otros entienden que el “foque”, cerca de la proa, o la “vela de trinquete”, probablemente sean más útiles para llevar la proa del barco al viento en las circunstancias descritas (Hechos 27:40)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Acts 27:40",
+        "original": "Acts 27:40"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "poison": {
+    "name": "Veneno",
+    "slug": "poison",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Heb. hemah, \"calor\", el veneno de ciertos reptiles venenosos (Deut. 32:24, 33; Job 6:4; Sal. 58:4), que causa inflamación. (2.) Heb. rosh, “una cabeza”, una planta venenosa (Deut. 29:18), que crece exuberantemente (Ose. 10:4), de sabor amargo (Sal. 69:21; Lam. 3:5), y unida a ajenjo; probablemente la amapola. Esta palabra se traduce “hiel”, q.v. (Deut. 29:18; 32:33; Sal. 69:21; Jer. 8:14, etc.), “cicuta” (Ose. 10:4; Amós 6:12) y “veneno” (Job 20:16), “el veneno de áspides”, lo que muestra que el rosh no era exclusivamente un veneno vegetal. (3.) En Rom. 3:13 (comp. Job 20:16; Sal. 140:3), Santiago 3:8, como la traducción del griego ios."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 32:24",
+        "original": "Deut. 32:24"
+      },
+      {
+        "reference": "Deuteronomy 32:33",
+        "original": "Deut. 32:33"
+      },
+      {
+        "reference": "Job 6:4",
+        "original": "Job 6:4"
+      },
+      {
+        "reference": "Psalms 58:4",
+        "original": "Ps. 58:4"
+      },
+      {
+        "reference": "Deuteronomy 29:18",
+        "original": "Deut. 29:18"
+      },
+      {
+        "reference": "Hosea 10:4",
+        "original": "Hos. 10:4"
+      },
+      {
+        "reference": "Psalms 69:21",
+        "original": "Ps. 69:21"
+      },
+      {
+        "reference": "Lamentations 3:5",
+        "original": "Lam. 3:5"
+      },
+      {
+        "reference": "Jeremiah 8:14",
+        "original": "Jer. 8:14"
+      },
+      {
+        "reference": "Amos 6:12",
+        "original": "Amos 6:12"
+      },
+      {
+        "reference": "Job 20:16",
+        "original": "Job 20:16"
+      },
+      {
+        "reference": "Romans 3:13",
+        "original": "Rom. 3:13"
+      },
+      {
+        "reference": "Psalms 140:3",
+        "original": "Ps. 140:3"
+      },
+      {
+        "reference": "James 3:8",
+        "original": "James 3:8"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "scrip": {
+    "name": "Vale",
+    "slug": "scrip",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Una pequeña bolsa o billetera generalmente sujeta al cinto (1 Sam. 17:40); “una bolsa de pastor”. En el Nuevo Testamento es la traducción del gr. pera, que era una bolsa que llevaban los viajeros y pastores, generalmente hecha de piel (Mateo 10:10; Marcos 6:8; Lucas 9:3; 10:4). El nombre \"valleón\" pretende denotar que la bolsa estaba destinada a contener restos, fragmentos, como raspados de artículos más grandes, bagatelas."
+      },
+      {
+        "source": "SMI",
+        "text": "La palabra hebrea así traducida aparece en (1 Samuel 17:40) como sinónimo de la bolsa en la que los pastores de Palestina llevaban su comida u otras necesidades. La bolsa de los campesinos galileos era de cuero, utilizada especialmente para llevar sus alimentos durante el viaje, y colgada sobre sus hombros. (Mateo 10:10; Marcos 6:8; Lucas 9:3; 22:35.) La palabra inglesa “scrip” probablemente esté relacionada con raspar, desechar, y se usaba de manera similar para artículos alimenticios."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 17:40",
+        "original": "1 Sam. 17:40"
+      },
+      {
+        "reference": "Matthew 10:10",
+        "original": "Matt. 10:10"
+      },
+      {
+        "reference": "Mark 6:8",
+        "original": "Mark 6:8"
+      },
+      {
+        "reference": "Luke 9:3",
+        "original": "Luke 9:3"
+      },
+      {
+        "reference": "Luke 10:4",
+        "original": "Luke 10:4"
+      },
+      {
+        "reference": "Luke 22:35",
+        "original": "Luke 22:35"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "seer": {
+    "name": "Vidente",
+    "slug": "seer",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Nombre que a veces se aplicaba a los profetas debido a las visiones que les concedían. Se encuentra por primera vez en 1 Sam. 9:9. Posteriormente se aplica a Sadoc, Gad, etc. (2 Sam. 15:27; 24:11; 1 Cr. 9:22; 25:5; 2 Cr. 9:29; Amós 7:12; Miqueas 3:7). Los “dichos de los videntes” (2 Crónicas 33:18, 19) se traducen en la versión revisada como “la historia de Hozai” (marg., los videntes; según la LXX.), de quienes, sin embargo, no se sabe nada. (Ver PROFETA.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Samuel 9:9",
+        "original": "1 Sam. 9:9"
+      },
+      {
+        "reference": "2 Samuel 15:27",
+        "original": "2 Sam. 15:27"
+      },
+      {
+        "reference": "2 Samuel 24:11",
+        "original": "2 Sam. 24:11"
+      },
+      {
+        "reference": "1 Chronicles 9:22",
+        "original": "1 Chr. 9:22"
+      },
+      {
+        "reference": "1 Chronicles 25:5",
+        "original": "1 Chr. 25:5"
+      },
+      {
+        "reference": "2 Chronicles 9:29",
+        "original": "2 Chr. 9:29"
+      },
+      {
+        "reference": "Amos 7:12",
+        "original": "Amos 7:12"
+      },
+      {
+        "reference": "Micah 3:7",
+        "original": "Micah 3:7"
+      },
+      {
+        "reference": "2 Chronicles 33:18",
+        "original": "2 Chr. 33:18"
+      },
+      {
+        "reference": "2 Chronicles 33:19",
+        "original": "2 Chr. 33:19"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "shamer": {
+    "name": "vergonzoso",
+    "slug": "shamer",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(guardián)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 6:46",
+        "original": "1 Chronicles 6:46"
+      },
+      {
+        "reference": "1 Chronicles 7:34",
+        "original": "1 Chronicles 7:34"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "sheth": {
+    "name": "vaina",
+    "slug": "sheth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Tumulto. (1.) “Los hijos de Set” (Núm. 24:17); R.V., “los hijos del tumulto”, que probablemente sea la traducción correcta, ya que no hay evidencia de que éste sea un nombre propio aquí. (2.) El patriarca antediluviano (1 Crónicas 1:1)."
+      },
+      {
+        "source": "SMI",
+        "text": "(compensación)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 24:17",
+        "original": "Num. 24:17"
+      },
+      {
+        "reference": "1 Chronicles 1:1",
+        "original": "1 Chr. 1:1"
+      },
+      {
+        "reference": "Jeremiah 48:45",
+        "original": "Jeremiah 48:45"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "truth": {
+    "name": "Verdad",
+    "slug": "truth",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Usado en varios sentidos en las Escrituras. En Prov. 12:17, 19, denota lo que se opone a la falsedad. En Isa. 59:14, 15, Jer. 7:28, significa fidelidad o veracidad. La doctrina de Cristo se llama “la verdad del evangelio” (Gálatas 2:5), “la verdad” (2 Timoteo 3:7; 4:4). Nuestro Señor dice de sí mismo: “Yo soy el camino y la verdad” (Juan 14:6)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Proverbs 12:17",
+        "original": "Prov. 12:17"
+      },
+      {
+        "reference": "Proverbs 12:19",
+        "original": "Prov. 12:19"
+      },
+      {
+        "reference": "Isaiah 59:14",
+        "original": "Isa. 59:14"
+      },
+      {
+        "reference": "Isaiah 59:15",
+        "original": "Isa. 59:15"
+      },
+      {
+        "reference": "Jeremiah 7:28",
+        "original": "Jer. 7:28"
+      },
+      {
+        "reference": "Galatians 2:5",
+        "original": "Gal. 2:5"
+      },
+      {
+        "reference": "2 Timothy 3:7",
+        "original": "2 Tim. 3:7"
+      },
+      {
+        "reference": "2 Timothy 4:4",
+        "original": "2 Tim. 4:4"
+      },
+      {
+        "reference": "John 14:6",
+        "original": "John 14:6"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "tyropoeon-valley": {
+    "name": "Valle del Tiropeon",
+    "slug": "tyropoeon-valley",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(es decir, “Valle de los Queseros”), nombre dado por el historiador Josefo al valle o barranco escarpado que en la antigüedad separaba el monte Moriah del monte Sión. Este valle, ahora lleno de una gran acumulación de basura y casi una llanura, estaba atravesado por puentes, el más famoso de los cuales era el Puente de Sión, que probablemente era el medio ordinario de comunicación entre el palacio real de Sión y el templo. Robinson descubrió un fragmento del arco (q.v.) de este puente (llamado “Arco de Robinson”), donde se proyecta desde el muro del santuario, en 1839. Este arco fue destruido por los romanos cuando Jerusalén fue tomada. El muro occidental del área del templo se elevaba desde el fondo de este valle hasta una altura de 84 pies, donde estaba al nivel del área, y por encima de éste, y como continuación del mismo, el muro del claustro de Salomón se elevaba a una altura de unos 50 pies, “de modo que esta sección del muro originalmente presentaría a la vista una estupenda masa de mampostería que difícilmente podría ser superada por ningún mural de mampostería en el mundo”."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "vagabond": {
+    "name": "Vagabundo",
+    "slug": "vagabond",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "De lat. vagabundus, \"un vagabundo\", \"un fugitivo\"; no usado de manera oprobia (Gén. 4:12, R.V., “vagabundo”; Sal. 109:10; Hechos 19:13, R.V., “paseando”)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 4:12",
+        "original": "Gen. 4:12"
+      },
+      {
+        "reference": "Psalms 109:10",
+        "original": "Ps. 109:10"
+      },
+      {
+        "reference": "Acts 19:13",
+        "original": "Acts 19:13"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "vajezatha": {
+    "name": "vajezatha",
+    "slug": "vajezatha",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Pureza; digno de honor, uno de los hijos de Amán, a quien los judíos mataron en el palacio de Susa (Ester 9:9)."
+      },
+      {
+        "source": "SMI",
+        "text": "(fuerte como el viento), uno de los diez hijos de Amán a quienes los judíos mataron en Susa. (Ester 9:9) (473 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Esther 9:9",
+        "original": "Esther 9:9"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "vale-valley": {
+    "name": "valle, valle",
+    "slug": "vale-valley",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "No es necesario decir que estas palabras significan una extensión de terreno hueca entre dos crestas de tierras altas más o menos paralelas. La estructura de la mayor parte de Tierra Santa no se presta a la formación de valles en el sentido que damos a la palabra. Las transiciones abruptas de sus abarrotadas colinas rocosas impiden la existencia de cualquier extensión de valle. Valley se emplea en la versión autorizada para traducir cinco palabras hebreas distintas."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Joshua 11:8",
+        "original": "Joshua 11:8"
+      },
+      {
+        "reference": "Joshua 11:17",
+        "original": "Joshua 11:17"
+      },
+      {
+        "reference": "Joshua 12:7",
+        "original": "Joshua 12:7"
+      },
+      {
+        "reference": "2 Chronicles 35:22",
+        "original": "2 Chronicles 35:22"
+      },
+      {
+        "reference": "Zechariah 12:11",
+        "original": "Zechariah 12:11"
+      },
+      {
+        "reference": "Joshua 10:40",
+        "original": "Joshua 10:40"
+      },
+      {
+        "reference": "1 Kings 10:27",
+        "original": "1 Kings 10:27"
+      },
+      {
+        "reference": "2 Chronicles 1:15",
+        "original": "2 Chronicles 1:15"
+      },
+      {
+        "reference": "Jeremiah 33:13",
+        "original": "Jeremiah 33:13"
+      },
+      {
+        "reference": "Joshua 9:1",
+        "original": "Joshua 9:1"
+      },
+      {
+        "reference": "Joshua 11:2",
+        "original": "Joshua 11:2"
+      },
+      {
+        "reference": "Joshua 11:16",
+        "original": "Joshua 11:16"
+      },
+      {
+        "reference": "Joshua 12:8",
+        "original": "Joshua 12:8"
+      },
+      {
+        "reference": "Joshua 15:33",
+        "original": "Joshua 15:33"
+      },
+      {
+        "reference": "Judges 1:9",
+        "original": "Judges 1:9"
+      },
+      {
+        "reference": "Jeremiah 32:44",
+        "original": "Jeremiah 32:44"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "valley": {
+    "name": "Valle",
+    "slug": "valley",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Heb. bik’ah, una “hendidura” de las montañas (Deut. 8:7; 11:11; Sal. 104:8; Isa. 41:18); también una llanura baja delimitada por montañas, como la llanura del Líbano al pie del Hermón, alrededor de las fuentes del Jordán (Jos. 11:17; 12:7), y el valle de Meguido (2 Cr. 35:22). (2.) 'Emek, \"profundo\"; “una llanura larga y baja” (Job 39:10, 21; Sal. 65:13; Cant. 2:1), como la llanura de Esdrelón; el “valle de los gigantes” (Jos. 15:8), generalmente traducido como “valle de Refaim” (2 Sam. 5:18); de Ela (1 Sam. 17:2), de Beraca (2 Cr. 20:26); el “valle” del rey (Génesis 14:17); de Josafat (Joel 3:2, 12), de Acor (Jos. 7:24; Isa. 65:10), Sucot (Sal. 60:6), Ajalón (Jos. 10:12), Jezreel (Ose. 1:5). (3.) Ge, “un estallido”, un “fluir juntos”, una cañada o barranco angosto, como el valle de los hijos de Hinom (2 Reyes 23:10); de Escol (Deuteronomio 1:24); de Sorek (Jueces 16:4), etc. Generalmente se considera que el “valle de la visión” (Isaías 22:1) denota Jerusalén, que “puede llamarse así”, dice Barnes (Com. en Isa.), “ya sea (1) porque había varios valles dentro de la ciudad y adyacentes a ella, como el valle entre el monte Sión y Moriah, el valle entre el monte Moriah y el monte Ofel, entre estos y el monte Bezeta, y el valle de Josafat, el valle del arroyo Cedrón, etc., sin los muros de la ciudad; o (2) más probablemente se le llamó valle en referencia a que estaba rodeado de colinas que se elevaban a una altura considerable sobre la ciudad” (Sal. 125:2; comp. también Jer. 21:13, donde a Jerusalén se le llama “valle”). (4.) Heb. nahal, un wady o curso de agua (Gén. 26:19; Cant. 6:11)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 8:7",
+        "original": "Deut. 8:7"
+      },
+      {
+        "reference": "Deuteronomy 11:11",
+        "original": "Deut 11:11"
+      },
+      {
+        "reference": "Psalms 104:8",
+        "original": "Ps. 104:8"
+      },
+      {
+        "reference": "Isaiah 41:18",
+        "original": "Isa. 41:18"
+      },
+      {
+        "reference": "Joshua 11:17",
+        "original": "Josh. 11:17"
+      },
+      {
+        "reference": "Joshua 12:7",
+        "original": "Josh 12:7"
+      },
+      {
+        "reference": "2 Chronicles 35:22",
+        "original": "2 Chr. 35:22"
+      },
+      {
+        "reference": "Job 39:10",
+        "original": "Job 39:10"
+      },
+      {
+        "reference": "Job 39:21",
+        "original": "Job 39:21"
+      },
+      {
+        "reference": "Psalms 65:13",
+        "original": "Ps. 65:13"
+      },
+      {
+        "reference": "Song of Solomon 2:1",
+        "original": "Cant. 2:1"
+      },
+      {
+        "reference": "Joshua 15:8",
+        "original": "Josh. 15:8"
+      },
+      {
+        "reference": "2 Samuel 5:18",
+        "original": "2 Sam. 5:18"
+      },
+      {
+        "reference": "1 Samuel 17:2",
+        "original": "1 Sam. 17:2"
+      },
+      {
+        "reference": "2 Chronicles 20:26",
+        "original": "2 Chr. 20:26"
+      },
+      {
+        "reference": "Genesis 14:17",
+        "original": "Gen. 14:17"
+      },
+      {
+        "reference": "Joel 3:2",
+        "original": "Joel 3:2"
+      },
+      {
+        "reference": "Joel 3:12",
+        "original": "Joel 3:12"
+      },
+      {
+        "reference": "Joshua 7:24",
+        "original": "Josh. 7:24"
+      },
+      {
+        "reference": "Isaiah 65:10",
+        "original": "Isa. 65:10"
+      },
+      {
+        "reference": "Psalms 60:6",
+        "original": "Ps. 60:6"
+      },
+      {
+        "reference": "Joshua 10:12",
+        "original": "Josh. 10:12"
+      },
+      {
+        "reference": "Hosea 1:5",
+        "original": "Hos. 1:5"
+      },
+      {
+        "reference": "2 Kings 23:10",
+        "original": "2 Kings 23:10"
+      },
+      {
+        "reference": "Deuteronomy 1:24",
+        "original": "Deut. 1:24"
+      },
+      {
+        "reference": "Judges 16:4",
+        "original": "Judg. 16:4"
+      },
+      {
+        "reference": "Isaiah 22:1",
+        "original": "Isa. 22:1"
+      },
+      {
+        "reference": "Psalms 125:2",
+        "original": "Ps. 125:2"
+      },
+      {
+        "reference": "Jeremiah 21:13",
+        "original": "Jer. 21:13"
+      },
+      {
+        "reference": "Genesis 26:19",
+        "original": "Gen. 26:19"
+      },
+      {
+        "reference": "Song of Solomon 6:11",
+        "original": "Cant. 6:11"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "vaniah": {
+    "name": "Vaniah",
+    "slug": "vaniah",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(Jehová es alabanza), uno de los hijos de Bani, (Esdras 10:36) (458 a.C.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ezra 10:36",
+        "original": "Ezra 10:36"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "vashni": {
+    "name": "Vasni",
+    "slug": "vashni",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(fuerte), el primogénito de Samuel tal como está ahora el texto. (1 Crónicas 6:28) (13); pero en (1 Samuel 8:2) el nombre de su primogénito es Joel. Lo más probable es que en las Crónicas el nombre de Joel haya desaparecido: y Vashni es una corrupción de vesheni, y (el) segundo”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "1 Chronicles 6:28",
+        "original": "1 Chronicles 6:28"
+      },
+      {
+        "reference": "1 Samuel 8:2",
+        "original": "1 Samuel 8:2"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "vashti": {
+    "name": "Vasti",
+    "slug": "vashti",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Hermosa, la reina de Asuero, quien fue destituida de su dignidad real porque se negó a obedecer al rey cuando éste deseaba que ella apareciera en el salón de banquetes de Susa, el palacio (Ester 1:10-12). (Ver ESTER.)"
+      },
+      {
+        "source": "SMI",
+        "text": "(hermosa), la “reina” de Asuero, quien, por negarse a mostrarse a los invitados del rey en el banquete real, cuando fue llamada por el rey, fue repudiada y destituida. (Ester 1:1)... (483 a.C.) Se han hecho muchos intentos de identificarla con personajes históricos; pero es mucho más probable que fuera sólo una de las esposas inferiores, dignificadas con el título de reina, cuyo nombre ha desaparecido por completo de la historia."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Esther 1:10-12",
+        "original": "Esther 1:10-12"
+      },
+      {
+        "reference": "Esther 1:1",
+        "original": "Esther 1:1"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "vaticanus-codex": {
+    "name": "Vaticano, Códice",
+    "slug": "vaticanus-codex",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Se dice que es el manuscrito en vitela más antiguo que se conserva. Este y el Codex Sinaiticus son los dos manuscritos unciales más antiguos. Probablemente fueron escritos en el siglo IV. El Vaticanus fue colocado en la Biblioteca Vaticana en Roma por el Papa Nicolás V. en 1448, desconociéndose su historia anterior. Originalmente consistía con toda probabilidad en una copia completa de la Septuaginta y del Nuevo Testamento. Ahora es imperfecto y consta de 759 hojas delgadas y delicadas, de las cuales el Nuevo Testamento llena 142. Al igual que el Sinaítico, es de gran valor para los eruditos bíblicos porque ayuda en la formación de un texto correcto del Nuevo Testamento. Los críticos se refieren a él como Codex B."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "veil": {
+    "name": "Velo",
+    "slug": "veil",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Respecto al uso del velo, es importante observar que no era tan generalizado en la antigüedad como en los tiempos modernos. Gran parte de la escrupulosidad respecto del uso del velo data de la promulgación del Corán, que prohibía a las mujeres aparecer sin velo excepto en presencia de sus parientes más cercanos. En la antigüedad el velo era adoptado sólo en casos excepcionales, ya sea como artículo de vestimenta ornamental (Cantares de los Cantares 4:1,3; 6:7), ya sea por las doncellas prometidas en presencia de sus futuros maridos, especialmente en el momento de la boda (Génesis 24:65), o por último, por mujeres de carácter relajado con fines de ocultamiento. (Génesis 38:14) Entre los judíos de la época del Nuevo Testamento parece haber sido costumbre que las mujeres se cubrieran la cabeza (no necesariamente el rostro) cuando participaban en el culto público."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 24:65",
+        "original": "Genesis 24:65"
+      },
+      {
+        "reference": "Genesis 38:14",
+        "original": "Genesis 38:14"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "veil-of-the-tabernacle-and-temple": {
+    "name": "Velo del Tabernáculo y del Templo",
+    "slug": "veil-of-the-tabernacle-and-temple",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Tabernáculo; Templo]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "veil-vail": {
+    "name": "velo, velo",
+    "slug": "veil-vail",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(1.) Heb. mitpahath (Rut 3:15; marg., “sábana” o “delantal”; R.V., “manto”). En Isa. 3:22 esta palabra es plural y se traduce como “tocaduras”; R.V., “chales”, es decir, abrigos. (2.) Massekah (Isaías 25:7; en Isaías 28:20 se traduce “cubriendo”). La palabra denota algo extendido y que cubre u oculta algo más (comp. 2 Cor. 3:13-15). (3.) Masveh (Éxodo 34:33, 35), el velo sobre el rostro de Moisés. Este versículo debe leerse: “Y cuando Moisés terminó de hablar con ellos, se puso un velo sobre el rostro”, como en la versión revisada. Cuando Moisés les habló, estaba sin velo; sólo cuando dejó de hablar se puso el velo (comp. 2 Cor. 3:13, etc.). (4.) Paroheth (Éxodo 26:31-35), el velo del tabernáculo y del templo, que colgaba entre el lugar santo y el lugar santísimo (2 Crónicas 3:14). En el templo un tabique separaba estos dos lugares. En él había dos puertas plegables, que se suponía que siempre estaban abiertas, estando la entrada oculta por el velo que levantaba el sumo sacerdote cuando entraba al santuario el día de la Expiación. Este velo se rasgó cuando Cristo murió en la cruz (Mateo 27:51; Marcos 15:38; Lucas 23:45). (5.) Tza’iph (Génesis 24:65). Rebeca “tomó un velo y se cubrió”. (Véase también 38:14, 19.) Las mujeres hebreas generalmente aparecían en público sin velo (12:14; 24:16; 29:10; 1 Sam. 1:12). (6.) Radhidh (Cant. 5:7, R.V. “manto”; Isa. 3:23). La palabra probablemente denota algún tipo de manto o envoltura. (7.) Masak, el velo que colgaba ante la entrada del lugar santo (Éxodo 26:36, 37)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Ruth 3:15",
+        "original": "Ruth 3:15"
+      },
+      {
+        "reference": "Isaiah 3:22",
+        "original": "Isa. 3:22"
+      },
+      {
+        "reference": "Isaiah 25:7",
+        "original": "Isa. 25:7"
+      },
+      {
+        "reference": "Isaiah 28:20",
+        "original": "Isa. 28:20"
+      },
+      {
+        "reference": "2 Corinthians 3:13-15",
+        "original": "2 Cor. 3:13-15"
+      },
+      {
+        "reference": "Exodus 34:33",
+        "original": "Ex. 34:33"
+      },
+      {
+        "reference": "Exodus 34:35",
+        "original": "Ex. 34:35"
+      },
+      {
+        "reference": "2 Corinthians 3:13",
+        "original": "2 Cor. 3:13"
+      },
+      {
+        "reference": "Exodus 26:31-35",
+        "original": "Ex. 26:31-35"
+      },
+      {
+        "reference": "2 Chronicles 3:14",
+        "original": "2 Chr. 3:14"
+      },
+      {
+        "reference": "Matthew 27:51",
+        "original": "Matt. 27:51"
+      },
+      {
+        "reference": "Mark 15:38",
+        "original": "Mark 15:38"
+      },
+      {
+        "reference": "Luke 23:45",
+        "original": "Luke 23:45"
+      },
+      {
+        "reference": "Genesis 24:65",
+        "original": "Gen. 24:65"
+      },
+      {
+        "reference": "1 Samuel 1:12",
+        "original": "1 Sam. 1:12"
+      },
+      {
+        "reference": "Song of Solomon 5:7",
+        "original": "Cant. 5:7"
+      },
+      {
+        "reference": "Isaiah 3:23",
+        "original": "Isa. 3:23"
+      },
+      {
+        "reference": "Exodus 26:36",
+        "original": "Ex. 26:36"
+      },
+      {
+        "reference": "Exodus 26:37",
+        "original": "Ex. 26:37"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "versions-ancient-of-the-old-and-new-testaments": {
+    "name": "Versiones antiguas del Antiguo y Nuevo Testamento",
+    "slug": "versions-ancient-of-the-old-and-new-testaments",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Al tratar de las versiones antiguas que han llegado hasta nosotros, total o parcialmente, se describirán por el orden alfabético de las lenguas. VERSIÓN ETIÓPICA.—El cristianismo fue introducido en Etiopía en el siglo IV mediante las labores de Frumencio y Edesio de Tiro, quienes habían sido hechos esclavos y enviados al rey. La versión etíope que poseemos está en el antiguo dialecto de Axum; de ahí que algunos lo hayan atribuido a la época de los primeros misioneros, pero probablemente sea de una fecha posterior. En 1548-1549 también se imprimió en Roma el Nuevo Testamento etíope, editado por tres abisinios. VERSIONES ÁRABES.—"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "versions-authorized": {
+    "name": "Versiones autorizadas",
+    "slug": "versions-authorized",
+    "definitions": [],
+    "scripture_refs": [
+      {
+        "reference": "2 Corinthians 1:17-19",
+        "original": "2 Corinthians 1:17-19"
+      },
+      {
+        "reference": "Genesis 3:7",
+        "original": "Genesis 3:7"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "vine-of-sodom": {
+    "name": "Vid de Sodoma",
+    "slug": "vine-of-sodom",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Mencionado sólo en Deut. 32:32. Entre las muchas conjeturas sobre este árbol, la más probable es que sea el 'osher de los árabes, que abunda en la región del Mar Muerto. Sus frutos son las llamadas “manzanas de Sodoma”, que, aunque hermosas a la vista, son sumamente amargas al gusto. (Ver EN-GEDI.) Moisés se refiere aquí al pueblo de Israel como completamente corrupto y que sólo produce frutos amargos."
+      },
+      {
+        "source": "SMI",
+        "text": "ocurre sólo en (32:32). Generalmente se supone que este pasaje alude a las célebres manzanas de Sodoma, de las cuales habla Josefo, “que ciertamente se parecen a frutas comestibles en color, pero, al ser arrancadas con la mano, se disuelven en humo y cenizas”. Ha sido identificado de diversas formas. El Dr. Robinson se pronunció a favor de la fruta 'osher, la Asclepias (Calotropis) procera de los botánicos. Él dice: \"La fruta se parece mucho externamente a una manzana o naranja grande y lisa, que cuelga en racimos de tres o cuatro juntos, y cuando está madura es de color amarillo. Ahora es bella y deliciosa a la vista y suave al tacto, pero, al presionarla o golpearla, explota con una bocanada: como una vejiga o una bocanada, dejando en la mano sólo los jirones de la cáscara delgada y unas pocas fibras. De hecho, está llena principalmente de aire, lo que le da la forma redonda\". El Dr. Hooker escribe: \"Siempre se pensó que la vid de Sodoma podría referirse a Cucumis calocynthis, que es un polvo amargo en su interior; el término vid difícilmente se le daría a nadie que no fuera una planta trepadora u otra planta con el hábito de una vid\". Su observación de que el término vid debe referirse a alguna planta del hábito de una vid es concluyente contra las afirmaciones de todas las plantas hasta ahora identificadas con la vid de Sodoma."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Deuteronomy 32:32",
+        "original": "Deut. 32:32"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "vinegar": {
+    "name": "Vinagre",
+    "slug": "vinegar",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "heb. hometz, gr. oxos, p. vino aigre; es decir, \"vino agrio\". La palabra hebrea se traduce vinagre en el Sal. 69:21, profecía cumplida en la historia de la crucifixión (Mat. 27:34). Este era el vino agrio común (posea) que consumían diariamente los soldados romanos. Se lo dieron a Cristo, no por burla, sino por compasión, para calmar su sed. Prov. 10:26 muestra que también había un vinagre más fuerte, que no era apto para beber. La comparación, \"vinagre sobre nitro\", probablemente signifique \"vinagre sobre refresco\" (como en el margen de la R.V.), que luego hace efervescencia."
+      },
+      {
+        "source": "SMI",
+        "text": "La palabra hebrea traducida “vinagre” se aplicaba a una bebida que consistía generalmente en vino o bebida fuerte agria, pero a veces elaborada artificialmente con una mezcla de cebada y vino, y por lo tanto sujeta a fermentación. Era ácido incluso para un proverbio (Proverbios 10:26) y por sí solo formaba una bebida desagradable (Salmo 49:21), pero era utilizado por los trabajadores. (Rut 2:14.) Similar era el acetum de los romanos: un vino amargo y ligero que consumían los soldados. Esta fue la bebida de la que el Salvador participó en sus últimos momentos. (Mateo 27:48; Marcos 15:36; Juan 19:29,30)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Psalms 69:21",
+        "original": "Ps. 69:21"
+      },
+      {
+        "reference": "Matthew 27:34",
+        "original": "Matt. 27:34"
+      },
+      {
+        "reference": "Proverbs 10:26",
+        "original": "Prov. 10:26"
+      },
+      {
+        "reference": "Psalms 49:21",
+        "original": "Psalms 49:21"
+      },
+      {
+        "reference": "Ruth 2:14",
+        "original": "Ruth 2:14"
+      },
+      {
+        "reference": "Matthew 27:48",
+        "original": "Matthew 27:48"
+      },
+      {
+        "reference": "Mark 15:36",
+        "original": "Mark 15:36"
+      },
+      {
+        "reference": "John 19:29",
+        "original": "John 19:29"
+      },
+      {
+        "reference": "John 19:30",
+        "original": "John 19:30"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "vineyards-plain-of-the": {
+    "name": "Viñedos, Llanura De La",
+    "slug": "vineyards-plain-of-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Este lugar, mencionado sólo en (Jueces 11:33), se encontraba al este del Jordán, más allá de Aroer."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Judges 11:33",
+        "original": "Judges 11:33"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "viol": {
+    "name": "viola",
+    "slug": "viol",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "heb. nebel (Isaías 5:12, R.V., “laúd”; 14:11), un instrumento musical, generalmente traducido como “salterio” (q.v.)"
+      },
+      {
+        "source": "SMI",
+        "text": "[Salterio]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Isaiah 5:12",
+        "original": "Isa. 5:12"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "viper": {
+    "name": "Víbora",
+    "slug": "viper",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "En Job 20:16, Isa. 30:6; 59:5, el heb. La palabra eph'eh se traduce así. Sin embargo, la palabra hebrea probablemente denota una especie de serpientes venenosas conocidas con el nombre árabe de ‘el ephah. Tristram la ha identificado con la víbora de arena, una especie de pequeño tamaño común en regiones arenosas y que se encuentra frecuentemente debajo de las piedras a orillas del Mar Muerto. Es rápido en sus movimientos y muy venenoso. En el Nuevo Testamento se usa equidne (Mateo 3:7; 12:34; 23:33) para cualquier serpiente venenosa. La víbora mencionada en Hechos 28:3 probablemente era la vipera aspis, o víbora mediterránea. (Ver SUMADOR.)"
+      },
+      {
+        "source": "SMI",
+        "text": "[Serpiente]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Job 20:16",
+        "original": "Job 20:16"
+      },
+      {
+        "reference": "Isaiah 30:6",
+        "original": "Isa. 30:6"
+      },
+      {
+        "reference": "Isaiah 59:5",
+        "original": "Isa 59:5"
+      },
+      {
+        "reference": "Matthew 3:7",
+        "original": "Matt. 3:7"
+      },
+      {
+        "reference": "Matthew 12:34",
+        "original": "Matt 12:34"
+      },
+      {
+        "reference": "Matthew 23:33",
+        "original": "Matt 23:33"
+      },
+      {
+        "reference": "Acts 28:3",
+        "original": "Acts 28:3"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "virgin": {
+    "name": "Virgen",
+    "slug": "virgin",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "En una profecía acerca de nuestro Señor, Isaías (7:14) dice: “La virgen [R.V. marg., ‘la virgen’] concebirá y dará a luz un hijo” (comp. Lucas 1:31-35). Isaías (23:12) se refiere así al pueblo de la tierra de Sidón: “Oh virgen oprimida, hija de Sidón”; y del pueblo de Israel, Jeremías (18:13) dice: “La virgen de Israel ha hecho una cosa muy horrible”."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 1:31-35",
+        "original": "Luke 1:31-35"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "vision": {
+    "name": "Visión",
+    "slug": "vision",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "(Lucas 1:22), una aparición vívida, no un sueño (comp. Lucas 24:23; Hechos 26:19; 2 Corintios 12:1)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Luke 1:22",
+        "original": "Luke 1:22"
+      },
+      {
+        "reference": "Luke 24:23",
+        "original": "Luke 24:23"
+      },
+      {
+        "reference": "Acts 26:19",
+        "original": "Acts 26:19"
+      },
+      {
+        "reference": "2 Corinthians 12:1",
+        "original": "2 Cor. 12:1"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "vophsi": {
+    "name": "Vofsi",
+    "slug": "vophsi",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "(rico), padre de Nahbi, el espía naftalita. (Números 13:14) (A.C. antes de 1490.)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Numbers 13:14",
+        "original": "Numbers 13:14"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "vows": {
+    "name": "votos",
+    "slug": "vows",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Promesas voluntarias que, una vez hechas, debían cumplirse si lo prometido era correcto. Fueron hechos bajo una gran variedad de circunstancias (Gén. 28:18-22; Lev. 7:16; Núm. 30:2-13; Deut. 23:18; Jue. 11:30, 39; 1 Sam. 1:11; Jonás 1:16; Hechos 18:18; 21:23)."
+      },
+      {
+        "source": "SMI",
+        "text": "Un voto es una promesa solemne hecha a Dios de realizar o abstenerse de realizar una determinada cosa. La primera mención de un voto es la de Jacob. (Génesis 28:18-22; 31:13) Los votos en general también se mencionan en el libro de Job (Job 22:27). Por lo tanto, la ley no introdujo los votos, sino que reguló su práctica. Se mencionan tres tipos: 1, votos de devoción; 2, votos de abstinencia; 3, Votos de destrucción."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 28",
+        "original": "Gen. 28"
+      },
+      {
+        "reference": "Leviticus 7:16",
+        "original": "Lev. 7:16"
+      },
+      {
+        "reference": "Numbers 30:2-13",
+        "original": "Num. 30:2-13"
+      },
+      {
+        "reference": "Deuteronomy 23:18",
+        "original": "Deut. 23:18"
+      },
+      {
+        "reference": "Judges 11:30",
+        "original": "Judg. 11:30"
+      },
+      {
+        "reference": "Judges 11:39",
+        "original": "Judg. 11:39"
+      },
+      {
+        "reference": "1 Samuel 1:11",
+        "original": "1 Sam. 1:11"
+      },
+      {
+        "reference": "Jonah 1:16",
+        "original": "Jonah 1:16"
+      },
+      {
+        "reference": "Acts 18:18",
+        "original": "Acts 18:18"
+      },
+      {
+        "reference": "Acts 21:23",
+        "original": "Acts 21:23"
+      },
+      {
+        "reference": "Genesis 28:18-22",
+        "original": "Genesis 28:18-22"
+      },
+      {
+        "reference": "Genesis 31:13",
+        "original": "Genesis 31:13"
+      },
+      {
+        "reference": "Job 22:27",
+        "original": "Job 22:27"
+      },
+      {
+        "reference": "Leviticus 27:28",
+        "original": "Leviticus 27:28"
+      },
+      {
+        "reference": "Leviticus 27:9",
+        "original": "Leviticus 27:9"
+      },
+      {
+        "reference": "Leviticus 10:33",
+        "original": "Leviticus 10:33"
+      },
+      {
+        "reference": "2 Samuel 15:8",
+        "original": "2 Samuel 15:8"
+      },
+      {
+        "reference": "Leviticus 27:1-7",
+        "original": "Leviticus 27:1-7"
+      },
+      {
+        "reference": "Numbers 30:2",
+        "original": "Numbers 30:2"
+      },
+      {
+        "reference": "Numbers 23:21",
+        "original": "Numbers 23:21"
+      },
+      {
+        "reference": "Ecclesiastes 5:4",
+        "original": "Ecclesiastes 5:4"
+      },
+      {
+        "reference": "Numbers 30:3-18",
+        "original": "Numbers 30:3-18"
+      },
+      {
+        "reference": "Ezra 10:8",
+        "original": "Ezra 10:8"
+      },
+      {
+        "reference": "Micah 4:13",
+        "original": "Micah 4:13"
+      },
+      {
+        "reference": "Acts 21:24",
+        "original": "Acts 21:24"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "vulgate-the": {
+    "name": "Vulgata, La",
+    "slug": "vulgate-the",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "la versión latina de la Biblia. La influencia que ejerció sobre el cristianismo occidental es apenas menor que la de la LXX. sobre las iglesias griegas. Tanto la Vulgata griega como la latina han sido descuidadas durante mucho tiempo; sin embargo, la Vulgata debería tener un interés muy profundo para todas las iglesias occidentales; durante muchos siglos fue la única Biblia generalmente utilizada; y, directa o indirectamente, es el verdadero padre de todas las versiones vernáculas de Europa occidental. Sólo la versión gótica de Ulphilas es independiente de ella. El nombre es equivalente a Vulgata editio (el texto actual de las Sagradas Escrituras. Esta traducción fue hecha por Jerónimo-Eusebio Jerónimo, quien nació en el año 329 d.C. en Stridon, Dalmacia, y murió en Belén en el año 420 d.C. Este gran erudito probablemente solo durante 1500 años poseía las calificaciones necesarias para producir una versión original de las Escrituras para el uso de las iglesias latinas. Al ir a Roma, el Papa lo solicitó Damasco, 383 d. C., para hacer una revisión de la antigua versión latina del Nuevo Testamento, cuya historia se pierde en la oscuridad. En la mediana edad, Jerónimo comenzó el estudio del hebreo e hizo una nueva versión del Antiguo Testamento a partir del hebreo original que se completó en el año 404 d. C. Las labores críticas de Jerónimo fueron recibidas con un fuerte clamor de reproche. la ignorancia pronto desaparece; y la Nueva traducción gradualmente comenzó a usarse igual que la Antigua, y finalmente la suplantó. Difícilmente se puede sobrevalorar el vasto poder que ha tenido la Vulgata para determinar los términos teológicos de la cristiandad occidental. aparecen por primera vez en la Antigua Vulgata, la gracia, la redención, la elección, la reconciliación, la satisfacción, la inspiración, las Escrituras, fueron dedicadas allí a un uso nuevo y santo, y aunque el bautismo es griego, sería fácil ampliar la lista agregando órdenes, penitencia, congregación, sacerdote, pero se puede ver en las formas ya presentadas que la Vulgata ha dejado su huella en ambos. sobre nuestro lenguaje y sobre nuestros pensamientos fue la única versión que conocían quienes transmitieron a los reformadores las ricas reservas de sabiduría medieval, la versión con la que los más grandes de los reformadores estaban más familiarizados y de la que habían extraído su primer conocimiento de la verdad divina."
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "wagon": {
+    "name": "Vagón",
+    "slug": "wagon",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "heb. aghala; así traducido en Génesis 45:19, 21, 27; 46:5; Núm. 7:3, 7, 8, pero en otros lugares se traduce como “carro” (1 Sam. 6:7, etc.). Este vehículo fue utilizado con fines pacíficos. En Ezek. 23:24, sin embargo, es la traducción de una palabra hebrea diferente y denota un carro de guerra."
+      },
+      {
+        "source": "SMI",
+        "text": "El carro oriental, o arabah, es un vehículo compuesto por dos o tres tablas fijadas sobre dos sólidos bloques circulares de madera de dos a cinco pies de diámetro, que sirven como ruedas. Para el transporte de pasajeros se colocan colchones o ropa en el fondo y el vehículo es tirado por búfalos o bueyes. [Carro y carro]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Genesis 45:19",
+        "original": "Gen. 45:19"
+      },
+      {
+        "reference": "Genesis 45:21",
+        "original": "Gen. 45:21"
+      },
+      {
+        "reference": "Genesis 45:27",
+        "original": "Gen. 45:27"
+      },
+      {
+        "reference": "Numbers 7:3",
+        "original": "Num. 7:3"
+      },
+      {
+        "reference": "Numbers 7:7",
+        "original": "Num 7:7"
+      },
+      {
+        "reference": "Numbers 7:8",
+        "original": "Num 7:8"
+      },
+      {
+        "reference": "1 Samuel 6:7",
+        "original": "1 Sam. 6:7"
+      },
+      {
+        "reference": "Ezekiel 23:24",
+        "original": "Ezek. 23:24"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "wandering-in-the-wilderness": {
+    "name": "Vagando por el desierto",
+    "slug": "wandering-in-the-wilderness",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "[Desierto De Los Errantes De Los Errantes]"
+      }
+    ],
+    "scripture_refs": [],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "widow": {
+    "name": "Viuda",
+    "slug": "widow",
+    "definitions": [
+      {
+        "source": "SMI",
+        "text": "Bajo la dispensación mosaica no se hizo ninguna disposición legal para el mantenimiento de las viudas. Quedaron dependientes en parte del afecto de sus parientes, más especialmente del hijo mayor, cuyo derecho de nacimiento, o parte adicional de la propiedad, le imponía tal deber, y en parte de los privilegios otorgados a otras clases en dificultades, como la participación en el tercer diezmo trienal (14:29; 26:12), en arrendamiento (24:19-21) y en fiestas religiosas. (16:11,14) Con respecto al nuevo matrimonio de las viudas, la única restricción impuesta por la ley mosaica se refería a la contingencia de que una quedara sin hijos, en cuyo caso el hermano del marido fallecido tenía derecho a casarse con la viuda. (25:5,6; Mateo 22:23-30) En la Iglesia apostólica las viudas se sostenían con fondos públicos, y el socorro se administraba diariamente en especie, bajo la superintendencia de funcionarios designados para este propósito especial (Hechos 6:1-6). San Pablo da instrucciones particulares en cuanto a la clase de personas con derecho a tal manutención pública. (1 Timoteo 5:3-16) Del cuerpo de tales viudas se debía inscribir un cierto número, siendo los requisitos para tal inscripción que no tuvieran menos de sesenta años de edad; que habían sido \"la esposa de un solo hombre\", es decir, probablemente una vez casadas; y que habían llevado una vida útil y caritativa. vs. (1 Timoteo 5:9,10) No estamos dispuestos a identificar a las viudas de la Biblia ni con las diaconisas ni con las presbútidas de la Iglesia primitiva. La orden de viudas existía como una institución separada, contemporáneamente a estos cargos, aparentemente con el mismo propósito eleemosinario para el que fue instituida originalmente."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Matthew 22:23-30",
+        "original": "Matthew 22:23-30"
+      },
+      {
+        "reference": "Acts 6:1-6",
+        "original": "Acts 6:1-6"
+      },
+      {
+        "reference": "1 Timothy 5:3-16",
+        "original": "1 Timothy 5:3-16"
+      },
+      {
+        "reference": "1 Timothy 5:9",
+        "original": "1 Timothy 5:9"
+      },
+      {
+        "reference": "1 Timothy 5:10",
+        "original": "1 Timothy 5:10"
+      }
+    ],
+    "sources": [
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "widows": {
+    "name": "viudas",
+    "slug": "widows",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Ser tratado con bondad (Éxodo 22:22; Deuteronomio 14:29; 16:11, 14; 24:17, 19-21; 26:12; 27:19, etc.). En el Nuevo Testamento se inculca y exhibe el mismo tierno respeto hacia ellos (Hechos 6:1-6; 1 Ti. 5:3-16)."
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Exodus 22:22",
+        "original": "Ex. 22:22"
+      },
+      {
+        "reference": "Deuteronomy 14:29",
+        "original": "Deut. 14:29"
+      },
+      {
+        "reference": "Deuteronomy 16:11",
+        "original": "Deut 16:11"
+      },
+      {
+        "reference": "Deuteronomy 16:14",
+        "original": "Deut 16:14"
+      },
+      {
+        "reference": "Deuteronomy 24:17",
+        "original": "Deut 24:17"
+      },
+      {
+        "reference": "Deuteronomy 24:19-21",
+        "original": "Deut 24:19-21"
+      },
+      {
+        "reference": "Deuteronomy 26:12",
+        "original": "Deut 26:12"
+      },
+      {
+        "reference": "Deuteronomy 27:19",
+        "original": "Deut 27:19"
+      },
+      {
+        "reference": "Acts 6:1-6",
+        "original": "Acts 6:1-6"
+      },
+      {
+        "reference": "1 Timothy 5:3-16",
+        "original": "1 Tim. 5:3-16"
+      }
+    ],
+    "sources": [
+      "EAS"
+    ],
+    "letter": "v"
+  },
+  "window": {
+    "name": "Ventana",
+    "slug": "window",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Correctamente sólo una abertura en una casa para la entrada de luz y aire, cubierta con celosías, que podía abrirse o cerrarse (2 Reyes 1:2; Hechos 20:9). Los espías en Jericó y Pablo en Damasco fueron bajados desde las ventanas de las casas contiguas a la muralla de la ciudad (Jos. 2:15; 2 Cor. 11:33). Las nubes son metafóricamente llamadas “ventanas del cielo” (Gén. 7:11; Mal. 3:10). La palabra así traducida en Isa. 54:12 debería traducirse más bien como “almenas” (LXX., “baluartes”; R.V., “pináculos”), o como lo traduce Gesenius, “almenas con muescas, es decir, soles o rayos del sol” = que tienen una apariencia irradiada como el sol."
+      },
+      {
+        "source": "SMI",
+        "text": "La ventana de una casa oriental consiste generalmente en una abertura cerrada con una celosía. (Jueces 5:28; Proverbios 7:6) Versión autorizada “margen”; (Eclesiastés 12:3) Versión autorizada “ventana”; (Cantares de los Cantares 2:9; Oseas 13:3) Versión autorizada “chimenea”. El vidrio se ha introducido en Egipto en los tiempos modernos como protección contra el frío del invierno, pero las celosías siguen siendo el medio habitual, y siendo el único para los pobres, para cerrar las ventanas. Las ventanas generalmente dan al patio interior de la casa, pero en cada casa una o más dan a la calle. En Egipto, estas ventanas exteriores generalmente sobresalen de la entrada. [Casa]"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "2 Kings 1:2",
+        "original": "2 Kings 1:2"
+      },
+      {
+        "reference": "Acts 20:9",
+        "original": "Acts 20:9"
+      },
+      {
+        "reference": "Joshua 2:15",
+        "original": "Josh. 2:15"
+      },
+      {
+        "reference": "2 Corinthians 11:33",
+        "original": "2 Cor. 11:33"
+      },
+      {
+        "reference": "Genesis 7:11",
+        "original": "Gen. 7:11"
+      },
+      {
+        "reference": "Malachi 3:10",
+        "original": "Mal. 3:10"
+      },
+      {
+        "reference": "Isaiah 54:12",
+        "original": "Isa. 54:12"
+      },
+      {
+        "reference": "Judges 5:28",
+        "original": "Judges 5:28"
+      },
+      {
+        "reference": "Proverbs 7:6",
+        "original": "Proverbs 7:6"
+      },
+      {
+        "reference": "Ecclesiastes 12:3",
+        "original": "Ecclesiastes 12:3"
+      },
+      {
+        "reference": "Hosea 13:3",
+        "original": "Hosea 13:3"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  },
+  "winds": {
+    "name": "vientos",
+    "slug": "winds",
+    "definitions": [
+      {
+        "source": "EAS",
+        "text": "Soplando desde los cuatro puntos del cielo (Jer. 49:36; Eze. 37:9; Dan. 8:8; Zac. 2:6). El viento del este era abrasador (Ezequiel 17:10; 19:12), y a veces se lo menciona simplemente como un viento fuerte (Job 27:21; Isaías 27:8). Este viento prevalece en Palestina de febrero a junio, al igual que el viento del oeste (Lucas 12:54) de noviembre a febrero. El sur era un viento cálido (Job 37:17; Lucas 12:55). Se extendió por la península arábiga. En sentido figurado, se habla de la avalancha de invasores como de un torbellino (Isaías 21:1); una conmoción entre las naciones del mundo como una contienda de los cuatro vientos (Dan. 7:2). Los vientos están sujetos al poder divino (Sal. 18:10; 135:7)."
+      },
+      {
+        "source": "SMI",
+        "text": "Que los hebreos reconocían la existencia de cuatro vientos predominantes que salían, en términos generales, de los cuatro puntos cardinales, norte, sur, este y oeste, puede inferirse de su costumbre de utilizar la expresión “cuatro vientos” como equivalente a los “cuatro cuartos” del hemisferio. (Ezequiel 37:9; Daniel 8:8; Zacarías 2:6; Mateo 24:31.) El viento del norte, o, como solía llamarse “el norte”, era naturalmente el más frío de los cuatro, Ecclus. 43:20 y por lo tanto se invoca su presencia como favorable a la vegetación en (Cantares de los Cantares 4:16). Se describe en (Proverbios 25:23) como que trae lluvia; en este caso debemos entender el viento del noroeste. El viento del noroeste predomina desde el equinoccio de otoño hasta principios de noviembre, y el viento del norte desde junio hasta el equinoccio. El viento del este cruza los desiertos arenosos de los desiertos de Arabia antes de llegar a Palestina y por eso se le llamó “el viento del desierto”. (Job 1:19; Jeremías 13:14.) Sopla con violencia y, por lo tanto, se supone que se usa generalmente para cualquier viento violento. (Job 27:21; 38:24; Salmo 48:7; Isaías 27:8; Ezequiel 27:26.) En Palestina el viento del este prevalece de febrero a junio. El viento del sur, que atraviesa la península arábiga antes de llegar a Palestina, debe ser necesariamente extremadamente caluroso. (Job 37:17; Lucas 12:55.) Los vientos del oeste y del sudoeste llegan a Palestina cargados de humedad recogida del Mediterráneo, y por eso los árabes los denominan expresamente “los padres de la lluvia”. Los vientos del oeste prevalecen en Palestina de noviembre a febrero. Además de los cuatro vientos regulares, en la Biblia tenemos noticias de las borrascas locales (Marcos 4:37; Lucas 8:23) a las que estaba expuesto el Mar de Genesaret. En la narración del viaje de San Pablo nos encontramos con el término griego Labios para describir el viento del suroeste; el latín Carus o Caurus, viento del noroeste (Hechos 27:12) y Euroclydon, viento de carácter muy violento proveniente del este-noreste. (Hechos 27:14)"
+      }
+    ],
+    "scripture_refs": [
+      {
+        "reference": "Jeremiah 49:36",
+        "original": "Jer. 49:36"
+      },
+      {
+        "reference": "Ezekiel 37:9",
+        "original": "Ezek. 37:9"
+      },
+      {
+        "reference": "Daniel 8:8",
+        "original": "Dan. 8:8"
+      },
+      {
+        "reference": "Zechariah 2:6",
+        "original": "Zech. 2:6"
+      },
+      {
+        "reference": "Ezekiel 17:10",
+        "original": "Ezek. 17:10"
+      },
+      {
+        "reference": "Ezekiel 19:12",
+        "original": "Ezek 19:12"
+      },
+      {
+        "reference": "Job 27:21",
+        "original": "Job 27:21"
+      },
+      {
+        "reference": "Isaiah 27:8",
+        "original": "Isa. 27:8"
+      },
+      {
+        "reference": "Luke 12:54",
+        "original": "Luke 12:54"
+      },
+      {
+        "reference": "Job 37:17",
+        "original": "Job 37:17"
+      },
+      {
+        "reference": "Luke 12:55",
+        "original": "Luke 12:55"
+      },
+      {
+        "reference": "Isaiah 21:1",
+        "original": "Isa. 21:1"
+      },
+      {
+        "reference": "Daniel 7:2",
+        "original": "Dan. 7:2"
+      },
+      {
+        "reference": "Psalms 18:10",
+        "original": "Ps. 18:10"
+      },
+      {
+        "reference": "Psalms 135:7",
+        "original": "Ps 135:7"
+      },
+      {
+        "reference": "Matthew 24:31",
+        "original": "Matthew 24:31"
+      },
+      {
+        "reference": "Sir 43:20",
+        "original": "Ecclus. 43:20"
+      },
+      {
+        "reference": "Proverbs 25:23",
+        "original": "Proverbs 25:23"
+      },
+      {
+        "reference": "Job 1:19",
+        "original": "Job 1:19"
+      },
+      {
+        "reference": "Jeremiah 13:14",
+        "original": "Jeremiah 13:14"
+      },
+      {
+        "reference": "Job 38:24",
+        "original": "Job 38:24"
+      },
+      {
+        "reference": "Psalms 48:7",
+        "original": "Psalms 48:7"
+      },
+      {
+        "reference": "Ezekiel 27:26",
+        "original": "Ezekiel 27:26"
+      },
+      {
+        "reference": "Mark 4:37",
+        "original": "Mark 4:37"
+      },
+      {
+        "reference": "Luke 8:23",
+        "original": "Luke 8:23"
+      },
+      {
+        "reference": "Acts 27:12",
+        "original": "Acts 27:12"
+      },
+      {
+        "reference": "Acts 27:14",
+        "original": "Acts 27:14"
+      }
+    ],
+    "sources": [
+      "EAS",
+      "SMI"
+    ],
+    "letter": "v"
+  }
+}

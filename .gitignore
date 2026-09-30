@@ -46,7 +46,12 @@ yarn-error.log*
 next-env.d.ts
 
 # Auto-generated data files during build
-/public/data/
+/public/data/articles/
+/public/data/devotional/
+/public/data/sermons/
+/public/data/sermons-pages/
+/public/data/search-index.json
+/public/data/articles-index.json
 /content/data/
 /public/search-index.json
 /public/articles-index.json
