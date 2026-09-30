@@ -4,8 +4,20 @@ import { getMetadata } from '../../../../lib/sermon-metadata';
 import SermonInfoPanel from './SermonInfoPanel';
 import { getDictionary } from '../../../../lib/dictionaries';
 
-export const revalidate = 86400;
-export const dynamicParams = true;
+export const revalidate = false;
+export const dynamicParams = false;
+
+export async function generateStaticParams() {
+  const langs = ['en', 'pt', 'es'];
+  const params = [];
+  for (const lang of langs) {
+    const volumes = await getVolumes(lang);
+    for (const volume of volumes) {
+      params.push({ lang, id: volume });
+    }
+  }
+  return params;
+}
 
 export async function generateMetadata({ params }) {
   const { id, lang } = await params;

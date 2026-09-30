@@ -86,11 +86,11 @@ export default async function RootLayout({ children, params }) {
                 SPURGEON<span>TV</span>
               </Link>
               <nav className="site-nav">
-                <Link href={`/${lang}/sermons`} prefetch={false} className="nav-link">{dict.navigation.sermons}</Link>
+                <Link href={`/${lang}/devotional`} prefetch={false} className="nav-link">{dict.navigation.devotional}</Link>
                 <Link href={`/${lang}/bible`} prefetch={false} className="nav-link">{dict.navigation.bible}</Link>
                 <Link href={`/${lang}/dictionary`} prefetch={false} className="nav-link">{dict.navigation.dictionary}</Link>
-                <Link href={`/${lang}/devotional`} prefetch={false} className="nav-link">{dict.navigation.devotional}</Link>
                 <Link href={`/${lang}/about`} prefetch={false} className="nav-link">{dict.navigation.about}</Link>
+                <Link href={`/${lang}/sermons`} prefetch={false} className="nav-link">{dict.navigation.sermons}</Link>
                 <Link href={`/${lang}/support`} prefetch={false} className="nav-link support-nav-link" style={{ fontWeight: 600, color: 'var(--brand-purple)' }}>{dict.navigation.support}</Link>
               </nav>
               <div className="header-selectors">

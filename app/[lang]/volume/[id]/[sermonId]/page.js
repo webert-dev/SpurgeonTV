@@ -16,9 +16,30 @@ import TTSPlayer from '../../../../components/TTSPlayer';
 import CitationBox from '../../../../components/CitationBox';
 import ShareButton from '../../../../components/ShareButton';
 
-// Usando ISR para armazenar em cache por 24 horas (86400 segundos) e evitar estourar a cota de CPU
-export const revalidate = 86400;
-export const dynamicParams = true;
+export const revalidate = false;
+export const dynamicParams = false;
+
+export async function generateStaticParams() {
+  const index = await loadStaticJson('search-index.json');
+  if (!index) return [];
+  
+  const langs = ['en', 'pt', 'es'];
+  const params = [];
+  
+  for (const lang of langs) {
+    const list = index[lang] || [];
+    for (const item of list) {
+      if (item.volume && item.slug) {
+        params.push({
+          lang,
+          id: item.volume,
+          sermonId: item.slug
+        });
+      }
+    }
+  }
+  return params;
+}
 
 export async function generateMetadata({ params }) {
   const { id, sermonId, lang } = await params;

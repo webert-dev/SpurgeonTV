@@ -2,9 +2,33 @@ import { getDictionary } from '../../../../lib/dictionaries';
 import DevotionalDayClient from './DevotionalDayClient';
 import { loadStaticJson } from '../../../../lib/data-loader';
 
-// Usando ISR para armazenar em cache por 24 horas (86400 segundos) e evitar estourar a cota de CPU
-export const revalidate = 86400;
-export const dynamicParams = true;
+export const revalidate = false;
+export const dynamicParams = false;
+
+export async function generateStaticParams() {
+  const langs = ['en', 'pt', 'es'];
+  const params = [];
+  
+  function getDays(m) {
+    const d30 = [4, 6, 9, 11];
+    if (m === 2) return 29;
+    if (d30.includes(m)) return 30;
+    return 31;
+  }
+
+  for (const lang of langs) {
+    for (let m = 1; m <= 12; m++) {
+      const maxDays = getDays(m);
+      for (let d = 1; d <= maxDays; d++) {
+        params.push({
+          lang,
+          date: `${m.toString().padStart(2, '0')}-${d.toString().padStart(2, '0')}`
+        });
+      }
+    }
+  }
+  return params;
+}
 
 function daysInMonth(m) {
   const d30 = [4, 6, 9, 11];
