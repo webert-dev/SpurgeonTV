@@ -2242,7 +2242,7 @@ body.bible-links-enabled .bible-ref-marker:hover {
 
 .home-article-card {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 1.5rem;
   padding: 1.5rem 2rem;
   background: var(--bg);
@@ -2265,6 +2265,7 @@ body.bible-links-enabled .bible-ref-marker:hover {
   width: 3rem;
   text-align: center;
   filter: grayscale(0.3);
+  margin-top: 0.35rem;
 }
 
 .home-article-body {
@@ -2403,7 +2404,7 @@ body.bible-links-enabled .bible-ref-marker:hover {
 
 /* ── Quote ── */
 .home-quote {
-  padding: 6rem 2rem;
+  padding: 2.5rem 2rem;
   text-align: center;
   background: linear-gradient(to bottom, var(--bg), rgba(212, 175, 55, 0.04), var(--bg));
   position: relative;

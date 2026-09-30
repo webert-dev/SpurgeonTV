@@ -188,10 +188,9 @@ export default async function HomePage({ params }) {
       {/* ══════════════════════════════════════════
           RECENT ARTICLES
       ══════════════════════════════════════════ */}
-      <section className="home-section home-articles-section">
-        <div className="container">
-          <div className="home-section-header">
-            <div>
+      <section className="home-articles-section home-bible-card" style={{ marginTop: '3rem', marginBottom: '3rem' }}>
+        <div className="home-section-header" style={{ padding: '0 0.5rem' }}>
+          <div>
               <p className="home-section-eyebrow">{dict.home.articles.eyebrow}</p>
               <h2 className="home-section-title">{dict.home.articles.title}</h2>
               <p className="home-section-subtitle">{dict.home.articles.subtitle}</p>
@@ -221,7 +220,6 @@ export default async function HomePage({ params }) {
               </Link>
             ))}
           </div>
-        </div>
       </section>
 
       {/* ══════════════════════════════════════════
