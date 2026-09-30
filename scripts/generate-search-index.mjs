@@ -84,9 +84,9 @@ async function main() {
     }
   }
 
-  // Ensure public dir exists
-  await fs.mkdir(path.join(ROOT, 'public'), { recursive: true });
-  await fs.mkdir(path.join(ROOT, 'lib'), { recursive: true });
+  // Ensure output directories exist
+  await fs.mkdir(path.dirname(OUTPUT_LIB), { recursive: true });
+  await fs.mkdir(path.dirname(OUTPUT_PUBLIC), { recursive: true });
   const json = JSON.stringify(index);
   await fs.writeFile(OUTPUT_LIB, json, 'utf-8');
   await fs.writeFile(OUTPUT_PUBLIC, json, 'utf-8');
