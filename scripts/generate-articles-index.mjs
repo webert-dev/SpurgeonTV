@@ -87,8 +87,10 @@ if (fs.existsSync(baseDir)) {
 }
 
 // Write index files
-const outPath = path.join(ROOT, 'public', 'data', 'articles-index.json');
+const outPathData = path.join(ROOT, 'public', 'data', 'articles-index.json');
+const outPathPublic = path.join(ROOT, 'public', 'articles-index.json');
 fs.writeFileSync(path.join(ROOT, 'lib', 'articles-index.json'), JSON.stringify(articlesIndex, null, 2));
-fs.writeFileSync(outPath, JSON.stringify(articlesIndex));
+fs.writeFileSync(outPathData, JSON.stringify(articlesIndex));
+fs.writeFileSync(outPathPublic, JSON.stringify(articlesIndex));
 
 console.log('✅ Generated lib/articles-index.json and copied articles to public/data/articles');
