@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { BIBLE_BOOKS } from '../../../lib/bible-books';
+import { BOOK_NORMALIZER } from '../../../lib/linkifyBible';
 import ShareButton from '../../components/ShareButton';
 
 export default function BibleReader({ lang, dict }) {
@@ -14,13 +15,34 @@ export default function BibleReader({ lang, dict }) {
   const urlBook = searchParams.get('book');
   const urlChapter = searchParams.get('chapter');
   
-  const initialBook = urlBook ? BIBLE_BOOKS.find(b => b.name === urlBook) || BIBLE_BOOKS[0] : BIBLE_BOOKS[0];
+  const resolveBook = (bookQuery) => {
+    if (!bookQuery) return BIBLE_BOOKS[0];
+    const norm = BOOK_NORMALIZER[bookQuery] || bookQuery;
+    return BIBLE_BOOKS.find(b => b.name.toLowerCase() === norm.toLowerCase()) ||
+           BIBLE_BOOKS.find(b => b.name.toLowerCase() === bookQuery.toLowerCase()) ||
+           BIBLE_BOOKS[0];
+  };
+
+  const initialBook = resolveBook(urlBook);
   const initialChapter = urlChapter ? parseInt(urlChapter, 10) : 1;
   
   const [selectedBook, setSelectedBook] = useState(initialBook);
   const [selectedChapter, setSelectedChapter] = useState(initialChapter);
   const [verses, setVerses] = useState([]);
   
+  // Sync if URL search params change while staying on Bible page
+  useEffect(() => {
+    if (urlBook) {
+      setSelectedBook(resolveBook(urlBook));
+    }
+    if (urlChapter) {
+      const parsedChapter = parseInt(urlChapter, 10);
+      if (!isNaN(parsedChapter)) {
+        setSelectedChapter(parsedChapter);
+      }
+    }
+  }, [urlBook, urlChapter]);
+
   // Cache the bibles so we don't re-fetch when switching back and forth
   const [bibleCache, setBibleCache] = useState({});
   const [loading, setLoading] = useState(false);
@@ -140,8 +162,13 @@ export default function BibleReader({ lang, dict }) {
             value={selectedBook.name}
             onChange={(e) => {
               const book = BIBLE_BOOKS.find(b => b.name === e.target.value);
-              setSelectedBook(book);
-              setSelectedChapter(1); // Reset to chapter 1 on book change
+              if (book) {
+                setSelectedBook(book);
+                // Preserve chapter if the new book has at least that many chapters, otherwise fallback to chapter 1
+                if (selectedChapter > book.chapters || selectedChapter < 1) {
+                  setSelectedChapter(1);
+                }
+              }
             }}
           >
             {BIBLE_BOOKS.map((b, i) => {

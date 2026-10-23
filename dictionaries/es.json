@@ -16,7 +16,8 @@
     "lastSermon": "Último Sermón",
     "videos": "Videos",
     "support": "Apóyanos",
-    "devotional": "Devocional"
+    "devotional": "Devocional",
+    "store": "Tienda"
   },
   "footer": {
     "copyrightText": "Los sermones de Charles Haddon Spurgeon (1834–1892) son de dominio público.",
@@ -90,7 +91,11 @@
       "title": "Últimos Artículos",
       "subtitle": "Explore la vida, teología y controversias de Spurgeon",
       "allArticles": "Todos los artículos",
-      "read": "lectura"
+      "read": "lectura",
+      "prev": "Anterior",
+      "next": "Siguiente",
+      "page": "Página",
+      "of": "de"
     },
     "tools": {
       "eyebrow": "Herramientas de Estudio",
@@ -120,6 +125,8 @@
   },
   "sermons": {
     "title": "Todos los Sermones",
+    "heroEyebrow": "El Príncipe de los Predicadores",
+    "heroSubtitle": "Explore más de 3.500 sermones del predicador más prolífico de la historia de la Iglesia, organizados en 63 volúmenes de exposición bíblica fiel y apasionada.",
     "searchPlaceholder": "Buscar sermones por título, tema o escritura...",
     "sorting": {
       "newest": "Más Recientes (Vol 63 → 1)",
@@ -136,6 +143,17 @@
     "title": "Volumen {num}",
     "publishedIn": "Publicado en {year}",
     "sermonCount": "{count} Sermones",
+    "browseVolumes": "Navegar por los Volúmenes",
+    "range": "01 al 63",
+    "prevVolume": "Vol. {num} Anterior",
+    "nextVolume": "Siguiente Vol. {num}",
+    "prevVolumeShort": "← Vol. {num}",
+    "nextVolumeShort": "Vol. {num} →",
+    "currentVolume": "Volumen actual",
+    "goToVolume": "Ir al Volumen {num}",
+    "toggleShow": "Mostrar botones (01–63)",
+    "toggleHide": "Ocultar botones",
+    "allVolumes": "Todos los Volúmenes",
     "table": {
       "sermon": "Sermón",
       "scripture": "Escritura"

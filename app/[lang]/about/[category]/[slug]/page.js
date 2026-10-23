@@ -4,8 +4,9 @@ import CitationBox from '../../../../components/CitationBox';
 import ShareButton from '../../../../components/ShareButton';
 import { loadStaticJson } from '../../../../../lib/data-loader';
 
-export const dynamic = 'force-static';
+export const dynamic = 'auto';
 export const dynamicParams = true;
+
 
 export function generateStaticParams() {
   const langs = ['en', 'es', 'pt'];
@@ -50,17 +51,42 @@ export async function generateMetadata({ params }) {
   const { lang, category, slug } = resolvedParams;
   
   try {
-    const folder = `data/articles/${category}/${slug}`;
-    const data = await loadStaticJson(`${lang}.json`, folder) || await loadStaticJson(`en.json`, folder);
+    let data = null;
+    const fsSync = typeof require !== 'undefined' ? require('fs') : null;
+    const pathSync = typeof require !== 'undefined' ? require('path') : null;
+    
+    if (fsSync && pathSync) {
+      const directFile = pathSync.join(process.cwd(), 'content', 'articles', category, slug, `${lang}.json`);
+      const directEnFile = pathSync.join(process.cwd(), 'content', 'articles', category, slug, 'en.json');
+      if (fsSync.existsSync(directFile)) {
+        try { data = JSON.parse(fsSync.readFileSync(directFile, 'utf8')); } catch {}
+      } else if (fsSync.existsSync(directEnFile)) {
+        try { data = JSON.parse(fsSync.readFileSync(directEnFile, 'utf8')); } catch {}
+      }
+    }
+
+    if (!data) {
+      const folder = `data/articles/${category}/${slug}`;
+      data = await loadStaticJson(`${lang}.json`, folder) || await loadStaticJson(`en.json`, folder);
+    }
     
     if (data) {
       const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv';
+      const ogImage = data.image 
+        ? (data.image.startsWith('http') ? data.image : `${siteUrl}${data.image}`)
+        : `${siteUrl}/icon.png`;
+
       return {
         title: data.seoTitle || data.title,
         description: data.description,
         keywords: data.keywords,
         alternates: {
           canonical: `${siteUrl}/${lang}/about/${category}/${slug}/`,
+        },
+        openGraph: {
+          title: data.title,
+          description: data.description,
+          images: [{ url: ogImage }],
         },
       };
     }
@@ -74,14 +100,30 @@ export default async function ArticlePage({ params }) {
   const { lang, category, slug } = resolvedParams;
   
   let data = null;
-  const filename = `${lang}.json`;
-  const folder = `data/articles/${category}/${slug}`;
-  data = await loadStaticJson(filename, folder);
+  const fsSync = typeof require !== 'undefined' ? require('fs') : null;
+  const pathSync = typeof require !== 'undefined' ? require('path') : null;
+
+  if (fsSync && pathSync) {
+    const directFile = pathSync.join(process.cwd(), 'content', 'articles', category, slug, `${lang}.json`);
+    const directEnFile = pathSync.join(process.cwd(), 'content', 'articles', category, slug, 'en.json');
+    if (fsSync.existsSync(directFile)) {
+      try { data = JSON.parse(fsSync.readFileSync(directFile, 'utf8')); } catch {}
+    } else if (fsSync.existsSync(directEnFile)) {
+      try { data = JSON.parse(fsSync.readFileSync(directEnFile, 'utf8')); } catch {}
+    }
+  }
 
   if (!data) {
-    // Fallback to English if translation doesn't exist
-    const fallbackFilename = `en.json`;
-    data = await loadStaticJson(fallbackFilename, folder);
+    const filename = `${lang}.json`;
+    const folder = `data/articles/${category}/${slug}`;
+    data = await loadStaticJson(filename, folder);
+
+    if (!data) {
+      // Fallback to English if translation doesn't exist
+      const fallbackFilename = `en.json`;
+      data = await loadStaticJson(fallbackFilename, folder);
+    }
+  }
     
     if (!data) {
       return (
@@ -93,7 +135,6 @@ export default async function ArticlePage({ params }) {
         </div>
       );
     }
-  }
 
   // Traduções para UI da página
   const ui = {
@@ -135,7 +176,7 @@ export default async function ArticlePage({ params }) {
             "@context": "https://schema.org",
             "@type": "Article",
             "headline": data.title,
-            "image": "https://spurgeon-tv.vercel.app/icon.png",
+            "image": data.image ? `https://spurgeon.tv${data.image}` : "https://spurgeon-tv.vercel.app/icon.png",
             "author": {
               "@type": "Organization",
               "name": "Spurgeon TV"
@@ -180,6 +221,16 @@ export default async function ArticlePage({ params }) {
             if (block.type === 'p') {
               return (
                 <p key={index} style={{ marginBottom: '1.5rem' }} dangerouslySetInnerHTML={{ __html: block.text }} />
+              );
+            }
+            if (block.type === 'blockquote') {
+              return (
+                <blockquote key={index} style={{ borderLeft: '3px solid var(--accent)', paddingLeft: '1.5rem', fontStyle: 'italic', margin: '2rem 0', color: 'var(--text-secondary)' }} dangerouslySetInnerHTML={{ __html: block.text }} />
+              );
+            }
+            if (block.type === 'div') {
+              return (
+                <div key={index} style={{ marginBottom: '1.5rem' }} dangerouslySetInnerHTML={{ __html: block.text }} />
               );
             }
             return null;

@@ -56,19 +56,23 @@ export default function AboutArticleList({ lang = 'en', initialArticles = [] }) 
 
   // Sort articles by date descending
   const sortedArticles = useMemo(() => {
-    return [...articles].sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+    return [...articles].sort((a, b) => {
+      if (a.sortDate && b.sortDate) return b.sortDate - a.sortDate;
+      const dA = new Date(a.date).getTime();
+      const dB = new Date(b.date).getTime();
+      if (!isNaN(dA) && !isNaN(dB)) return dB - dA;
+      return 0;
+    });
   }, [articles]);
 
   // Filter articles based on search query
   const filteredArticles = useMemo(() => {
-    // Reset to page 1 when searching
-    setCurrentPage(1);
     if (!searchQuery) return sortedArticles;
     const lowerQuery = searchQuery.toLowerCase();
     return sortedArticles.filter(
       (a) =>
         a.title.toLowerCase().includes(lowerQuery) ||
-        a.desc.toLowerCase().includes(lowerQuery)
+        (a.desc && a.desc.toLowerCase().includes(lowerQuery))
     );
   }, [searchQuery, sortedArticles]);
 
@@ -91,7 +95,10 @@ export default function AboutArticleList({ lang = 'en', initialArticles = [] }) 
           type="search"
           placeholder={t.searchPlaceholder}
           value={searchQuery}
-          onChange={(e) => setSearchQuery(e.target.value)}
+          onChange={(e) => {
+            setSearchQuery(e.target.value);
+            setCurrentPage(1);
+          }}
           style={{
             width: '100%',
             padding: '1rem 1.5rem',
@@ -99,7 +106,7 @@ export default function AboutArticleList({ lang = 'en', initialArticles = [] }) 
             borderRadius: '8px',
             border: '1px solid var(--border)',
             background: 'var(--surface)',
-            color: 'var(--text)',
+            color: 'var(--text-primary)',
             fontSize: '1rem',
             outline: 'none',
             boxShadow: '0 4px 6px rgba(0,0,0,0.1)'
@@ -119,8 +126,10 @@ export default function AboutArticleList({ lang = 'en', initialArticles = [] }) 
       <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: '2rem', maxWidth: '1000px', margin: '0 auto' }}>
         {currentArticles.length > 0 ? (
           currentArticles.map((article, idx) => {
-            // Replace /en/ with /lang/ dynamically
-            const href = article.href.replace('/en/', `/${lang}/`);
+            const rawHref = article.href || '';
+            const href = rawHref.startsWith(`/${lang}/`)
+              ? rawHref
+              : `/${lang}${rawHref.startsWith('/') ? '' : '/'}${rawHref}`;
             return (
               <div key={idx} style={{ flex: '0 1 300px', minWidth: '280px', maxWidth: '320px' }}>
                 <Link href={href} style={{ textDecoration: 'none', color: 'inherit' }}>

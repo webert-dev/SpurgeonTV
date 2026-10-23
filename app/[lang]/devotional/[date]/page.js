@@ -3,7 +3,7 @@ import DevotionalDayClient from './DevotionalDayClient';
 import { loadStaticJson } from '../../../../lib/data-loader';
 
 export const revalidate = false;
-export const dynamicParams = false;
+export const dynamicParams = true;
 
 export async function generateStaticParams() {
   const langs = ['en', 'pt', 'es'];

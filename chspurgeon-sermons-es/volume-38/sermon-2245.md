@@ -1,0 +1,122 @@
+# Sermón 2245 | Unión Viva, Amorosa y Duradera
+
+"Porque somos miembros de Su cuerpo, de Su carne y de Sus huesos." Efesios 5:30.  
+
+ANTES del funeral, en el Cementerio de Norwood, del difunto Sr. William Olney, diácono mayor de la Iglesia en el Tabernáculo Metropolitano, se celebró un servicio en el Tabernáculo. El edificio estaba lleno de amigos que compartían el duelo, quienes vinieron a testificar el afecto que sentían por el querido diácono que había sido llamado de manera tan repentina de entre ellos. El Pastor principal presidió. Se cantó el himno "Ellos se reúnen hacia casa uno por uno," y el Pastor James A. Spurgeon ofreció oración.  
+
+El himno "¿Por qué lloramos a los amigos que se van?" siguió, y C.H. Spurgeon luego leyó y explicó 1 Corintios 15. El Reverendo Burman Cassin, Rector de St. George's, Southwark, brevemente participó en oración, y la asamblea cantó el Salmo treinta y cuatro, en la versión que comienza—
+
+> A través de todas las escenas cambiantes de la vida,    
+> En problemas y en alegría,    
+> Las alabanzas de mi Dios aún permanecerán   
+> Mi corazón y mi lengua se usan.    
+
+Se cantó el himno que comenzaba "¡Para siempre con el Señor!" y el Sr. James Spurgeon ofreció una oración final. 
+
+El pastor C.H. Spurgeon entonces se levantó y dijo—Como estoy en muy mal estado para hablarle esta mañana, intentaré por una vez mantenerme alejado de mi tema, porque si me detengo en ello, me dominará y no podré hablar con usted en absoluto. Intento reprimir mis sentimientos, para poder encontrar palabras.
+
+Voy a hablar sobre la expresión favorita de mi hermano, William Olney, que él usaba con frecuencia en la oración. Me pregunto si estarán de acuerdo conmigo sobre cuál era. Según mi memoria, le he escuchado al menos una veintena de veces usar la siguiente frase cuando se acercaba mucho al Señor, su Dios, en oración. Él decía: "Señor Jesús, somos uno contigo." Creo que deben recordar esa joya suya. Todo se lo debía a eso. Disfrutaba conscientemente de una unión viva, amorosa y duradera con el Señor Jesucristo, y si tú y yo tenemos eso, tenemos todo lo que necesitamos para el tiempo y para la eternidad. Si no lo tenemos, no tenemos nada. Tomando a cualquiera de nosotros por separado, solo, está perdido, arruinado y deshecho.
+
+Toma a esa misma persona vinculada con Cristo por una unión viva, amorosa y duradera y es un santo: ¡salvado, santificado y seguro de ser glorificado!
+
+He tomado para mi texto las palabras que aparecen en el quinto capítulo de la Epístola a los Efesios, verso trece. Con respecto a nuestro Señor Jesús, el Apóstol Pablo dice: Somos miembros de Su cuerpo, de Su fe y de Sus huesos.
+
+"Nosotros", es decir, Su pueblo creyente, "somos miembros de Su cuerpo, de Su carne y de Sus huesos." Él es nuestra Cabeza y nosotros somos los miembros del cuerpo, y así estamos unidos a Él por una unión viva, amorosa y duradera.
+
+No voy más allá de esas tres palabras—ellas serán mis tres puntos, pero, al mismo tiempo, me ceñiré a mi texto.
+
+ENTRE EL CREYENTE Y CRISTO HAY UNA UNIÓN VIVA. Eso era justo lo que había entre mi Hermano, William Olney, y su Señor. ¡Una unión viva! Cuando se unió a la Iglesia de Cristo, no le ofreció la distin-
+
+el distinguido honor de su nombre y luego desaparecer y dedicar su vida a la política, o a los negocios, o al entretenimiento. Pero cuando la Iglesia tiene su nombre en su lista, recibe al hombre entero—cuerpo, alma y espíritu—y esto porque había vida en él!
+
+Su unión con Cristo no era nominal, sino real. No estaba simplemente cubierto con el nombre cristiano, sino que tenía el espíritu cristiano y la vida cristiana dentro de él. Sí, su unión con Cristo era una unión viva, no simplemente la de confianza, por la que la piedra se apoya en el cimiento, aunque la tenía, porque nunca nadie entendió más claramente la doctrina de la fe en Cristo. Cristo era su única confianza y seguridad, y acudía a Él como las piedras vuelven al cimiento. Pero era una unión viva en su caso, porque se produjeron los frutos de la vida. Era la unión de la rama al tronco en aquella bendita Vid que es Cristo mismo, así como Él dice: 'Yo soy la vid, vosotros los sarmientos.'  
+
+Ahora, ¿qué significa esta unión viva con Cristo?
+
+Significa, ante todo, la vida de Cristo apoderándose de nosotros. "Porque así como el Padre tiene vida en sí mismo, así le ha dado al Hijo que tenga vida en sí mismo." Él está lleno de vida y cuando se apodera de nosotros y eleva nuestra vida a la Suya, hay verdaderamente una unión viviente entre Él y nosotros.
+
+Pero, además, esta unión viva es la vida de Cristo en nosotros. Se le da a Él, no solo para que nos tome en nuestra debilidad, sino que es su prerrogativa divina impartirnos vida y llamar a los muertos—y hacer que vivan. "Porque así como el Padre resucita a los muertos y les da vida, así también el Hijo da vida a quien quiere." Así es como llegamos a tener vida en conexión con Él. Su vida fluye en nosotros, como de un árbol a las ramas, de modo que podemos decir verdaderamente, con el Apóstol, "Vivo yo, pero no yo, sino Cristo vive en mí; y la vida que ahora vivo en la carne, la vivo por la fe en el Hijo de Dios, que me amó y se entregó por mí." La unión viva comienza con la vida de nuestro Señor y luego esa vida fluye en nosotros y nosotros, también, comenzamos a vivir.
+
+Así fue con nuestro amigo, a quien extrañamos tan tristemente de nuestro medio hoy. Una nueva vida, una vida de santidad, una vida de servicio, una vida de comunión con Dios comenzó en él por la unidad con Cristo, y continuó en él por los mismos medios. Hubo una unión viva: la vida de Cristo había engendrado vida en él, y esto se veía continuamente en el fruto que producía. Estaba tan lleno de vida como podía estar. Solía sorprenderme con su energía; no me refiero solo a la energía física o incluso mental, ¡sino a su energía espiritual incesante y desbordante! Si alguno de nosotros estaba apagado, él nunca lo estaba, y no nos permitiría estar apagados por mucho tiempo. A menudo nos decía, cuando no nos sentíamos bien, que pensaba que nos veíamos sorprendentemente bien y trataba de animarnos de alguna manera, porque él, mismo, nunca parecía carecer de vida, ni de entusiasmo, ni de fuerza.
+
+Podría casi decir que, hasta el último momento, él estaba lleno de energía—¡murió lleno de vida! Fue intenso en el más alto grado hasta ser abatido—y era así de intenso, no por mera actividad mental, sino por el ardiente celo por Dios que estaba en su alma—y este celo era el resultado de su unión viviente con el Señor Jesucristo.
+
+Debido a esta vida de Cristo que estaba en él, soportó el sufrimiento sin flaquear. Si había algo que pudiera igualar la diligencia de su trabajo, era el heroísmo de su paciencia. A menudo nos ha sorprendido con su fortaleza. Hemos admirado la manera en que ha triunfado en Cristo a pesar de sus sufrimientos, pero hemos sentido que apenas podríamos esperar imitarlo al pie de la letra. Llegó tan lejos en el camino de soportar el dolor con paciencia como lo hizo en la dirección de servir a Cristo con entusiasmo, y esto ya es decir mucho para cualquier hombre. Por lo tanto, no lo digo por el hombre, sino en alabanza a la Gracia de Dios que lo ayudó, ya fuera que estuviera activo o pasivo, a seguir siendo animado y brillante debido a la unión viva que subsistía entre él y Cristo.
+
+Un versículo de los Salmos que acabamos de cantar, que era uno de sus favoritos, describe verdaderamente la resolución de su vida—
+
+"De su liberación me gloriaré,  
+
+Hasta que todos los afligidos,  
+
+Tomen consuelo de mi ejemplo,  
+
+Y duerman sus dolores en paz." Cristo habitando en él en plenitud podía tanto obrar como sufrir. El hecho de que Cristo vive en el Creyente es tan real como que Él una vez vivió en la tierra en un cuerpo humano. Llegó, entonces, con una bendición de doble propósito. Vino tanto a hacer la voluntad de Su Padre como a llevar la carga de las almas de los hombres. Estuvo activo haciendo el bien y, cuando llegó el tiempo señalado, llevó tan dispuesto la carga de los pecados de los hombres y sufrió hasta la muerte sin quejarse. De la misma manera, Cristo vivió en nuestro querido amigo, haciéndolo fuerte tanto para actuar como para sufrir. ¡Que Dios nos conceda a ti y a mí, también, tener tal unión viviente con Cristo!
+
+¿Conocen algo de esta experiencia, mis queridos amigos? Muchos de ustedes sí—es su vida ser uno con Cristo. Pero a algunos de ustedes debo estarles hablando un lenguaje sin sentido. ¡Oh, almas, si la vida de Cristo no está en ustedes, están muertos mientras viven, y morirán para siempre cuando mueran! A menos que se vinculen con Cristo, serán expulsados de la Presencia de Dios y alejados de todo lo que produce la verdadera vida y alegría. El contacto vivo con Él es nuestra única esperanza, tanto para el presente como para el futuro. Si están vitalmente unidos a Cristo, su alma está bien—pero si están divididos de Emmanuel y no tienen unión viva con Cristo, ¡no hay vida eterna para ustedes!
+
+> Viviendo o muriendo, Señor,  
+> Solo pido ser Tuyo,  
+> Mi vida en Ti, Tu vida en mí,  
+> Hace el Cielo mío para siempre.
+
+La siguiente palabra a, "viviendo," en el frecuente uso de mi querido Hermano, era, "amando." ENTRE EL VERDADERO CREYENTE Y CRISTO HAY una UNIÓN AMOROSA. ¡Y oh, la unión de un alma con Cristo es tan dulce porque es tan amorosa como viviente! Mi Hermano en Cristo, William Olney, ¡realmente amaba! Parecía tener amor por todos. Nunca estaba tan complacido como cuando complacía a los demás y a veces iba muy lejos para intentar agradar a personas que no se dejaban agradar. Pero aún así, su gran ambición en la vida era amar a los demás y hacer que otros amaran a Cristo. El amor reinaba supremo en sus acciones. Su unión con Cristo no era fría y formal, rígida y estrecha; tenía una unión con Cristo que era cálida, humana, intensa, ferviente, ¡amorosa! Había fuego en ese hombre y el fuego era la ardiente llama de gran afecto por el Señor Jesucristo.
+
+El amor de Cristo hacia nosotros comienza esta unión amorosa. Su fuente no está en nosotros mismos, sino en el amor eterno, amor inconmensurable, amor que se causó a sí mismo—amor de Gracia Libre, amor hacia los indignos, amor hacia los enemigos, amor hacia aquellos que no tenían vida, ni fuerza, ni esperanza aparte de Él. Cristo nos amó tanto que se dignó unirse a nosotros en unión eterna. ¡El gran pozo artesiano del que bebemos y que ha perforado los manantiales Divinos es el Amor de Cristo! Aquí es donde comienzan toda nuestra esperanza, nuestra alegría y nuestro amor. Cuando este Amor así nos eligió, Él entró en Pacto con Su Padre respecto a Su pueblo—y antes de que naciéramos, Él se identificó con nosotros, ¡para que en el propósito de Dios desde toda la eternidad fuéramos aceptados en Él!
+
+Pero la unión con nosotros significaba unión con nuestros pecados, y aunque el Hijo de Dios nunca podría ser vencido por el mal, ni convertirse en partícipe de la culpa humana, sin embargo, por el bendito misterio de Su unidad con Su pueblo, podía tomar sobre Sí sus pecados y llevarlos en Su propio cuerpo en la Cruz. Así, como no hay pasado ni futuro a los ojos de Aquel ante quien todos los acontecimientos se despliegan en un eterno “ahora”, el Hijo de Dios pudo expiar las iniquidades de aquellos que, a lo largo de todas las edades, estarían verdaderamente unidos a Él. Su amor que nos eligió no retrocedió ante el espantoso pago que nuestra deuda hacía necesario; era más fuerte que la muerte y más poderoso que el sepulcro. ¡Muchas aguas no podrían apagarlo! Muchas inundaciones no podrían ahogarlo, ni dejará de ejercer su bendita influencia sobre nosotros hasta que nos lleve a Casa a las moradas celestiales.
+
+¡Pero ni siquiera entonces, porque el amor de Cristo es eterno! Por esta unión amorosa, Cristo nos lleva con seguridad a través de todas las tentaciones de la vida. Los espíritus rescatados de aquellos que están unidos a Él son llevados a estar con Cristo en el instante en que están ausentes del cuerpo. Y, al final, del sepulcro, ese mismo Amor llamará al cuerpo y, en el alegre día de la Resurrección, se verá claramente cuán maravilloso es el amor que hizo a nuestro Señor tan uno con nosotros.
+
+Esto, entonces, es la manera en que llegamos a una unión amorosa con Cristo: Él comenzó a amarnos con un amor que no tuvo principio, que no tiene medida y que no conocerá cambio ni fin; y, por lo tanto, se unió a nosotros para siempre. Bien podía Kent alabar el nombre del Señor por las maravillas obradas por un amor como este mientras cantaba—
+
+> Herederos de Dios, coherederos con Jesús, Mucho antes de que el tiempo comenzara su carrera!   
+> ¡Alabanzas eternas a Su nombre! ¡Oh! ¡Qué maravillas ha hecho el amor! Uno con Jesús Por unión eterna uno.
+
+Nuestro amor a Cristo completa esta unión amorosa. Primero aprendemos de Su amor hacia nosotros y luego, como resultado de eso, somos llevados a amarlo. Nuestro amor es pequeño y pobre, no digno de Su aceptación, pero, tal como es, se lo damos todo a Él y no lo rechazará, ¡ni lo despreciará! ¡Oh, que todos podamos ahora unirnos a Cristo en amor! Estoy seguro de que mi Hermano, que nos ha dejado, conocía esta unión más que la mayoría de nosotros. Cuando una vez abordamos este glorioso tema en conversación privada, o cuando él mismo lo tocaba en sus propias oraciones públicas, ¡cómo parecía arder y resplandecer su espíritu! Siempre estaba en su elemento al hablar del amor de Cristo, o del amor del pueblo de Cristo hacia su Señor. Podía verdaderamente decir, como confío que muchos de nosotros podamos decir ahora mismo: 
+
+"Te doy mi corazón,
+
+¡Jesús, más deseado!"
+
+Y corazón por corazón será el regalo, Porque mi alma por Ti se ha encendido. Tú, solo los corazones moverías, Tú, solo, los corazones amas;  
+
+¡Yo te amaría como Tú me amas, oh Jesús más deseado!
+
+En esta unión amorosa, el amor de Cristo hacia nosotros y nuestro amor a Cristo fluyen por el mismo canal. Juntos forman un río de amor de una clase gloriosa. ¡Nos amamos los unos a los otros por amor a Cristo! ¡Amamos a los pecadores por amor a Cristo! ¡Amamos la Verdad de Dios como Cristo ama la Verdad de Dios! Amamos al Padre de la misma manera que Cristo ama al Padre, aunque no en el mismo grado. De hecho, hay un solo amor en la Cabeza y en todos los miembros. ¡Lo que la Cabeza ama, todo el cuerpo ama! Como un solo hombre vamos con Cristo. Al estar unidos a Él, sus deseos y anhelos se vuelven nuestros deseos y anhelos; crecemos a Su semejanza y, "somos transformados a la misma imagen, de gloria en gloria, como por el Espíritu del Señor."
+
+¿Sabes algo acerca de la unión amorosa con Cristo? Estoy seguro de que la gran mayoría de los aquí reunidos lo saben y se regocijan en ello. ¡Oh, conocerlo más! ¡Oh, que Su amor se derramara más abundantemente en nuestros corazones! Ahora, por el Espíritu Santo que se nos da, que experimentemos no solo los pequeños arroyuelos de amor que algunos de nosotros hemos tenido en los días pasados, sino que lleguemos a los torrentes de amor. ¡Que seamos arrastrados por él, hasta que, como un poderoso océano, cubra toda nuestra naturaleza y se convierta para nosotros en un verdadero Cielo comenzado aquí abajo!
+
+Nuestro tercer punto es que ENTRE LOS VERDADEROS CREYENTES Y CRISTO HAY una UNIÓN DURADERA. Toda la frase que nuestro querido amigo ya fallecido utilizaba con tanta frecuencia era: "unión viva, amorosa y duradera". ¡Oh amigos, qué triste sería para alguien tener solo una unión temporal con Cristo! Si estoy hablando a alguno que fue miembro de esta Iglesia hace años, pero que ni siquiera es profesante ahora; si me estoy dirigiendo a algunos que parecían ser cristianos sinceros una vez, pero que han vuelto atrás de seguir a Cristo; les recordaría con fervor que ninguna unión con Cristo es viva y amorosa a menos que también sea duradera.
+
+El hombre que está verdaderamente unido a Cristo no se vuelve apóstata. Todo es en vano si parece revestirse de Cristo por un tiempo y luego, después de un rato, quitárselo de nuevo. Esa es la religión del hipócrita, o del mero profesante temporal. Pero no fue así con nuestro querido Hermano que está durmiendo allá. Cuando se unió a la Iglesia—creo que fue hace algo más de 54 años—se entregó al Señor y ha sido guardado, sostenido y fortalecido hasta ahora. ¡Vaya, hay algunos de ustedes que han sido miembros de cuatro o cinco denominaciones durante ese tiempo! Han cambiado sus puntos de vista con las estaciones cambiantes y han alterado más a menudo de lo que nos gustaría recordar—mientras que él estaba aquí—permaneciendo firme e inamovible todo el tiempo, siendo miembro de la misma Iglesia y avanzando consistentemente con su trabajo.
+
+Me parece que algunos de ustedes construyen durante un año y luego derriban, luego construyen de nuevo, y vuelven a derribar. ¡Por qué, en realidad no están construyendo nada a menos que su construcción permanezca! ¡Y no están verdaderamente en unión con Cristo a menos que la unión sea una unión duradera! ¡Y no lo será a menos que sea una unión viva! ¡Su profesión de Cristo será una mentira y contribuirá a hundirlos más bajo que el Infierno más profundo a menos que perseveren hasta el fin! Asegúrense de ser serios con lo que hacen en la religión. No jueguen a ser cristianos. Si están convertidos, conviértanse de todo corazón. Si tienen fe en Cristo, tengan fe vital, o no finjan tener ninguna. ¡Sean reales—sean verdaderos hasta lo más profundo! No se conformen con nada menos que esa unión que
+
+El Espíritu de Dios obra en los corazones de aquellos que, sin reservas, se rinden a Su poder. De lo contrario, aquello que parece tener no será algo duradero para usted y, al final, será completamente rechazado.
+
+Ahora piensa en la alegría de este hecho. Nuestra unión con Cristo no solo es duradera, es eterna. Es cierto que sostenemos a Cristo y que lo sostendremos aún más fuerte, ¡pero la mayor misericordia es que Él nos sostiene a nosotros y nunca nos dejará ir! ¿Acaso no dice Él, respecto a sus ovejas, "Yo les doy vida eterna; y nunca perecerán, ni nadie las arrebatará de mi mano"? ¿Y no será fiel a su palabra? ¡Puedes tomar a Cristo de nuestra mano, pero no puedes sacarnos de la mano de Cristo! Él nos sostiene firmemente. Él no permitirá divorcio alguno entre nuestra alma y Él mismo. Esta unión viva, amorosa y duradera, que ya hemos encontrado como una realidad tan gloriosa, ¡dura para siempre y para siempre, bendito sea el nombre del Señor!
+
+¡Señor!
+
+Quiero que ustedes, queridos amigos, saquen mucho consuelo de esta Verdad de Dios y entonces habré terminado. Cristo no perderá a sus miembros. ¿Ustedes creen que Cristo puede ser mutilado? ¿Creen que Él perderá siquiera la más mínima articulación del dedo más pequeño? ¡Nunca será así! La palabra escrita sobre Su cuerpo de carne es igualmente verdadera respecto a Su cuerpo místico, que es Su Iglesia. Ni siquiera el creyente más pequeño e insignificante en Cristo se perderá, de lo contrario Su cuerpo estaría incompleto. Él es un Cristo perfecto y ustedes, que son miembros de Su cuerpo, nunca serán separados de Él por las heridas de la espada de Satanás, la cirugía de la infidelidad, o cualquier accidente terrenal o tentación diabólica.
+
+Si eres uno con Él, serás uno con Él para siempre, pues la unión entre tú y tu Señor es una unión eterna; romperla sería desfigurar y mutilar al Cristo de Dios.
+
+Además, en cuanto somos uno con Cristo, Él resucitará nuestros cuerpos. "Somos miembros de Su cuerpo, de Su carne y de Sus huesos" y, aunque no insista en ello, este versículo tiene, para mí, un cierto matiz que nos llevaría a creer que si somos miembros de Su cuerpo, Él tomará incluso nuestros cuerpos para ser miembros de Sí mismo. Cristo no dejará a nuestro Hermano en la tumba. Su cuerpo verá corrupción, pero la tumba solo será como un horno de refinamiento para separar lo precioso de lo vil. Cuando Moisés sacó a Israel de Egipto, dijo: "No quedará ni una pezuña atrás," y cuando Aquel que es mayor que Moisés saque a Su pueblo de sus tumbas, no quedará ni un hueso ni un pedazo de hueso de Sus redimidos en la región de la muerte.
+
+Cuando el ángel sacó a Pedro de la prisión, le dijo que se pusiera los zapatos. "Átate las sandalias", fue la indicación angelical. ¡Ni siquiera dejaría un viejo par de pantuflas en la prisión cuando sacara a Pedro! La liberación debía ser absolutamente completa. Así también, cuando Cristo nos mande ponernos las vestiduras que Él preparará para nosotros en la Resurrección, no se dejará atrás ninguna parte integral del hombre. ¡Oh Tumba, debes entregar a tu presa! ¡Oh Muerte, debes rendir tus despojos! Nuestros cuerpos son templos del Espíritu Santo y, por lo tanto, ellos, así como nuestras almas, deben ser liberados del poder del último enemigo. "Por tanto, confórtense unos a otros con estas palabras", ya sea que se trate de tu propia muerte o de la muerte de este querido Amigo sobre cuyo ataúd estamos mirando en este momento.
+
+Amado, nos estamos separando de nuestro Hermano, William Olney, por un tiempo, pero nos volveremos a encontrar. ¡Estamos tan unidos unos con otros en la verdad y la experiencia que no podemos ser separados! Él era miembro del cuerpo de Cristo y de Su carne y de Sus huesos—¡así soy yo y así eres tú, mi compañero Creyente! Los miembros de un mismo cuerpo deben ser uno. Y nos encontraremos con nuestro amigo fallecido, otra vez, antes de mucho. Tal vez en otra semana algunos de nosotros podamos ver su rostro. Me pregunto qué ha estado haciendo ya en esa tierra de luz y libertad. El Sr. Fullerton me escribe diciendo que no le sorprendería si pasara el pasado domingo contándole a los espíritus de arriba cómo había pasado el domingo anterior y haciendo que todos se maravillaran de lo que la Gracia de Dios había hecho entre los pobres pecadores aquí en la tierra.
+
+Él podía contar la historia de Haddon Hall y de este Tabernáculo, relatando la historia de lo que el Señor ha hecho al salvar a hombres y mujeres—¡y no creo que los ángeles y los redimidos puedan estar mejor ocupados que en escuchar lo que el Señor ha estado haciendo en Su nueva creación aquí abajo!
+
+Muy probablemente la conjetura es correcta, pues la Gracia de Dios nos alcanza "a fin de que ahora a las autoridades y potestades en lugares celestiales pueda ser conocida por la Iglesia la innumerable sabiduría de Dios." Cuando escuchen la historia allá, bajarán sus arpas y levantarán nuevos aleluyas a Dios y al Cordero. ¡No pienses que hablo extrañamente! Los ángeles se regocijan por un pecador que se arrepiente y se regocijarán aún más cuando un mensajero, recién llegado desde el centro de la obra de salvación de Dios, les cuente de muchos que han sido llevados a los pies del Salvador.
+
+Amados amigos, la eternidad es nuestra, y será una eternidad gozosa para aquellos que estén unidos con Jesucristo, en "una unión viva, amorosa y duradera." Pronto ascenderemos a "los reinos de los bienaventurados." Hay una escalera esperando que la subamos y cuando la ascendamos, no tendremos motivo para lamentarnos. Solo por un poco de tiempo tendremos que velar en la noche. El centinela de la noche clama: "¡Llega la mañana!" La noche de llanto pronto pasará. "Hasta que amanezca, y huyan las sombras," estad valientes. Pacientemente esperad, "y en silencio aguardad la salvación del Señor." Seguramente vendrá de nuevo y hasta las lágrimas de hoy os serán abundante recompensa.
+
+Rezo para que toda bendición repose sobre cada doliente en este día. De hecho, queridos amigos, aunque lloramos con ustedes, no podemos dejar de felicitarlos por haber tenido un esposo, un padre, un hermano como nuestro amigo que ahora ha sido llevado a casa. No diré que lo han perdido, porque eso no sería cierto. ¡Dios se lo prestó por mucho tiempo y ahora lo ha llevado de regreso!
+
+Creo que hace unos 15 años desde que, en el curso ordinario de las cosas, se podría haber esperado que él hubiera muerto. Al menos así parecía en el momento en que estaba tan enfermo—sin embargo, con muchas lágrimas e intercesiones le oramos de regreso y Dios le dio algo parecido a la porción extra de vida de Ezequías. Debemos estar muy agradecidos por eso. En esos 15 años, ¿cuánto ha hecho él? Más bien, ¿cuánto ha hecho Dios por medio de él para todos nosotros? Por lo tanto, no nos afligiremos de manera quejumbrosa, sino que nos afligiremos únicamente para someternos. ¡Que el Señor esté con vosotros siempre! Amén.
+
+<!-- auto-translated-bing -->

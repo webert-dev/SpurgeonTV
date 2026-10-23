@@ -7,10 +7,19 @@ export const revalidate = false;
 export async function generateMetadata({ params }) {
   const { lang } = await params;
   const dict = await getDictionary(lang);
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv';
   return {
     title: dict.recommendations?.pageTitle || "Recommended Channels & Partners",
     description: dict.recommendations?.pageSubtitle,
-    robots: { index: false, follow: false }
+    robots: { index: true, follow: true },
+    alternates: {
+      canonical: `${siteUrl}/${lang}/recommendations/`,
+      languages: {
+        'en': `${siteUrl}/en/recommendations/`,
+        'pt': `${siteUrl}/pt/recommendations/`,
+        'es': `${siteUrl}/es/recommendations/`,
+      }
+    }
   };
 }
 

@@ -9,10 +9,19 @@ export const revalidate = false;
 export async function generateMetadata({ params }) {
   const { lang } = await params;
   const dict = await getDictionary(lang);
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv';
   return {
     title: dict.videosHub?.pageTitle + " | Charles Spurgeon" || "Charles Spurgeon Videos | Sermons & Documentaries",
     description: dict.videosHub?.pageSubtitle || "Watch the largest collection of Charles Spurgeon sermons, documentaries, and teachings in English, Portuguese, and Spanish.",
-    robots: { index: false, follow: false }
+    robots: { index: true, follow: true },
+    alternates: {
+      canonical: `${siteUrl}/${lang}/videos/`,
+      languages: {
+        'en': `${siteUrl}/en/videos/`,
+        'pt': `${siteUrl}/pt/videos/`,
+        'es': `${siteUrl}/es/videos/`,
+      }
+    }
   };
 }
 

@@ -5,9 +5,18 @@ import { loadStaticJson } from '../../../lib/data-loader';
 export async function generateMetadata({ params }) {
   const { lang } = await params;
   const dict = await getDictionary(lang);
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv';
   return {
     title: `${dict.download?.title || 'Download'} | Spurgeon TV`,
-    robots: { index: false, follow: false }
+    robots: { index: true, follow: true },
+    alternates: {
+      canonical: `${siteUrl}/${lang}/download/`,
+      languages: {
+        'en': `${siteUrl}/en/download/`,
+        'pt': `${siteUrl}/pt/download/`,
+        'es': `${siteUrl}/es/download/`,
+      }
+    }
   };
 }
 

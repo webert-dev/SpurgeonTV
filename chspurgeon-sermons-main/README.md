@@ -47,5 +47,5 @@ Each sermon file includes:
 - **Integration:** Compatible with version control, web publishing, and note-taking tools
 
 > “Visit many good books, but live in the Bible.”  
-> &mdash; Charles H. Spurgeon
+> — Charles H. Spurgeon
 

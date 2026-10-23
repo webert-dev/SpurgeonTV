@@ -57,3 +57,6 @@ next-env.d.ts
 /public/articles-index.json
 /content/search-index.json
 /content/articles-index.json
+
+# temporary scratchpad and data exploration
+/scratch/

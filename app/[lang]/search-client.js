@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
+import { BIBLE_BOOKS } from '../../lib/bible-books';
 
 // Helper to fetch and cache indexes
 const fetchCache = {};
@@ -28,8 +29,11 @@ export default function SearchClient({ lang = 'en', dict, isGlobal = false }) {
   const inputRef = useRef(null);
   const containerRef = useRef(null);
 
-  // Fallback to English if dict is not provided
-  const placeholderText = dict ? dict.sermons.searchPlaceholder : "Search sermons, themes, biblical references...";
+  // Fallback placeholder based on language if dict is not provided
+  const defaultPlaceholder = lang === 'pt'
+    ? 'Buscar sermões por título, passagem ou tema...'
+    : (lang === 'es' ? 'Buscar sermones por título, pasaje o tema...' : 'Search sermons, themes, biblical references...');
+  const placeholderText = dict?.sermons?.searchPlaceholder || defaultPlaceholder;
 
   useEffect(() => {
     const q = query.trim().toLowerCase();
@@ -50,12 +54,15 @@ export default function SearchClient({ lang = 'en', dict, isGlobal = false }) {
           const index = await getIndex('/search-index.json');
           if (index) {
             const sermonsLang = index[lang] || index.en || [];
+            const qClean = q.replace(/^#/, '');
             const filtered = sermonsLang
               .filter((s) => {
                 return (
                   s.title?.toLowerCase().includes(q) ||
                   s.scripture?.reference?.toLowerCase().includes(q) ||
                   s.scripture?.verse?.toLowerCase().includes(q) ||
+                  (s.slug && (s.slug === `sermon-${qClean}` || s.slug.replace('sermon-', '') === qClean)) ||
+                  (s.volume && s.volume.toLowerCase().includes(q)) ||
                   (s.year && s.year.toString().includes(q))
                 );
               })
@@ -75,22 +82,27 @@ export default function SearchClient({ lang = 'en', dict, isGlobal = false }) {
         else if (type === 'articles') {
           const index = await getIndex('/articles-index.json');
           if (index) {
-            const articlesLang = index[lang] || [];
+            const articlesLang = index[lang] || index.en || [];
             const filtered = articlesLang.filter(a => a.title.toLowerCase().includes(q) || (a.desc && a.desc.toLowerCase().includes(q))).slice(0, 15);
+            const articleLabel = lang === 'pt' ? 'Artigo' : (lang === 'es' ? 'Artículo' : 'Article');
             currentResults = filtered.map(a => ({
               title: a.title,
-              subtitle: `Article • ${a.category.charAt(0).toUpperCase() + a.category.slice(1)}`,
-              href: `/${lang}${a.href}`
+              subtitle: `${articleLabel} • ${a.category.charAt(0).toUpperCase() + a.category.slice(1)}`,
+              href: `/${lang}${a.href.startsWith('/') ? '' : '/'}${a.href}`
             }));
           }
         } 
         else if (type === 'dictionary') {
-          const index = await getIndex('/data/dictionary/en/search_index.json');
+          let index = await getIndex(`/data/dictionary/${lang}/search_index.json`);
+          if (!index) {
+            index = await getIndex('/data/dictionary/en/search_index.json');
+          }
           if (index) {
             const filtered = index.filter(d => d.name.toLowerCase().includes(q)).slice(0, 15);
+            const dictSubtitle = lang === 'pt' ? 'Dicionário' : (lang === 'es' ? 'Diccionario' : 'Dictionary');
             currentResults = filtered.map(d => ({
               title: d.name,
-              subtitle: `Dictionary`,
+              subtitle: dictSubtitle,
               href: `/${lang}/dictionary?q=${encodeURIComponent(d.name)}`
             }));
           }
@@ -102,16 +114,18 @@ export default function SearchClient({ lang = 'en', dict, isGlobal = false }) {
           
           if (bible) {
             let count = 0;
-            for (const book of bible) {
+            for (let bIndex = 0; bIndex < bible.length; bIndex++) {
+              const book = bible[bIndex];
+              const englishBookName = BIBLE_BOOKS[bIndex]?.name || book.name;
               for (let c = 0; c < book.chapters.length; c++) {
                 const chapter = book.chapters[c];
                 for (let v = 0; v < chapter.length; v++) {
                   const verse = chapter[v];
-                  if (verse.toLowerCase().includes(q)) {
+                  if (verse && verse.toLowerCase().includes(q)) {
                     currentResults.push({
                       title: `${book.name} ${c + 1}:${v + 1}`,
                       subtitle: verse.length > 80 ? verse.substring(0, 80) + '...' : verse,
-                      href: `/${lang}/bible?book=${encodeURIComponent(book.name)}&chapter=${c + 1}`
+                      href: `/${lang}/bible?book=${encodeURIComponent(englishBookName)}&chapter=${c + 1}`
                     });
                     count++;
                     if (count >= 15) break;
@@ -130,15 +144,25 @@ export default function SearchClient({ lang = 'en', dict, isGlobal = false }) {
             const data = await getIndex(`/data/devotional/${lang}/${mStr}.json`);
             if (data) {
               for (const entry of data) {
-                if (entry && (entry.title?.toLowerCase().includes(q) || entry.body?.toLowerCase().includes(q) || entry.verse?.toLowerCase().includes(q))) {
-                  const amPm = entry.time === 'am' ? (lang === 'pt' ? 'Manhã' : lang === 'es' ? 'Mañana' : 'Morning') : (lang === 'pt' ? 'Noite' : lang === 'es' ? 'Noche' : 'Evening');
-                  currentResults.push({
-                    title: `${dict?.navigation?.devotional || 'Devotional'} • ${entry.date} (${amPm})`,
-                    subtitle: entry.verse ? (entry.verse.length > 80 ? entry.verse.substring(0, 80) + '...' : entry.verse) : 'Devotional Entry',
-                    href: `/${lang}/devotional/${entry.date}`
-                  });
-                  count++;
-                  if (count >= 15) break;
+                if (entry) {
+                  const keyverseText = entry.keyverse || entry.verse || '';
+                  const bodyText = entry.body || '';
+                  const titleText = entry.title || '';
+                  if (keyverseText.toLowerCase().includes(q) || bodyText.toLowerCase().includes(q) || titleText.toLowerCase().includes(q)) {
+                    const amPm = entry.time === 'am' 
+                      ? (lang === 'pt' ? 'Manhã' : lang === 'es' ? 'Mañana' : 'Morning') 
+                      : (lang === 'pt' ? 'Noite' : lang === 'es' ? 'Noche' : 'Evening');
+                    const [mPart, dPart] = (entry.date || `${m}-1`).split('-');
+                    const padDate = `${mPart.padStart(2, '0')}-${dPart.padStart(2, '0')}`;
+                    const devLabel = dict?.navigation?.devotional || (lang === 'pt' ? 'Devocional' : (lang === 'es' ? 'Devocional' : 'Devotional'));
+                    currentResults.push({
+                      title: `${devLabel} • ${entry.date} (${amPm})`,
+                      subtitle: keyverseText ? (keyverseText.length > 80 ? keyverseText.substring(0, 80) + '...' : keyverseText) : bodyText.substring(0, 80) + '...',
+                      href: `/${lang}/devotional/${padDate}/`
+                    });
+                    count++;
+                    if (count >= 15) break;
+                  }
                 }
               }
             }
@@ -160,9 +184,10 @@ export default function SearchClient({ lang = 'en', dict, isGlobal = false }) {
   function handleFocus() {
     const type = isGlobal ? searchType : 'sermons';
     if (type === 'sermons') getIndex('/search-index.json');
-
     else if (type === 'articles') getIndex('/articles-index.json');
-    else if (type === 'dictionary') getIndex('/data/dictionary/en/search_index.json');
+    else if (type === 'dictionary') {
+      getIndex(`/data/dictionary/${lang}/search_index.json`);
+    }
     else if (type === 'bible') {
        const biblesMap = { en: 'kjv.json', pt: 'acf.json', es: 'rvr.json' };
        getIndex(`/bibles/${biblesMap[lang] || 'kjv.json'}`);
@@ -278,12 +303,14 @@ export default function SearchClient({ lang = 'en', dict, isGlobal = false }) {
           ))}
           {results.length === 0 && !isSearching && (
              <div className="search-result-item" style={{ pointerEvents: 'none', color: 'var(--text-muted)' }}>
-                No results found for {searchType}.
+                {lang === 'pt' ? `Nenhum resultado encontrado para "${query}".` :
+                 lang === 'es' ? `No se encontraron resultados para "${query}".` :
+                 `No results found for "${query}".`}
              </div>
           )}
           {isSearching && (
              <div className="search-result-item" style={{ pointerEvents: 'none', color: 'var(--text-muted)' }}>
-                Searching...
+                {lang === 'pt' ? 'Buscando...' : (lang === 'es' ? 'Buscando...' : 'Searching...')}
              </div>
           )}
         </div>

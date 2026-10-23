@@ -1,0 +1,40 @@
+# =========================================================
+# VERCEL DEPLOYMENT IGNORE LIST (.vercelignore)
+# =========================================================
+# O objetivo deste arquivo é instruir a Vercel a NÃO fazer upload
+# nem processar arquivos de desenvolvimento local, pesquisa, scripts
+# temporários ou infraestruturas antigas, economizando espaço,
+# tempo de fila e memória no servidor de produção.
+
+# 1. Pastas de Desenvolvimento Local e Pesquisa (42+ MB / 800+ arquivos)
+scratch/
+_archive/
+_temp_research/
+docs/
+
+# 2. Infraestrutura Antiga e Descontinuada (Docker & Cloudflare Workers)
+Dockerfile
+.dockerignore
+wrangler.toml
+open-next.config.ts
+.open-next/
+.temp_cf/
+.wrangler/
+
+# 3. Scripts de Manutenção e Tradução Local (Executados apenas pelo desenvolvedor)
+scripts/translate-es-batch.js
+scripts/translate-bing-batch.js
+scripts/translate-*.js
+download_bibles.js
+download_extra_bibles.js
+download_github_bibles.js
+scratch_replace.py
+
+# 4. Arquivos de Auditoria Técnica e Documentações Internas
+seo_audit*
+sermon_seo_metadata*
+
+# 5. Caches e Scripts Python Locais
+__pycache__/
+*.py
+*.pyc

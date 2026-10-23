@@ -2,28 +2,40 @@ const fs = require('fs');
 const path = require('path');
 const { translate } = require('bing-translate-api');
 
+// Evita que o Node "crushe" (feche sozinho) se a conexão de internet com o Bing cair (ECONNRESET)
+process.on('uncaughtException', (err) => {
+    console.error('Ignorando erro global para não fechar o script:', err.message);
+});
+process.on('unhandledRejection', (reason, promise) => {
+    console.error('Ignorando rejeição global:', reason.message || reason);
+});
+
 const SERMONS_EN_DIR = path.join(__dirname, '..', 'chspurgeon-sermons-main');
 const SERMONS_PT_DIR = path.join(__dirname, '..', 'chspurgeon-sermons-pt');
 const SERMONS_ES_DIR = path.join(__dirname, '..', 'chspurgeon-sermons-es');
 
-const VOLUMES = ['volume-11'];
-
-async function translateText(text, targetLang) {
+const VOLUMES = [];
+for (let i = 11; i <= 55; i++) {
+    VOLUMES.push(`volume-${i.toString().padStart(2, '0')}`);
+}
+async function translateText(text, targetLang, retries = 5, delayMs = 5000) {
     if (!text || text.trim() === '') return '';
     try {
-        const res = await translate(text, null, targetLang, true);
+        const res = await translate(text, null, targetLang, false);
         return res.translation;
     } catch (e) {
-        console.error('Bing translation error:', e);
-        // Retry once
-        await new Promise(r => setTimeout(r, 5000));
-        try {
-            const res = await translate(text, null, targetLang, true);
-            return res.translation;
-        } catch (e2) {
-            console.error('Bing translation error on retry:', e2);
-            return text;
+        const errMsg = e.message ? e.message : e;
+        console.error(`Bing translation error: ${errMsg}. Retries left: ${retries}`);
+        
+        if (retries > 0) {
+            console.log(`Waiting ${delayMs/1000}s before retrying...`);
+            await new Promise(r => setTimeout(r, delayMs));
+            // Aumenta o tempo de espera (backoff exponencial) para não ser bloqueado de vez
+            return await translateText(text, targetLang, retries - 1, delayMs * 2);
         }
+        
+        console.error('Failed completely after retries. Returning original text.');
+        return text;
     }
 }
 
@@ -33,28 +45,44 @@ async function translateMarkdown(content, targetLang) {
     let currentChunk = [];
     
     for (let i = 0; i < lines.length; i++) {
-        const line = lines[i];
+        const rawLine = lines[i];
         
-        if (line.trim() === '' || line.trim().startsWith('<!--')) {
+        if (rawLine.trim() === '' || rawLine.trim().startsWith('<!--')) {
             if (currentChunk.length > 0) {
                 const translated = await translateText(currentChunk.join('\n'), targetLang);
                 translatedLines.push(translated);
                 currentChunk = [];
-                await new Promise(r => setTimeout(r, 1000)); // Be nice to Bing
+                await new Promise(r => setTimeout(r, 1000));
             }
-            translatedLines.push(line);
+            translatedLines.push(rawLine);
             continue;
         }
 
-        // Bing limit is usually around 1000 characters
-        if (currentChunk.join('\n').length + line.length > 900) {
-            const translated = await translateText(currentChunk.join('\n'), targetLang);
-            translatedLines.push(translated);
-            currentChunk = [];
-            await new Promise(r => setTimeout(r, 1000)); // Be nice to Bing
+        // Se uma única linha for maior que 900 caracteres, quebramos em frases
+        let subLines = [rawLine];
+        if (rawLine.length > 900) {
+            subLines = rawLine.match(/[^.!?]+[.!?]+/g) || [rawLine];
         }
-        
-        currentChunk.push(line);
+
+        for (const line of subLines) {
+            if (currentChunk.join('\n').length + line.length > 900) {
+                if (currentChunk.length > 0) {
+                    const translated = await translateText(currentChunk.join('\n'), targetLang);
+                    translatedLines.push(translated);
+                    currentChunk = [];
+                    await new Promise(r => setTimeout(r, 1000));
+                }
+                
+                // Fallback extremo se uma frase sem pontuação for > 900
+                if (line.length > 900) {
+                    const part1 = await translateText(line.substring(0, 850), targetLang);
+                    const part2 = await translateText(line.substring(850), targetLang);
+                    translatedLines.push(part1 + ' ' + part2);
+                    continue;
+                }
+            }
+            currentChunk.push(line);
+        }
     }
     
     if (currentChunk.length > 0) {
@@ -106,7 +134,7 @@ async function runLang(lang, outDir, vol) {
 async function run() {
     for (const vol of VOLUMES) {
         await runLang('pt', SERMONS_PT_DIR, vol);
-        await runLang('es', SERMONS_ES_DIR, vol);
+        // await runLang('es', SERMONS_ES_DIR, vol); // Desativado até terminar o PT
     }
     console.log('All done!');
 }

@@ -16,7 +16,8 @@
     "lastSermon": "Last Sermon",
     "videos": "Videos",
     "support": "Support Us",
-    "devotional": "Devotional"
+    "devotional": "Devotional",
+    "store": "Store"
   },
   "footer": {
     "copyrightText": "The sermons of Charles Haddon Spurgeon (1834–1892) are in the public domain.",
@@ -90,7 +91,11 @@
       "title": "Latest Articles",
       "subtitle": "Explore Spurgeon's life, theology, and controversies",
       "allArticles": "All articles",
-      "read": "read"
+      "read": "read",
+      "prev": "Previous",
+      "next": "Next",
+      "page": "Page",
+      "of": "of"
     },
     "tools": {
       "eyebrow": "Study Tools",
@@ -120,6 +125,8 @@
   },
   "sermons": {
     "title": "All Sermons",
+    "heroEyebrow": "The Prince of Preachers",
+    "heroSubtitle": "Explore over 3,500 sermons from the most prolific preacher in Church history, organized in 63 volumes of faithful and passionate biblical exposition.",
     "searchPlaceholder": "Search sermons by title, topic, or scripture...",
     "sorting": {
       "newest": "Newest (Vol 63 → 1)",
@@ -136,6 +143,17 @@
     "title": "Volume {num}",
     "publishedIn": "Published in {year}",
     "sermonCount": "{count} Sermons",
+    "browseVolumes": "Browse Volumes",
+    "range": "01 to 63",
+    "prevVolume": "Previous Vol. {num}",
+    "nextVolume": "Next Vol. {num}",
+    "prevVolumeShort": "← Vol. {num}",
+    "nextVolumeShort": "Vol. {num} →",
+    "currentVolume": "Current volume",
+    "goToVolume": "Go to Volume {num}",
+    "toggleShow": "Show buttons (01–63)",
+    "toggleHide": "Hide buttons",
+    "allVolumes": "All Volumes",
     "table": {
       "sermon": "Sermon",
       "scripture": "Scripture"

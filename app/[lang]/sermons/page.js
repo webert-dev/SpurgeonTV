@@ -69,30 +69,28 @@ export default async function SermonsPage({ params }) {
         }}
       />
       {/* ── HERO ── */}
-      <section className="hero-section">
+      <section className="hero-section" style={{ minHeight: 'auto', paddingBottom: '0.5rem' }}>
         <div className="hero-bg-glow" />
         <div className="container hero-content">
-          <div style={{ marginBottom: '4rem' }}>
-            <SearchClient lang={lang} />
+          <div style={{ marginBottom: '3.5rem' }}>
+            <SearchClient lang={lang} dict={dict} />
           </div>
 
-          <p className="hero-eyebrow">The Prince of Preachers</p>
-          <h1 className="hero-title">
+          <p className="hero-eyebrow">{dict.sermons.heroEyebrow || dict.home.heroEyebrow}</p>
+          <h1 className="hero-title" style={{ marginBottom: 0 }}>
             Charles Haddon<br />
             <em>Spurgeon</em>
           </h1>
-          <p className="hero-subtitle">
-            Explore over 3,500 sermons from the most prolific preacher in Church history,
-            organized in 63 volumes of faithful and passionate biblical exposition.
-          </p>
         </div>
       </section>
 
       {/* ── SERMONS GRID ── */}
-      <section className="container volumes-section">
-        <div className="section-header">
-          <h2 className="section-title">{dict.sermons.title}</h2>
-          <p className="section-subtitle">{dict.home.featured.subtitle}</p>
+      <section className="container volumes-section" style={{ paddingTop: '1.5rem' }}>
+        <div className="section-header" style={{ marginBottom: '2.5rem' }}>
+          <h2 className="section-title" style={{ marginBottom: '0.75rem' }}>{dict.sermons.title}</h2>
+          <p className="hero-subtitle" style={{ maxWidth: '720px', margin: '0 auto', lineHeight: '1.6' }}>
+            {dict.sermons.heroSubtitle}
+          </p>
         </div>
 
         <Suspense fallback={<div style={{ padding: '4rem 0', textAlign: 'center', color: 'var(--text-muted)' }}>{dict.sermons.loading || 'Loading sermons...'}</div>}>

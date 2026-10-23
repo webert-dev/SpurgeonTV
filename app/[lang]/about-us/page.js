@@ -76,6 +76,11 @@ const translations = {
         verseId: "cred-4", ref: "Efésios 2:8-9", text: "Porque pela graça sois salvos, por meio da fé; e isto não vem de vós, é dom de Deus. Não vem das obras, para que ninguém se glorie.", link: "Ephesians&chapter=2"
       },
       {
+        title: "A Fé Viva e as Boas Obras",
+        desc: "Cremos que, apesar da salvação não ser pelas obras dos homens, sua importância jamais é esvaziada ou dissociada da vida cristã. Cristo nos chamou para que a fé verdadeira se expresse em atitudes, amor e boas obras; pois assim como o corpo sem o espírito está morto, a fé que não se traduz em ações é morta.",
+        verseId: "cred-works", ref: "Tiago 2:26", text: "Porque, assim como o corpo sem o espírito está morto, assim também a fé sem obras é morta.", link: "James&chapter=2"
+      },
+      {
         title: "A Igreja e a Grande Comissão",
         desc: "Cremos que a Igreja é chamada a glorificar a Deus e fazer discípulos de todas as nações.",
         verseId: "cred-5", ref: "Mateus 28:19", text: "Portanto ide, fazei discípulos de todas as nações, batizando-os em nome do Pai, e do Filho, e do Espírito Santo.", link: "Matthew&chapter=28"
@@ -83,7 +88,7 @@ const translations = {
     ],
     journey: {
       title: "Nossa Jornada",
-      text: "Ainda estamos no início, mas temos o prazer de ter começado apesar dos escassos recursos materiais e de tempo. Cada sermão traduzido e página criada é um passo de fé."
+      text: "Ainda estamos no início, mas temos o prazer de ter começado apesar dos escassos recursos materiais e de tempo. Cada sermão traduzido, página criada, ferramenta desenvolvida e conhecimento bíblico distribuído é um ato e um passo de fé para a edificação da Igreja e a glória de Deus."
     },
     support: {
       title: "Como Você Pode Apoiar",
@@ -91,6 +96,7 @@ const translations = {
       list: [
         { text: "Com orações pelo nosso projeto e equipe" },
         { text: "Com a divulgação para quem precisa conhecer estas obras" },
+        { text: "Comprando livros e cursos através dos nossos links de afiliados", linkText: "conheça nossa livraria", linkKey: "store" },
         { text: "Apontando pontos de melhoria e/ou correção no site", linkText: "entre em contato", linkKey: "contact" },
         { text: "Com apoio financeiro para mantermos os servidores", linkText: "Apoiar no Throne ❤️", linkKey: "throne" }
       ]
@@ -171,6 +177,11 @@ const translations = {
         verseId: "cred-4", ref: "Ephesians 2:8-9", text: "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast.", link: "Ephesians&chapter=2"
       },
       {
+        title: "Living Faith and Good Works",
+        desc: "We believe that, although salvation is not of human works, their importance is never diminished or detached from the Christian life. Christ called us so that true faith expresses itself in deeds, love, and good works; for just as the body without the spirit is dead, so faith that does not translate into actions is dead.",
+        verseId: "cred-works", ref: "James 2:26", text: "For as the body without the spirit is dead, so faith without works is dead also.", link: "James&chapter=2"
+      },
+      {
         title: "The Church and the Great Commission",
         desc: "We believe the Church is called to glorify God and make disciples of all nations.",
         verseId: "cred-5", ref: "Matthew 28:19", text: "Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost.", link: "Matthew&chapter=28"
@@ -178,7 +189,7 @@ const translations = {
     ],
     journey: {
       title: "Our Journey",
-      text: "We are still in the beginning, but we are glad to have started despite scarce material resources and time. Every translated sermon and created page is a step of faith."
+      text: "We are still in the beginning, but we are glad to have started despite scarce material resources and time. Every translated sermon, created page, developed tool, and distributed knowledge is an act and a step of faith for the building up of the Church and the glory of God."
     },
     support: {
       title: "How You Can Support Us",
@@ -186,6 +197,7 @@ const translations = {
       list: [
         { text: "With prayers for our project and team" },
         { text: "By spreading the word to those who need to know these works" },
+        { text: "Purchasing books and courses through our affiliate links", linkText: "visit our bookshop", linkKey: "store" },
         { text: "By pointing out areas for improvement or corrections", linkText: "get in touch", linkKey: "contact" },
         { text: "With financial support to help maintain our servers", linkText: "Support on Throne ❤️", linkKey: "throne" }
       ]
@@ -266,6 +278,11 @@ const translations = {
         verseId: "cred-4", ref: "Efesios 2:8-9", text: "Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios; no por obras, para que nadie se gloríe.", link: "Ephesians&chapter=2"
       },
       {
+        title: "La Fe Viva y las Buenas Obras",
+        desc: "Creemos que, a pesar de que la salvación no es por las obras de los hombres, su importancia jamás queda vacía ni disociada de la vida cristiana. Cristo nos llamó a que la fe verdadera se exprese en actitudes, amor y buenas obras; pues así como el cuerpo sin espíritu está muerto, la fe que no se traduce en acciones está muerta.",
+        verseId: "cred-works", ref: "Santiago 2:26", text: "Porque como el cuerpo sin espíritu está muerto, así también la fe sin obras es muerta.", link: "James&chapter=2"
+      },
+      {
         title: "La Iglesia y la Gran Comisión",
         desc: "Creemos que la Iglesia está llamada a glorificar a Dios y a hacer discípulos de todas las naciones.",
         verseId: "cred-5", ref: "Mateo 28:19", text: "Por tanto, id, y haced discípulos a todas las naciones, bautizándolos en el nombre del Padre, y del Hijo, y del Espíritu Santo.", link: "Matthew&chapter=28"
@@ -273,7 +290,7 @@ const translations = {
     ],
     journey: {
       title: "Nuestro Viaje",
-      text: "Todavía estamos en el principio, pero nos alegramos de haber comenzado a pesar de los escasos recursos materiales y de tiempo. Cada página creada es un paso de fe."
+      text: "Todavía estamos en el principio, pero nos alegramos de haber comenzado a pesar de los escasos recursos materiales y de tiempo. Cada sermón traducido, página creada, herramienta desarrollada y conocimiento distribuido es un acto y un paso de fe para la edificación de la Iglesia y la gloria de Dios."
     },
     support: {
       title: "Cómo Puede Apoyarnos",
@@ -281,6 +298,7 @@ const translations = {
       list: [
         { text: "Con oraciones por nuestro proyecto y equipo" },
         { text: "Difundiendo a quienes necesitan conocer estas obras" },
+        { text: "Comprando libros y cursos a través de nuestros enlaces de afiliados", linkText: "visite nuestra librería", linkKey: "store" },
         { text: "Señalando puntos de mejora y correcciones", linkText: "contáctenos", linkKey: "contact" },
         { text: "Con apoyo financiero para mantener nuestros servidores", linkText: "Apoyar en Throne ❤️", linkKey: "throne" }
       ]
@@ -395,6 +413,9 @@ export default async function AboutUsPage({ params }) {
               {item.text}
               {item.linkKey === 'contact' && (
                 <> — <Link href={`/${lang}/contact`} style={{ color: 'var(--accent)', fontWeight: '600', textDecoration: 'underline', textUnderlineOffset: '3px' }}>{item.linkText}</Link></>
+              )}
+              {item.linkKey === 'store' && (
+                <> — <Link href={`/${lang}/store`} style={{ color: 'var(--accent)', fontWeight: '600', textDecoration: 'underline', textUnderlineOffset: '3px' }}>{item.linkText}</Link></>
               )}
               {item.linkKey === 'throne' && (
                 <div style={{ marginTop: '0.75rem' }}>

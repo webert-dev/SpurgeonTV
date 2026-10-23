@@ -1,6 +1,24 @@
 {
   "en": [
     {
+      "href": "/about/extra/the-tabernacle-after-spurgeon",
+      "category": "extra",
+      "date": "October 17, 2026",
+      "sortDate": 1792206000000,
+      "readTime": "14 min read",
+      "title": "The Metropolitan Tabernacle Over 130 Years After Spurgeon: History, Trials, and Revival",
+      "desc": "The complete history of Charles Spurgeon's church: roots since 1650, historic names, biblical separation in 1887, two devastating fires (1898 and 1941), and spiritual revival under Dr. Peter Masters."
+    },
+    {
+      "href": "/about/extra/allan-roman",
+      "category": "extra",
+      "date": "October 11, 2026",
+      "sortDate": 1791687600000,
+      "readTime": "15 min read",
+      "title": "Allan Román: The Silent Missionary Who Translated 574 Charles Spurgeon Sermons in the Midst of Affliction",
+      "desc": "Biography, ministerial history, and legacy of brother Allan Román (Mexico City), who translated 574 sermons of Charles Spurgeon during his 8-year battle with cancer."
+    },
+    {
       "href": "/about/preacher/the-preachers-library",
       "category": "preacher",
       "date": "May 31, 2026",
@@ -444,6 +462,24 @@
   ],
   "pt": [
     {
+      "href": "/about/extra/the-tabernacle-after-spurgeon",
+      "category": "extra",
+      "date": "17 de outubro de 2026",
+      "sortDate": 1792206000000,
+      "readTime": "14 minutos de leitura",
+      "title": "Tabernáculo Metropolitano Mais de 130 Anos Após Spurgeon: História, Provações e Renascimento",
+      "desc": "A história completa da última igreja de Charles Spurgeon: raízes desde 1650, nomes históricos, separação bíblica em 1887, dois grandes incêndios (1898 e 1941) e o renascimento sob o Dr. Peter Masters."
+    },
+    {
+      "href": "/about/extra/allan-roman",
+      "category": "extra",
+      "date": "11 de outubro de 2026",
+      "sortDate": 1791687600000,
+      "readTime": "15 minutos de leitura",
+      "title": "Allan Román: O Missionário Silencioso que Traduziu 574 Sermões de Charles Spurgeon em Meio à Aflição",
+      "desc": "Biografia, história ministerial e legado do irmão Allan Román (Cidade do México), que traduziu 574 sermões de Charles Spurgeon durante sua batalha de 8 anos contra o câncer."
+    },
+    {
       "href": "/about/preacher/the-preachers-library",
       "category": "preacher",
       "date": "31 de maio de 2026",
@@ -886,6 +922,24 @@
     }
   ],
   "es": [
+    {
+      "href": "/about/extra/the-tabernacle-after-spurgeon",
+      "category": "extra",
+      "date": "17 de octubre de 2026",
+      "sortDate": 1792206000000,
+      "readTime": "14 minutos de lectura",
+      "title": "Tabernáculo Metropolitano Más de 130 Años Después de Spurgeon: Historia, Pruebas y Renacimiento",
+      "desc": "La historia completa de la iglesia de Charles Spurgeon: orígenes desde 1650, nombres históricos, separación bíblica en 1887, dos grandes incendios (1898 y 1941) y su renacimiento con el Dr. Peter Masters."
+    },
+    {
+      "href": "/about/extra/allan-roman",
+      "category": "extra",
+      "date": "11 de octubre de 2026",
+      "sortDate": 1791687600000,
+      "readTime": "15 minutos de lectura",
+      "title": "Allan Román: El Misionero Silencioso que Tradujo 574 Sermones de Charles Spurgeon en Medio de la Aflicción",
+      "desc": "Biografía, historia ministerial y legado del hermano Allan Román (Ciudad de México), quien tradujo 574 sermones de Charles Spurgeon durante su batalla de 8 años contra el cáncer."
+    },
     {
       "href": "/about/preacher/the-preachers-library",
       "category": "preacher",

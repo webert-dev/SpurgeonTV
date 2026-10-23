@@ -15,7 +15,9 @@ if (fs.existsSync(publicSermonsDir)) {
 fs.mkdirSync(publicSermonsDir, { recursive: true });
 
 const langs = [
-  { lang: 'en', src: 'chspurgeon-sermons-main' }
+  { lang: 'en', src: 'chspurgeon-sermons-main' },
+  { lang: 'pt', src: 'chspurgeon-sermons-pt' },
+  { lang: 'es', src: 'chspurgeon-sermons-es' },
 ];
 
 for (const { lang, src } of langs) {
@@ -36,7 +38,8 @@ for (const { lang, src } of langs) {
 
     const files = fs.readdirSync(srcVolPath).filter(f => f.endsWith('.md'));
     for (const file of files) {
-      fs.copyFileSync(path.join(srcVolPath, file), path.join(destVolPath, file));
+      const destFile = file.replace(/_/g, '-');
+      fs.copyFileSync(path.join(srcVolPath, file), path.join(destVolPath, destFile));
     }
   }
   

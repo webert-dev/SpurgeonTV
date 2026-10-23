@@ -120,22 +120,22 @@ function DownloadContent({ lang, dict, downloads }) {
       </p>
 
       {/* Controls */}
-      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem', justifyContent: 'space-between', marginBottom: '2rem', backgroundColor: 'var(--bg-alt)', padding: '1.5rem', borderRadius: '12px', border: '1px solid var(--border)' }}>
+      <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem', justifyContent: 'space-between', marginBottom: '2rem', backgroundColor: 'var(--surface)', padding: '1.5rem', borderRadius: '12px', border: '1px solid var(--border)' }}>
         <input 
           type="text" 
-          placeholder={lang === 'pt' ? 'Buscar volume ou sermão (ex: volume-01, sermon-42)' : 'Search volume or sermon...'}
+          placeholder={lang === 'pt' ? 'Buscar volume ou sermão (ex: volume-01, sermon-42)' : (lang === 'es' ? 'Buscar volumen o sermón (ej: volume-01, sermon-42)' : 'Search volume or sermon...')}
           value={searchTerm}
           onChange={(e) => { setSearchTerm(e.target.value); setCurrentPage(1); }}
-          style={{ padding: '0.75rem', borderRadius: '8px', border: '1px solid var(--border)', backgroundColor: 'var(--bg)', color: 'var(--text)', flex: '1', minWidth: '250px' }}
+          style={{ padding: '0.75rem', borderRadius: '8px', border: '1px solid var(--border)', backgroundColor: 'var(--surface-hover)', color: 'var(--text-primary)', flex: '1', minWidth: '250px' }}
         />
         <select 
           value={itemsPerPage}
           onChange={(e) => { setItemsPerPage(Number(e.target.value)); setCurrentPage(1); }}
-          style={{ padding: '0.75rem', borderRadius: '8px', border: '1px solid var(--border)', backgroundColor: 'var(--bg)', color: 'var(--text)', cursor: 'pointer' }}
+          style={{ padding: '0.75rem', borderRadius: '8px', border: '1px solid var(--border)', backgroundColor: 'var(--surface-hover)', color: 'var(--text-primary)', cursor: 'pointer' }}
         >
-          <option value={20}>20 {lang === 'pt' ? 'por página' : 'per page'}</option>
-          <option value={50}>50 {lang === 'pt' ? 'por página' : 'per page'}</option>
-          <option value={100}>100 {lang === 'pt' ? 'por página' : 'per page'}</option>
+          <option value={20}>20 {lang === 'pt' ? 'por página' : (lang === 'es' ? 'por página' : 'per page')}</option>
+          <option value={50}>50 {lang === 'pt' ? 'por página' : (lang === 'es' ? 'por página' : 'per page')}</option>
+          <option value={100}>100 {lang === 'pt' ? 'por página' : (lang === 'es' ? 'por página' : 'per page')}</option>
         </select>
       </div>
 

@@ -28,6 +28,7 @@ const translations = {
       theology: { title: "His Theology", desc: "Soon, we will explore his convictions, his incisive evangelism, and his unwavering devotion to the doctrines of grace." },
       controversies: { title: "Controversies", desc: "The battles for truth: Baptismal Regeneration and the Downgrade Controversy." },
       preacher: { title: "The Preacher & His Work", desc: "His homiletics, the Pastors' College, and his profound influence on ministers." },
+      extra: { title: "Extra", desc: "Special articles, historical studies, tributes, and complementary perspectives on Spurgeon and his legacy." },
       articles: "Articles"
     },
     quote: "Visit many good books, but live in the Bible.",
@@ -77,6 +78,7 @@ const translations = {
       theology: { title: "Sua Teologia", desc: "Logo exploraremos suas convicções, seu evangelismo incisivo e sua devoção inabalável às doutrinas da graça." },
       controversies: { title: "Controvérsias", desc: "As batalhas pela verdade: Regeneração Batismal e a Controvérsia do Declínio." },
       preacher: { title: "O Pregador e Sua Obra", desc: "Sua homilética, o Colégio de Pastores e sua profunda influência sobre ministros." },
+      extra: { title: "Extra", desc: "Artigos especiais, estudos históricos, homenagens e perspectivas complementares sobre Spurgeon e seu legado." },
       articles: "Artigos"
     },
     quote: "Visite muitos livros bons, mas viva na Bíblia.",
@@ -126,6 +128,7 @@ const translations = {
       theology: { title: "Su Teología", desc: "Pronto exploraremos sus convicciones, su evangelismo incisivo y su devoción inquebrantable a las doctrinas de la gracia." },
       controversies: { title: "Controversias", desc: "Las batallas por la verdad: Regeneración Bautismal y la Controversia del Declive." },
       preacher: { title: "El Predicador y Su Obra", desc: "Su homilética, el Colegio de Pastores y su profunda influencia en los ministros." },
+      extra: { title: "Extra", desc: "Artículos especiales, estudios históricos, homenajes y perspectivas complementarias sobre Spurgeon y su legado." },
       articles: "Artículos"
     },
     quote: "Visita muchos libros buenos, pero vive en la Biblia.",
@@ -310,30 +313,36 @@ export default async function SobrePage({ params }) {
       {/* EXPLORE MORE (HUB) */}
       <section className="container hub-section" style={{ marginTop: '5rem', marginBottom: '5rem' }}>
         <h2 className="section-title" style={{ textAlign: 'center', marginBottom: '3rem' }}>{t.exploreTitle}</h2>
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '2rem' }}>
+        <div className="about-categories-grid">
           
-          <Link href={`/${lang}/about/biography`} style={{ background: 'var(--surface)', padding: '2rem', borderRadius: '8px', border: '1px solid var(--border)', display: 'block', textDecoration: 'none', transition: 'all 0.2s', position: 'relative' }}>
-            <span style={{ position: 'absolute', top: '1rem', right: '1rem', background: 'var(--surface-hover)', padding: '0.2rem 0.6rem', borderRadius: '12px', fontSize: '0.75rem', color: 'var(--text-muted)', border: '1px solid var(--border)' }}>13 {t.categories.articles}</span>
-            <h3 style={{ color: 'var(--accent)', marginBottom: '1rem', fontFamily: 'var(--font-serif)', fontSize: '1.5rem', marginTop: '0.5rem' }}>{t.categories.biography.title}</h3>
-            <p style={{ color: 'var(--text-secondary)' }}>{t.categories.biography.desc}</p>
+          <Link href={`/${lang}/about/biography`} className="about-category-card">
+            <span className="about-category-badge">{allArticles.filter(a => a.category === 'biography').length} {t.categories.articles}</span>
+            <h3 className="about-category-title">{t.categories.biography.title}</h3>
+            <p className="about-category-desc">{t.categories.biography.desc}</p>
           </Link>
 
-          <Link href={`/${lang}/about/theology`} style={{ background: 'var(--surface)', padding: '2rem', borderRadius: '8px', border: '1px solid var(--border)', display: 'block', textDecoration: 'none', transition: 'all 0.2s', position: 'relative' }}>
-            <span style={{ position: 'absolute', top: '1rem', right: '1rem', background: 'var(--surface-hover)', padding: '0.2rem 0.6rem', borderRadius: '12px', fontSize: '0.75rem', color: 'var(--text-muted)', border: '1px solid var(--border)' }}>12 {t.categories.articles}</span>
-            <h3 style={{ color: 'var(--accent)', marginBottom: '1rem', fontFamily: 'var(--font-serif)', fontSize: '1.5rem', marginTop: '0.5rem' }}>{t.categories.theology.title}</h3>
-            <p style={{ color: 'var(--text-secondary)' }}>{t.categories.theology.desc}</p>
+          <Link href={`/${lang}/about/theology`} className="about-category-card">
+            <span className="about-category-badge">{allArticles.filter(a => a.category === 'theology').length} {t.categories.articles}</span>
+            <h3 className="about-category-title">{t.categories.theology.title}</h3>
+            <p className="about-category-desc">{t.categories.theology.desc}</p>
           </Link>
 
-          <Link href={`/${lang}/about/controversies`} style={{ background: 'var(--surface)', padding: '2rem', borderRadius: '8px', border: '1px solid var(--border)', display: 'block', textDecoration: 'none', transition: 'all 0.2s', position: 'relative' }}>
-            <span style={{ position: 'absolute', top: '1rem', right: '1rem', background: 'var(--surface-hover)', padding: '0.2rem 0.6rem', borderRadius: '12px', fontSize: '0.75rem', color: 'var(--text-muted)', border: '1px solid var(--border)' }}>13 {t.categories.articles}</span>
-            <h3 style={{ color: 'var(--accent)', marginBottom: '1rem', fontFamily: 'var(--font-serif)', fontSize: '1.5rem', marginTop: '0.5rem' }}>{t.categories.controversies.title}</h3>
-            <p style={{ color: 'var(--text-secondary)' }}>{t.categories.controversies.desc}</p>
+          <Link href={`/${lang}/about/controversies`} className="about-category-card">
+            <span className="about-category-badge">{allArticles.filter(a => a.category === 'controversies').length} {t.categories.articles}</span>
+            <h3 className="about-category-title">{t.categories.controversies.title}</h3>
+            <p className="about-category-desc">{t.categories.controversies.desc}</p>
           </Link>
 
-          <Link href={`/${lang}/about/preacher`} style={{ background: 'var(--surface)', padding: '2rem', borderRadius: '8px', border: '1px solid var(--border)', display: 'block', textDecoration: 'none', transition: 'all 0.2s', position: 'relative' }}>
-            <span style={{ position: 'absolute', top: '1rem', right: '1rem', background: 'var(--surface-hover)', padding: '0.2rem 0.6rem', borderRadius: '12px', fontSize: '0.75rem', color: 'var(--text-muted)', border: '1px solid var(--border)' }}>11 {t.categories.articles}</span>
-            <h3 style={{ color: 'var(--accent)', marginBottom: '1rem', fontFamily: 'var(--font-serif)', fontSize: '1.5rem', marginTop: '0.5rem' }}>{t.categories.preacher.title}</h3>
-            <p style={{ color: 'var(--text-secondary)' }}>{t.categories.preacher.desc}</p>
+          <Link href={`/${lang}/about/preacher`} className="about-category-card">
+            <span className="about-category-badge">{allArticles.filter(a => a.category === 'preacher').length} {t.categories.articles}</span>
+            <h3 className="about-category-title">{t.categories.preacher.title}</h3>
+            <p className="about-category-desc">{t.categories.preacher.desc}</p>
+          </Link>
+
+          <Link href={`/${lang}/about/extra`} className="about-category-card">
+            <span className="about-category-badge">{allArticles.filter(a => a.category === 'extra').length} {t.categories.articles}</span>
+            <h3 className="about-category-title">{t.categories.extra.title}</h3>
+            <p className="about-category-desc">{t.categories.extra.desc}</p>
           </Link>
 
         </div>

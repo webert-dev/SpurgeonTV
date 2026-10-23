@@ -6,6 +6,7 @@ import { ThemeProvider } from '../components/ThemeProvider';
 import { getDictionary } from '../../lib/dictionaries';
 import LanguageSwitcher from '../components/LanguageSwitcher';
 import ThemeSelector from '../components/ThemeSelector';
+import LanguageButtons from '../components/LanguageButtons';
 import CookieBanner from '../components/CookieBanner';
 import AdSenseScript from '../../components/AdSenseScript';
 import CopyAppendURL from '../components/CopyAppendURL';
@@ -91,6 +92,7 @@ export default async function RootLayout({ children, params }) {
                 <Link href={`/${lang}/dictionary`} prefetch={false} className="nav-link">{dict.navigation.dictionary}</Link>
                 <Link href={`/${lang}/about`} prefetch={false} className="nav-link">{dict.navigation.about}</Link>
                 <Link href={`/${lang}/sermons`} prefetch={false} className="nav-link">{dict.navigation.sermons}</Link>
+                <Link href={`/${lang}/store`} prefetch={false} className="nav-link store-nav-link" style={{ fontWeight: 600, color: 'var(--accent)' }}>{dict.navigation.store || 'Loja'}</Link>
                 <Link href={`/${lang}/support`} prefetch={false} className="nav-link support-nav-link" style={{ fontWeight: 600, color: 'var(--brand-purple)' }}>{dict.navigation.support}</Link>
               </nav>
               <div className="header-selectors">
@@ -110,6 +112,7 @@ export default async function RootLayout({ children, params }) {
                   <li><Link href={`/${lang}/transparency`} prefetch={false}>{dict.footer.links.transparency}</Link></li>
                   <li><Link href={`/${lang}/contact`} prefetch={false}>{dict.footer.links.contact}</Link></li>
                   <li><Link href={`/${lang}/support`} prefetch={false} style={{ color: 'var(--brand-purple)' }}>{dict.footer.links.support}</Link></li>
+                  <li><Link href={`/${lang}/store`} prefetch={false} style={{ color: 'var(--accent)', fontWeight: 500 }}>{dict.navigation.store || 'Loja'}</Link></li>
                 </ul>
               </div>
               <div className="footer-brand">
@@ -127,16 +130,17 @@ export default async function RootLayout({ children, params }) {
                   <li><Link href={`/${lang}/terms-of-service`} prefetch={false}>{dict.footer.links.termsOfService}</Link></li>
                   <li><Link href={`/${lang}/cookie-policy`} prefetch={false}>{dict.footer.links.cookiePolicy}</Link></li>
                   <li><Link href={`/${lang}/recommendations`} prefetch={false}>{dict.footer.links.recommendations}</Link></li>
+                  <li><Link href={`/${lang}`} prefetch={false}>{dict.footer.links.home}</Link></li>
                 </ul>
               </div>
             </div>
             
-            {/* Footer Bottom: Home Link and Theme Selector */}
-            <div className="footer-bottom" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '1.2rem', marginTop: '4rem' }}>
-              <Link href={`/${lang}`} prefetch={false} className="footer-home-link" style={{ color: 'var(--text-secondary)', textDecoration: 'none', fontSize: '0.95rem' }}>
-                {dict.footer.links.home}
-              </Link>
-              <ThemeSelector dict={dict} />
+            {/* Footer Bottom: Language Buttons and Theme Selector */}
+            <div className="footer-bottom" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '1.2rem', marginTop: '3.5rem' }}>
+              <div className="footer-controls" style={{ display: 'flex', alignItems: 'center', gap: '0.75rem', flexWrap: 'wrap', justifyContent: 'center' }}>
+                <LanguageButtons currentLang={lang} />
+                <ThemeSelector dict={dict} />
+              </div>
             </div>
           </footer>
           <CookieBanner lang={lang} dict={dict} />

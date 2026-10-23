@@ -3,6 +3,7 @@ import Link from 'next/link';
 export const dynamic = 'force-static';
 export const revalidate = false;
 
+
 import { getPaginatedSermons, getSearchIndex } from '../../lib/sermons';
 import SearchClient from './search-client';
 import { getDictionary } from '../../lib/dictionaries';
@@ -10,6 +11,7 @@ import { getAllArticles } from '../../lib/articles';
 import { Suspense } from 'react';
 import HomeBibleCard from '../components/HomeBibleCard';
 import HomeDevotionalCard from '../components/HomeDevotionalCard';
+import HomeArticlesList from '../components/HomeArticlesList';
 
 export async function generateStaticParams() {
   return [{ lang: 'en' }, { lang: 'pt' }, { lang: 'es' }];
@@ -49,38 +51,39 @@ export default async function HomePage({ params }) {
     .map(slug => enSearchIndex.find(s => s.slug === slug))
     .filter(Boolean);
 
-  // Fetch all localized articles and pick the 4 featured ones
+  // Fetch all localized articles
   const allArticles = await getAllArticles(lang);
   
-  // The slugs of the hand-curated featured articles
-  const featuredArticleSlugs = [
-    'the-puritan-influence',
-    'the-tender-compassion-of-christ',
-    'the-mentone-retreats',
-    'the-downgrade-controversy-part-1'
-  ];
-
-  const recentArticles = featuredArticleSlugs.map(slug => {
-    const article = allArticles.find(a => a.href.endsWith(slug));
+  const formatArticleCard = (article) => {
     if (!article) return null;
-    
-    // Assign icons based on category/slug
     let icon = '📖';
-    if (article.category === 'theology') icon = '✝️';
-    if (article.category === 'biography') icon = '🌿';
-    if (article.category === 'controversies') icon = '⚔️';
+    if (article.category === 'extra') icon = '⭐';
+    else if (article.category === 'theology') icon = '✝️';
+    else if (article.category === 'biography') icon = '🌿';
+    else if (article.category === 'controversies') icon = '⚔️';
+    else if (article.category === 'preacher') icon = '🎙️';
 
     return {
-      category: article.category.charAt(0).toUpperCase() + article.category.slice(1),
+      category: article.category.toUpperCase(),
       categoryHref: `/about/${article.category}`,
       title: article.title,
-      subtitle: article.desc.substring(0, 70) + '...', // Shortened desc as subtitle
+      subtitle: (article.desc || '').length > 85 ? (article.desc.substring(0, 85) + '...') : article.desc,
       href: article.href,
       date: article.date,
       readTime: article.readTime,
-      icon: icon,
+      icon,
     };
-  }).filter(Boolean);
+  };
+
+  // Top recent featured article: Brother Allan Román
+  const allanRaw = allArticles.find(a => a.href.includes('allan-roman'));
+  const featuredArticle = formatArticleCard(allanRaw);
+
+  // Remaining articles sorted chronologically
+  const previousArticles = allArticles
+    .filter(a => !a.href.includes('allan-roman'))
+    .map(formatArticleCard)
+    .filter(Boolean);
 
 
   return (
@@ -200,26 +203,12 @@ export default async function HomePage({ params }) {
             </Link>
           </div>
 
-          <div className="home-articles-grid">
-            {recentArticles.map((article) => (
-              <Link href={`/${lang}${article.href}`} key={article.href} className="home-article-card">
-                <div className="home-article-icon">{article.icon}</div>
-                <div className="home-article-body">
-                  <span className="home-article-category">
-                    {article.category}
-                  </span>
-                  <h3 className="home-article-title">{article.title}</h3>
-                  <p className="home-article-subtitle">{article.subtitle}</p>
-                  <div className="home-article-meta">
-                    <span>{article.date}</span>
-                    <span>·</span>
-                    <span>{article.readTime} {dict.home.articles.read}</span>
-                  </div>
-                </div>
-                <div className="home-article-arrow">→</div>
-              </Link>
-            ))}
-          </div>
+        <HomeArticlesList
+          featuredArticle={featuredArticle}
+          previousArticles={previousArticles}
+          dict={dict}
+          lang={lang}
+        />
       </section>
 
       {/* ══════════════════════════════════════════

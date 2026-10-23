@@ -23,6 +23,7 @@ function extractScripture(content) {
       inBlockquote = true;
       scriptureLines.push(line.replace(/^>\s*/, '').trim());
     } else if (inBlockquote && line === '') {
+      if (scriptureLines.length >= 2) break;
       continue;
     } else if (inBlockquote) {
       break;
@@ -33,12 +34,33 @@ function extractScripture(content) {
   if (nonEmpty.length === 0) return null;
 
   if (nonEmpty.length >= 2) {
-    return {
-      verse: nonEmpty.slice(0, -1).join(' '),
-      reference: nonEmpty[nonEmpty.length - 1],
-    };
+    const v = nonEmpty.slice(0, -1).join(' ');
+    const r = nonEmpty[nonEmpty.length - 1];
+    if (!/^por\s+charles|^serm[oó]n\s+predicado/i.test(v)) {
+      return { verse: v, reference: r };
+    }
+    return null;
   }
-  return { verse: nonEmpty[0], reference: null };
+  if (!/^por\s+charles|^serm[oó]n\s+predicado/i.test(nonEmpty[0])) {
+    return { verse: nonEmpty[0], reference: null };
+  }
+  return null;
+}
+
+function sanitizeTitle(rawTitle) {
+  if (!rawTitle) return '';
+  return rawTitle
+    .replace(/^#\s*/, '')
+    .replace(/&mdash;|&#8212;|&mmdash;/g, '—')
+    .replace(/&ndash;|&#8211;/g, '–')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;|&apos;|&rsquo;/g, "'")
+    .replace(/&lsquo;/g, "'")
+    .replace(/&ldquo;|&rdquo;/g, '"')
+    .replace(/&amp;/g, '&')
+    .replace(/&hellip;|&#8230;/g, '…')
+    .replace(/&nbsp;/g, ' ')
+    .trim();
 }
 
 async function main() {
@@ -73,14 +95,14 @@ async function main() {
           const filePath = path.join(volumePath, filename);
           const content = await fs.readFile(filePath, 'utf-8');
           const firstLine = content.split('\n')[0];
-          const title = firstLine.replace(/^#\s*/, '').trim();
-          const slug = filename.replace('.md', '');
+          const title = sanitizeTitle(firstLine);
+          const slug = filename.replace('.md', '').replace(/_/g, '-');
           const scripture = extractScripture(content);
 
           index[lang].push({ title, slug, volume, volumeNum, scripture });
         }
       }
-      console.log(`  ✓ Indexed ${lang.toUpperCase()} sermons`);
+      console.log(`  ✓ Indexed ${lang.toUpperCase()} sermons (${index[lang].length} total)`);
     }
   }
 
@@ -91,7 +113,7 @@ async function main() {
   await fs.writeFile(OUTPUT_LIB, json, 'utf-8');
   await fs.writeFile(OUTPUT_PUBLIC, json, 'utf-8');
 
-  console.log(`\n✅ Done! ${index.length} sermons indexed`);
+  console.log(`\n✅ Done! Sermons indexed: EN=${index.en.length}, PT=${index.pt.length}, ES=${index.es.length}`);
   console.log(`   → lib/search-index.json (for Next.js static import)`);
   console.log(`   → public/search-index.json (for client-side fetch)`);
 }

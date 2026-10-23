@@ -115,7 +115,7 @@ export default function HomeBibleCard({ lang, dict }) {
   const fullPageLabel = dict?.home?.bibleCard?.fullPage || 'Full Bible Page';
 
   return (
-    <section className="home-bible-card">
+    <section className="home-bible-card" style={{ marginTop: '1.5rem', marginBottom: '3.5rem' }}>
       <div className="home-bible-card-inner">
         {/* Header - always visible */}
         <div className="home-bible-card-header" onClick={handleToggle} role="button" tabIndex={0} aria-expanded={isExpanded}>

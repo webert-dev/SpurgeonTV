@@ -17,7 +17,7 @@ import CitationBox from '../../../../components/CitationBox';
 import ShareButton from '../../../../components/ShareButton';
 
 export const revalidate = false;
-export const dynamicParams = false;
+export const dynamicParams = true;
 
 export async function generateStaticParams() {
   const index = await loadStaticJson('search-index.json');
@@ -26,10 +26,12 @@ export async function generateStaticParams() {
   const langs = ['en', 'pt', 'es'];
   const params = [];
   
+  // Pre-render Volume 01 for each language (~150 sermons total) for instant showcase loading
+  // All other sermons (Vols 2-63) are rendered on-demand via dynamicParams = true and cached indefinitely
   for (const lang of langs) {
     const list = index[lang] || [];
     for (const item of list) {
-      if (item.volume && item.slug) {
+      if (item.volume === 'volume-01' && item.slug) {
         params.push({
           lang,
           id: item.volume,

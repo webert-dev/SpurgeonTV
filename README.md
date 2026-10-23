@@ -115,3 +115,7 @@ To handle high traffic (100GB+ bandwidth) and avoid Vercel limits, we recommend 
 2. In your Cloudflare DNS dashboard, point the CNAME to Vercel (`cname.vercel-dns.com`).
 3. Keep the **Proxy status (Orange Cloud)** turned **ON** in Cloudflare.
 4. Go to SSL/TLS settings in Cloudflare and set it to **Full (Strict)** to avoid redirect loops.
+
+
+Obs.: No projeto, autoria de tradução humana mencionada e reconhecida em espanhol é a do Missionário Allan Román (tradutor histórico do portal Spurgeon.com.mx / Iglesia Bautista Gracia Soberana de Guatemala). 
+Les informamos que el hermano Allan Román ya se encuentra con nuestro Señor.  Su lucha de 8 años contra el cáncer terminó, al ser llamado el 7 de noviembre de 2014.  Este sitio es un ejemplo del trabajo que dedicó durante este tiempo a traducir sermones de Charles Spurgeon.  Dios le dio la fuerza para traducir 574 sermones, gran parte de ellos traducidos ya bajo los efectos de su enfermedad, buscando únicamente que la gente tuviera una herramienta más para acercarse a Su Palabra.  Este trabajo únicamente es resultado de su inquebrantable fe en el Señor.

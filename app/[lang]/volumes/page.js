@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { getVolumes } from '../../../lib/sermons';
 import SearchClient from '../search-client';
+import { getDictionary } from '../../../lib/dictionaries';
 
 export const dynamic = 'force-static';
 export const revalidate = false;
@@ -12,19 +13,22 @@ export async function generateStaticParams() {
 export const metadata = {
   title: 'Volumes | SPURGEON TV',
   description: 'Explore over 3,500 sermons from Charles Spurgeon organized in 63 volumes.',
-  robots: { index: false, follow: false },
+  robots: { index: true, follow: true },
   alternates: {
     languages: {
-      'en': '/en/volumes',
-      'pt': '/pt/volumes',
-      'es': '/es/volumes',
+      'en': '/en/volumes/',
+      'pt': '/pt/volumes/',
+      'es': '/es/volumes/',
     }
   }
 };
 
 export default async function Home({ params }) {
   const { lang } = await params;
-  const volumes = await getVolumes(lang);
+  const [volumes, dict] = await Promise.all([
+    getVolumes(lang),
+    getDictionary(lang)
+  ]);
 
   const stats = [
     { number: '3,563', label: 'Published Sermons' },
@@ -75,17 +79,16 @@ export default async function Home({ params }) {
         <div className="container hero-content">
           {/* Search bar — lazy-loads index on first focus */}
           <div style={{ marginBottom: '4rem' }}>
-            <SearchClient lang={lang} />
+            <SearchClient lang={lang} dict={dict} />
           </div>
 
-          <p className="hero-eyebrow">The Prince of Preachers</p>
+          <p className="hero-eyebrow">{dict.sermons.heroEyebrow || dict.home.heroEyebrow}</p>
           <h1 className="hero-title">
             Charles Haddon<br />
             <em>Spurgeon</em>
           </h1>
           <p className="hero-subtitle">
-            Explore over 3,500 sermons from the most prolific preacher in Church history,
-            organized in 63 volumes of faithful and passionate biblical exposition.
+            {dict.sermons.heroSubtitle}
           </p>
 
         </div>

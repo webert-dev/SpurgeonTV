@@ -1,11 +1,12 @@
 import Link from 'next/link';
 import { getVolumes, getSermonsInVolume } from '../../../../lib/sermons';
 import { getMetadata } from '../../../../lib/sermon-metadata';
-import SermonInfoPanel from './SermonInfoPanel';
+import VolumeSermonsClient from './VolumeSermonsClient';
+import VolumeNav from './VolumeNav';
 import { getDictionary } from '../../../../lib/dictionaries';
 
 export const revalidate = false;
-export const dynamicParams = false;
+export const dynamicParams = true;
 
 export async function generateStaticParams() {
   const langs = ['en', 'pt', 'es'];
@@ -54,13 +55,16 @@ export default async function VolumePage({ params }) {
     return { ...sermon, num, meta };
   }));
 
+  const prevVolFormatted = volNum > 1 ? String(volNum - 1).padStart(2, '0') : null;
+  const nextVolFormatted = volNum < 63 ? String(volNum + 1).padStart(2, '0') : null;
+
   return (
     <div className="container" style={{ padding: '4rem 2rem' }}>
       <Link href={`/${lang}/volumes`} className="back-link">
         ← {dict.navigation.volumes}
       </Link>
 
-      <div style={{ marginBottom: '3rem' }}>
+      <div style={{ marginBottom: '2.5rem' }}>
         <p className="hero-eyebrow" style={{ textAlign: 'left', marginBottom: '0.5rem' }}>
           {dict.home.featured.eyebrow}
         </p>
@@ -70,28 +74,60 @@ export default async function VolumePage({ params }) {
         </p>
       </div>
 
-      <div className="sermon-list">
-        {sermonsWithMeta.map((sermon) => {
-          const targetLang = (lang !== 'en' && !sermon.isTranslated) ? 'en' : lang;
-          
-          return (
-            <div key={sermon.slug} className="sermon-list-entry">
-              <Link href={`/${targetLang}/volume/${id}/${sermon.slug}`}>
-                <div className="sermon-item">
-                  <div className="sermon-number">#{sermon.num}</div>
-                  <div className="sermon-item-content">
-                    <div className="sermon-title">{sermon.title}</div>
-                    {sermon.scripture?.reference && (
-                      <div className="sermon-scripture">{sermon.scripture.reference}</div>
-                    )}
-                  </div>
-                </div>
-              </Link>
-              <SermonInfoPanel meta={sermon.meta} lang={lang} dict={dict} />
-            </div>
-          );
-        })}
-      </div>
+      <VolumeNav
+        currentVolume={volNum}
+        lang={lang}
+        dict={dict}
+      />
+
+      <VolumeSermonsClient
+        sermonsWithMeta={sermonsWithMeta}
+        id={id}
+        lang={lang}
+        dict={dict}
+      />
+
+      <nav className="volume-bottom-nav" aria-label={dict.volume.browseVolumes || 'Volume navigation'}>
+        <div className="volume-bottom-nav-side">
+          {prevVolFormatted ? (
+            <Link
+              href={`/${lang}/volume/volume-${prevVolFormatted}/`}
+              className="volume-bottom-nav-btn"
+            >
+              <span>←</span>
+              <span>{dict.volume.prevVolume.replace('{num}', prevVolFormatted)}</span>
+            </Link>
+          ) : (
+            <span className="volume-bottom-nav-btn disabled" aria-disabled="true">
+              <span>←</span>
+              <span>{dict.volume.prevVolume.replace('{num}', '01')}</span>
+            </span>
+          )}
+        </div>
+
+        <div className="volume-bottom-nav-center">
+          <Link href={`/${lang}/volumes/`} className="volume-bottom-all-btn">
+            {dict.navigation.volumes}
+          </Link>
+        </div>
+
+        <div className="volume-bottom-nav-side volume-bottom-nav-side--right">
+          {nextVolFormatted ? (
+            <Link
+              href={`/${lang}/volume/volume-${nextVolFormatted}/`}
+              className="volume-bottom-nav-btn"
+            >
+              <span>{dict.volume.nextVolume.replace('{num}', nextVolFormatted)}</span>
+              <span>→</span>
+            </Link>
+          ) : (
+            <span className="volume-bottom-nav-btn disabled" aria-disabled="true">
+              <span>{dict.volume.nextVolume.replace('{num}', '63')}</span>
+              <span>→</span>
+            </span>
+          )}
+        </div>
+      </nav>
     </div>
   );
 }

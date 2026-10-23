@@ -15,11 +15,12 @@ async function processLanguage(lang, searchIndexData) {
   
   const localMap = new Map();
   for (const s of localIndex) {
-    localMap.set(s.slug, s);
+    localMap.set(s.slug.replace('_', '-'), s);
   }
   
   const combined = baseIndex.map(enItem => {
-    const locItem = localMap.get(enItem.slug);
+    const canonicalSlug = enItem.slug.replace('_', '-');
+    const locItem = localMap.get(canonicalSlug);
     
     let target = enItem;
     let isTranslated = false;
