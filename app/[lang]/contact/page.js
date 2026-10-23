@@ -105,7 +105,7 @@ export default async function ContactPage({ params }) {
       </div>
 
       <div className="policy-card">
-        <ContactForm t={t.form} />
+        <ContactForm t={t.form} lang={lang} />
       </div>
     </div>
   );

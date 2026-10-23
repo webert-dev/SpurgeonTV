@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 
-export default function ContactForm({ t }) {
+export default function ContactForm({ t, lang = 'pt' }) {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [status, setStatus] = useState(null); // 'success', 'error', null
 
@@ -35,11 +35,12 @@ export default function ContactForm({ t }) {
       nome: formProps.nome,
       email: formProps.email,
       assuntos: assuntos,
-      mensagem: formProps.mensagem
+      mensagem: formProps.mensagem,
+      lang: lang
     };
 
-    // Usando a URL fixa diretamente para evitar a necessidade de reiniciar o servidor (variáveis .env)
-    const webhookUrl = "https://script.google.com/macros/s/AKfycbyxoIyX-Mtb2rxFuqvpD6HFKm1awm85NAVz1t6JPT9xJBHv95YMXivTHf9857HPSL8/exec";
+    // Nova URL do Google Apps Script com suporte a multi-idioma (PT, EN, ES)
+    const webhookUrl = "https://script.google.com/macros/s/AKfycbzuarmIoMtYrvOl1WjWxgg4OImOUiz5kLJAunlT3g25I0iTBmy1qd8eIps9OWblUYNH/exec";
 
     try {
       const response = await fetch(webhookUrl, {
