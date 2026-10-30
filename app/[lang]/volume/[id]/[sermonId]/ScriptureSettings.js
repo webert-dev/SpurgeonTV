@@ -97,11 +97,15 @@ export default function ScriptureSettings({ dict }) {
             style={{ padding: '0.4rem 0.6rem', background: 'var(--surface-hover)', border: '1px solid var(--border)', borderRadius: '6px', color: 'var(--text)', fontSize: '0.9rem', minWidth: '140px' }}
           >
             <option value="kjv">KJV</option>
+            <option value="niv">NIV 1984</option>
             <option value="asv">ASV</option>
             <option value="web">WEB</option>
             <option value="acf">ACF (PT)</option>
             <option value="nvi">NVI (PT)</option>
-            <option value="rvr">RVR (ES)</option>
+            <option value="nvies">NVI (ES)</option>
+            <option value="rvr1960">RVR 1960 (ES)</option>
+            <option value="lbla">LBLA (ES)</option>
+            <option value="rvr">RVR 1909 (ES)</option>
             <option value="frlsg">FRLSG (FR)</option>
             <option value="lut">LUT (DE)</option>
             <option value="cuv">CUV (ZH)</option>

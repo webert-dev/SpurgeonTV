@@ -53,7 +53,7 @@ export default function HomeBibleCard({ lang, dict }) {
   const dailyVerse = DAILY_VERSES[dailyVerseIndex];
 
   const [isExpanded, setIsExpanded] = useState(false);
-  const defaultTranslation = lang === 'pt' ? 'nvi' : (lang === 'es' ? 'rvr' : 'kjv');
+  const defaultTranslation = lang === 'pt' ? 'nvi' : (lang === 'es' ? 'nvies' : 'kjv');
   const [translation, setTranslation] = useState(defaultTranslation);
   const [selectedBook, setSelectedBook] = useState(BIBLE_BOOKS.find(b => b.name === dailyVerse.book) || BIBLE_BOOKS[0]);
   const [selectedChapter, setSelectedChapter] = useState(dailyVerse.chapter);
@@ -163,11 +163,15 @@ export default function HomeBibleCard({ lang, dict }) {
                 onChange={(e) => setTranslation(e.target.value)}
               >
                 <option value="kjv">KJV (English)</option>
+                <option value="niv">NIV 1984 (English - Classic)</option>
                 <option value="web">WEB (English)</option>
                 <option value="asv">ASV (English)</option>
                 <option value="acf">Almeida Corrigida (Português)</option>
                 <option value="nvi">NVI (Português)</option>
-                <option value="rvr">Reina-Valera 1909 (Español)</option>
+                <option value="nvies">Nueva Versión Internacional (Español)</option>
+                <option value="rvr1960">Reina-Valera 1960 (Español)</option>
+                <option value="lbla">La Biblia de las Américas (Español)</option>
+                <option value="rvr">Reina-Valera 1909 (Español - Clásica)</option>
                 <option value="frlsg">Louis Segond 1910 (Français)</option>
                 <option value="lut">Lutherbibel 1912 (Deutsch)</option>
                 <option value="cuv">Chinese Union Version (中文)</option>

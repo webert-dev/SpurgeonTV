@@ -73,7 +73,7 @@ export default async function StorePage({ params }) {
     "@type": "CollectionPage",
     "name": dict.navigation?.store || "Livraria Spurgeon TV",
     "url": `${siteUrl}/${lang}/store/`,
-    "description": "Livraria virtual com obras clássicas de Charles Spurgeon, cursos teológicos e recursos bíblicos.",
+    "description": "Catálogo com livros, obras de Charles Spurgeon e recursos bíblicos recomendados.",
     "publisher": {
       "@type": "Organization",
       "name": "SpurgeonTV",
@@ -85,14 +85,18 @@ export default async function StorePage({ params }) {
         "@type": "ListItem",
         "position": index + 1,
         "item": {
-          "@type": "Product",
+          "@type": p.category === 'books' ? "Book" : "CreativeWork",
           "name": p.title,
           "description": p.shortDesc,
-          "image": `${siteUrl}${p.image}`,
-          "offers": {
-            "@type": "Offer",
-            "availability": p.isComingSoon ? "https://schema.org/PreOrder" : "https://schema.org/InStock",
-            "url": p.externalUrl.startsWith('http') ? p.externalUrl : `${siteUrl}/${lang}/store/`
+          "image": p.image?.startsWith('http') ? p.image : `${siteUrl}${p.image}`,
+          "url": p.externalUrl?.startsWith('http') ? p.externalUrl : `${siteUrl}/${lang}/store/`,
+          "author": {
+            "@type": "Person",
+            "name": p.author || "Charles Spurgeon"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": p.platform || "Spurgeon TV"
           }
         }
       }))

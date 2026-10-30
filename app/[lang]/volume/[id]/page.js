@@ -23,13 +23,14 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }) {
   const { id, lang } = await params;
   const dict = await getDictionary(lang);
-  const volNum = parseInt(id.replace('volume-', ''), 10);
+  const volNum = parseInt(id.replace(/^volume-?/, ''), 10);
+  const canonicalVolume = `volume-${String(volNum).padStart(2, '0')}`;
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv';
   
   return {
     title: `${dict.volume.title.replace('{num}', volNum)} | Spurgeon`,
     alternates: {
-      canonical: `${siteUrl}/${lang}/volume/${id}/`,
+      canonical: `${siteUrl}/${lang}/volume/${canonicalVolume}/`,
     }
   };
 }
@@ -37,9 +38,10 @@ export async function generateMetadata({ params }) {
 
 export default async function VolumePage({ params }) {
   const { id, lang } = await params;
+  const volNum = parseInt(id.replace(/^volume-?/, ''), 10);
+  const canonicalVolume = `volume-${String(volNum).padStart(2, '0')}`;
   const dict = await getDictionary(lang);
-  const sermons = await getSermonsInVolume(id, lang);
-  const volNum = parseInt(id.replace('volume-', ''), 10);
+  const sermons = await getSermonsInVolume(canonicalVolume, lang);
 
   const sermonsWithMeta = await Promise.all(sermons.map(async (sermon, index) => {
     const num = parseInt(sermon.slug.match(/\d+/)?.[0] || index + 1, 10);

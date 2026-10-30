@@ -5,10 +5,12 @@ import { useSearchParams } from 'next/navigation';
 import { BIBLE_BOOKS } from '../../../lib/bible-books';
 import { BOOK_NORMALIZER } from '../../../lib/linkifyBible';
 import ShareButton from '../../components/ShareButton';
+import CitationBox from '../../components/CitationBox';
+import BibleVersionDetails from '../../components/BibleVersionDetails';
 
 export default function BibleReader({ lang, dict }) {
   const searchParams = useSearchParams();
-  const defaultTranslation = lang === 'pt' ? 'nvi' : (lang === 'es' ? 'rvr' : 'kjv');
+  const defaultTranslation = lang === 'pt' ? 'nvi' : (lang === 'es' ? 'nvies' : 'kjv');
   const [translation, setTranslation] = useState(defaultTranslation);
   const [sermons, setSermons] = useState([]);
   
@@ -130,11 +132,15 @@ export default function BibleReader({ lang, dict }) {
             onChange={(e) => setTranslation(e.target.value)}
           >
             <option value="kjv">KJV (English)</option>
+            <option value="niv">NIV 1984 (English - Classic)</option>
             <option value="web">WEB (English)</option>
             <option value="asv">ASV (English)</option>
             <option value="acf">Almeida Corrigida (Português)</option>
             <option value="nvi">NVI (Português)</option>
-            <option value="rvr">Reina-Valera 1909 (Español)</option>
+            <option value="nvies">Nueva Versión Internacional (Español)</option>
+            <option value="rvr1960">Reina-Valera 1960 (Español)</option>
+            <option value="lbla">La Biblia de las Américas (Español)</option>
+            <option value="rvr">Reina-Valera 1909 (Español - Clásica)</option>
             <option value="frlsg">Louis Segond 1910 (Français)</option>
             <option value="lut">Lutherbibel 1912 (Deutsch)</option>
             <option value="cuv">Chinese Union Version (中文)</option>
@@ -276,6 +282,23 @@ export default function BibleReader({ lang, dict }) {
           {dict ? dict.bible.reader.next : "Next"} &rarr;
         </button>
       </div>
+
+      {/* ── REFERÊNCIA CANÔNICA (CITATION BOX) ── */}
+      <div style={{ marginTop: '2.5rem' }}>
+        <CitationBox
+          type="bible"
+          lang={lang}
+          url={typeof window !== 'undefined' ? window.location.href : `https://www.spurgeon.tv/${lang}/bible`}
+          bibleRef={`${selectedBook ? selectedBook.name : ''} ${selectedChapter}`}
+          compact
+        />
+      </div>
+
+      {/* ── DETALHES RETRÁTEIS DA VERSÃO BÍBLICA ── */}
+      <BibleVersionDetails 
+        translation={translation} 
+        lang={lang} 
+      />
     </div>
   );
 }

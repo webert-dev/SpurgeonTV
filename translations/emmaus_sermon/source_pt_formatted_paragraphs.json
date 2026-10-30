@@ -1,0 +1,2717 @@
+[
+  {
+    "index": 0,
+    "text": "**O Sermão de Emaús**",
+    "style": null
+  },
+  {
+    "index": 1,
+    "text": "***Conheça as Promessas Messiânicas do Antigo Testamento******!***",
+    "style": null
+  },
+  {
+    "index": 2,
+    "text": "*Uma reconstrução literária do ensino de Jesus aos dois discípulos no caminho de Emaús* *com base em Lucas 24:27**.*",
+    "style": null
+  },
+  {
+    "index": 3,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 4,
+    "text": "*\"E começando por Moisés e todos os profetas, explicou-lhes o que constava a respeito dele (**acerca do** Messias) em todas as Escrituras.\"*",
+    "style": null
+  },
+  {
+    "index": 5,
+    "text": "**O SERMÃO DE EMAÚS**",
+    "style": null
+  },
+  {
+    "index": 6,
+    "text": "**Dados Internacionais de Catalogação na Publicação (CIP)**",
+    "style": null
+  },
+  {
+    "index": 7,
+    "text": "**C837s   **",
+    "style": null
+  },
+  {
+    "index": 8,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 9,
+    "text": "    Costa, Webert T. S.",
+    "style": null
+  },
+  {
+    "index": 10,
+    "text": "    O sermão de Emaús : você conhece as promessas messiânicas do Antigo Testamento? / Webert T. S. Costa. – 1. ed. – São Paulo, SP: Ed. do Autor, 2026.",
+    "style": null
+  },
+  {
+    "index": 11,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 12,
+    "text": "     Obra literária que inclui índice de versículos messiânicos e notas explicativas finais.",
+    "style": null
+  },
+  {
+    "index": 13,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 14,
+    "text": "    ISBN 978-65-02-46170-9 (e-book)",
+    "style": null
+  },
+  {
+    "index": 15,
+    "text": "    ISBN 978-65-02-46171-6 (livro impresso)",
+    "style": null
+  },
+  {
+    "index": 16,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 17,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 18,
+    "text": "    1. Jesus Cristo - Profecias. 2. Bíblia. A.T. - Tipologia. 3. Bíblia. N.T. Lucas - Crítica e interpretação. 4. Teologia bíblica. 5. Apologética cristã. I. Título.",
+    "style": null
+  },
+  {
+    "index": 19,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 20,
+    "text": "**C****atálogo sistemático:**",
+    "style": null
+  },
+  {
+    "index": 21,
+    "text": "CDD 232.12 – Messianismo / Profecias messiânicas",
+    "style": null
+  },
+  {
+    "index": 22,
+    "text": "CDU 2-32 - Pessoas na religião / Messias",
+    "style": null
+  },
+  {
+    "index": 23,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 24,
+    "text": "**Copyright © 2026**",
+    "style": null
+  },
+  {
+    "index": 25,
+    "text": "Todos os direitos reservados. Nenhuma parte desta publicação pode ser reproduzida, arquivada ou transmitida por qualquer meio — eletrônico, mecânico, fotocópia, gravação ou outros — sem a permissão prévia por escrito do autor, exceto para breves citações em resenhas ou artigos críticos.",
+    "style": null
+  },
+  {
+    "index": 26,
+    "text": "**Declaração de Autoria e Uso Responsável de Inteligência Artificial**",
+    "style": null
+  },
+  {
+    "index": 27,
+    "text": "**Todo o conteúdo e o processo criativo desta obra foram desenvolvidos por inteligência humana.** Em compromisso com a transparência, declaramos que houve o uso eventual e responsável de ferramentas de Inteligência Artificial (I.A.) em breves etapas, como suporte nas revisões textuais e desenvolvimento da imagem da capa. ",
+    "style": null
+  },
+  {
+    "index": 28,
+    "text": " **Compromisso Social e Evangelístico**",
+    "style": null
+  },
+  {
+    "index": 29,
+    "text": "Reafirmando a vocação ministerial e o propósito evangelístico desta obra, o autor torna público o compromisso de que parcela expressiva dos recursos líquidos obtidos com a comercialização desta obra (em suas edições impressas e digitais) será revertida para o financiamento, aquisição e distribuição gratuita ou patrocinada de Bíblias Sagradas e exemplares deste livro para igrejas, missões e pessoas em situação de vulnerabilidade, a fim de que conheçam a Jesus Cristo, Filho de Deus, como seu único, suficiente e eterno Salvador. ",
+    "style": null
+  },
+  {
+    "index": 30,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 31,
+    "text": "Para saber mais detalhes, encaminhe e-mail para o autor: webert@ymail.com .",
+    "style": null
+  },
+  {
+    "index": 32,
+    "text": "**Nota Autoral**",
+    "style": null
+  },
+  {
+    "index": 33,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 34,
+    "text": "Por que a Bíblia não registrou a íntegra de todas as pregações e obras de Jesus? ",
+    "style": null
+  },
+  {
+    "index": 35,
+    "text": "O apóstolo João nos dá uma pista ao concluir seu Evangelho afirmando que, se cada uma das obras e dos ensinos de Cristo fosse registrado em detalhes, nem mesmo no mundo inteiro caberiam os livros que seriam escritos (Jo 21:25). Nos lembrou de que o Espírito Santo permitiu a redação explícita de tudo o que é plenamente suficiente para a nossa salvação, fé e edificação (Jo 20:31).",
+    "style": null
+  },
+  {
+    "index": 36,
+    "text": "A primeira e maior parte deste livro trata-se de uma **reconstrução literária e devocional** do discurso que Jesus poderia ter proferido aos dois discípulos no caminho de Emaús, conforme registrado em Lucas 24:13-35. O evangelista nos informa que Jesus, \"começando por Moisés e por todos os profetas\", explicou aos discípulos tudo o que a respeito dele próprio, o Messias, o Cristo, se encontrava em todas as Escrituras. A transcrição exata e palavra por palavra desse sermão histórico não foi gravada nas páginas do Novo Testamento. Mas a pergunta retorna: Por que uma das exposições exegéticas mais sublimes da história permaneceu registrada apenas como um sumário?",
+    "style": null
+  },
+  {
+    "index": 37,
+    "text": "A caminhada de Jerusalém a Emaús era de aproximadamente **11 quilômetros** (60 estádios, conforme registrado em Lc 24:13), o que levaria entre **duas e três horas** a pé. Tempo suficiente para um extenso e profundo ensino das Escrituras.",
+    "style": null
+  },
+  {
+    "index": 38,
+    "text": "Cremos que, com essa aparente omissão, o Espírito Santo fez a cada um de nós um convite e um desafio permanente: o de abrirmos o Antigo Testamento por conta própria para fazermos o mesmo percurso hermenêutico e procurarmos e descobrirmos a Cristo em todas as páginas.",
+    "style": null
+  },
+  {
+    "index": 39,
+    "text": "O discurso segue a ordem canônica das Escrituras Hebraicas: a **Torá** (Moisés), os **Profetas Anteriores** (Josué a Reis), os **Escritos Poéticos** (Salmos) e os **Profetas Posteriores** (Isaías a Malaquias), conforme a estrutura empregada pelo próprio Jesus em Lucas 24:44: *\"* *Era necessário que se **cumprisse tudo o que a meu respeito estava escrito na Lei de Moisés, nos Profetas e nos Salmos**.**\"*",
+    "style": null
+  },
+  {
+    "index": 40,
+    "text": "As referências entre colchetes no corpo do texto indicam quais são as passagens bíblicas do Antigo Testamento mencionadas. Estão dispostos em **notas finais**[EN_REF:1] os **comentários ****exegéticos**** ****teológicos**** **[EN_REF:2] e observações do autor**,** referenciando cada seção da obra após o desfecho da narrativa, de modo a deixar o texto artístico mais fluido.",
+    "style": null
+  },
+  {
+    "index": 41,
+    "text": "Esta obra não pretende \"adicionar\" nada à Bíblia. Se esta leitura fizer o seu coração arder e o conduzir de volta à leitura direta das Sagradas Escrituras, este livro terá cumprido integralmente o seu propósito.",
+    "style": null
+  },
+  {
+    "index": 42,
+    "text": "Mais uma coisa! No final do livro, na última página, tenho um pedido e também uma surpresa pra você! Espero que aproveite!",
+    "style": null
+  },
+  {
+    "index": 43,
+    "text": "A paz do Senhor! Boa leitura!",
+    "style": null
+  },
+  {
+    "index": 44,
+    "text": "**PARTE I ****-**** A TORÁ DE MOISÉS**",
+    "style": null
+  },
+  {
+    "index": 45,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 46,
+    "text": "Jesus tomou fôlego. Era o mês de Nissam, domingo, 16º dia. A estrada de terra se estendia diante dos viajantes, ladeada por muitos campos. As oliveiras do caminho, como as do Jardim do Getsêmani, estavam no ápice da sua floração primaveril, exibindo pequenos e densos cachos de flores esbranquiçadas misturadas com outras levemente amareladas, salpicando o tom verde-acinzentado. O trigal apresentava plantas predominantemente verdes e altas, preenchendo os vales e os terraços das colinas, ao contrário dos últimos grãos de cevada, que já estavam maduros, dourados e sendo colhidos para os dias que orbitavam os tempos da Páscoa.",
+    "style": null
+  },
+  {
+    "index": 47,
+    "text": "Jesus caminha com a postura incógnita e peculiar: ao mesmo tempo que parecia com a de um peregrino comum também aparentava ser um sábio mestre viajante. Sua aparência física não estava gloriosa ou resplandecente aos olhos naturais. Veste roupas comuns, porém limpas, sem carregar as marcas da caminhada que iria se iniciar a partir daquele instante. Mesmo assim, sua fisionomia transmite uma paz e autoridade desconcertantes. Seus olhos estão focados com profunda empatia nos discípulos. ",
+    "style": null
+  },
+  {
+    "index": 48,
+    "text": "Embora ressuscitado, ninguém havia ainda o reconhecido imediatamente, nem mesmo os seus seguidores. Expectativa frustrada, falta de fé e decepção destes fizeram que, aos seus olhos, os traços do Mestre parecessem modificados ou \"impedidos\" de serem associados ao homem sofredor e crucificado três dias antes daquele encontro.",
+    "style": null
+  },
+  {
+    "index": 49,
+    "text": "Jesus avistou o Sr. Cléopas[EN_REF:3] e o jovem Natanael[EN_REF:4], dois dos discípulos que, saindo de Jerusalém, estavam a caminho da aldeia de Emaús. Começou a falar com os dois.  Sua voz carregava a autoridade suave e a clareza de quem conhece cada palavra das Escrituras e como quem conhece a própria alma.",
+    "style": null
+  },
+  {
+    "index": 50,
+    "text": "Jesus lhes perguntou:* *",
+    "style": null
+  },
+  {
+    "index": 51,
+    "text": "* **“**Sob**re o que vocês estão discutindo enquanto caminham? **\"*",
+    "style": null
+  },
+  {
+    "index": 52,
+    "text": "*Eles pararam, com os rostos entristecidos. **Cl**é**opas**, um dos **discípulos, ** perguntou**-lhe: *",
+    "style": null
+  },
+  {
+    "index": 53,
+    "text": "*\"Você é o único visitante em Jerusalém que não sabe das coisas que ali aconteceram nestes dias? \"*",
+    "style": null
+  },
+  {
+    "index": 54,
+    "text": "*\"Que **coisas? \"** **–** **Jesus** **perguntou. *",
+    "style": null
+  },
+  {
+    "index": 55,
+    "text": "*\"O que aconteceu com Jesus de Nazaré\"** **–** **responderam** **os discípulos **–** **\"Ele era um profeta, poderoso em palavras e em obras diante de Deus e de todo o povo. Os chefes dos sacerdotes e as nossas autoridades o entregaram para ser condenado à morte, e o crucificaram; e nós esperávamos que era ele que ia trazer a redenção a **Israel. E hoje é o terceiro dia desde que tudo isso aconteceu.**”*",
+    "style": null
+  },
+  {
+    "index": 56,
+    "text": "*E continuaram: *",
+    "style": null
+  },
+  {
+    "index": 57,
+    "text": "*“Algumas das mulheres entre nós nos deram um susto hoje. Foram de manhã bem cedo ao sepulcro e não acharam o corpo dele. Voltaram e nos contaram que tiveram uma visão de anjos, e que estes disseram que ele está vivo. Pedro e alguns dos nossos companheiros foram ao sepulcro e encontraram tudo exatamente como as mulheres tinham dito, mas não o viram\".*",
+    "style": null
+  },
+  {
+    "index": 58,
+    "text": "*E Jesus lhes** disse: *",
+    "style": null
+  },
+  {
+    "index": 59,
+    "text": "*\"Como vocês custam a entender e como demoram a crer em tudo o que os profetas falaram!  Não devia o Messias sofrer estas coisas, para entrar na sua glória? \"*",
+    "style": null
+  },
+  {
+    "index": 60,
+    "text": "**1. No Princípio ****-**** A Semente da Mulher (Gênesis 3:15)**",
+    "style": null
+  },
+  {
+    "index": 61,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 62,
+    "text": "A pergunta parecia estranhamente provocativa, ainda mais vinda de um desconhecido que há poucos minutos parecia estar desinformado. Mas o momento não permitia espaço para objeções. Ainda sobrava dor de um sonho despedaçado pesando nos ombros de Cléopas e de Natanael, mais do que os quilômetros que haveriam de percorrer desde a Cidade Santa até seu destino. Seus rostos, desfigurados pela frustração de ver uma esperança ser pregada em uma cruz romana, buscavam as respostas que as autoridades de Israel não sabiam oferecer. ",
+    "style": null
+  },
+  {
+    "index": 63,
+    "text": "O Companheiro de viagem fitou-os com uma compaixão penetrante, acolhendo a confusão de seus corações antes de mostrar-lhes as Escrituras. ",
+    "style": null
+  },
+  {
+    "index": 64,
+    "text": "Aproximou-se um pouco mais, reduzindo a distância não apenas física, mas também da dor do espírito abalado deles. O Estranho não trazia em suas palavras o tom insensível e árido que a maioria dos Mestres da Lei apresentavam em seus debates teológicos, mas o vigor acolhedor de um pastor reunindo e protegendo ovelhas amedrontadas. ",
+    "style": null
+  },
+  {
+    "index": 65,
+    "text": "Olhando ternamente mais uma vez nos olhos dos discípulos que ainda não descobriram sua identidade, Jesus fez uma breve pausa, permitindo que o silêncio acalmasse a mente dos dois antes de proferir as primeiras palavras:",
+    "style": null
+  },
+  {
+    "index": 66,
+    "text": "\"Ouçam-me bem, amigos. Vocês estão tristes porque pensavam que o Messias viria para libertar Israel pela espada. ",
+    "style": null
+  },
+  {
+    "index": 67,
+    "text": "Mas saibam que era necessário que primeiro as Escrituras se cumprissem. A incredulidade e a falta de entendimento de vocês sobre as palavras dos profetas são desnecessárias. Mas prestem atenção; eu vou lhes mostrar.",
+    "style": null
+  },
+  {
+    "index": 68,
+    "text": "No princípio, quando o primeiro homem e a primeira mulher caíram da comunhão com Deus, quando a serpente antiga os seduziu à desobediência — o que aconteceu então? O Senhor, em vez de destruir a humanidade, pronunciou uma sentença sobre a serpente. E nessa sentença foi revelada a primeira promessa de redenção anunciada no mundo:",
+    "style": null
+  },
+  {
+    "index": 69,
+    "text": "*'Porei inimizade entre você e a mulher, entre a sua descendência e o descendente dela; ****este lhe ferirá a cabeça****, e você lhe ferirá o calcanhar.'* **[****Gn**** 3:15]**",
+    "style": null
+  },
+  {
+    "index": 70,
+    "text": "Entendam: ali, no jardim, diante do primeiro casal coberto de vergonha, Deus anunciou que da **semente da mulher** surgiria alguém — um descendente — que esmagaria a cabeça da serpente. Mas, para esmagá-la, ele próprio seria ferido. A vitória viria após o sofrimento. A redenção viria com dor. Este é o primeiro evangelho — a primeira boa nova que já foi proclamada no mundo.[EN_REF:5]",
+    "style": null
+  },
+  {
+    "index": 71,
+    "text": "Adão compreendeu. Ele deu à sua mulher o nome de **Eva** — *Hawwâ*, que significa de *vida* ou *mãe de todos os viventes* — porque creu que a vida continuaria, que a **semente** viria, que da maternidade nasceria a esperança.[EN_REF:6] ",
+    "style": null
+  },
+  {
+    "index": 72,
+    "text": "E Eva, quando deu à luz seu primeiro filho, exclamou: *'Com o auxílio do Senhor tive um filho homem!'* **[****Gn**** 4:1]** — Eva exclamou com esperança, e o Pai selou com paciência para o tempo certo o cumprimento de sua promessa. Ela não sabia que a semente precisaria atravessar gerações de patriarcas, reis e exilados até que o solo estivesse pronto[EN_REF:7].",
+    "style": null
+  },
+  {
+    "index": 73,
+    "text": "Desde então, amigos, todos os eventos da humanidade giram em torno da história desta semente — quem a carregaria, como seria preservada e quando, finalmente, brotaria o fruto que esmagaria para sempre a cabeça da serpente.\"",
+    "style": null
+  },
+  {
+    "index": 74,
+    "text": "**2. A Preservação da Semente ****-**** Noé e a Profecia sobre Sem (Gênesis 9:25-27)**",
+    "style": null
+  },
+  {
+    "index": 75,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 76,
+    "text": "Jesus continuou:",
+    "style": null
+  },
+  {
+    "index": 77,
+    "text": "\"A semente da mulher precisava ser preservada. Caim, o primeiro filho, assassinou seu irmão Abel — e nesse ato expressou a inimizade da serpente contra a linhagem da promessa. A semente permaneceu em perigo[EN_REF:8]. O Senhor, porém, deu a Eva outro filho — Sete — que prolongou a linha da realeza: ele era *'à semelhança** de Adão**, conforme a sua imagem'* **[****Gn**** 5:3]**.",
+    "style": null
+  },
+  {
+    "index": 78,
+    "text": "Depois, quando a perversidade da raça humana se multiplicou sobre a Terra, quando *'toda a inclinação dos pensamentos do seu coraç**ão** era sempre e somente para o mal'* **[****Gn**** 6:5]**, o Senhor trouxe o dilúvio. Mas no meio desse julgamento total, preservou Noé — o justo — e sua família. A arca foi o meio pelo qual a semente da mulher foi salva, não por mérito próprio, mas pela graça e vontade do Senhor. [EN_REF:9]",
+    "style": null
+  },
+  {
+    "index": 79,
+    "text": "E quando as águas baixaram, Noé profetizou sobre seus filhos. E sobre o filho chamado **Sem** ele disse:",
+    "style": null
+  },
+  {
+    "index": 80,
+    "text": " *'Bendito seja o Senhor, o Deus de Sem!'* **[****Gn**** 9:26]**",
+    "style": null
+  },
+  {
+    "index": 81,
+    "text": "Entendam: de todas as famílias da terra, foi na tenda de Sem que o Senhor escolheu habitar. A semente da mulher seguiria pela linhagem de Sem. Foi por Sem que vieram os hebreus, por Sem que veio Abraão, por Sem que veio a nação de Israel — e por essa linha viria o prometido.\"",
+    "style": null
+  },
+  {
+    "index": 82,
+    "text": "**3. A Promessa a Abraão ****-**** Todas as Nações Serão Abençoadas (Gênesis 12, 15, 17, 22)**",
+    "style": null
+  },
+  {
+    "index": 83,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 84,
+    "text": "\"Então veio o grande chamado. De todos os descendentes de Sem, o Senhor escolheu um homem idoso e sem filhos, de uma terra pagã, e disse-lhe:",
+    "style": null
+  },
+  {
+    "index": 85,
+    "text": " *'Saia da sua terra, do meio dos seus parentes e da casa de seu pai, e vá para a terra que eu lhe mostrarei. Farei de você um grande povo, e o abençoarei. Tornarei famoso o seu nome, e você será uma bênção. Abençoarei os que o abençoarem, e **amaldiçoarei os que o amaldiçoarem; e ****por meio de você todos os povos da terra serão abençoados****.'* **[****Gn**** 12:1-3]**",
+    "style": null
+  },
+  {
+    "index": 86,
+    "text": "Percebam: em ti — pela tua semente — serão **benditas todas as famílias da terra**. Não apenas Israel, mas todas as nações. A semente de Abraão seria o canal por onde fluiria a bênção de Deus a toda a humanidade. Esta é a promessa que vocês conhecem desde crianças.",
+    "style": null
+  },
+  {
+    "index": 87,
+    "text": "E o Senhor repetiu essa promessa quando, no monte Moriá, Abraão estendeu a faca sobre seu próprio filho, seu único filho, Isaque — para sacrificá-lo por ordem de Deus, que lhe confirmou, conforme anunciado pelo  Seu Anjo:",
+    "style": null
+  },
+  {
+    "index": 88,
+    "text": " *'Juro por mim mesmo, declara o Senhor, que por ter feito o que fez, não me negando seu filho, o seu único filho, esteja certo de que o abençoarei e farei seus descendentes tão numerosos como as **estrelas do céu** e como a areia das praias do mar. Sua **descendência conquistará as cidades dos que lhe forem inimigos e, ****por meio dela, todos os povos da terra serão abençoados****, porque você me obedeceu.'* **[****Gn**** 22:16-18]**",
+    "style": null
+  },
+  {
+    "index": 89,
+    "text": "Prestem atenção no fato de que Abraão, ao oferecer o filho da promessa sobre o altar, o Senhor proveu um **cordeiro** substituto para o sacrifício. Um morreu no lugar do outro[EN_REF:10].  Destaque que Deus poupou o filho de Abraão providenciando um carneiro preso pelos chifres, mas* *que* ‘**Deus não poupou o Seu próprio Filho, mas O entregou por todos nós**’. ***[****Rm**** ****8****:****32****]**",
+    "style": null
+  },
+  {
+    "index": 90,
+    "text": "Os eventos ocorreram na montanha que Abraão chamou de ‘*Jeová **Jiréh*’ que significa *'O Senhor proverá'* **[****Gn**** 22:14]. **E assim seria: na região onde se situa o mesmo monte, precisamente entre o Monte Moriá e a colina do Gólgota de Jerusalém, séculos depois, o verdadeiro Cordeiro seria provido — aquele que tiraria o pecado, não de um homem apenas, mas de todo o mundo.",
+    "style": null
+  },
+  {
+    "index": 91,
+    "text": "**4. A Profecia de Jacó ****-**** Até que venha ****Siló**** (Gênesis ****37-50****)**",
+    "style": null
+  },
+  {
+    "index": 92,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 93,
+    "text": "“A semente foi estreitando-se. De Abraão veio Isaque. De Isaque veio Jacó. E de Jacó vieram doze filhos — as doze tribos de Israel. Mas a semente da promessa, o governante vindouro, não viria de todas as tribos. Viria de uma só.",
+    "style": null
+  },
+  {
+    "index": 94,
+    "text": "Quando nosso pai Jacó estava em seu leito de morte no Egito, ele chamou os doze filhos e disse-lhes o que havia de acontecer no futuro, *'nos dias vindouros'* **[****Gn**** 49:1]**. E dentre todos, foi para Judá — não para Rúben, o primogênito, nem para José, o favorito — que ele dirigiu esta profecia:",
+    "style": null
+  },
+  {
+    "index": 95,
+    "text": "*'Judá, seus irmãos o louvarão, sua mão estará sobre o pescoço dos seus inimigos; os **filhos de seu pai se curvarão diante de você. Judá é um leão novo... O cetro não se apartará de Judá, nem o bastão de comando de seus descendentes, ****até que venha aquele a quem ele pertence****** (******Siló******)****, e a ele as nações obedecerão.'* **[****Gn**** 49:8-10]**",
+    "style": null
+  },
+  {
+    "index": 96,
+    "text": "O cetro — o bastão do governo — permaneceria com Judá [EN_REF:11] **até que viesse ****Siló**. E quem é Siló? É o titular do domínio, a quem as nações deverão obediência. [EN_REF:12]",
+    "style": null
+  },
+  {
+    "index": 97,
+    "text": "E notem o que Jacó disse em seguida:",
+    "style": null
+  },
+  {
+    "index": 98,
+    "text": "*'Ele amarrará seu jumento a uma videira, e o filhote do seu jumento ao ramo mais seleto; lavará **as **suas roupas no vinho, e suas vestes no sangue das uvas.'* **[****Gn**** 49:11]**",
+    "style": null
+  },
+  {
+    "index": 99,
+    "text": "Roupas manchadas de vinho… roupas lavadas em sangue… Isso não é apenas abundância e prosperidade, meus irmãos. Há ali um símbolo do futuro sacrificial.[EN_REF:13]\"",
+    "style": null
+  },
+  {
+    "index": 100,
+    "text": "Sabe, pisar as uvas no lagar com aquele suco avermelhado espirrando nas roupas simbolizam também trabalho duro, luta, sofrimento e até morte. Um dos príncipes midianitas, por exemplo, foi morto num lagar, trabalhando **[****Jz**** 7.25****]**. A Bíblia mostra, inclusive, Deus pisando o lagar sozinho, como Isaías descreveu **[****Is**** 63:3****]****.**",
+    "style": null
+  },
+  {
+    "index": 101,
+    "text": "Normalmente pisar uvas é uma atividade festiva feita em grupos. Fazer isso sozinho representa um **trabalho doloroso, exaustivo e isolado**. Espiritualmente, correlaciona-se ao sacrifício de Cristo no Getsêmani (que significa literalmente \"prensa de azeite\") e na Cruz, onde Ele suportou o peso das iniquidades humanas com sofrimento solitário. Mas não se espantem, pois o resultado é desse movimento é abundância, meus amigos!",
+    "style": null
+  },
+  {
+    "index": 102,
+    "text": "**5****. ****José Simboliza a Chegada e a Missão do Messias ****(Gênesis ****37-50****)**",
+    "style": null
+  },
+  {
+    "index": 103,
+    "text": "Contemplai o é revelado para as gerações também com outro filho de Jacó: assim como José foi o filho amado enviado por seu pai ao encontro dos irmãos nos campos de Dotã, Jesus foi enviado do seio do Pai aos próprios irmãos de sangue. Contudo, em vez de amor, encontrou a inveja e a conspiração; odiado sem causa e entregue por preço de escravo. ",
+    "style": null
+  },
+  {
+    "index": 104,
+    "text": "José foi despojado de sua túnica, lançado em uma cova escura e encarcerado injustamente entre dois transgressores — prefigurando as dores da Paixão do Filho de Deus, que foi desnudado no Calvário, considerado culpado sendo inocente e suspenso entre dois malfeitores, provando o amargor do sepulcro.",
+    "style": null
+  },
+  {
+    "index": 105,
+    "text": "Contudo, a cova e as prisões não puderam reter José. Tirado do cárcere, ele foi elevado ao trono para abrir os celeiros reais e salvar o mundo da fome. Da mesma forma, o Pai levantou seu filho da morte e exaltou-me às alturas, constituindo-o como o Pão Vivo que satisfaz a fome eterna de todo aquele que crê.",
+    "style": null
+  },
+  {
+    "index": 106,
+    "text": "Lembrem-se de quando José se deu a conhecer a seus irmãos no segundo encontro? Carregado de lágrimas e de perdão, ele revelou o mistério da providência: ‘Vocês planejaram o mal contra mim, mas Deus o tornou em bem, para que hoje fosse preservada a vida de muitos.’*** *****[****Gn**** 50:20]**.  Da mesma maneira, a violência do Calvário e a injustiça dos homens foram transformadas pelo Altíssimo no decreto supremo da redenção do mundo, como o verdadeiro cordeiro da Páscoa!",
+    "style": null
+  },
+  {
+    "index": 107,
+    "text": "**6****. O Cordeiro Pascal ****-**** Redenção pelo Sangue (Êxodo 12)**",
+    "style": null
+  },
+  {
+    "index": 108,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 109,
+    "text": "Ainda sem reconhecer o Mestre, os discípulos ficaram admirados com tamanha sabedoria vinda das Escrituras, mas questionaram se, para cumprir as profecias, não seria suficiente Jesus sofrer, se realmente precisava morrer, pois isso parecia vergonhoso para quem o seguia.",
+    "style": null
+  },
+  {
+    "index": 110,
+    "text": "Então Jesus prosseguiu:",
+    "style": null
+  },
+  {
+    "index": 111,
+    "text": "“Se não foi suficiente o que acabei de informar a vocês, explicarei agora com mais detalhes para que o entendimento comece a se expandir: ",
+    "style": null
+  },
+  {
+    "index": 112,
+    "text": "A semente da mulher, o descendente prometido, precisaria realizar uma obra muito maior do que reinar sobre um trono político. Para entenderem isso, lembrem-se da primeira grande libertação do nosso povo. Vejam Moisés no Egito. Naquela noite de terror, quando o juízo de Deus estava prestes a cair sobre a terra, o que o Senhor exigiu de Israel?",
+    "style": null
+  },
+  {
+    "index": 113,
+    "text": "*'**O animal escolhido será macho de um ano, sem defeito, e pode ser cordeiro ou cabrito**... **Passem, então, um pouco do sangue nas laterais e nas vigas superiores das portas das casas nas quais vocês comerão o animal.**.**. O sangue será um sinal para indicar as casas em que vocês estiverem; quando eu vir o sangue, passarei adiante...** **Quando o Senhor passar pela terra para matar os egípcios, verá o sangue na viga superior e nas laterais da porta e passará sobre aquela porta; e não permitirá que o destruidor entre na casa de vocês para matá-los**.'****[******Êx****** 12:5, 7,****** 13,****** 23]***",
+    "style": null
+  },
+  {
+    "index": 114,
+    "text": "Não foi a força das mãos de nossos pais ou a sua própria justiça que os salvou do anjo da morte. Foi o sangue de cordeiro perfeito, sem defeito, derramado em substituição a eles. O anjo da morte passava adiante — **Pessach**, a passagem — quando via o sinal vermelho nos umbrais.",
+    "style": null
+  },
+  {
+    "index": 115,
+    "text": "Amigos, percebam que o Messias não viria apenas para ensinar ou conquistar, mas para **ser** esse Cordeiro. Vocês não percebem a precisão do calendário de Deus? Ele foi entregue, julgado e crucificado exatamente na hora em que os cordeiros da Páscoa estavam sendo imolados no Templo! Ele é o Cordeiro pascal da nova aliança, e o seu sangue na cruz é a única marca que pode nos livrar do juízo eterno[EN_REF:14].”",
+    "style": null
+  },
+  {
+    "index": 116,
+    "text": "**7****. A Substituição do Primogênito ****-**** O Resgate da Vida (Êxodo 13)**",
+    "style": null
+  },
+  {
+    "index": 117,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 118,
+    "text": "\"E o que o Senhor disse logo após a libertação do Egito?",
+    "style": null
+  },
+  {
+    "index": 119,
+    "text": "*'**Consagre a mim todos os primogênitos. O primeiro filho israelita me pertence, não somente entre os homens, mas também entre os animais**.'****[******Êx****** 13:2]***",
+    "style": null
+  },
+  {
+    "index": 120,
+    "text": "Todo primogênito pertencente a Deus, porque a vida dos primogênitos havia sido poupada no Egito. Mas a lei disse que, enquanto os animais puros deveriam ser sacrificados, os filhos primogênitos dos homens deveriam ser **resgatados** pelo pagamento de um preço, por um sacrifício substitutivo **[****Êx**** 13:13-15]**.",
+    "style": null
+  },
+  {
+    "index": 121,
+    "text": "Aqui está o grande mistério da encarnação e da redenção: Aquele que andou conosco é o verdadeiro Primogênito de toda a criação. Ele é o Filho unigênito do Pai. E ele não veio para ser resgatado com prata ou ouro, nem com o sangue de cordeiros comuns. Ele veio, como o Primogênito sem mancha, para **tornar-se** o resgate. Ele deu a sua vida em resgate de muitos, para que todas as pessoas merecedoras da morte fossem compradas para Deus[EN_REF:15].\"",
+    "style": null
+  },
+  {
+    "index": 122,
+    "text": "**8****. O Tabernáculo e o Dia da Expiação ****-**** Deus Habita com os Homens (Êxodo 25; ****Levítico**** 16)**",
+    "style": null
+  },
+  {
+    "index": 123,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 124,
+    "text": "\"E quando o povo estava no deserto, o Senhor ordenou:",
+    "style": null
+  },
+  {
+    "index": 125,
+    "text": "*'**E farão um santuário para mim, e eu habitarei no meio deles**.' ****[******Êx****** 25:8]***",
+    "style": null
+  },
+  {
+    "index": 126,
+    "text": "Todo aquele Tabernáculo — o altar de bronze, a bacia, o candelabro, os pães da proposição, o véu e a arca da aliança — tudo ali era um modelo das coisas celestiais, apontando para o Messias. Ele é o verdadeiro Tabernáculo, o Verbo que se fez carne e 'armou a sua habitação' entre nós!",
+    "style": null
+  },
+  {
+    "index": 127,
+    "text": "E pensem no Dia da Expiação — o ***Yom****** Kippur***. Aquele único dia no ano em que o sumo sacerdote entrava no Santo dos Santos.",
+    "style": null
+  },
+  {
+    "index": 128,
+    "text": " *'Pegará um pouco do sangue do novilho e com o dedo o aspergirá sobre a tampa da arca... Assim fará propiciação pelo Lugar Santíssimo por causa das impurezas e das rebeliões dos israelitas, quaisquer que tenham sido os seus pecados.'* **[****Lv**** 16:14, 16]**",
+    "style": null
+  },
+  {
+    "index": 129,
+    "text": "Nenhum homem podia ver a glória de Deus e viver. O sumo sacerdote entrava com tremor, escondido na nuvem de incenso, e a expiação durava apenas um ano. Tinha que ser repetida, ano após ano, porque o sangue de touros e bodes não pode perdoar pecados definitivamente.",
+    "style": null
+  },
+  {
+    "index": 130,
+    "text": "Mas o que aconteceu há três dias, na hora nona, quando Cristo entregou seu espírito na cruz? O espesso véu do Templo se rasgou de alto a baixo! O Messias entrou não num santuário feito por mãos humanas, mas no próprio céu. E ele não entrou com sangue alheio, mas com o Seu próprio sangue, obtendo assim uma eterna redenção. Ele é, ao mesmo tempo, o Sumo Sacerdote perfeito e o Cordeiro imaculado![EN_REF:16]”** **",
+    "style": null
+  },
+  {
+    "index": 131,
+    "text": "**9****. O Profeta Semelhante a Moisés (Deuteronômio 18:15-19)**",
+    "style": null
+  },
+  {
+    "index": 132,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 133,
+    "text": "\"Vocês pensam em Moisés — que grande homem foi ele! Libertador, legislador, mediador do pacto. Ele lutou contra o Faraó e venceu. Ele clamou a Deus e as águas do mar se abriram. Ele recebeu a Lei no Sinai. Ele intercedeu pelo povo quando Deus quis destruí-lo.",
+    "style": null
+  },
+  {
+    "index": 134,
+    "text": "Mas Moisés sabia que ele próprio não era o cumprimento final. Ele era um precursor — uma sombra — daquele que viria. Por isso ele disse ao povo, antes de morrer:",
+    "style": null
+  },
+  {
+    "index": 135,
+    "text": "*'O Senhor, o seu Deus, **levantará** do meio de seus próprios irmãos ****um profeta como eu****; ouçam-no.'* **[****Dt**** 18:15]**",
+    "style": null
+  },
+  {
+    "index": 136,
+    "text": "E o Senhor confirmou essas palavras:",
+    "style": null
+  },
+  {
+    "index": 137,
+    "text": " *'Levantarei do meio dos seus irmãos um profeta como você; porei minhas palavras em sua boca, e ele lhes dirá tudo o que eu lhe ordenar.'* **[****Dt**** 18:18]**",
+    "style": null
+  },
+  {
+    "index": 138,
+    "text": "Um profeta **como Moisés** — que seria mediador de um novo pacto, libertador de uma escravidão maior que a do Egito, e que falaria as próprias palavras de Deus.[EN_REF:17] Moisés foi o redentor temporário; o que viria seria o Redentor definitivo.",
+    "style": null
+  },
+  {
+    "index": 139,
+    "text": "E lembrem-se: assim como Moisés levantou a serpente de bronze no deserto, para que todo o que olhasse para ela fosse curado **[****Nm**** 21:8-9]** — da mesma forma, o Filho do Homem deveria ser levantado, para que todos os que nele cressem tivessem vida eterna. [EN_REF:18]\"",
+    "style": null
+  },
+  {
+    "index": 140,
+    "text": "**10****. A Estrela de Jacó e o Cetro de Israel (Números 24:17)**",
+    "style": null
+  },
+  {
+    "index": 141,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 142,
+    "text": "\"Antes de morrer, Moisés registrou o oráculo do profeta Balaão — aquele pagão que foi contratado para amaldiçoar Israel, mas só conseguiu abençoá-lo, pois o Espírito de Deus o visitou, e ele viu de longe o que haveria de acontecer e profetizou:",
+    "style": null
+  },
+  {
+    "index": 143,
+    "text": "*'Eu o vejo, mas não agora; eu o avisto, mas não de perto. Uma ****estrela**** surgirá de Jacó; um ****cetro**** se levantará de Israel**..**.'* **[****Nm**** 24:17]**",
+    "style": null
+  },
+  {
+    "index": 144,
+    "text": "Uma estrela — símbolo de realeza e glória. Um cetro — símbolo de governo e domínio. O profeta estrangeiro e pagão viu o Messias de Israel séculos antes de ele chegar. [EN_REF:19]\"",
+    "style": null
+  },
+  {
+    "index": 145,
+    "text": "**PARTE II ****-**** OS PROFETAS ANTERIORES: DE JOSUÉ AO TRONO DE DAVI**",
+    "style": null
+  },
+  {
+    "index": 146,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 147,
+    "text": "A estrada subia suavemente, contornando as colinas da Judeia. Jesus apontou para o horizonte e disse: ",
+    "style": null
+  },
+  {
+    "index": 148,
+    "text": "\"Vejam aquelas colinas. Ao Leste destas Josué conduziu nossos pais pelo Vale do Jordão, consolidando a conquista da Terra Prometida. Saibam que toda aquela conquista apontava para algo maior.\"",
+    "style": null
+  },
+  {
+    "index": 149,
+    "text": "**10. Josué ****-**** O Nome que Salva (Josué 1, 5, 24)**",
+    "style": null
+  },
+  {
+    "index": 150,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 151,
+    "text": "E continuou:",
+    "style": null
+  },
+  {
+    "index": 152,
+    "text": "\"Depois que Moisés morreu, o Senhor levantou **Josué** para completar a obra — conduzir o povo à Terra Prometida, ao **descanso** que Deus havia preparado. E prestem muita atenção ao nome dele: **Yehoshua** — Significa 'O Senhor salva'. O mesmo nome que, em sua forma mais breve, vocês pronunciam todos os dias quando falam o nome de... bem, vocês sabem de quem estamos falando![EN_REF:20]",
+    "style": null
+  },
+  {
+    "index": 153,
+    "text": "O Senhor disse a Josué:",
+    "style": null
+  },
+  {
+    "index": 154,
+    "text": "*'**Assim como estive com Moisés, estarei com você; nunca o deixarei, nunca o abandonarei.**'* **[****Js**** 1:5]**",
+    "style": null
+  },
+  {
+    "index": 155,
+    "text": "E Josué cumpriu sua tarefa — conquistou a terra, dividiu a herança entre as tribos, e estabeleceu Israel em seu repouso. Assim como Moisés foi chamado servo do Senhor (*'**ebed** **Yahwéh*), também Josué recebeu esse mesmo título quando morreu **[****Js**** 24:29]**.",
+    "style": null
+  },
+  {
+    "index": 156,
+    "text": "Mas houve um momento extraordinário que vocês não devem esquecer. Antes da conquista de Jericó, Josué viu uma figura com uma espada desembainhada. E perguntou: ' Você é por nós, ou por nossos inimigos?' E a resposta foi:",
+    "style": null
+  },
+  {
+    "index": 157,
+    "text": "*'**Nem uma coisa nem outra.** **V**enho na qualidade de ****comandante do exército do Senhor****... Tire as sandálias dos pés, pois o lugar em que você está é santo.'* **[****Js**** 5:14-15]**",
+    "style": null
+  },
+  {
+    "index": 158,
+    "text": "As mesmas palavras ditas a Moisés na sarça ardente! Este Príncipe do exército celestial — quem seria ele, senão o próprio Senhor, aparecendo em forma visível para conduzir pessoalmente a batalha? O verdadeiro Conquistador de Israel não era Josué — era o Senhor dos Exércitos.[EN_REF:21]",
+    "style": null
+  },
+  {
+    "index": 159,
+    "text": "Josué prefigurou o Messias em tudo: no **nome** que carregava, na **conquista** que realizou, no **descanso** que providenciou, no **título** que recebeu. Mas Josué morreu, e o descanso que ele deu foi temporário. Havia de vir um outro Josué — outro *Yehoshua* — que daria ao povo de Deus o verdadeiro e eterno descanso.\"",
+    "style": null
+  },
+  {
+    "index": 160,
+    "text": "**11. Os Juízes ****-**** O Grito pela Vinda do Rei (Juízes 2, 17, 21)**",
+    "style": null
+  },
+  {
+    "index": 161,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 162,
+    "text": "\"Mas depois que Josué e sua geração morreram, veio o tempo mais sombrio da história de Israel. O povo abandonou o Senhor, adorou os ídolos das nações vizinhas e provocou a ira de Deus. O que aconteceu? O Senhor entregou Israel nas mãos de seus inimigos. O povo clamava, e Deus, por misericórdia, levantava **juízes** — libertadores temporários — para salvá-los. Mas assim que o juiz morria, Israel voltava a pecar, e o ciclo recomeçava.[EN_REF:22]",
+    "style": null
+  },
+  {
+    "index": 163,
+    "text": "Um ciclo trágico: **pecado — opressão — clamor — libertação — pecado de novo**. E sabem por que esse ciclo nunca acabava? O próprio livro de Juízes diz:",
+    "style": null
+  },
+  {
+    "index": 164,
+    "text": "*'Naquela época ****não havia rei em Israel****; cada um fazia o que lhe parecia certo.'* **[****Jz**** 21:25]**",
+    "style": null
+  },
+  {
+    "index": 165,
+    "text": "Entendam: a mensagem é clara. Israel **precisava** de um rei! Não um juiz temporário, não um libertador que morria — mas um Rei permanente, justo e fiel, que guiasse o povo para sempre nos caminhos do Senhor.[EN_REF:23]Mas vamos conversar melhor sobre a promessa do Messias nos tempos dos Reis daqui a pouco. ",
+    "style": null
+  },
+  {
+    "index": 166,
+    "text": "Mesmo naquele tempo sombrio, o Senhor não abandonou seu povo. O Anjo do Senhor apareceu — primeiro para advertir Israel de que ele jamais quebraria seu pacto **[****Jz**** 2:1-5]**, e depois à esposa de Manoá, para anunciar o nascimento de um libertador consagrado a Deus desde o nascimento, Sansão **[****Jz**** 13:****1-5****]**. Aquele Anjo — o Mediador do pacto — era a garantia de que Israel e a semente da promessa seria preservada, mesmo nos tempos mais adversos.",
+    "style": null
+  },
+  {
+    "index": 167,
+    "text": "Os juízes, inclusive Sansão, foram sombras do Messias: cada um deles foi um libertador levantado por Deus para salvar seu povo. Mas nenhum deles podia permanecer para sempre. A cada geração, Israel clamava por um novo salvador. Esse clamor — essa necessidade — só seria satisfeito pelo Salvador que nunca morreria.\"",
+    "style": null
+  },
+  {
+    "index": 168,
+    "text": "**12. O Cântico de Ana ****-**** A Primeira Profecia do Ungido (1 Samuel 2:1-10)**",
+    "style": null
+  },
+  {
+    "index": 169,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 170,
+    "text": "\"Então, no tempo mais sombrio do sacerdócio — quando Eli era velho e seus filhos corrompiam o culto — uma mulher estéril chamada **Ana** orou ao Senhor com lágrimas por um filho. E o Senhor a ouviu. Nasceu **Samuel**, e Ana cantou um cântico de louvor que é uma das mais extraordinárias profecias messiânicas de toda a Escritura.",
+    "style": null
+  },
+  {
+    "index": 171,
+    "text": "Ana era uma mulher simples — mas o Espírito do Senhor a fez profetisa. Ela cantou sobre Deus que humilha os soberbos e exalta os humildes, que dá morte e dá vida, que faz o pobre sentar-se com príncipes. E então, no clímax de seu cântico, ela olhou para o futuro e proclamou:",
+    "style": null
+  },
+  {
+    "index": 172,
+    "text": "*‘O Senhor julgará até os confins da terra. Ele dará poder a seu rei e exaltará a força do seu Ungido' ****[1 ******Sm****** 2:10]***",
+    "style": null
+  },
+  {
+    "index": 173,
+    "text": "Prestem muita atenção: *seu Ungido* — em hebraico, *M**eshîhô* — o **seu Messias**! Esta é a **primeira vez** em toda a Escritura que a palavra 'Messias' — Ungido — é usada em contexto profético para se referir ao Rei vindouro![EN_REF:24]",
+    "style": null
+  },
+  {
+    "index": 174,
+    "text": "Ana era estéril e Deus lhe deu um filho. Muitos séculos depois, outra mulher humilde, Maria, mãe do Messias, que cantou: *'A minha alma engrandece ao Senhor... porque **o Poderoso **fez em mim grandes coisas.'* O cântico de Ana e o cântico de Maria são como espelhos — um olhando para a frente, outro olhando para o cumprimento.[EN_REF:25] \"",
+    "style": null
+  },
+  {
+    "index": 175,
+    "text": "**13. Samuel ****-**** Profeta, Sacerdote e Juiz (1 Samuel 3, 7, 16)**",
+    "style": null
+  },
+  {
+    "index": 176,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 177,
+    "text": "\"O filho de Ana — **Samuel** — cresceu e tornou-se uma figura única em toda a história de Israel. Ele foi, simultaneamente, **profeta**, **sacerdote** e **juiz**. É o único homem em toda a Escritura que exerceu esses **três ofícios** ao mesmo tempo.[EN_REF:26]",
+    "style": null
+  },
+  {
+    "index": 178,
+    "text": "Como **profeta**, Samuel foi o primeiro na ordem profética que sucedeu a Moisés com amplo reconhecimento público. Toda a nação reconheceu: *'Todo o Israel... **reconhecia que Samuel estava confirmado como profeta do Senhor.**'* **[1 ****Sm**** 3:20]**. A palavra de Deus reconhecidamente veio a Israel por meio dele.",
+    "style": null
+  },
+  {
+    "index": 179,
+    "text": "Como **juiz**, Samuel governou Israel com integridade — percorrendo um circuito anual por Betel, Gilgal e Mizpa **[1 ****Sm**** 7:15-17]**. Ele foi o **último dos juízes**, o elo final entre a era dos libertadores mediadores da Aliança e a era dos reis.",
+    "style": null
+  },
+  {
+    "index": 180,
+    "text": "Como **sacerdote**, exerceu suas funções na transição da liderança de Eli, ministrando perante o Senhor desde a infância e oferecendo sacrifícios, e agiu conforme Deus anunciou: que levantaria um \"sacerdote fiel\" que agiria conforme o Seu coração, o que se cumpriu em parte no ministério de liderança espiritual exercido por Samuel. Ele construiu um altar em Ramá e ofereceu sacrifícios em favor de Israel, intercedendo pelo povo diante de Deus **[1 ****Sm**** 7:17]**.",
+    "style": null
+  },
+  {
+    "index": 181,
+    "text": "E foi Samuel quem Deus enviou também para ungir os dois primeiros reis de Israel. Nele, os três ofícios se uniram numa só pessoa — e nisso ele prefigurou aquele que viria como Profeta, Sacerdote e Rei definitivo.[EN_REF:27]\"",
+    "style": null
+  },
+  {
+    "index": 182,
+    "text": "**14. Saul ****-**** O Ungido ****que Fracassou**** (1 Samuel 10, 13, 15)**",
+    "style": null
+  },
+  {
+    "index": 183,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 184,
+    "text": "\"Quando o povo pediu um rei, clamando: 'Dá-nos um rei, como têm todas as nações!' **[1 ****Sm**** 8:****5-6****]**, o Senhor disse a Samuel: *'**Atenda a tudo o que o povo está lhe pedindo; não foi a você que rejeitaram; foi a mim que rejeitaram como rei.**'* **[1 ****Sm**** 8:7]**. Assim, mesmo sendo rejeitado, Deus concedeu o pedido do povo e escolheu **Saul** — alto, forte, impressionante. Samuel derramou óleo sobre sua cabeça e o ungiu:",
+    "style": null
+  },
+  {
+    "index": 185,
+    "text": "*'**O Senhor o tem ungido como líder da herança dele.**' ****[1 ******Sm****** 10:1]***",
+    "style": null
+  },
+  {
+    "index": 186,
+    "text": "Saul foi o primeiro **Ungido** de Israel — o primeiro *Mashîah*. Ele foi feito servo com missão messiânica e recebeu a palavra escrita do Senhor para guiá-lo.[EN_REF:28] Mas Saul fracassou. Ele indevidamente tomou para si o papel de sacerdote, oferecendo sacrifício sem autorização **[1 ****Sm**** 13:8-14]**, desobedeceu à ordem do Senhor de exterminar Amaleque **[1 ****Sm**** 15:1-24]****,** e tornou-se obstinado, ciumento e vingativo.",
+    "style": null
+  },
+  {
+    "index": 187,
+    "text": "E Samuel lhe disse:",
+    "style": null
+  },
+  {
+    "index": 188,
+    "text": "*Você rejeitou a palavra do Senhor, e o Senhor o rejeitou como rei de Israel!' ***[1 ****Sm**** 15:26]**",
+    "style": null
+  },
+  {
+    "index": 189,
+    "text": "Vejam: o primeiro rei ungido de Israel foi **rejeitado por Deus**. Saul mostrou ao mundo o que um messias **não** deve ser — desobediente, autossuficiente, infiel. Contudo o fracasso de Saul não destruiu o plano de Deus: ao contrário, revelou que nenhum rei meramente humano poderia cumprir o ideal messiânico eterno. Era necessário um coração diferente, um homem segundo o coração de Deus.[EN_REF:29] \"",
+    "style": null
+  },
+  {
+    "index": 190,
+    "text": "**15. Davi ****-**** O Pastor que se Tornou Rei (1 Samuel 16; 2 Samuel 5; 2 Samuel 23:1-5)**",
+    "style": null
+  },
+  {
+    "index": 191,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 192,
+    "text": "\"Enquanto Saul ainda sentava no trono, o Senhor já havia escolhido seu substituto. Disse a Samuel:",
+    "style": null
+  },
+  {
+    "index": 193,
+    "text": "*'**Encha um chifre com óleo e vá a Belém; eu o enviarei a Jessé. Escolhi um de seus filhos para ser rei**' ****[1 ******Sm****** 16:1]***",
+    "style": null
+  },
+  {
+    "index": 194,
+    "text": "E Samuel foi. Jessé apresentou seus filhos — sete jovens fortes e promissores. Mas sobre nenhum deles o Senhor disse 'é este'. Até que Samuel perguntou: 'São estes todos os teus filhos?' E Jessé respondeu que havia ainda o caçula, o menor, que estava no campo, apascentando as ovelhas. Mandaram buscá-lo.",
+    "style": null
+  },
+  {
+    "index": 195,
+    "text": "*'**Samuel então apanhou o chifre cheio de óleo e o ungiu na presença de seus irmãos, e a partir daquele dia o Espírito do Senhor apoderou-se de Davi. **' ****[1 ******Sm****** 16:13]***",
+    "style": null
+  },
+  {
+    "index": 196,
+    "text": "O menor! O pastor de ovelhas! O que ninguém considerou digno de ser chamado! Assim opera o Senhor — ele não vê como veem os homens. '*O homem vê a aparência, mas o Senhor vê o coração*' **[1 ****Sm**** 16:7]**.[EN_REF:30]",
+    "style": null
+  },
+  {
+    "index": 197,
+    "text": "E Davi cresceu, lutou contra o gigante Golias, fugiu do Rei Saul, sofreu perseguição — mas nunca levantou a mão contra o ungido do Senhor. E quando finalmente se assentou no trono, em Jerusalém, sobre todo o Israel, ele sabia de onde vinha sua autoridade.",
+    "style": null
+  },
+  {
+    "index": 198,
+    "text": "No fim de sua vida, Davi pronunciou suas **últimas palavras** como um oráculo profético:",
+    "style": null
+  },
+  {
+    "index": 199,
+    "text": "*‘O Espírito do Senhor falou por meu intermédio; sua palavra esteve em minha boca. O Deus de Israel falou, a Rocha de Israel me disse: ‘Quem governa o povo com justiça, quem o governa com o temor de Deus, é como a luz da manhã ao nascer do sol, numa manhã sem nuvens. É como a claridade depois da chuva, que faz crescer as plantas da terra' ****[2 ******Sm****** 23:2-4]***",
+    "style": null
+  },
+  {
+    "index": 200,
+    "text": "E então Davi acrescenta, com fé inabalável:",
+    "style": null
+  },
+  {
+    "index": 201,
+    "text": "*'* *A minha dinastia está de bem com Deus. Ele fez uma aliança eterna comigo, firmada e garantida em todos os aspectos.**' ****[2 ******Sm****** 23:5]***",
+    "style": null
+  },
+  {
+    "index": 202,
+    "text": "Davi identificou-se como 'o ungido do Deus de Jacó' (*meshîah** '**elohê** **ya'aqob*) **[2 ****Sm**** 23:1]** — e profetizou que de sua casa viria um governante justo, temente a Deus, cuja influência seria como o sol da manhã e a chuva sobre a terra.[EN_REF:31] Davi era o primeiro passo firme — mas o cumprimento final, como veremos, viria depois.\"",
+    "style": null
+  },
+  {
+    "index": 203,
+    "text": "**16. A Aliança com Davi ****-**** Um Trono Eterno (2 Samuel 7:12-16)**",
+    "style": null
+  },
+  {
+    "index": 204,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 205,
+    "text": "\"E agora chegamos ao coração da história dos reis. Quando Davi quis construir uma casa para o Senhor — um templo permanente para a arca da aliança — o profeta **Natã** trouxe-lhe a palavra de Deus. E que palavra extraordinária!",
+    "style": null
+  },
+  {
+    "index": 206,
+    "text": "O Senhor disse, em essência: 'Tu queres construir uma casa para mim? NÃO — sou **eu** que construirei uma casa para ti!' Mas a 'casa' que Deus prometia não era de pedra e cedro — era uma **dinastia**, uma família real eterna:",
+    "style": null
+  },
+  {
+    "index": 207,
+    "text": "*'* *Quando a sua vida **chegar ao fim** e você descansar com os seus antepassados, escolherei um dos seus filhos para sucedê-lo, um fruto do seu próprio corpo, e eu estabelecerei o reino dele. Será ele quem construirá um templo em honra do meu nome, e eu firmarei o trono dele para sempre. Eu serei seu pai, e ele será meu filho.**' ****[2 ******Sm****** 7:12-14]***[EN_REF:32]",
+    "style": null
+  },
+  {
+    "index": 208,
+    "text": "E a promessa continua:",
+    "style": null
+  },
+  {
+    "index": 209,
+    "text": "*'* *Quanto a você, sua dinastia e seu reino permanecerão para sempre diante de mim; o seu trono será estabelecido para sempre.**'** ****[2 ******Sm****** 7:16]***",
+    "style": null
+  },
+  {
+    "index": 210,
+    "text": "Três vezes 'para sempre'! E Deus jura uma relação única e íntima: *'Eu lhe serei por pai, e ele me será por filho.'* Não uma mera adoção — mas uma relação de filiação divina.[EN_REF:33]",
+    "style": null
+  },
+  {
+    "index": 211,
+    "text": "Amigos, Salomão edificou o Templo — mas Salomão pecou e morreu. O reino se dividiu. Os reis de Judá, um após outro, falharam. O Templo foi destruído. O trono de Davi pareceu acabar. Mas a Palavra de Deus não volta vazia! A promessa de um reino **eterno** só pode ser cumprida por um Rei que não morre e não peca — um Filho de Deus no sentido pleno da palavra.",
+    "style": null
+  },
+  {
+    "index": 212,
+    "text": "E Davi compreendeu isso. Quando recebeu essa promessa, ele se prostrou diante do Senhor e orou:",
+    "style": null
+  },
+  {
+    "index": 213,
+    "text": "*'**Quem sou eu, ó Soberano Senhor, e o que é a minha família, para que me trouxesses a este ponto?* *E, como se isso não bastasse para ti, ó Soberano Senhor, também falaste **sobre o futuro da família deste teu servo.**' ****[2 ******Sm****** 7:18-19]***",
+    "style": null
+  },
+  {
+    "index": 214,
+    "text": "Para longe, no futuro — Davi sabia que a promessa apontava para além de Salomão, para além de qualquer rei humano. Essa promessa atravessaria os séculos até encontrar seu cumprimento final no Descendente de Davi que seria, ao mesmo tempo, Filho de Deus.[EN_REF:34]\"",
+    "style": null
+  },
+  {
+    "index": 215,
+    "text": "**PARTE III ****-**** OS SALMOS ****-**** ELABORAÇÃO POÉTICA DO CONCEITO MESSIÂNICO**",
+    "style": null
+  },
+  {
+    "index": 216,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 217,
+    "text": "A estrada passava agora por uma encosta um pouco íngreme e coberta de pedras calcárias. ",
+    "style": null
+  },
+  {
+    "index": 218,
+    "text": "À medida que o Viajante desdobrava os textos da Torá e das primeiras Profecias, os discípulos trocavam olhares em silêncio. A distância e o receio inicial que mantinham em relação àquele estranho começava a se dissolver como a poeira da estrada. Sentindo uma inexplicável sensação reconfortante no peito, Cléopas inclinou-se suavemente na direção do Acompanhante e indagou com a voz vacilante de quem começa a suspeitar de algo sublime: — “O senhor fala destas profecias com uma clareza e autoridade que jamais ouvimos entre os doutores da Lei em Jerusalém... Porventura o senhor conheceu o Mestre Jesus pessoalmente, ou esteve com Ele antes da Páscoa?”",
+    "style": null
+  },
+  {
+    "index": 219,
+    "text": "Seu Mestre sorriu e disse-lhe que só haveria compreensão das Escrituras e para onde ela aponta se percebessem que elas testificam do Messias, e que se o coração estiver aberto para o entendimento que vem do Alto, não estarão mais perdidos, porque todos que desconhecem as Escrituras e o poder de Deus certamente erram... ",
+    "style": null
+  },
+  {
+    "index": 220,
+    "text": "Agora Jesus se preparava para citar Salmos de memória, como alguém que os tivesse cantado mil vezes ou como alguém contemporâneo e presente aos tempos em que os compositores os escreveram.",
+    "style": null
+  },
+  {
+    "index": 221,
+    "text": "**17. O Salmo do Ungido ****-**** O Messias é Declarado Filho de Deus (Salmo 2)**",
+    "style": null
+  },
+  {
+    "index": 222,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 223,
+    "text": "\"Destaco, meus amigos, que Davi cantou:",
+    "style": null
+  },
+  {
+    "index": 224,
+    "text": "*'Por que se amotinam as nações e os povos tramam em vão? Os reis da terra tomam posição e os governantes conspiram unidos contra o Senhor e contra o seu ****ungido****.'* **[****Sl**** 2:1-2]**",
+    "style": null
+  },
+  {
+    "index": 225,
+    "text": "Contra o seu **Ungido** — contra o seu **Messias**! As nações se levantaram contra ele. Os governantes conspiram contra ele. E vocês agora viram isso com seus próprios olhos. Os sumos sacerdotes, os escribas, Pilatos, Herodes — todos se levantaram contra o Ungido de Deus.",
+    "style": null
+  },
+  {
+    "index": 226,
+    "text": "Mas ouçam o que o Senhor responde:",
+    "style": null
+  },
+  {
+    "index": 227,
+    "text": "*'Eu mesmo estabeleci o meu rei em Sião, no meu santo monte. Proclamarei o decreto do Senhor: Ele me disse: ****Tu és meu filho; eu hoje te gerei****.'* **[****Sl**** 2:6-7]**",
+    "style": null
+  },
+  {
+    "index": 228,
+    "text": "E mais:",
+    "style": null
+  },
+  {
+    "index": 229,
+    "text": "*'Pede-me, e te darei as ****nações**** como herança e os ****confins da terra**** como tua propriedade.'* **[****Sl**** 2:8]**",
+    "style": null
+  },
+  {
+    "index": 230,
+    "text": "O Messias é declarado **Filho de Deus**. Ele agora reina não apenas sobre Israel, mas sobre todas as nações. E serão felizes aqueles que se refugiam nele. \"",
+    "style": null
+  },
+  {
+    "index": 231,
+    "text": "**18. O Salmo do Sofredor ****-**** Meu Deus, ****por**** que ****me Desamparaste****? (Salmo 22)**",
+    "style": null
+  },
+  {
+    "index": 232,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 233,
+    "text": "\"Mas o caminho do Messias até o trono  triunfante passa antes pelo vale da sombra da morte. Davi cantou um salmo que não podia ser apenas sobre si mesmo:",
+    "style": null
+  },
+  {
+    "index": 234,
+    "text": "*'****Meu Deus! Meu Deus!**** Por que me abandonaste?'* **[****Sl**** 22:1]**",
+    "style": null
+  },
+  {
+    "index": 235,
+    "text": "*'Todos os que me veem zombam de mim; **balançando a cabeça, lançam insultos contra mim, dizendo: **Confiou no Senhor; que o Senhor o socorra. Que ele o livre, já que o ama.'* **[****Sl**** 22:7-8]**** **[EN_REF:35]",
+    "style": null
+  },
+  {
+    "index": 236,
+    "text": " *'Cães me rodearam! Um bando de homens maus me cercou! ****Perfuraram minhas mãos e meus pés****.** **Posso contar todos os meus ossos, mas eles me encaram com desprezo. ****Dividiram as minhas roupas entre si, e ******tiraram ****** sortes****** pelas minhas vestes****.'* **[****Sl**** 22:**** 16-****18]**",
+    "style": null
+  },
+  {
+    "index": 237,
+    "text": "Amigos, vocês presenciaram tudo isso acontecer há três dias. As zombarias, a crucificação, a divisão das vestes. Mas o salmo não termina na morte! Ele termina na vitória:",
+    "style": null
+  },
+  {
+    "index": 238,
+    "text": "*'Todos os confins da terra se lembrarão e se voltarão para o Senhor, e todas as famílias das nações se prostrarão diante dele, pois do Senhor é o reino; ele governa as nações.'* **[****Sl**** 22:27-28]**",
+    "style": null
+  },
+  {
+    "index": 239,
+    "text": "Percebam que o sofrimento do Messias nunca foi um sinal de fracasso — foi o caminho para a **adoração universal de todas as nações**.[EN_REF:36] \"",
+    "style": null
+  },
+  {
+    "index": 240,
+    "text": "**19. O Trono Eterno ****-**** Teu Trono, ó Deus, é Para Sempre (Salmo 45)**",
+    "style": null
+  },
+  {
+    "index": 241,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 242,
+    "text": "\"Nas entrelinhas das celebrações nupciais de Israel, o salmista Davi ergueu a voz em um cântico de exaltação que atravessa os séculos, apontando para a majestade e a divindade Daquele que governará para sempre:",
+    "style": null
+  },
+  {
+    "index": 243,
+    "text": " *'O teu trono, ó Deus, subsiste para todo o sempre; cetro de justiça é o cetro do teu reino. Amas a justiça e odeias a iniquidade; por isso Deus, o teu Deus, escolheu-te dentre os teus companheiros ungindo-te com óleo de alegria.'* **[****Sl**** 45:6-7]** [EN_REF:37]",
+    "style": null
+  },
+  {
+    "index": 244,
+    "text": "Notem que o salmista chama ao Rei **'ó Deus'**! Este não é um rei comum. Este é o Rei-Deus — o Ungido que é ao mesmo tempo humano e divino, que reina com equidade eterna. \"",
+    "style": null
+  },
+  {
+    "index": 245,
+    "text": "**20. O Rei de Justiça e Paz Universal (Salmo 72)**",
+    "style": null
+  },
+  {
+    "index": 246,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 247,
+    "text": "\"E Salomão orou pela vinda de um reino que transcendesse o seu próprio:",
+    "style": null
+  },
+  {
+    "index": 248,
+    "text": "*'**Para que ele julgue com retidão e com justiça os teus que sofrem opressão**... **Seja ele como chuva sobre uma lavoura ceifada, como aguaceiros que regam a terra. Floresçam os justos nos dias do rei, e haja grande prosperidade enquanto durar a lua. ****Governe ele de mar a mar e desde o rio Eufrates até os confins da terra******...**** ****Inclinem-se diante dele todos os reis, e sirvam-no todas as nações****.'* **[****Sl**** 72:2, 6-8, 11]**",
+    "style": null
+  },
+  {
+    "index": 249,
+    "text": "Todas as nações! Um reino que se estende de mar a mar! Uma era de justiça e paz que dura enquanto o sol e a lua existirem! Isto não é sobre Salomão, amigos — é sobre aquele que é **maior que Salomão**[EN_REF:38].\"",
+    "style": null
+  },
+  {
+    "index": 250,
+    "text": "**21. Sacerdote para Sempre ****-**** Segundo a Ordem de Melquisedeque (Salmo 110)**",
+    "style": null
+  },
+  {
+    "index": 251,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 252,
+    "text": "\"E ouçam a palavra mais extraordinária que Davi recebeu. O Senhor falou ao Messias — não como servo, mas como **Senhor**:",
+    "style": null
+  },
+  {
+    "index": 253,
+    "text": "*'**O** ****Senhor**** **disse **ao meu ****Senhor****: Senta-te à minha direita até que eu faça dos teus inimigos um estrado para os teus pés.'* **[****Sl**** 110:1]**",
+    "style": null
+  },
+  {
+    "index": 254,
+    "text": "Davi chama ao Messias de 'meu Senhor'! Como pode o Messias ser ao mesmo tempo **filho de Davi** e **Senhor de Davi**?[EN_REF:39] Só há uma resposta: ele é ao mesmo tempo humano — da linhagem de Davi — e divino — Senhor eterno.",
+    "style": null
+  },
+  {
+    "index": 255,
+    "text": "E mais:",
+    "style": null
+  },
+  {
+    "index": 256,
+    "text": "*'O Senhor jurou e não se arrependerá: ****Tu és sacerdote para sempre, segundo a ordem de Melquisedeque****.'* **[****Sl**** 110:4]**",
+    "style": null
+  },
+  {
+    "index": 257,
+    "text": "O Messias não é apenas Rei. Ele é também **Sacerdote** — mas não segundo a ordem de Arão, que morria e era substituído. Segundo a ordem de **Melquisedeque** — que não tem genealogia registrada, não tem começo de dias nem fim de vida. Um sacerdote eterno para um reino eterno.[EN_REF:40]",
+    "style": null
+  },
+  {
+    "index": 258,
+    "text": "Os sacerdotes levíticos eram mortais e ofereciam sacrifícios repetidos. O Messias, porém, oferece um único e perfeito sacrifício por todos, assentando-me à direita da Majestade como Sumo Sacerdote eterno e Rei soberano.\"",
+    "style": null
+  },
+  {
+    "index": 259,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 260,
+    "text": "**22. A Pedra Rejeitada (Salmo 118:22-23)**",
+    "style": null
+  },
+  {
+    "index": 261,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 262,
+    "text": "\"E os construtores — os líderes de Israel — rejeitariam a pedra mais importante:",
+    "style": null
+  },
+  {
+    "index": 263,
+    "text": "*'A ****pedra**** que os construtores rejeitaram tornou-se a ****pedra angular****. Isso vem do Senhor, e é algo maravilhoso para nós.'* **[****Sl**** 118:22-23]**",
+    "style": null
+  },
+  {
+    "index": 264,
+    "text": "A pedra rejeitada... vocês viram isso acontecer. Ele foi rejeitado pelos sacerdotes, pelos anciãos, pelo Sinédrio. Mas essa pedra rejeitada será colocada como **pedra angular** — a principal de todo o edifício de Deus.\"",
+    "style": null
+  },
+  {
+    "index": 265,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 266,
+    "text": "**PARTE IV ****-**** OS PROFETAS POSTERIORES**",
+    "style": null
+  },
+  {
+    "index": 267,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 268,
+    "text": "O sol estava quase a se pôr sobre as colinas de Emaús. Baixo no horizonte, tingindo o céu de tons alaranjados, dourados e violetas. O vento fresco do início da noite começa a soprar dos vales. A poeira fina da estrada, levantada pelas sandálias, brilha suspensa no ar contra os últimos raios de sol.",
+    "style": null
+  },
+  {
+    "index": 269,
+    "text": " Jesus está no clímax da sua explicação, terminando de desvendar os livros do Pentateuco e os textos Poéticos. Mas ainda restavam os textos dos Profetas. ",
+    "style": null
+  },
+  {
+    "index": 270,
+    "text": "Embora transmitindo paz, começou a falar agora com senso de urgência.",
+    "style": null
+  },
+  {
+    "index": 271,
+    "text": " A visão dos discípulos está dividida entre a deslumbrante silhueta da estrada ao entardecer e o magnetismo daquele homem misterioso. Seus rostos, inicialmente marcados por um semblante profundamente triste, abatido e inconformado, agora mostram sinais de **intensa perplexidade e fascínio**. Não se sabe se respiram com dificuldade por causa do esforço físico e cansaço da caminhada ou por causa da forte emoção.",
+    "style": null
+  },
+  {
+    "index": 272,
+    "text": "Natanael inclinou-se e sussurrou ao ouvido do companheiro: ",
+    "style": null
+  },
+  {
+    "index": 273,
+    "text": "“Cléopas... de onde vem este homem? Ele já não me parece tão estranho. Não fala como os viajantes que cruzam a Judeia, nem como os escribas da cidade. Quando Ele explica parece não apenas recordar as letras, mas ter presenciado o próprio momento em que as promessas foram seladas! Porventura não sentes também o mesmo enquanto Ele nos fala pelo caminho?",
+    "style": null
+  },
+  {
+    "index": 274,
+    "text": "**23. Isaías ****-**** O Filho da Virgem - Emanuel (Isaías 7:14)**",
+    "style": null
+  },
+  {
+    "index": 275,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 276,
+    "text": "Então Jesus continuou:",
+    "style": null
+  },
+  {
+    "index": 277,
+    "text": "\"Agora ouçam Isaías, o maior dos profetas. Quando o rei Acaz tremia de medo diante dos exércitos da Síria e de Israel, o Senhor lhe ofereceu um sinal — qualquer sinal, no céu ou na terra. Acaz, hipocritamente, recusou. Então Isaías disse, muitos anos antes do Messias nascer:",
+    "style": null
+  },
+  {
+    "index": 278,
+    "text": "*'Por isso o próprio Senhor lhes dará um sinal: a ****virgem**** ficará grávida e dará à luz um filho, e o chamará ****Emanuel****.'* **[****Is**** 7:14]**",
+    "style": null
+  },
+  {
+    "index": 279,
+    "text": "Um filho nascido de uma virgem! E seu nome seria **Emanuel** — que significa **'Deus conosco'**. Deus não estaria distante — ele estaria **conosco**, em pessoa, em carne humana.[EN_REF:41]\"",
+    "style": null
+  },
+  {
+    "index": 280,
+    "text": "**24. Isaías ****-**** O Filho que Governa ****-**** Príncipe da Paz (Isaías 9:6-7)**",
+    "style": null
+  },
+  {
+    "index": 281,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 282,
+    "text": "\"E Isaías viu mais. Ele viu que esse filho não seria um homem comum:",
+    "style": null
+  },
+  {
+    "index": 283,
+    "text": "*'Porque ****um menino nos nasceu, um filho nos foi dado****, e o governo está sobre os seus ombros. E ele será chamado ****Maravilhoso Conselheiro, Deus Poderoso, Pai Eterno, Príncipe da Paz****. Ele estenderá o seu domínio, e haverá paz sem fim sobre o trono de Davi e sobre o seu reino, estabelecido e mantido com justiça e retidão, desde agora e para sempre.'* **[****Is**** 9:6-7]**",
+    "style": null
+  },
+  {
+    "index": 284,
+    "text": "Vejam os títulos que Isaías dá a este menino: **Deus Forte!** **Pai da Eternidade!** Este menino nascido de mulher é, ao mesmo tempo, homem e portador dos títulos do Deus Todo-Poderoso. Ele se assentará no trono de Davi — cumprindo a promessa que o profeta Natã trouxe. E do aumento de seu governo e da paz não haverá fim.[EN_REF:42]\"",
+    "style": null
+  },
+  {
+    "index": 285,
+    "text": "**25. Isaías ****-**** A Raiz de Jessé (Isaías 11:1-10)**",
+    "style": null
+  },
+  {
+    "index": 286,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 287,
+    "text": "\"E Isaías viu o Messias brotar — não de um grande cedro, mas de um **tronco cortado**:",
+    "style": null
+  },
+  {
+    "index": 288,
+    "text": "*'Um ramo surgirá do ****tronco de Jessé****, e das suas raízes brotará um renovo. O ****Espírito do Senhor**** repousará sobre ele**;** o Espírito que dá sabedoria e entendimento, o Espírito que traz conselho e poder, o Espírito que dá conhecimento e temor do Senhor.'* **[****Is**** 11:1-2]**",
+    "style": null
+  },
+  {
+    "index": 289,
+    "text": "O tronco de Jessé — a casa de Davi — seria cortado. A monarquia acabaria. Mas de suas raízes, de um toco aparentemente morto, brotaria um **renovo**. O Espírito do Senhor repousaria sobre ele com plenitude liberando o conhecimento de Deus para a humanidade:",
+    "style": null
+  },
+  {
+    "index": 290,
+    "text": "*'Pois a terra se encherá do conhecimento do Senhor como as águas cobrem o mar.'* **[****Is**** 11:9]**",
+    "style": null
+  },
+  {
+    "index": 291,
+    "text": "E ele reinaria em justiça, consolidando para o Reino dos Céus que, acreditem, se inicia agora, sendo experimentada por todos vocês até se cumprir a sua plenitude, ou seja, após todas as pessoas da Terra tomar o conhecimento de que Jesus reina e em breve voltará.",
+    "style": null
+  },
+  {
+    "index": 292,
+    "text": "**26. Isaías ****-**** Os Quatro Cânticos do Servo (Isaías 42, 49, 50, 52-53)**",
+    "style": null
+  },
+  {
+    "index": 293,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 294,
+    "text": "\"Agora chegamos ao que é mais difícil para vocês compreenderem, porém, o mais necessário. Isaías falou de um **Servo do Senhor** — um servo que realizaria uma obra que nenhum rei, nenhum sacerdote e nenhum profeta antes dele pôde realizar.",
+    "style": null
+  },
+  {
+    "index": 295,
+    "text": "**No**** Primeiro Cântico**, o Servo é apresentado:",
+    "style": null
+  },
+  {
+    "index": 296,
+    "text": "*'Eis o ****meu servo****, a quem sustento, o meu escolhido, em quem tenho prazer. Porei nele o meu Espírito, e ****ele trará justiça às nações****. Não gritará nem clamará, nem erguerá a voz nas ruas. Não quebrará o caniço rachado, e não apagará o pavio fumegante.** Com fidelidade fará justiça**'* **[****Is**** 42:1-3]**",
+    "style": null
+  },
+  {
+    "index": 297,
+    "text": "**No**** Segundo Cântico****,** o Servo é chamado antes de nascer:",
+    "style": null
+  },
+  {
+    "index": 298,
+    "text": "*'Antes de eu nascer o Senhor me chamou; desde o meu nascimento ele **mencionou** o meu nome... E ele diz: É coisa pequena demais para você ser meu servo para restaurar as tribos de Jacó... ****T******ambém ******farei de você ******luz para os gentios****, para que você leve a minha salvação até aos confins da terra.'* **[****Is**** 49:1, 6]**",
+    "style": null
+  },
+  {
+    "index": 299,
+    "text": "**No**** Terceiro Cântico****,** o Servo é maltratado:",
+    "style": null
+  },
+  {
+    "index": 300,
+    "text": "*'Ofereci as costas **para aqueles** que me batiam, **meu **rosto **para aqueles **que arrancavam a minha barba; não escondi a face da zombaria e d**a**s cusp**ida**s.'* **[****Is**** 50:6]**",
+    "style": null
+  },
+  {
+    "index": 301,
+    "text": "**No ****Quarto Cântico****,** o Servo sofre e morre pelos nossos pecados.",
+    "style": null
+  },
+  {
+    "index": 302,
+    "text": "Ouçam agora com muita atenção. Estas são as palavras que explicam tudo o que aconteceu nos últimos dias e está escrito:",
+    "style": null
+  },
+  {
+    "index": 303,
+    "text": " *'Vejam, o ****meu servo**** agirá com sabedoria; será engrandecido, elevado e muitíssimo exaltado.'* **[****Is**** 52:13]**",
+    "style": null
+  },
+  {
+    "index": 304,
+    "text": "*'Foi desprezado e rejeitado pelos homens, um homem de dores e experimentado no sofrimento... e nós não o tínhamos em estima.'* **[****Is**** 53:3]**",
+    "style": null
+  },
+  {
+    "index": 305,
+    "text": "*'Certamente ****ele tomou sobre si as nossas enfermidades**** e sobre si levou as nossas doenças; contudo nós o consideramos castigado por Deus, ****por Deus atingido**** e afligido.'* **[****Is**** 53:4]**",
+    "style": null
+  },
+  {
+    "index": 306,
+    "text": "*'Mas ****ele foi transpassado por causa das nossas transgressões****, foi esmagado por causa de nossas iniquidades; o ****castigo que nos ******trouxe paz**** estava sobre ele, e ****pelas suas feridas fomos curados****.'* **[****Is**** 53:5]**",
+    "style": null
+  },
+  {
+    "index": 307,
+    "text": "*'Todos nós, como ovelhas, nos desviamos, cada um de nós se voltou para o seu próprio caminho; e ****o Senhor fez cair sobre ele a iniquidade de todos nós****.'* **[****Is**** 53:6]**",
+    "style": null
+  },
+  {
+    "index": 308,
+    "text": "*'Ele foi oprimido e afligido, **contudo** não abriu a sua boca; como um ****cordeiro**** foi levado para o matadouro, e como uma ovelha que diante de seus tosquiadores fica calada, ele não abriu a sua boca.'* **[****Is**** 53:7]**",
+    "style": null
+  },
+  {
+    "index": 309,
+    "text": "*'Foi-lhe dado um túmulo com os ímpios, e com os ricos em sua morte, embora não tivesse cometido qualquer violência nem houvesse qualquer mentira em sua boca.'* **[****Is**** 53:9]**",
+    "style": null
+  },
+  {
+    "index": 310,
+    "text": "*'Contudo, foi **da** vontade do Senhor esmagá-lo e fazê-lo sofrer, e, embora o Senhor faça da vida dele uma ****oferta pela culpa****, ele verá a sua prole e prolongará os seus dias, e a vontade do Senhor prosperará em sua mão.'* **[****Is**** 53:10]**",
+    "style": null
+  },
+  {
+    "index": 311,
+    "text": "*'Depois do sofrimento de sua alma, ele verá a luz e ficará satisfeito; pelo seu conhecimento **meu servo justo ****justificará a muitos****, e levará a iniquidade deles.'* **[****Is**** 53:11]**",
+    "style": null
+  },
+  {
+    "index": 312,
+    "text": "Amigos, vocês ouvem a voz de Isaías? Na sua profecia confirma que **o Messias****, o justo,**** foi ferido pelas nossas transgressões.** Repito: Pelas nossas transgressões — não pelas dele. **O Senhor fez cair sobre ele a iniquidade de nós todos.** Não havia nenhum engano nele, mas Deus quis moê-lo. **Quando a sua alma se puse****sse**** por expiação do pecado** — ele seria um sacrifício pelo pecado. Como o cordeiro pascal. Como o bode expiatório. Como o holocausto. Mas não um animal — um homem, o **Servo do Senhor**.",
+    "style": null
+  },
+  {
+    "index": 313,
+    "text": "Era **necessário** que o Messias sofresse essas coisas — não por acaso, não por derrota, mas por causa do **propósito divino**. A morte do Messias é a expiação pelos pecados do mundo! E vejam — Isaías diz que ele 'verá a sua posteridade' e 'prolongará os seus dias'. Depois de morrer como sacrifício... **ele verá a posteridade**. Pode alguém ver posteridade depois de morto, a não ser que... **ressuscite**? [EN_REF:43] \"",
+    "style": null
+  },
+  {
+    "index": 314,
+    "text": "**27. Isaías ****-**** O Ungido para Boas Novas (Isaías 61:1-3)**",
+    "style": null
+  },
+  {
+    "index": 315,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 316,
+    "text": "\"E Isaías profetizou o que o Servo faria em sua vida pública:",
+    "style": null
+  },
+  {
+    "index": 317,
+    "text": "*'O ****Espírito do Soberano Senhor**** está sobre mim porque o Senhor ****ungiu-me**** para levar boas notícias aos pobres. Enviou-me para cuidar dos que estão com o coração quebrantado, anunciar ****liberdade**** aos cativos e libertação das trevas aos prisioneiros, para proclamar ****o ano da bondade do Senhor**** e o dia da vingança do nosso Deus**,* *para consolar todos os que andam tristes**.'* **[****Is**** 61:1-2]**",
+    "style": null
+  },
+  {
+    "index": 318,
+    "text": "O Messias não viria apenas como rei conquistador. Viria primeiro como pregador de boas novas, como curador dos quebrantados, como libertador — o foco não é a libertação das cadeias romanas ou gregas, mas a liberdade das cadeias do pecado e da morte.\"",
+    "style": null
+  },
+  {
+    "index": 319,
+    "text": "Cléopas parou no meio da estrada, enxugando a poeira e o suor da testa com a manga da túnica, e olhou para o Companheiro de viagem com os olhos marejados. A aspereza do luto dera lugar a um conforto. Com a voz embargada pela emoção, ele o interrompeu mansamente:",
+    "style": null
+  },
+  {
+    "index": 320,
+    "text": "“Como é possível? Enquanto você fala a dor no nosso peito simplesmente desaparece. É como se cada passagem da Lei e dos Profetas, que antes nos parecia coberta por um véu de sombras, de repente se tornasse uma luz viva apontando para um mesmo rosto!",
+    "style": null
+  },
+  {
+    "index": 321,
+    "text": "**28. Jeremias ****-**** O Renovo Justo e a Nova Aliança (Jeremias 23:5-6; 31:31-34)**",
+    "style": null
+  },
+  {
+    "index": 322,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 323,
+    "text": "\"Sim, Cléopas” – disse Jesus!  “A Palavra de Deus nos conforta e nos transforma.”",
+    "style": null
+  },
+  {
+    "index": 324,
+    "text": "E prosseguiu, acerca dos profetas do Senhor:",
+    "style": null
+  },
+  {
+    "index": 325,
+    "text": "”E quanto a Jeremias, que viu a destruição de Jerusalém, profetizou que o Senhor levantaria da casa de Davi um rei que reinaria com sabedoria e justiça? Observem o que está escrito:",
+    "style": null
+  },
+  {
+    "index": 326,
+    "text": "*'Dias virão, declara o Senhor, em que levantarei para Davi um ****Renovo justo****, um rei que reinará com sabedoria e fará o que é justo e certo na terra. Em seus dias Judá será salva, Israel viverá em segurança, e ****este é o nome pelo qual será chamado: O SENHOR É A NOSSA JUSTIÇA****.'* **[Jr 23:56]**",
+    "style": null
+  },
+  {
+    "index": 327,
+    "text": "O nome do Renovo é **'O SENHOR, JUSTIÇA NOSSA'** — *Yahweh** **Tsidkenu*! O Messias carregará o próprio nome do Senhor!",
+    "style": null
+  },
+  {
+    "index": 328,
+    "text": "E Jeremias profetizou algo ainda mais extraordinário — uma **nova aliança**:",
+    "style": null
+  },
+  {
+    "index": 329,
+    "text": "*'Estão chegando os dias, declara o Senhor, quando farei uma ****nova aliança**** com a comunidade de Israel** e com a comunidade de Judá**... Porei a minha lei no íntimo deles e a escreverei nos seus corações. Serei o Deus deles, **e eles serão o meu povo... Porque ****eu lhes perdoarei a maldade**** e não me lembrarei mais dos seus pecados.'* **[Jr 31:31, 33-34]**",
+    "style": null
+  },
+  {
+    "index": 330,
+    "text": "Uma nova aliança! Não escrita em pedra, mas no coração. E o fundamento dessa aliança, percebam, é o **perdão dos pecados**.\"",
+    "style": null
+  },
+  {
+    "index": 331,
+    "text": "**29. Ezequiel ****-**** O Pastor de Israel (Ezequiel 34:23-24; 37:24-25)**",
+    "style": null
+  },
+  {
+    "index": 332,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 333,
+    "text": "\"Ezequiel, no exílio, ouviu a voz do Senhor prometer um pastor:",
+    "style": null
+  },
+  {
+    "index": 334,
+    "text": "*'Colocarei sobre elas ****um pastor****, o ****meu servo Davi****, e ele cuidará delas; ele cuidará delas e será o seu pastor. Eu, o Senhor, serei o seu Deus, e o meu servo Davi será o líder no meio delas.'* **[****Ez**** 34:23-24]**",
+    "style": null
+  },
+  {
+    "index": 335,
+    "text": " *'O meu servo ****Davi**** será rei sobre eles, e todos eles terão um só pastor.'* **[****Ez**** 37:24]**",
+    "style": null
+  },
+  {
+    "index": 336,
+    "text": "Deus chamou esse líder de 'Meu servo Davi'. Como, se o rei Davi havia morrido séculos antes!? A explicação não é outra: Ezequiel fala de um descendente de Davi — o Messias — que se tornou o verdadeiro Pastor de Israel, aquele que apascenta suas ovelhas em justiça e paz.\"",
+    "style": null
+  },
+  {
+    "index": 337,
+    "text": "**30. Daniel ****-**** O Filho do Homem e as Setenta Semanas (Daniel 7:13-14; 9:24-27)**",
+    "style": null
+  },
+  {
+    "index": 338,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 339,
+    "text": "\"E quanto a Daniel, que no exílio babilônico, recebeu visões extraordinárias?[EN_REF:44]",
+    "style": null
+  },
+  {
+    "index": 340,
+    "text": "Na primeira visão, ele viu os reinos do mundo surgirem e caírem — Babilônia, Pérsia, Grécia, Roma — e então:",
+    "style": null
+  },
+  {
+    "index": 341,
+    "text": "*'Em minha visão à noite, vi alguém semelhante a um ****filho de um homem****, vindo com as nuvens dos céus. Ele se aproximou do **a**ncião e foi conduzido à sua presença. ****Ele recebeu autoridade, glória e o reino****; todos os povos, **nações e homens de todas as línguas o adoraram. Seu domínio é um domínio eterno que não acabará, e seu reino jamais será destruído.'* **[****Dn**** 7:13-14]**",
+    "style": null
+  },
+  {
+    "index": 342,
+    "text": "O **Filho do Homem** — uma figura celestial que recebe domínio eterno de todas as nações! Não um reino político temporário, mas um reino que nunca será destruído.",
+    "style": null
+  },
+  {
+    "index": 343,
+    "text": "E na segunda visão, Daniel recebeu a cronologia da vinda do Messias:",
+    "style": null
+  },
+  {
+    "index": 344,
+    "text": "*'Setenta semanas estão decretadas para o seu povo e sua santa **cidade** a fim de acabar com a transgressão, **para **dar fim ao pecado, **para **expiar as culpas, **para **trazer ****justiça eterna****, **para **cumprir a ****visão e a profecia****, e ****ungir o santíssimo****.'* **[****Dn**** 9:24]**",
+    "style": null
+  },
+  {
+    "index": 345,
+    "text": "*Saiba e entenda que a partir da promulgação do decreto que manda restaurar e reconstruir Jerusalém até que o ****Ungido******, o líder****, venha, haverá sete semanas, e sessenta e duas semanas... Depois das sessenta e duas semanas, **o ****Ungido será morto****, e já não haverá lugar para ele.'* **[****Dn**** 9:25-26]**",
+    "style": null
+  },
+  {
+    "index": 346,
+    "text": "'O Messias será tirado' — será cortado, será morto! Daniel profetizou que o Messias viria, realizaria a expiação da iniquidade — e seria morto! Não fiquem perplexos, pois vocês conhecem as Escrituras. Essa era a missão.\"",
+    "style": null
+  },
+  {
+    "index": 347,
+    "text": "**31****. O Sinal de Jonas ****-**** Morte, Ressurreição e Salvação aos Gentios (Jonas 1-2)**",
+    "style": null
+  },
+  {
+    "index": 348,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 349,
+    "text": "Jesus fez uma pausa. Olhou para os dois discípulos aguardando um momento de reflexão, e depois continuou: ",
+    "style": null
+  },
+  {
+    "index": 350,
+    "text": "“Lembrem-se do profeta Jonas. Quando os líderes de Israel pediram um sinal do céu, o que lhes foi dito? Que nenhum sinal lhes seria dado, senão o sinal do profeta Jonas. E qual foi o sinal?",
+    "style": null
+  },
+  {
+    "index": 351,
+    "text": "Para aplacar a tempestade e salvar os marinheiros que estavam com ele no barco, Jonas ofereceu-se como sacrifício: *'Peguem-me e atirem-me ao mar, e ele se acalmará para vocês'* **[****Jn**** 1:12]**. Anunciou que morte de um salvaria a muitos. O mar da ira de Deus se acalmou quando o profeta foi engolido pelas águas.",
+    "style": null
+  },
+  {
+    "index": 352,
+    "text": "*'O Senhor, porém, fez com que um grande peixe engolisse Jonas, e ele ficou dentro do peixe **três dias e três noites**.'** ***[****Jn**** 1:17]**",
+    "style": null
+  },
+  {
+    "index": 353,
+    "text": "Amigos, na sua angústia, Jonas orou dizendo que havia clamado lá do fundo do abismo — ao *Sheol* — até os fundamentos dos montes. A terra, com os seus trincos, parecia tê-lo encerrado para sempre. **[****Jn**** 2:2, 6]**",
+    "style": null
+  },
+  {
+    "index": 354,
+    "text": "Jonas  estava, figurativamente, morto. Mas, no terceiro dia, o Senhor deu ordens ao peixe, e ele vomitou Jonas em terra firme. **[****Jn**** 2:10]**",
+    "style": null
+  },
+  {
+    "index": 355,
+    "text": "Assim como Jonas esteve três dias e três noites no ventre do grande peixe, também era necessário que o Filho do Homem estivesse três dias e três noites no coração da terra! Mas a sepultura não poderia retê-lo. A ressurreição ao terceiro dia que as mulheres vos anunciaram é o grande sinal de Deus!",
+    "style": null
+  },
+  {
+    "index": 356,
+    "text": "E observem o que aconteceu depois: Jonas foi pregar à grande cidade de Nínive, uma nação de gentios idólatras, e eles se arrependeram. Insisto para que compreendam: a morte e a ressurreição do Messias abrem a porta da salvação não apenas para os judeus, mas para todas as nações da terra![EN_REF:45]”",
+    "style": null
+  },
+  {
+    "index": 357,
+    "text": "**32. Miquéias ****-**** O Governante de Belém (Miquéias 5:2)**",
+    "style": null
+  },
+  {
+    "index": 358,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 359,
+    "text": "\"Não nos esqueçamos de Miquéias, o profeta que identificou até a **cidade** onde o Messias nasceria:",
+    "style": null
+  },
+  {
+    "index": 360,
+    "text": "*'Mas tu, ****Belém Efrata****, embora sejas pequena entre os clãs de Judá, de ti virá para mim aquele que será o governante sobre Israel. Suas origens estão no passado distante, em ****tempos antigos****.** **Ele se estabelecerá e os pastoreará na força do Senhor, na majestade do nome do Senhor, o seu Deus. E eles viverão em segurança, pois a grandeza dele alcançará os confins da terra. Ele será a sua paz.**'* **[****Mq**** 5:2****,4-****5 ****]**",
+    "style": null
+  },
+  {
+    "index": 361,
+    "text": "Vejam! Um reino estabelecido no passado distante, em tempos antigos, cujo governante, segundo as Escrituras, nasceria em Belém, a cidade de Davi. Ao mesmo tempo ele mesmo seria, como já vimos, um governante pré-existente, eterno desde a antiguidade!\"[EN_REF:46]",
+    "style": null
+  },
+  {
+    "index": 362,
+    "text": "**33. Ageu ****-**** A Glória do Segundo Templo (Ageu 2:6-9)**",
+    "style": null
+  },
+  {
+    "index": 363,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 364,
+    "text": "\"Observem que, quando os exilados voltaram e reconstruíram o Templo, eles choravam porque era tão inferior ao de Salomão. Mas o Senhor disse por meio de Ageu:",
+    "style": null
+  },
+  {
+    "index": 365,
+    "text": "*'Assim diz o Senhor dos Exércitos: Dentro de pouco tempo farei tremer os céus e a terra, o mar e a terra seca. ****Farei tremer todas as nações, e as riquezas de todas as nações virão para cá****, e encherei este templo de glória... ****A glória deste novo templo será maior do que a do antigo****.'* **[Ag 2:6-9]**",
+    "style": null
+  },
+  {
+    "index": 366,
+    "text": "O **Desejado de todas as nações** prometeu visitar e restaurar a casa! A glória do segundo Templo superaria a de Salomão — não necessariamente por ouro e prata, mas porque o próprio Messias entraria nele e anunciaria as riquezas espirituais já liberadas a vocês! Creiam!\"[EN_REF:47]",
+    "style": null
+  },
+  {
+    "index": 367,
+    "text": "**34. Zacarias ****-**** O Rei Humilde, as Trinta Moedas e o Transpassado (Zacarias 9-13)**",
+    "style": null
+  },
+  {
+    "index": 368,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 369,
+    "text": "\"E Zacarias? Ah, Zacarias viu tudo com clareza espantosa!",
+    "style": null
+  },
+  {
+    "index": 370,
+    "text": "Ele viu o Rei entrando em Jerusalém:",
+    "style": null
+  },
+  {
+    "index": 371,
+    "text": "*'Alegre-se muito, cidade de Sião! Exulte, Jerusalém! Eis que o seu ****rei**** vem a você, ****justo**** e vitorioso, ****humilde**** e montado num ****jumento****, um jumentinho, cria de jumenta.'* **[****Zc**** 9:9]**",
+    "style": null
+  },
+  {
+    "index": 372,
+    "text": "Vocês viram isso há uma semana! Ele entrou em Jerusalém montado num jumento, e o povo gritava 'Hosana ao Filho de Davi!'",
+    "style": null
+  },
+  {
+    "index": 373,
+    "text": "Ainda, quando o profeta Zacarias serviu como um pastor rejeitado pelo próprio povo, viu também o preço da traição:",
+    "style": null
+  },
+  {
+    "index": 374,
+    "text": "*'Eu lhes disse: Se acharem melhor assim, paguem-me; se não, não me paguem. E eles me pagaram ****trinta moedas de prata****. O Senhor me disse: Jogue isso ao oleiro, o ótimo preço pelo qual me avaliaram!** **Por isso tomei as trinta moedas de prata e as atirei no templo do Senhor para o oleiro**.**'* **[****Zc**** 11:12-13]**",
+    "style": null
+  },
+  {
+    "index": 375,
+    "text": "**Trinta moedas de prata!** Exatamente o preço de um escravo! Exatamente o valor que foi pago pela traição de Jesus Cristo por Judas Iscariotes![EN_REF:48]",
+    "style": null
+  },
+  {
+    "index": 376,
+    "text": "E Zacarias viu a hora mais terrível e mais gloriosa:",
+    "style": null
+  },
+  {
+    "index": 377,
+    "text": "*'E derramarei sobre a família de Davi e sobre os habitantes de Jerusalém um espírito de ação de graças e de súplicas. ****Olharão para mim, aquele a quem traspassaram****, e chorarão por ele como quem chora a perda de um filho único**, e lamentarão amargamente por ele como quem lamenta a perda do filho mais velho**.'* **[****Zc**** 12:10]**",
+    "style": null
+  },
+  {
+    "index": 378,
+    "text": "'Olharão para mim, a quem traspassaram'! É o Senhor quem fala! E ele diz que será **traspassado** — e que o povo **olhará** para ele e pranteará! E então Deus revela:",
+    "style": null
+  },
+  {
+    "index": 379,
+    "text": "*'Naquele dia uma ****fonte jorrará**** para os descendentes de Davi e para os habitantes de Jerusalém, para purificá-los do pecado e da impureza.'* **[****Zc**** 13:1]**",
+    "style": null
+  },
+  {
+    "index": 380,
+    "text": "Da ferida do Traspassado fluirá uma **fonte de purificação** para todo o pecado e impureza de Israel!\"[EN_REF:49]",
+    "style": null
+  },
+  {
+    "index": 381,
+    "text": "**35. Malaquias ****-**** O Mensageiro e o Dia do Senhor (Malaquias 3:1; 4:5-6)**",
+    "style": null
+  },
+  {
+    "index": 382,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 383,
+    "text": "\"E ouçam agora a última voz profética do Antigo Testamento. Malaquias, o selo dos profetas, proclamou:",
+    "style": null
+  },
+  {
+    "index": 384,
+    "text": "*'Vejam, eu enviarei o ****meu mensageiro****, que preparará o caminho diante de mim. E então, de repente, o ****Senhor**** que vocês buscam virá para o seu templo; o ****mensageiro da aliança****, aquele que vocês desejam, virá, diz o Senhor dos Exércitos.'* **[Ml 3:1]**",
+    "style": null
+  },
+  {
+    "index": 385,
+    "text": "Primeiro viria um mensageiro — para preparar o caminho. E depois viria o próprio **Senhor** ao seu templo — o **Mensageiro da Aliança**, o Messias!",
+    "style": null
+  },
+  {
+    "index": 386,
+    "text": "E Malaquias encerrou a profecia do Antigo Testamento com estas palavras:",
+    "style": null
+  },
+  {
+    "index": 387,
+    "text": "*'Vejam, eu enviarei a vocês o profeta ****Elias**** antes do grande e terrível dia do Senhor. Ele fará com que o coração dos pais se volte para os seus filhos, e o coração dos filhos para os seus pais.'* **[Ml 4:5-6]**",
+    "style": null
+  },
+  {
+    "index": 388,
+    "text": "Vocês sabem quem foi esse outro Elias. Foi João, o filho de Zacarias, que batizava no Jordão e que apontava para aquele que viria depois dele, dizendo: 'Eis o **Cordeiro de Deus**, que tira o pecado do mundo!'[EN_REF:50]\"",
+    "style": null
+  },
+  {
+    "index": 389,
+    "text": "**PARTE V ****- ****\"NÃO ERA NECESSÁRIO?\"**",
+    "style": null
+  },
+  {
+    "index": 390,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 391,
+    "text": "A aldeia de Emaús aparecia agora à frente dos viajantes, banhada pela fina luz dourada do pôr do sol. O Viajante Jesus pareceu indicar que seguiria adiante, contornando a aldeia pela estrada de saída, mas Cléopas deu um passo à frente e segurou-Lhe suavemente a túnica do Mestre. ",
+    "style": null
+  },
+  {
+    "index": 392,
+    "text": "Com a voz embargada pela urgência de quem sentira a esperança renascer de forma inexplicável, exclamou:",
+    "style": null
+  },
+  {
+    "index": 393,
+    "text": "“Senhor, permanece conosco! Já é tarde e a noite logo cobrirá os caminhos da Judeia. Não nos deixes agora, pois a Tua palavra trouxe luz. Entra, compartilha da nossa mesa!",
+    "style": null
+  },
+  {
+    "index": 394,
+    "text": "Jesus consentiu e, enquanto se servia de um jarro de água na entrada da casa para lavar a poeira dos pés, concluiu:",
+    "style": null
+  },
+  {
+    "index": 395,
+    "text": "“Vocês me perguntam por que o Messias sofreu. Agora vocês já têm a resposta. Todas as Escrituras falam dele — desde a semente da mulher no jardim até o Cordeiro de Deus na voz de João Batista. Desde a promessa a Abraão até a nova aliança prenunciada a Jeremias. Desde o trono eterno prometido a Davi até o Filho do Homem visto por Daniel. ",
+    "style": null
+  },
+  {
+    "index": 396,
+    "text": "Desde a serpente de bronze levantada no deserto até o Servo de Isaías, revelado como transpassado pelos nossos pecados.",
+    "style": null
+  },
+  {
+    "index": 397,
+    "text": "‘Não devia o Cristo sofrer estas coisas, para entrar na sua glória?’ **[****Lc**** 24:26]**",
+    "style": null
+  },
+  {
+    "index": 398,
+    "text": "O sofrimento de Jesus Cristo nunca significou fracasso do plano de Deus — era o **próprio** plano de Deus. A cruz não foi o fim — foi o **meio** pelo qual o Cordeiro divino tirou o pecado do mundo, pelo qual a semente da mulher esmagou a cabeça da serpente, o Sacerdote segundo Melquisedeque ofereceu o sacrifício definitivo, e o Rei dos Reis inaugurou seu reino eterno.”",
+    "style": null
+  },
+  {
+    "index": 399,
+    "text": "Ao entrarem no ambiente simples, Cléopas ajeitou a lâmpada de azeite sobre a mesa e, olhando fixamente para o Viajante com a voz embargada pelo alívio, disse:",
+    "style": null
+  },
+  {
+    "index": 400,
+    "text": "“Senhor, a dor que carregávamos ao sair de Jerusalém parece ter ficado pelo caminho. Tuas palavras devolveram o alento à nossa alma. Senta-te conosco; o pão está posto, e não queremos que esta conversa termine.”",
+    "style": null
+  },
+  {
+    "index": 401,
+    "text": "*‘E aconteceu que, estando **(Jesus) **com eles à mesa, tomando o pão, o abençoou e, partindo-o, **lho** deu. **Abriram-se-lhes** então os olhos, e o conheceram, e **e**le desapareceu** da presença deles**.*",
+    "style": null
+  },
+  {
+    "index": 402,
+    "text": "*E disseram um para o outro: Porventura não ardia em nós o nosso coração quando, pelo caminho, nos falava, e quando nos abria as Escrituras?**’*",
+    "style": null
+  },
+  {
+    "index": 403,
+    "text": "- **Lucas 24:30-32**",
+    "style": null
+  },
+  {
+    "index": 404,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 405,
+    "text": "**ÍNDICE DE VERSÍCULOS MESSIÂNICOS DO ANTIGO TESTAMENTO**",
+    "style": null
+  },
+  {
+    "index": 406,
+    "text": "**1 · ****Gn**** 3:15***Tema:* A semente da mulher esmaga a serpente*Cumprimento no NT:* Gl 4:4; Ap 12:1-5; Rm 16:20",
+    "style": null
+  },
+  {
+    "index": 407,
+    "text": "**2 · ****Gn**** 9:26-27***Tema:* Deus habita nas tendas de Sem*Cumprimento no NT:* Lc 3:36 (genealogia)",
+    "style": null
+  },
+  {
+    "index": 408,
+    "text": "**3 · ****Gn**** 12:1-3***Tema:* Em Abraão serão benditas todas as famílias*Cumprimento no NT:* Gl 3:8, 16; At 3:25",
+    "style": null
+  },
+  {
+    "index": 409,
+    "text": "**4 · ****Gn**** 22:16-18***Tema:* Na descendência de Abraão, bênção universal*Cumprimento no NT:* Hb 11:17-19; Tg 2:21",
+    "style": null
+  },
+  {
+    "index": 410,
+    "text": "**5 · ****Gn**** 49:8-12***Tema:* O cetro de Judá / Até que venha Siló*Cumprimento no NT:* Hb 7:14; Ap 5:5; 19:11-16",
+    "style": null
+  },
+  {
+    "index": 411,
+    "text": "**6 · ****Êx**** 12:5, 7, 23***Tema:* O Cordeiro Pascal — Redenção pelo sangue*Cumprimento no NT:* 1Co 5:7; Jo 1:29; Ap 5:6",
+    "style": null
+  },
+  {
+    "index": 412,
+    "text": "**7 · ****Êx**** 13:2, 13-15***Tema:* A Substituição do Primogênito - O Resgate*Cumprimento no NT:* Cl 1:15; Mc 10:45; 1Pe 1:18-19",
+    "style": null
+  },
+  {
+    "index": 413,
+    "text": "**8 · ****Êx**** 25:8 / ****Lv**** 16:14-16***Tema:* O Tabernáculo e o Dia da Expiação*Cumprimento no NT:* Jo 1:14; Mt 27:51; Hb 9:11-12",
+    "style": null
+  },
+  {
+    "index": 414,
+    "text": "**9 · ****Nm**** 24:17***Tema:* Estrela de Jacó, Cetro de Israel*Cumprimento no NT:* Mt 2:2; Ap 22:16",
+    "style": null
+  },
+  {
+    "index": 415,
+    "text": "**10 · ****Dt**** 18:15-19***Tema:* Profeta como Moisés*Cumprimento no NT:* At 3:22-23; 7:37; Jo 6:14",
+    "style": null
+  },
+  {
+    "index": 416,
+    "text": "**11 · ****Js**** 1:5; 5:14-15; 24:29***Tema:* Josué (Yehoshua) - o nome que salva; Príncipe do exército do Senhor*Cumprimento no NT:* Hb 4:8 (Josué/Jesus); At 7:45",
+    "style": null
+  },
+  {
+    "index": 417,
+    "text": "**12 · ****Jz**** 2:1-5; 13:3; 21:25***Tema:* O Anjo do Senhor; o ciclo dos juízes; \"não havia rei\"*Cumprimento no NT:* Hb 11:32-34",
+    "style": null
+  },
+  {
+    "index": 418,
+    "text": "**13 · 1 ****Sm**** 2:10***Tema:* Cântico de Ana - \"exaltará o poder do seu Ungido (meshîhô)\"*Cumprimento no NT:* Lc 1:46-55 (Magnificat de Maria)",
+    "style": null
+  },
+  {
+    "index": 419,
+    "text": "**14 · 1 ****Sm**** 3:20; 7:15-17***Tema:* Samuel - profeta, sacerdote e juiz (tríplice ofício)*Cumprimento no NT:* Hb 1:1-3 (Cristo: profeta, sacerdote, rei)",
+    "style": null
+  },
+  {
+    "index": 420,
+    "text": "**15 · 1 ****Sm**** 10:1; 15:26; 16:1***Tema:* Saul - o ungido rejeitado*Cumprimento no NT:* (contraste tipológico)",
+    "style": null
+  },
+  {
+    "index": 421,
+    "text": "**16 · 1 ****Sm**** 16:7, 13; 2 ****Sm**** 23:1-5***Tema:* Davi - o pastor ungido; as últimas palavras proféticas*Cumprimento no NT:* Mt 1:1; Lc 1:32; At 2:30",
+    "style": null
+  },
+  {
+    "index": 422,
+    "text": "**17 · 2 ****Sm**** 7:12-16***Tema:* Trono eterno para o descendente de Davi*Cumprimento no NT:* Lc 1:32-33; At 2:30; Hb 1:5",
+    "style": null
+  },
+  {
+    "index": 423,
+    "text": "**18 · ****Sl**** 2:1-12***Tema:* O Ungido, o Filho gerado por Deus*Cumprimento no NT:* At 4:25-28; 13:33; Hb 1:5",
+    "style": null
+  },
+  {
+    "index": 424,
+    "text": "**19 · ****Sl**** 16:8-11***Tema:* Não verá corrupção*Cumprimento no NT:* At 2:25-31; 13:35",
+    "style": null
+  },
+  {
+    "index": 425,
+    "text": "**20 · ****Sl**** 22***Tema:* Meu Deus, por que me desamparaste?*Cumprimento no NT:* Mt 27:35, 39, 43, 46; Jo 19:24",
+    "style": null
+  },
+  {
+    "index": 426,
+    "text": "**21 · ****Sl**** 45:6-7***Tema:* Teu trono, ó Deus, é eterno*Cumprimento no NT:* Hb 1:8-9",
+    "style": null
+  },
+  {
+    "index": 427,
+    "text": "**22 · ****Sl**** 72***Tema:* Domínio de mar a mar, todas as nações servem*Cumprimento no NT:* (cumprimento escatológico)",
+    "style": null
+  },
+  {
+    "index": 428,
+    "text": "**23 · ****Sl**** 110:1, 4***Tema:* Senhor à destra / Sacerdote segundo Melquisedeque*Cumprimento no NT:* Mt 22:44; Hb 5:6; 7:17",
+    "style": null
+  },
+  {
+    "index": 429,
+    "text": "**24 · ****Sl**** 118:22-23***Tema:* A pedra rejeitada, cabeça da esquina*Cumprimento no NT:* Mt 21:42; At 4:11; 1Pe 2:7",
+    "style": null
+  },
+  {
+    "index": 430,
+    "text": "**25 · ****Is**** 7:14***Tema:* A virgem conceberá - Emanuel*Cumprimento no NT:* Mt 1:22-23",
+    "style": null
+  },
+  {
+    "index": 431,
+    "text": "**26 · ****Is**** 9:6-7***Tema:* Menino nascido, Deus Forte, Príncipe da Paz*Cumprimento no NT:* Lc 2:11; Jo 1:14",
+    "style": null
+  },
+  {
+    "index": 432,
+    "text": "**27 · ****Is**** 11:1-10***Tema:* Renovo da raiz de Jessé, Espírito sétuplo*Cumprimento no NT:* Rm 15:12; Ap 5:5; 22:16",
+    "style": null
+  },
+  {
+    "index": 433,
+    "text": "**28 · ****Is**** 42:1-4***Tema:* O Servo, justiça às nações*Cumprimento no NT:* Mt 12:18-21",
+    "style": null
+  },
+  {
+    "index": 434,
+    "text": "**29 · ****Is**** 49:1-6***Tema:* Luz dos gentios, salvação até aos confins*Cumprimento no NT:* Lc 2:32; At 13:47",
+    "style": null
+  },
+  {
+    "index": 435,
+    "text": "**30 · ****Is**** 50:6***Tema:* Costas feridas, rosto cuspidor*Cumprimento no NT:* Mt 26:67; 27:30",
+    "style": null
+  },
+  {
+    "index": 436,
+    "text": "**31 · ****Is**** 52:13-53:12***Tema:* O Servo Sofredor - expiação vicária*Cumprimento no NT:* Mt 8:17; At 8:32-35; 1Pe 2:24",
+    "style": null
+  },
+  {
+    "index": 437,
+    "text": "**32 · ****Is**** 61:1-2***Tema:* Ungido para pregar boas novas*Cumprimento no NT:* Lc 4:18-21",
+    "style": null
+  },
+  {
+    "index": 438,
+    "text": "**33 · Jr 23:5-6***Tema:* Renovo justo - O SENHOR, Justiça Nossa*Cumprimento no NT:* (cristologia paulina)",
+    "style": null
+  },
+  {
+    "index": 439,
+    "text": "**34 · Jr 31:31-34***Tema:* A Nova Aliança*Cumprimento no NT:* Lc 22:20; Hb 8:8-12; 10:16-17",
+    "style": null
+  },
+  {
+    "index": 440,
+    "text": "**35 · ****Ez**** 34:23-24***Tema:* Um só Pastor - meu servo Davi*Cumprimento no NT:* Jo 10:11, 14-16",
+    "style": null
+  },
+  {
+    "index": 441,
+    "text": "**36 · ****Ez**** 37:24-25***Tema:* Davi como rei e pastor eterno*Cumprimento no NT:* (cumprimento escatológico)",
+    "style": null
+  },
+  {
+    "index": 442,
+    "text": "**37 · ****Dn**** 7:13-14***Tema:* Filho do Homem - domínio eterno*Cumprimento no NT:* Mt 26:64; Mc 14:62; Ap 1:7",
+    "style": null
+  },
+  {
+    "index": 443,
+    "text": "**38 · ****Dn**** 9:24-27***Tema:* Setenta semanas - o Messias cortado*Cumprimento no NT:* (cronologia messiânica)",
+    "style": null
+  },
+  {
+    "index": 444,
+    "text": "**39 · ****Jn**** 1:17; 2:10***Tema:* O Sinal de Jonas - Três dias no ventre do peixe*Cumprimento no NT:* Mt 12:39-40; Lc 11:29-30",
+    "style": null
+  },
+  {
+    "index": 445,
+    "text": "**40 · ****Mq**** 5:2***Tema:* Belém - saídas desde a eternidade*Cumprimento no NT:* Mt 2:6; Jo 7:42",
+    "style": null
+  },
+  {
+    "index": 446,
+    "text": "**41 · Ag 2:6-9***Tema:* Desejado das nações / Glória do 2º Templo*Cumprimento no NT:* Hb 12:26",
+    "style": null
+  },
+  {
+    "index": 447,
+    "text": "**42 · ****Zc**** 9:9***Tema:* Rei montado em jumento*Cumprimento no NT:* Mt 21:4-5; Jo 12:14-15",
+    "style": null
+  },
+  {
+    "index": 448,
+    "text": "**43 · ****Zc**** 11:12-13***Tema:* Trinta moedas de prata / Oleiro*Cumprimento no NT:* Mt 27:3-10",
+    "style": null
+  },
+  {
+    "index": 449,
+    "text": "**44 · ****Zc**** 12:10***Tema:* Olharão para mim, a quem traspassaram*Cumprimento no NT:* Jo 19:37; Ap 1:7",
+    "style": null
+  },
+  {
+    "index": 450,
+    "text": "**45 · ****Zc**** 13:1***Tema:* Fonte aberta para pecado e impureza*Cumprimento no NT:* Jo 19:34; 1Jo 1:7",
+    "style": null
+  },
+  {
+    "index": 451,
+    "text": "**46 · Ml 3:1***Tema:* O mensageiro prepara o caminho*Cumprimento no NT:* Mt 11:10; Mc 1:2; Lc 7:27",
+    "style": null
+  },
+  {
+    "index": 452,
+    "text": "**47 · Ml 4:5-6***Tema:* Elias virá antes do grande dia*Cumprimento no NT:* Mt 11:14; 17:10-13; Lc 1:17",
+    "style": null
+  },
+  {
+    "index": 453,
+    "text": "- -",
+    "style": null
+  },
+  {
+    "index": 454,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 455,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 456,
+    "text": "**BIBLIOGRAFIA**",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 457,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 458,
+    "text": "ANDERS, Max E. **30 **** ****D****ias**** para ****E****ntender a ****B****íblia/Max Anders; tradução Manuel ****Buenayre****. ****Título original****:**** 30 ****D****ays**** ****to**** ****U****nderstanding**** ****the**** Bible. **Rio de Janeiro: Thomas Nelson, 2011.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 459,
+    "text": "BÍBLIAS. **Espanhol (Reina-Varela), ****Inglês**** (KJV, WEB e ASV), ****Português**** (NVI e Almeida Corrigida)**. Teaneck, NJ: Disponível em:  .",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 460,
+    "text": "BÍBLIA DE ESTUDO DE GENEBRA. Ed. Geral: R. C. Sproul. São Paulo; Barueri: Cultura Cristã;  Sociedade Bíblica do Brasil, 1999.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 461,
+    "text": "BÍBLIA. Português. **Bíblia de Estudo Aplicação Pessoal**. Rio de Janeiro: Casa Publicadora das Assembleias de Deus, 2004.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 462,
+    "text": "BÍBLIA. Português. **Bíblia de Estudo Semeadores da Palavra. Tradução de Markus ****DaSilva****.** US Library of Congress: Gospread, 2023.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 463,
+    "text": "BÍBLIA. Português. **Bíblia Sagrada com Reflexões de Lutero. Nova Tradução na Linguagem de Hoje**. Barueri: Sociedade Bíblica do Brasil, 2015.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 464,
+    "text": "BOOKER, Richard**. ****Celebrando Jesus nas Festas Bíblicas.** Tradução: Cristiane M. M. de Oliveira. Título Original: Celebrating Jesus In the Biblical Feasts. Niterói: BV Films Editora, 2016",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 465,
+    "text": "CARPENTER, Eugene E.; COMFORT, Philip Wesley. **Glosario**** Holman de términos bíblicos**. Nashville, Tenn.: B & H español! [Broadman & Holman Publishers], 2003.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 466,
+    "text": "CESARETTI, M. A. **Cronologia Bíblica da Redenção**: De Adão ao Messias conforme o sentido comum e histórico-gramatical da Bíblia Sagrada. [S.l.]: Edição do Autor, 2017.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 467,
+    "text": "CHAMPLIN, Russell Norman.** O Antigo Testamento Interpretado Versículo por Versículo.** 2ª ed. São Paulo: Hagnos, 2001. v. 1",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 468,
+    "text": "CHO, Bernardo. **Trabalho, propósito e descanso:** a visão bíblica de shalom e o chamado do cristão hoje. 1. ed. - São Paulo: Mundo Cristão, 2022**.**",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 469,
+    "text": "CURTIS, Adrian (ORG.). **Oxford Bible atlas**. 4th ed ed. Oxford ; New York: Oxford University Press, 2007.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 470,
+    "text": "DEVER, William G. **Beyond the texts: an archaeological portrait of ancient Israel and Judah**. Atlanta: SBL Press, 2017.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 471,
+    "text": "DICIONÁRIO. Brocardos Latinos Jurídicos. [S.l.: s.n.]. Disponível em:  ",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 472,
+    "text": "EARLE, Ralph (Ed.). **Comentário Bíblico Beacon: João a Atos**. Tradução:  Degmar Ribas Júnior. Rio de Janeiro: CPAD, **2006**. v. 7",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 473,
+    "text": "EBELING, Jennie R. *et al.* (ORGS.). **The Old Testament in archaeology and history**. Waco, Texas: Baylor University Press, 2017.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 474,
+    "text": "FINLEY, Mark. Esperança além da crise : a certeza de uma vida melhor; tradução Cecília Eller Nascimento. Título original: Hope for troubled times – Tatuí, SP : Casa Publicadora Brasileira, 2021",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 475,
+    "text": "FREITAS, Paulo. **Um Evangelista que Surgiu das Cinzas**. Goiânia: Ed. do Autor, 2024.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 476,
+    "text": "GARDNER, Joseph Lawrence; FRANK, Harry Thomas (ORGS.). **Reader’s digest Atlas of the Bible: an illustrated guide to the Holy Land**. Pleasantville, N.Y: Reader’s Digest Association, 1981.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 477,
+    "text": "GOTTWALD, Norman K. **Introdução ****Socioliterária**** à Bíblia Hebraica** / Norman K.Gottwald; (tradução Anacleto Alvarez; revisão H. Dalbosco). — São Paulo: Paulinas, 1988",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 478,
+    "text": "GRONINGEN, Gerard Van. **Revelação Messiânica no Velho Testamento**. Tradução:  Cláudio Wagner.  Título Original: ***Messianic Revelation in the Old Testament.*** Baker Book House, 1990. 1ª ed. Campinas: Luz Para o Caminho (LPC Publicações), 1995.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 479,
+    "text": "GUIMARÃES, Marcelo Miranda.** A Pessoa do Messias nas Festas Bíblicas.** 4ª ed. Belo Horizonte: AMES Ministério Ensinando de Sião, 2004.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 480,
+    "text": "GUSSO, Antônio Renato. **Gramática Instrumental do Grego do alfabeto à tradução a partir do Novo Testamento passo a passo**. São Paulo: Vida Nova, 2010.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 481,
+    "text": "GUSSO, Antônio Renato. **Panorama Histórico de Israel: Para Estudantes Da Bíblia**. Curitiba: AD Santos Editora, 2016.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 482,
+    "text": "HARPER, A. F. (Ed.). **Comentário Bíblico Beacon: Gênesis a Deuteronômio**. Tradução:  Luís Aron de Macedo. Rio de Janeiro: CPAD, 2005. v. 1. (Beacon Bible Commentary, v. 1).",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 483,
+    "text": "HARRIS, R. Laird *et al.* (ORGS.). **Theological wordbook of the Old Testament**. Chicago: Moody Press, 1980.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 484,
+    "text": "HAYES, John H.; KELLE, Brad E.; MOORE, Megan Bishop (ORGS.). **Israel’s prophets and Israel’s past: essays on the relationship of prophetic texts and Israelite history in honor of John H. Hayes**. Grand Rapids, Mich: William B. Eerdmans Pub. Company, 2011.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 485,
+    "text": "HOFFMEIER, James Karl. **Arqueología**** de la Biblia**. Madrid: San Pablo, 2008.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 486,
+    "text": "HOLLADAY, William L. **Léxico hebraico e aramaico do Antigo Testamento**. Tradução: Daniel de Oliveira. Titulo original; A concise hebrew and aramaic lexicon of the Old Testament. São Paulo: Vida Nova, 2010.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 487,
+    "text": "KELLE, Brad E. **Ancient Israel at war 853-586 BC**. Oxford ; New York, NY: Osprey, 2007.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 488,
+    "text": "KUYPER, Abraham. **Mulheres ****d****a Bíblia**. Tradução:  Brian Gordon Kibuuka. Londrina: Livrarias Família Cristã, 2021",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 489,
+    "text": "LUBETSKI, Meir; MOUSSAIEFF, Shlomo (ORGS.). **New seals and inscriptions, Hebrew, Idumean, and cuneiform**. Sheffield: Sheffield Phoenix Press, 2007.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 490,
+    "text": "MACARTHUR, John. **Manual bíblico MacArthur: ****Gênesis à Apocalipse**. Tradução: Érica Campos. - [2. ed.]. - Rio de Janeiro : Thomas Nelson Brasil, 2019.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 491,
+    "text": "McMURTRY, Grady Shannon.** As Festas Judaicas do Antigo Testamento.** Curitiba: A. D. Santos Editora, 2012.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 492,
+    "text": "MELO, Edino. **100 respostas bíblicas para o ****J****udaísmo**. Campinas: Transcultural Editora, [s.d.].",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 493,
+    "text": "MELO, Joel Leitão de. **Sombras, tipos e mistérios da Bíblia**. Rio de Janeiro: CPAD, 2014.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 494,
+    "text": "MORRIS, Leon L. **Lucas: introdução e comentário**. Tradução:  Gordon Chown.  Título Original: ***LUKE, An Introduction and Commentary******.*** São Paulo: Mundo Cristão, 1983.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 495,
+    "text": "HURT, Bruce. Precept Austin. **Genesis 4 ****Commentary**. Disponível em:",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 496,
+    "text": "PRICE, J. Randall. **Manu****a****l de arqueologia bíblica**. Tradução: Wilson Ferraz de Almeida. —Rio de Janeiro: Thomas Nelson, 2020",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 497,
+    "text": "RASMUSSEN, Carl. **Zondervan atlas of the Bible**. Rev. ed. Grand Rapids, Mich: Zondervan, 2010.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 498,
+    "text": "REGA, Lourenço Stelio; BERGMANN, Johannes. **Noções do grego bíblico: gramática fundamental**. Reimpr ed. São Paulo: Vida Nova, 2005.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 499,
+    "text": "RIENECKER, Fritz; ROGERS, Cleon. **Chave Linguística do Novo Testamento Grego**. Tradução:  Gordon Chown e Júlio Paulo T. Zabatiero. São Paulo: Vida Nova, 2025.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 500,
+    "text": "RODRIGUES, Eber. **O Descanso de Deus**. 2. ed. Goiânia: Ouvir e Crer Publicações, 2008.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 501,
+    "text": "ROLLSTON, Chris A. *et al.* (ORGS.). **Biblical and ancient near eastern studies in honor**** of P. Kyle McCarter Jr**. Atlanta: SBL Press, 2022.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 502,
+    "text": "SHIELDS, Norman A. **Lucas: uma introdução**. Tradução: Giuliana Niedhardt.  Título Original: ***LUKE, An Introductory Survey of his Gospel******.*** São Paulo: PES, 2017.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 503,
+    "text": "SILVA, Isaias da (Pastor). **150 Perguntas Bíblicas: conhecimentos gerais** — Antigo e Novo Testamentos. Belém: Edição do Autor, 2010.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 504,
+    "text": "SILVA, Israel. **Gênesis 4:1 Alcancei do SENHOR um homem | A Surpreendente Identidade de Caim**. Disponível  em:",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 505,
+    "text": "SPURGEON, Charles H. **Sermon 1322 | Rest ****For**** ****The**** Laboring (Sermon No. 1322)**. In: Charles Spurgeon TV Project. Available at:  .",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 506,
+    "text": "STRONG, Augustus Hopkins. **Teologia sistemática**** – Volume 2**. Tradução: Marcelo Gonçalves e Degmar Ribas. Título Original: Systematic Theology, Volume One and Two. Rio de Janeiro: CPAD, 2010.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 507,
+    "text": "THOMPSON, Thomas L. **The mythic past: biblical archaeology and the myth of Israel**. 1st U.S. ed. New York: Basic Books, 1999.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 508,
+    "text": "VAILATTI, Carlos Augusto.** ****Comentário de ****Habacuque. **São Paulo: Editora Reflexão, 2020 ",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 509,
+    "text": "VAUX, Roland De. **Instituições De Israel No Antigo Testamento**. Tradução: Daniel de Oliveira. São Paulo: Editora Teológica, 2003.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 510,
+    "text": "VULGATA. Português. **Bíblia Sagrada**. Tradução do Padre Matos Soares. Porto: [s.n., s.d.].",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 511,
+    "text": "WIERSBE, Warren W. **Coleção Comentário Bíblico ****Wiersbe**. Título original: Wiersbe's Expository Outlines on the New Testament. Rio de Janeiro: Geo-Gráfica e Editora, 2009.",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 512,
+    "text": "WILLMINGTON, Harold L. **Guia de ****Willmington**** para a Bíblia**. **V. 1**: Método Cronológico. Tradução:  Clarice Tammerik et al. Título original: Willmingtons Guide to the Bible. Rio de Janeiro: Editora Central Gospel, 2015",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 513,
+    "text": "WILLMINGTON, Harold L. **Guia de ****Willmington**** para a ****Bíblia**. **V. 2**: Método Teológico. Tradução:  Clarice Tammerik et al. Título original: Willmingtons Guide to the Bible. Rio de Janeiro: Editora Central Gospel, 2015**AGRADECIMENTOS**",
+    "style": "Textodenotadefim"
+  },
+  {
+    "index": 514,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 515,
+    "text": "A redação de uma obra dedicada a desvelar a presença de Cristo nas páginas do Antigo Testamento não é o resultado de um esforço solitário, mas o fruto amadurecido de um percurso comunitário, tecido por orações, discipulados, mentorias e apoio incondicional. Expressar gratidão é reconhecer com humildade a graça de Deus manifesta através de vidas que moldaram minha fé, meu caráter e a vocação ministerial.",
+    "style": null
+  },
+  {
+    "index": 516,
+    "text": "**A Deus**",
+    "style": null
+  },
+  {
+    "index": 517,
+    "text": "A Deus, Pai, Filho e Espírito Santo. Rendo graças ao Senhor que, assim como fez aos discípulos no caminho de Emaús, dignou-se a abrir os meus olhos e o meu coração para reconhecer a Jesus Cristo como meu único, suficiente e eterno Salvador. A Ele pertence toda a honra, a glória e o louvor para todo o sempre.",
+    "style": null
+  },
+  {
+    "index": 518,
+    "text": "**À Minha Família**",
+    "style": null
+  },
+  {
+    "index": 519,
+    "text": "À minha amada esposa, Waleska, ajudadora fiel e companheira idônea, cujo amor, paciência e incentivo constante foram o refúgio e o suporte indispensáveis durante as longas horas de estudo, pesquisa e escrita. Aos meus preciosos filhos, Sofia e José Webert, herança do Senhor e minha maior alegria terrena, que me ensinam diariamente sobre a pureza do amor e para quem almejo deixar o mais valioso dos legados: a paixão irrenunciável pela Palavra da Verdade.",
+    "style": null
+  },
+  {
+    "index": 520,
+    "text": "**Aos Pilares de Vida e Formação**",
+    "style": null
+  },
+  {
+    "index": 521,
+    "text": "À minha mãe, Rosa, que ainda na minha infância instruiu-me com sabedoria a sempre procurar ajudar, servir e respeitar o próximo — princípios morais que fundamentaram meu caráter e minha visão do reino de Deus. À minha sogra, Celma, mulher de oração incansável e fé inabalável, que jamais cessou de apresentar minha vida e minha casa perante o trono da graça divina. Ao Pastor Aderbal Martins, cujo proceder exemplar e poderoso ensino mostraram-me na prática como ser cristão e buscar ao Senhor muito antes de meus olhos se abrirem para reconhecer pessoalmente a Jesus como meu Salvador.",
+    "style": null
+  },
+  {
+    "index": 522,
+    "text": "**Aos Mentores, Revisores e Parceiros de Ministério**",
+    "style": null
+  },
+  {
+    "index": 523,
+    "text": "Ao Professor Luiz Sayão, pela vida dedicada ao serviço do Reino e por não medir esforços para influenciar e capacitar a nossa geração na busca constante e criteriosa pelo conhecimento das Escrituras Sagradas. Ao Pastor Tiago Ribeiro, amigo irmão, que com visão e generosidade mostrou-me caminhos e possibilidades para expandir a mensagem do Evangelho através das ferramentas digitais. Ao Time TV Spurgeon, pela revisão sincera, técnica e biblicamente fundamentada, cujo olhar zeloso e compromisso com a ortodoxia contribuíram decisivamente para o refinamento desta publicação.",
+    "style": null
+  },
+  {
+    "index": 524,
+    "text": "**À Igreja e à Liderança Eclesiástica**",
+    "style": null
+  },
+  {
+    "index": 525,
+    "text": "Ao Campo de Campinas da Assembleia de Deus, sob a liderança honrada do nosso Bispo Oídes José do Carmo, pelo zelo incansável na preservação da sã doutrina. À minha congregação local no Setor Santa Rita Central em Goiânia-GO, pastoreada com dedicação e amor pelo estimado Pastor Antônio Cabral, homem sábio e que maneja bem a Palavra de Deus, que tão bem nos instruído no caminho da graça. Estendo minha sincera gratidão a todos os Pastores, Evangelistas e demais obreiros cujas pregações fiéis sobre a narrativa central deste livro desenvolveram em minha alma a inspiração inicial para esta obra. **Aos jovens e adolescentes das Escolas ****Bíblicas aos quais tive a honra de lecionar**: suas perguntas francas, inquietações sinceras e sede de aprendizado foram o combustível pedagógico que me desafiou a buscar respostas exegéticas mais profundas. ",
+    "style": null
+  },
+  {
+    "index": 526,
+    "text": "Reconheço ser uma tarefa impossível nominar individualmente cada irmão e irmã em Cristo que cruzou o meu caminho. A convivência diária na comunhão da igreja — cada diálogo reflexivo, cada oração compartilhada e cada aprendizado em conjunto — traz consigo benefícios imensuráveis e oportunidades constantes de crescimento espiritual e aprofundamento na Palavra. A todos vocês, cujas vidas e testemunhos deixaram marcas indeléveis em minha caminhada, mas cujos nomes seriam impossíveis os registrar em poucas páginas, minha profunda e perpétua gratidão.",
+    "style": null
+  },
+  {
+    "index": 527,
+    "text": "**A Você, Querido Leitor** ",
+    "style": null
+  },
+  {
+    "index": 528,
+    "text": "Por fim, dirijo minha gratidão a você, querido leitor, que adquiriu este exemplar ou o recebeu como um gesto de carinho e presente de alguém que estima a sua vida espiritual. Ao abrir estas páginas, você passa a integrar esta jornada e honra os anos de estudo, oração e dedicação depositados nesta obra. Minha sincera oração ao Senhor é para que a leitura deste livro ilumine o seu entendimento, aqueça o seu coração e o conduza a uma descoberta ainda mais profunda de Jesus Cristo através das Escrituras Sagradas.",
+    "style": null
+  },
+  {
+    "index": 529,
+    "text": "",
+    "style": null
+  },
+  {
+    "index": 530,
+    "text": "AGORA QUE VOCÊ CHEGOU ATÉ O FIM DA SUA LEITURA, PRECISAMOS ANUNCIAR UM **PRESENTE ESPECIAL PARA VOCÊ!**",
+    "style": null
+  },
+  {
+    "index": 531,
+    "text": "Agradecemos por sua aquisição e gostaríamos de presentear você com outra leitura: mais um livro formato e-book gratuito como forma de gratidão por compartilhar sua experiência conosco!",
+    "style": null
+  },
+  {
+    "index": 532,
+    "text": "**📚**** Como ganhar o ****meu**** e-book?**",
+    "style": null
+  },
+  {
+    "index": 533,
+    "text": "São apenas três passos:",
+    "style": null
+  },
+  {
+    "index": 534,
+    "text": "**1 - **Deixe sua **avaliação** sincera **na plataforma** em que você adquiriu a obra contando o que mais gostou sobre sua aquisição;",
+    "style": null
+  },
+  {
+    "index": 535,
+    "text": "**2 -** Entre no vídeo indicado em  (confira se está no seu idioma). Curta e **comente na publicação fixa do livro**, compartilhando mais uma vez como esta leitura impactou o seu estudo das Escrituras;",
+    "style": null
+  },
+  {
+    "index": 536,
+    "text": "**3 -** Envie para o endereço ** **as imagens **(prints)** da sua avaliação e da sua interação; e pronto! Enviaremos o presente para o e-mail remetente como um agradecimento especial.",
+    "style": null
+  },
+  {
+    "index": 537,
+    "text": "**⚠****️**** Importante****!**",
+    "style": null
+  },
+  {
+    "index": 538,
+    "text": "Caso tenha motivos para não avaliar com 5 estrelas ou avaliação máxima, teremos o prazer de receber seu contato para resolver qualquer questão que tenha surgido. Queremos garantir que sua experiência seja a melhor possível e estamos aqui para ajudar!",
+    "style": null
+  },
+  {
+    "index": 539,
+    "text": "Siga para informar suas dúvidas, sugestões ou para receber atualizações sobre novidades, ofertas especiais, promoções e recomendações aprimoradas enviando mensagens para o e-mail** semeaigospel@gmail.com**! ",
+    "style": null
+  },
+  {
+    "index": 540,
+    "text": "Igualmente, caso queira contribuir com apoio técnico ou voluntário ou mesmo financeiramente para a continuidade deste e de outros trabalhos maiores, envie um e-mail solicitando mais detalhes.",
+    "style": null
+  },
+  {
+    "index": 541,
+    "text": "**O Messias Veio, e Novamente Virá!**** *****Glória a Deus nas Alturas!***",
+    "style": null
+  },
+  {
+    "index": 542,
+    "text": "",
+    "style": null
+  }
+]

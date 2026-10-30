@@ -141,6 +141,25 @@ async function translateText(text, targetLang = 'es', retries = 5, delayMs = 350
     }
 }
 
+function isSermonAlreadyTranslated(filePath) {
+    if (!fs.existsSync(filePath)) return false;
+    try {
+        const content = fs.readFileSync(filePath, 'utf8');
+        const firstLine = content.split('\n')[0] || '';
+        // If the title still starts with English 'Sermon ' instead of 'Sermón '
+        if (/^#\s*Sermon\s+\d+/i.test(firstLine)) return false;
+
+        // Check for common English stopwords in the body (first 1000 chars)
+        const sample = content.substring(0, 1000).toLowerCase();
+        if (sample.includes(' the ') && sample.includes(' and ') && sample.includes(' that ')) {
+            return false;
+        }
+        return true;
+    } catch (e) {
+        return false;
+    }
+}
+
 /**
  * Decomposição e reconstrução estrutural estrita do Sermão
  */
@@ -382,9 +401,9 @@ async function run() {
             const targetFileRepo = path.join(esVolDir, standardSlug);
             const targetFilePub = path.join(pubEsVolDir, standardSlug);
 
-            const alreadyExists = fs.existsSync(targetFileRepo);
+            const isTranslated = isSermonAlreadyTranslated(targetFileRepo);
 
-            if (alreadyExists && !forceOverwrite && !targetSlug) {
+            if (isTranslated && !forceOverwrite && !targetSlug) {
                 if (!fs.existsSync(targetFilePub)) {
                     fs.copyFileSync(targetFileRepo, targetFilePub);
                 }
@@ -445,6 +464,9 @@ async function run() {
         try {
             execSync('node scripts/generate-search-index.mjs', { stdio: 'inherit' });
             console.log('✅ Índice de busca atualizado!');
+            console.log('🔄 Atualizando páginas de sermões (generate-sermon-pages.mjs)...');
+            execSync('node scripts/generate-sermon-pages.mjs', { stdio: 'inherit' });
+            console.log('✅ Páginas de sermões atualizadas!');
         } catch (e) {
             console.error('⚠️ Aviso ao atualizar o índice de busca:', e.message);
         }

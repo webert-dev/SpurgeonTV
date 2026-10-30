@@ -4617,5 +4617,12 @@ details[open] .summary-chevron {
   }
 }
 
+.not-found-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--accent, #d4af37) !important;
+  background: rgba(255, 255, 255, 0.07) !important;
+  box-shadow: 0 10px 25px -5px rgba(212, 175, 55, 0.15) !important;
+}
+
 
 

@@ -9,7 +9,9 @@
     "start": "next start -H 0.0.0.0 -p 3000",
     "lint": "next lint",
     "generate:index": "node scripts/generate-search-index.mjs",
-    "translate:es": "node scripts/translate-es-batch.js"
+    "translate:es": "node scripts/translate-es-batch.js",
+    "translate:devotional": "node scripts/translate-devotional.js",
+    "translate:devotional:all": "node scripts/translate-devotional.js --all"
   },
   "dependencies": {
     "marked": "^18.0.6",

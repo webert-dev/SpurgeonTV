@@ -4,7 +4,6 @@ export const revalidate = false;
 import { getSearchIndex } from '../../../lib/sermons';
 import { getDictionary } from '../../../lib/dictionaries';
 import { Suspense } from 'react';
-import CitationBox from '../../components/CitationBox';
 
 export async function generateMetadata({ params }) {
   const { lang } = await params;
@@ -78,12 +77,6 @@ export default async function BiblePage({ params }) {
       <Suspense fallback={<div>Loading Bible...</div>}>
         <BibleReader lang={lang} dict={dict} />
       </Suspense>
-      <CitationBox
-        type="bible"
-        lang={lang}
-        url={`${process.env.NEXT_PUBLIC_SITE_URL || 'https://www.spurgeon.tv'}/${lang}/bible`}
-        compact
-      />
     </div>
   );
 }

@@ -97,13 +97,17 @@ export async function generateMetadata({ params }) {
     metaDesc = metaDesc.substring(0, 157).replace(/\s+\S*$/, '') + '...';
   }
 
+  const cleanVolNum = parseInt(id.replace(/^volume-?/, ''), 10);
+  const canonicalVolume = `volume-${String(cleanVolNum).padStart(2, '0')}`;
+  const canonicalSermonId = sermonId.replace(/_/g, '-').toLowerCase();
+
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://spurgeon.tv';
-  const url = `${siteUrl}/${lang}/volume/${id}/${sermonId}/`;
+  const url = `${siteUrl}/${lang}/volume/${canonicalVolume}/${canonicalSermonId}/`;
 
   const languages = {};
   if (sermon.availableLangs && sermon.availableLangs.length > 0) {
     sermon.availableLangs.forEach(l => {
-      languages[l] = `${siteUrl}/${l}/volume/${id}/${sermonId}/`;
+      languages[l] = `${siteUrl}/${l}/volume/${canonicalVolume}/${canonicalSermonId}/`;
     });
   }
 

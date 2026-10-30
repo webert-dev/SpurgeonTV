@@ -108,7 +108,7 @@ export default function SearchClient({ lang = 'en', dict, isGlobal = false }) {
           }
         } 
         else if (type === 'bible') {
-          const biblesMap = { en: 'kjv.json', pt: 'acf.json', es: 'rvr.json' };
+          const biblesMap = { en: 'kjv.json', pt: 'acf.json', es: 'nvies.json' };
           const bibleFile = biblesMap[lang] || 'kjv.json';
           const bible = await getIndex(`/bibles/${bibleFile}`);
           
@@ -189,7 +189,7 @@ export default function SearchClient({ lang = 'en', dict, isGlobal = false }) {
       getIndex(`/data/dictionary/${lang}/search_index.json`);
     }
     else if (type === 'bible') {
-       const biblesMap = { en: 'kjv.json', pt: 'acf.json', es: 'rvr.json' };
+       const biblesMap = { en: 'kjv.json', pt: 'acf.json', es: 'nvies.json' };
        getIndex(`/bibles/${biblesMap[lang] || 'kjv.json'}`);
     }
     else if (type === 'devotional') {

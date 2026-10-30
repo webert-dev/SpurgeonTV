@@ -1,23 +1,70 @@
 import { NextResponse } from 'next/server';
 
 const PUBLIC_FILE = /\.(.*)$/;
+const LOCALES = ['en', 'pt', 'es'];
 
 export function middleware(request) {
   const { pathname } = request.nextUrl;
 
-  // Ignore API routes, public files, and Next.js internals
+  // 1. Redirect legacy Blogger posts (e.g. /2011/09/post.html) to /pt/sermons/
+  if (/^\/\d{4}\/\d{2}\/.*\.html$/i.test(pathname)) {
+    return NextResponse.redirect(new URL('/pt/sermons/', request.url), 301);
+  }
+
+  // 2. Redirect legacy Blogger RSS feeds (e.g. /feeds/posts/default) to /pt/sermons/
+  if (pathname.startsWith('/feeds')) {
+    return NextResponse.redirect(new URL('/pt/sermons/', request.url), 301);
+  }
+
+  // Ignore API routes, public files (except html), and Next.js internals
   if (
     pathname.startsWith('/_next') ||
     pathname.startsWith('/api') ||
-    PUBLIC_FILE.test(pathname)
+    (PUBLIC_FILE.test(pathname) && !pathname.endsWith('.html'))
   ) {
     return NextResponse.next();
   }
 
-  const locales = ['en', 'pt', 'es'];
-  
+  // 3. Normalization of Volume & Sermon URLs (301 Permanent Redirect)
+  // Handles:
+  // - Unpadded volume: /volume/14/ -> /pt/volume/volume-14/
+  // - Single digit: /volume/volume-4/ -> /pt/volume/volume-04/
+  // - Underscores: /volume/volume-27/sermon_1586/ -> /volume/volume-27/sermon-1586/
+  // - Missing locale: /volume/volume-01/sermon-10/ -> /pt/volume/volume-01/sermon-10/
+  const volSermonMatch = pathname.match(
+    /^(?:\/(en|pt|es))?\/volume\/(?:volume-)?0*([1-9][0-9]?)(?:\/(sermon[_-][^/]+))?\/?$/i
+  );
+
+  if (volSermonMatch) {
+    const [, matchedLang, volNumStr, sermonSlug] = volSermonMatch;
+    const acceptLanguage = request.headers.get('accept-language') || '';
+    let lang = matchedLang;
+    if (!lang) {
+      if (acceptLanguage.includes('es')) lang = 'es';
+      else if (acceptLanguage.includes('en')) lang = 'en';
+      else lang = 'pt';
+    }
+
+    const volNum = parseInt(volNumStr, 10);
+    if (volNum >= 1 && volNum <= 63) {
+      const canonicalVol = `volume-${String(volNum).padStart(2, '0')}`;
+      let canonicalPath;
+      if (sermonSlug) {
+        const canonicalSermon = sermonSlug.replace(/_/g, '-').toLowerCase();
+        canonicalPath = `/${lang}/volume/${canonicalVol}/${canonicalSermon}/`;
+      } else {
+        canonicalPath = `/${lang}/volume/${canonicalVol}/`;
+      }
+
+      // If the incoming path is not identical to the canonical path, 301 redirect
+      if (pathname !== canonicalPath && pathname !== canonicalPath.slice(0, -1)) {
+        return NextResponse.redirect(new URL(canonicalPath, request.url), 301);
+      }
+    }
+  }
+
   // Check if the pathname already has a supported locale
-  const pathnameHasLocale = locales.some(
+  const pathnameHasLocale = LOCALES.some(
     (locale) => pathname.startsWith(`/${locale}/`) || pathname === `/${locale}`
   );
   
@@ -25,7 +72,7 @@ export function middleware(request) {
     return NextResponse.next();
   }
 
-  // If no locale is found, determine the locale from headers or default to 'en'
+  // 4. Default locale redirect for general URLs without locale
   const acceptLanguage = request.headers.get('accept-language') || '';
   let locale = 'en';
   if (acceptLanguage.includes('pt')) {

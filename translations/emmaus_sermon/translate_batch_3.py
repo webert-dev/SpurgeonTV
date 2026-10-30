@@ -1,0 +1,101 @@
+# -*- coding: utf-8 -*-
+import json
+import os
+
+BATCH_3_ES = {
+    215: "**PARTE III - LOS SALMOS - ELABORACIÓN POÉTICA DEL CONCEPTO MESIÁNICO**",
+    217: "El sendero atravesaba ahora una ladera escarpada, alfombrada de piedras calizas y olivos silvestres.",
+    218: "A medida que el Viajero desdoblaba los textos sagrados de la Torá y de los Profetas Anteriores, los dos discípulos cruzaban miradas en silencio. La distancia y la cautela inicial que habían guardado frente a aquel forastero comenzaban a desvanecerse como el polvo del camino. Experimentando un calor inexplicable y reconfortante en el pecho, Cleofás se inclinó con dulzura hacia el Acompañante y le preguntó con la voz temblorosa de quien empieza a vislumbrar un misterio sublime: —«Señor, usted expone estas profecías con una claridad y una autoridad que jamás escuchamos entre los doctores de la Ley en Jerusalén... ¿Por ventura conoció usted al Maestro Jesús personalmente, o estuvo con él antes de la Pascua?»",
+    219: "Su Maestro sonrió con ternura y les recordó que solo habría verdadera comprensión de las Escrituras y de su meta si percibían que todas ellas dan testimonio del Mesías; y que si el corazón se abre a la revelación que desciende de lo Alto, no permanecerán más en tinieblas, pues quienes ignoran las Escrituras y el poder soberano de Dios ciertamente yerran...",
+    220: "Entonces Jesús comenzó a recitar los Salmos de memoria, como quien los hubiera entonado diez mil veces, o como quien estuvo eternamente presente cuando los poetas sagrados mojaron sus plumas para escribirlos.",
+    221: "**18. El Salmo del Ungido - El Mesías es Declarado Hijo de Dios (Salmo 2)**",
+    223: "«Observen bien, amigos míos, lo que cantó David:",
+    224: "*«¿Por qué se amotinan las naciones, y los pueblos traman cosas vanas? Se levantan los reyes de la tierra, y los gobernantes conspiran unidos contra el Señor y contra su ungido».* [Sl 2:1-2]",
+    225: "¡Contra su Ungido —contra su Mesías! Las naciones se amotinaron contra él. Los gobernantes conspiraron contra él. Y ustedes mismos acaban de presenciarlo con sus propios ojos hace apenas tres días. Los sumos sacerdotes, los escribas del Sanedrín, Poncio Pilato, Herodes: todos se confederaron contra el Ungido de Dios.",
+    226: "Pero escuchen la respuesta inconmovible del Altísimo:",
+    227: "*«Yo mismo he establecido a mi rey en Sión, mi santo monte. Proclamaré el decreto del Señor: Él me dijo: Tú eres mi hijo; hoy mismo te he engendrado».* [Sl 2:6-7]",
+    228: "Y añade la promesa del Padre:",
+    229: "*«Pídemelo, y como herencia te entregaré las naciones, ¡tuyos serán los confines de la tierra!».* [Sl 2:8]",
+    230: "El Mesías es proclamado Hijo unigénito de Dios. Él reina ahora no únicamente sobre las colinas de Israel, sino sobre todas las naciones del orbe. ¡Y bienaventurados son todos aquellos que en él buscan refugio!»",
+    231: "**19. El Salmo del Quebranto - Dios Mío, ¿Por Qué me Has Desamparado? (Salmo 22)**",
+    233: "«Sin embargo, la senda del Mesías hacia su trono triunfante cruza primero por el valle de sombras de muerte. David entonó un salmo profético que de ningún modo podía referirse tan solo a sus propias tribulaciones:",
+    234: "*«Dios mío, Dios mío, ¿por qué me has desamparado?».* [Sl 22:1]",
+    235: "*«Todos los que me ven se burlan de mí; mueven la cabeza y lanzan insultos: Que se encomiende al Señor, que el Señor lo rescate; que lo libre, ya que en él se deleita».* [Sl 22:7-8][EN_REF:35]",
+    236: "*«Me ha cercado una banda de malhechores; me han perforado las manos y los pies. Puedo contar todos mis huesos; la gente me mira y se regocija al verme. Se reparten entre sí mi ropa y echan suertes sobre mi vestidura».* [Sl 22:16-18]",
+    237: "Amigos, ustedes mismos presenciaron el cumplimiento exacto de cada una de estas palabras hace tres días en el Gólgota. El escarnio de los soldados, la crucifixión traspasando manos y pies, el sorteo de su túnica inconsútil. ¡Pero el Salmo no se apaga en la sepultura! Culmina en una victoria deslumbrante:",
+    238: "*«Se acordarán del Señor y se volverán a él todos los confines de la tierra; ante él se postrarán todas las familias de las naciones, porque del Señor es el reino; él gobierna sobre las naciones».* [Sl 22:27-28]",
+    239: "Adviertan que el sufrimiento del Mesías jamás fue una señal de derrota o fracaso: ¡fue la senda sagrada trazada por el Padre para desatar la adoración universal de todas las naciones!»[EN_REF:36]",
+    240: "**20. El Trono Eterno - Tu Trono, oh Dios, Permanece para Siempre (Salmo 45)**",
+    242: "«En las celebraciones nupciales de los reyes de Israel, el salmista elevó un cántico de exaltación regia que cruza los siglos, señalando hacia la deidad y majestad de Aquel que reinará eternamente:",
+    243: "*«Tu trono, oh Dios, permanece para siempre; el cetro de tu reino es cetro de justicia. Has amado la justicia y odiado la maldad; por eso Dios, tu Dios, te ha ungido con óleo de alegría más que a tus compañeros».* [Sl 45:6-7][EN_REF:37]",
+    244: "¡Observen que el salmista se dirige al Rey llamándolo *‘¡oh Dios!’*! Este no es un rey terrenal cualquiera. Este es el Rey divino: el Ungido que es a la vez plenamente humano y plenamente Dios, coronado con cetro de rectitud eterna».",
+    245: "**21. El Rey de Justicia y Paz Universal (Salmo 72)**",
+    247: "«Y Salomón oró rogando por la venida de un reino celestial que trascendiera con creces el suyo:",
+    248: "*«Juzgue él a tu pueblo con justicia, y a tus afligidos con rectitud... Caiga el rey como la lluvia sobre los campos segados, como los chubascos que riegan la tierra. Florezca en sus días la justicia, y haya gran prosperidad hasta que la luna no exista. Domine él de mar a mar, y desde el río Éufrates hasta los confines de la tierra... Póstrense ante él todos los reyes; sírvanle todas las naciones».* [Sl 72:2, 6-8, 11]",
+    249: "¡Todas las naciones! ¡Un dominio infinito que se ensancha de mar a mar! Una era de paz y reconciliación que perdurará mientras resplandezcan el sol y la luna. Esto no habla de Salomón, amigos míos: habla de Aquel que es infinitamente mayor que Salomón».[EN_REF:38]",
+    250: "**22. Sacerdote para Siempre - Según el Orden de Melquisedec (Salmo 110)**",
+    252: "«Y escuchen la revelación más asombrosa concedida al rey David. El Señor habló al Mesías, no como a un súbdito, sino como a su propio Señor:",
+    253: "*«El Señor dijo a mi Señor: Siéntate a mi derecha, hasta que ponga a tus enemigos por estrado de tus pies».* [Sl 110:1]",
+    254: "David llama al Mesías *‘mi Señor’*. ¿Cómo puede el Mesías ser simultáneamente descendiente carnal de David y Señor divino de David? Solo hay una respuesta: él es a la vez verdadero hombre —de la simiente física de David— y Dios eterno —Señor soberano.[EN_REF:39]",
+    255: "Y prosigue el oráculo divino:",
+    256: "*«El Señor ha jurado y no cambiará de parecer: Tú eres sacerdote para siempre, según el orden de Melquisedec».* [Sl 110:4]",
+    257: "El Mesías no es solo Rey. Es también Sacerdote, pero no conforme al orden levítico de Aarón, cuyos sacerdotes morían y debían ser reemplazados sucesivamente. Es Sacerdote según el orden eterno de Melquisedec: sin principio de días ni fin de vida. ¡Un Sacerdote eterno para un Reino eterno![EN_REF:40]",
+    258: "Los sacerdotes terrenales ofrecían continuamente sacrificios repetitivos que no podían borrar la culpa. El Mesías, en cambio, ofreció un sacrificio único y perpetuo por los pecados del mundo, sentándose para siempre a la diestra de la Majestad en las alturas como Sumo Sacerdote y Soberano eterno».",
+    260: "**23. La Piedra Desechada (Salmo 118:22-23)**",
+    262: "«Y los edificadores —los propios dirigentes religiosos de Israel— rechazarían la piedra fundamental:",
+    263: "*«La piedra que desecharon los constructores ha llegado a ser la piedra angular. Esto ha sido obra del Señor, y es maravilloso a nuestros ojos».* [Sl 118:22-23]",
+    264: "La piedra desechada... ustedes mismos lo vieron con dolor. Fue despreciado y rechazado por los principales sacerdotes, los ancianos y el Sanedrín. Sin embargo, esa misma piedra reprobada por los hombres ha sido coronada por Dios como la Piedra Angular: la piedra principal de todo el edificio eterno de la redención»."
+}
+
+BATCH_3_EN = {
+    215: "**PART III - THE PSALMS - POETIC ELABORATION OF THE MESSIANIC HOPE**",
+    217: "The pathway now climbed across a steeper ridge, framed by limestone outcroppings and scattered wild olive trees.",
+    218: "As the Traveler unfolded the sacred testimonies of the Torah and the Former Prophets, the two disciples exchanged silent, wondering glances. The hesitant reserve they had initially maintained toward this stranger was melting away like morning mist upon the road. Feeling an inexplicable, burning warmth comforting their chests, Cleopas leaned gently toward their Companion and spoke with the trembling voice of one beginning to glimpse something glorious: —\"Sir, you speak of these prophecies with a luminous clarity and an authority we have never heard among the doctors of the Law in Jerusalem... Did you happen to know Master Jesus personally, or were you with him before the Passover?\"",
+    219: "Their Master smiled tenderly and told them that true understanding of the Scriptures is granted only when one sees that they bear witness of the Messiah; and that if the heart is opened to the heavenly revelation from above, they will no longer walk in darkness, for all who know neither the Scriptures nor the power of God fall into tragic error...",
+    220: "Now Jesus prepared to quote the Psalms from memory, as One who had sung them countless times, or as One who was eternally present when the sacred bards inscribed them upon parchment.",
+    221: "**18. The Psalm of the Anointed - The Messiah Declared Son of God (Psalm 2)**",
+    223: "\"Listen, my friends, to what David sang:",
+    224: "*\"Why do the nations conspire and the peoples plot in vain? The kings of the earth rise up and the rulers band together against the LORD and against his anointed.\"* [Ps 2:1-2]",
+    225: "\"Against his Anointed—against his Messiah! The nations rose up against him. The rulers conspired against him. And you saw this fulfilled with your very eyes only three days ago. The chief priests, the scribes of the Sanhedrin, Pontius Pilate, Herod—all aligned themselves against the Lord's Anointed.",
+    226: "\"Yet hear what the Lord declares in answer:",
+    227: "*\"'I have installed my king on Zion, my holy mountain.' I will proclaim the LORD's decree: He said to me, 'You are my son; today I have become your father.'\"* [Ps 2:6-7]",
+    228: "\"And hear the promise of the Father:",
+    229: "*\"Ask me, and I will make the nations your inheritance, the ends of the earth your possession.\"* [Ps 2:8]",
+    230: "\"The Messiah is proclaimed the only begotten Son of God. He reigns now not over the hills of Judea alone, but over all the nations of the earth. And blessed are all who take refuge in him!\"",
+    231: "**19. The Psalm of Agony - My God, Why Have You Forsaken Me? (Psalm 22)**",
+    233: "\"Yet the Messiah's pathway to his triumphant throne leads first through the valley of the shadow of death. David sang a prophetic psalm that could never be confined to his own personal trials:",
+    234: "*\"My God, my God, why have you forsaken me?\"* [Ps 22:1]",
+    235: "*\"All who see me mock me; they hurl insults, shaking their heads. 'He trusts in the LORD,' they say, 'let the LORD rescue him. Let him deliver him, since he delights in him.'\"* [Ps 22:7-8][EN_REF:35]",
+    236: "*\"Dogs surround me, a pack of villains encircles me; they pierce my hands and my feet. All my bones are on display; people stare and gloat over me. They divide my clothes among them and cast lots for my garment.\"* [Ps 22:16-18]",
+    237: "\"Friends, you beheld every single one of those words take place three days ago at Golgotha. The mocking onlookers, the Roman nails piercing hands and feet, the soldiers casting lots for his seamless tunic. Yet the psalm does not conclude in the grave! It breaks forth into boundless victory:",
+    238: "*\"All the ends of the earth will remember and turn to the LORD, and all the families of the nations will bow down before him, for dominion belongs to the LORD and he rules over the nations.\"* [Ps 22:27-28]",
+    239: "\"Understand that the suffering of the Messiah was never a mark of defeat—it was the sovereign pathway ordained by God to awaken the universal worship of all nations!\"[EN_REF:36]",
+    240: "**20. The Eternal Throne - Your Throne, O God, Endures Forever (Psalm 45)**",
+    242: "\"In the royal wedding hymns of Israel, the psalmist lifted his voice in a song of praise echoing down through the centuries, celebrating the deity and majesty of Him who shall reign forever:",
+    243: "*\"Your throne, O God, will last for ever and ever; a scepter of justice will be the scepter of your kingdom. You love righteousness and hate wickedness; therefore God, your God, has set you above your companions by anointing you with the oil of joy.\"* [Ps 45:6-7][EN_REF:37]",
+    244: "\"Notice that the psalmist addresses the King as *'O God!'*! This is no ordinary mortal monarch. This is the divine King—the Anointed One who is both truly human and truly God, reigning with eternal righteousness.\"",
+    245: "**21. The King of Righteousness and Universal Peace (Psalm 72)**",
+    247: "\"And Solomon prayed for the coming of a celestial kingdom far exceeding his own earthly glory:",
+    248: "*\"May he judge your people in righteousness, your afflicted ones with justice... May he be like rain falling on a mown field, like showers watering the earth. In his days may the righteous flourish and prosperity abound till the moon is no more. May he rule from sea to sea and from the River to the ends of the earth... May all kings bow down to him and all nations serve him.\"* [Ps 72:2, 6-8, 11]",
+    249: "\"All nations! A dominion expanding from sea to sea! An era of righteous peace enduring as long as the sun and the moon shine! This does not speak of Solomon, my friends—it speaks of One who is greater than Solomon.\"[EN_REF:38]",
+    250: "**22. A Priest Forever - In the Order of Melchizedek (Psalm 110)**",
+    252: "\"And listen to the most extraordinary revelation given to King David. The Lord spoke to the Messiah—not as to a servant, but as to his Lord:",
+    253: "*\"The LORD says to my lord: 'Sit at my right hand until I make your enemies a footstool for your feet.'\"* [Ps 110:1]",
+    254: "\"David calls the Messiah *'my Lord'*. How can the Messiah be at once David's descendant according to the flesh, and David's divine Lord? There is only one answer: he is both human—of David's royal seed—and divine—the eternal Lord.[EN_REF:39]",
+    255: "\"And the divine oath continues:",
+    256: "*\"The LORD has sworn and will not change his mind: 'You are a priest forever, in the order of Melchizedek.'\"* [Ps 110:4]",
+    257: "\"The Messiah is not only King. He is also Priest—yet not in the passing order of Aaron, whose priests died and were replaced from generation to generation. He is Priest in the eternal order of Melchizedek: having neither beginning of days nor end of life. An everlasting Priest over an everlasting Kingdom![EN_REF:40]",
+    258: "\"Levitical priests offered daily, repetitive sacrifices that could never take away sins. The Messiah, however, offered one single, all-sufficient sacrifice for all time, seating himself at the right hand of the Majesty on high as our eternal High Priest and sovereign King.\"",
+    260: "**23. The Rejected Stone (Psalm 118:22-23)**",
+    262: "\"And the builders—the religious leaders of Israel—would despise and cast aside the chief stone:",
+    263: "*\"The stone the builders rejected has become the cornerstone; the LORD has done this, and it is marvelous in our eyes.\"* [Ps 118:22-23]",
+    264: "\"The rejected stone... you saw it happen with breaking hearts. He was rejected by the chief priests, by the elders, by the Sanhedrin. Yet that very stone cast away by men has been exalted by God as the Cornerstone—the chief cornerstone of the entire temple of redemption.\""
+}
+
+# Save batch 3
+with open('translations/emmaus_sermon/batch_3_es.json', 'w', encoding='utf-8') as f:
+    json.dump(BATCH_3_ES, f, ensure_ascii=False, indent=2)
+with open('translations/emmaus_sermon/batch_3_en.json', 'w', encoding='utf-8') as f:
+    json.dump(BATCH_3_EN, f, ensure_ascii=False, indent=2)
+
+print("Batch 3 (Psalms 215-265) successfully generated for ES and EN.")

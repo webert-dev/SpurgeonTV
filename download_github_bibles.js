@@ -7,7 +7,8 @@ const bibles = {
   'fi_finnish': 'fi',
   'fi_pr': 'pr',
   'ro_cornilescu': 'ro',
-  'pt_aa': 'aa'
+  'pt_aa': 'aa',
+  'es_rvr1960': 'rvr1960'
 };
 
 async function download() {

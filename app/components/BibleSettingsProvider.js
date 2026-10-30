@@ -14,9 +14,22 @@ export function BibleSettingsProvider({ children }) {
     try {
       // NOTE: Bible Links toggle always starts OFF by design.
       // We only restore the preferred Bible translation, not the toggle state.
-      const savedTranslation = localStorage.getItem('spurgeon_bible_translation');
+      let savedTranslation = localStorage.getItem('spurgeon_bible_translation');
+      // If user had old default 'rvr' (Reina-Valera 1909), migrate to 'nvies' (NVI Español)
+      if (savedTranslation === 'rvr') {
+        savedTranslation = 'nvies';
+        localStorage.setItem('spurgeon_bible_translation', 'nvies');
+      }
+
       if (savedTranslation) {
         setTooltipTranslation(savedTranslation);
+      } else if (typeof window !== 'undefined') {
+        const path = window.location.pathname;
+        if (path.startsWith('/es')) {
+          setTooltipTranslation('nvies');
+        } else if (path.startsWith('/pt')) {
+          setTooltipTranslation('nvi');
+        }
       }
     } catch (e) {
       console.error("Error reading from localStorage", e);
