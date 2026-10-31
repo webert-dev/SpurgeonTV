@@ -152,6 +152,25 @@ def build_docx_from_data(paragraphs_data, endnotes_data, output_docx_path, templ
         if str(en_id) in endnotes_map:
             new_note_paragraphs = endnotes_map[str(en_id)]
             existing_p = en.findall('w:p', ns)
+            
+            # Default style templates
+            default_pPr = None
+            default_rPr = None
+            if existing_p:
+                pPr_node = existing_p[0].find('w:pPr', ns)
+                if pPr_node is not None:
+                    default_pPr = ET.fromstring(ET.tostring(pPr_node))
+                first_r = existing_p[0].find('w:r', ns)
+                if first_r is not None:
+                    rPr_node = first_r.find('w:rPr', ns)
+                    if rPr_node is not None:
+                        default_rPr = ET.fromstring(ET.tostring(rPr_node))
+                        
+            # Remove any excess existing paragraphs that are beyond the target paragraph count
+            while len(existing_p) > len(new_note_paragraphs):
+                p_to_remove = existing_p.pop()
+                en.remove(p_to_remove)
+                
             for p_idx, new_p_text in enumerate(new_note_paragraphs):
                 if p_idx < len(existing_p):
                     target_p = existing_p[p_idx]
@@ -160,14 +179,17 @@ def build_docx_from_data(paragraphs_data, endnotes_data, output_docx_path, templ
                     
                 pPr = target_p.find('w:pPr', ns)
                 first_r = target_p.find('w:r', ns)
-                default_rPr = first_r.find('w:rPr', ns) if first_r is not None else None
+                curr_rPr = first_r.find('w:rPr', ns) if first_r is not None else default_rPr
                 
                 target_p.clear()
                 if pPr is not None:
                     target_p.append(pPr)
+                elif default_pPr is not None:
+                    target_p.append(ET.fromstring(ET.tostring(default_pPr)))
+                    
                 runs_info = parse_runs_from_text(new_p_text)
                 for r_info in runs_info:
-                    r_elem = create_run_element(r_info, default_rPr)
+                    r_elem = create_run_element(r_info, curr_rPr)
                     target_p.append(r_elem)
                     
     tree_en.write(endnotes_xml_path, encoding='utf-8', xml_declaration=True)
